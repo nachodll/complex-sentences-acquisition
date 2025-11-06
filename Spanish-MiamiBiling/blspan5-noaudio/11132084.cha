@@ -1,0 +1,81 @@
+@UTF8
+@PID:	11312/c-00021357-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|10;07.|male|||Target_Child|||
+@Comment:	5th Grade(Age 10 or 11)
+@Comment:	Date is 10-9-1995
+@Tape Location:	SF95.YW
+@Transcriber:	YW
+@Types:	cross, narrative, biling
+*CHI:	un día un niño se encontró una rana (.) [^c] .
+%mor:	det|uno-Masc-Ind-Art noun|día-Masc det|uno-Masc-Ind-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 det|uno-Fem-Ind-Art noun|rana-Fem .
+%gra:	1|2|DET 2|6|OBL 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*CHI:	y la puso en una jarra [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Past-S3 adp|en det|uno-Fem-Ind-Art noun|jarra-Fem .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	se fue a dormir [^c] .
+%mor:	pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-S3 adp|a verb|dormir-Inf-S .
+%gra:	1|4|EXPL-PV 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*CHI:	y por la noche la rana se escapó [^c] .
+%mor:	cconj|y adp|por det|el-Fem-Def-Art noun|noche-Fem det|el-Fem-Def-Art noun|rana-Fem pron|él-Prs-Acc-S3 verb|escapar-Fin-Ind-Past-S3 .
+%gra:	1|8|ADVMOD 2|4|CASE 3|4|DET 4|8|OBL 5|6|DET 6|8|NSUBJ 7|8|EXPL-PV 8|8|ROOT 9|8|PUNCT
+*CHI:	por la mañana cuando se despertó (.) [^c] vio [^c] que la rana no estaba allí [^c] .
+%mor:	adp|por det|el-Fem-Def-Art noun|mañana-Fem sconj|cuando pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Past-S3 verb|ver-Fin-Ind-Past-S3 sconj|que det|el-Fem-Def-Art noun|rana-Fem adv|no verb|estar-Fin-Ind-Imp-S3 adv|allí .
+%gra:	1|3|CASE 2|3|DET 3|7|OBL 4|6|MARK 5|6|EXPL-PV 6|3|ACL 7|13|ROOT 8|12|MARK 9|10|DET 10|12|NSUBJ 11|12|ADVMOD 12|7|CCOMP 13|12|ADVMOD 14|7|PUNCT
+*CHI:	miró por (a)fuera de la ventana (.) [^c] .
+%mor:	verb|mirar-Fin-Ind-Past-S3 adp|por noun|afuera adp|de det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|6|ROOT 2|1|ADVMOD 3|2|FIXED 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+*CHI:	pero el perro se le [* 0] cayó (.) [^c] .
+%mor:	cconj|pero det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 pron|él-Prs-Dat-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|EXPL-PV 5|6|OBJ 6|6|ROOT 7|6|PUNCT
+*CHI:	fue hasta (a)fuera [^c] .
+%mor:	aux|ser-Fin-Ind-Past-S3 adp|hasta noun|afuera-Fem .
+%gra:	1|3|COP 2|3|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	0y recogió el perro (.) [^c] .
+%mor:	verb|recoger-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	empezó a buscar la (.) rana [^c] .
+%mor:	verb|empezar-Fin-Ind-Past-S3 adp|a verb|buscar-Inf-S det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	se encontró una cueva [* un hueco en la tierra] [^c] .
+%mor:	pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 det|uno-Fem-Ind-Art noun|cueva-Fem .
+%gra:	1|2|EXPL-PV 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	pero dentro la cueva [* del hoyo] había un ratoncito (.) [^c] .
+%mor:	cconj|pero adv|dentro det|el-Fem-Def-Art noun|cueva-Fem verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art noun|ratoncito-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	el perro (.) se encontró una paneja [* un panal] de abejas (.) [^c] .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 det|uno-Fem-Ind-Art noun|paneja-Fem adp|de noun|abejas-Fem-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|8|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|4|PUNCT
+*CHI:	y las abejas le cayeron atrás [* lo persiguieron] (.) [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|abejas-Fem-Plur pron|él-Prs-Dat-S3 verb|caer-Fin-Ind-Past-P3 adv|atrás .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|OBJ 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	el niño se encontró un hueco en una mata (...) [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 det|uno-Masc-Ind-Art noun|hueco-Masc adp|en det|uno-Fem-Ind-Art noun|matar-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*CHI:	pero había un pájaro adentro [^c] .
+%mor:	cconj|pero verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art noun|pájaro-Masc adj|adentro-Pos-S1 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|DET 4|2|OBJ 5|4|AMOD 6|2|PUNCT
+*CHI:	<se con> [/] (.) se escondió el perro en una roca [^c] para que no lo (.) pique [* picara] (.) [^c] .
+%mor:	pron|él-Prs-Acc-S3 verb|esconder-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|perro-Masc adp|en det|uno-Fem-Ind-Art noun|roca-Fem adp|para sconj|que adv|no pron|él-Prs-Acc-S3 verb|pique-Fin-Sub-Pres-S3 .
+%gra:	1|2|EXPL-PV 2|12|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|2|OBL 8|12|MARK 9|12|MARK 10|12|ADVMOD 11|12|OBJ 12|2|ADVCL 13|2|PUNCT
+*CHI:	en eso (.) brinca al otro lado de la roca [^c] .
+%mor:	adp|en pron|ese-Dem-S1 verb|brincir-Fin-Ind-Pres-S3 det|al-Masc-Def-Art det|otro-Masc-Def-Ind noun|lado-Masc adp|de det|el-Fem-Def-Art noun|roca-Fem .
+%gra:	1|2|CASE 2|3|OBL 3|9|ROOT 4|6|DET 5|6|DET 6|3|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|3|PUNCT
+*CHI:	y allí hay un venado (.) [^c] .
+%mor:	cconj|y adv|allí verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|venado-Masc .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	empieza a correr el venado [^c] .
+%mor:	verb|empezar-Fin-Ind-Pres-S3 adp|a verb|correr-Inf-S det|el-Masc-Def-Art noun|venado-Masc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|1|NSUBJ 6|1|PUNCT
+*CHI:	lo tumba pa [/] (.) para [* al] agua (.) [^c] .
+%mor:	pron|él-Prs-Acc-S3 verb|tumba-Fin-Ind-Pres-S3 adp|para noun|agua-Fem .
+%gra:	1|2|OBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	y entonce(s) (.) se encuentra la rana (.) detrás de un tronco (.) [^c] que había par(t)ido con su mujer (.) [^c] .
+%mor:	cconj|y adv|entonces pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|rana-Fem adv|detrás adp|de det|uno-Masc-Ind-Art noun|tronco-Masc pron|que-Rel-S1 aux|haber-Fin-Ind-Imp-S3 verb|partido-Part-Past-S adp|con det|su-Def-Prs noun|mujer-Fem .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|16|ROOT 5|6|DET 6|4|NSUBJ 7|10|CASE 8|7|FIXED 9|10|DET 10|4|OBL 11|13|NSUBJ 12|13|AUX 13|10|ACL 14|16|CASE 15|16|DET 16|13|OBL 17|4|PUNCT
+*CHI:	la rana le dio una ranita chiquita (.) [^ y se acabó] [^c] .
+%mor:	det|el-Fem-Def-Art noun|rana-Fem pron|él-Prs-Dat-S3 verb|dar-Fin-Ind-Past-S3 det|uno-Fem-Ind-Art noun|ranita-Fem adj|chiquito-Pos-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|OBJ 4|7|ROOT 5|6|DET 6|4|OBJ 7|6|AMOD 8|4|PUNCT
+@End

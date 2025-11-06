@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/c-00020701-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiMono|CHI|11;00.|male|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Tape Location:	MP's
+@Transcriber:	M. Palau
+@Types:	cross, narrative, TD
+*CHI:	a bo:y (.) his dog and his pet frog are in a room [^c] .
+%mor:	det|a-Ind-Art noun|boy pron|his-Prs-Gen-S3 noun|dog cconj|and pron|his-Prs-Gen-S3 noun|pet noun|frog aux|be-Fin-Ind-Pres-P3 adp|in det|a-Ind-Art noun|room .
+%gra:	1|2|DET 2|12|NSUBJ 3|4|NMOD-POSS 4|12|NSUBJ 5|8|CC 6|8|NMOD-POSS 7|8|COMPOUND 8|4|CONJ 9|12|COP 10|12|CASE 11|12|DET 12|12|ROOT 13|12|PUNCT
+*CHI:	the boy goes to sleep [^c] .
+%mor:	det|the-Def-Art noun|boy verb|go-Fin-Ind-Pres-S3 adp|to noun|sleep .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	and <the frog> [/] the fro:g gets out [^c] .
+%mor:	cconj|and det|the-Def-Art noun|frog verb|get-Fin-Ind-Pres-S3 adp|out .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	and he waked [* woke] up the next morning [^c] .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|wake-Fin-Ind-Past-S3 adp|up det|the-Def-Art adj|next-S1 noun|morning-Ger .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|COMPOUND-PRT 5|7|DET 6|7|AMOD 7|3|OBL-UNMARKED 8|3|PUNCT
+*CHI:	and the frog is gone [^c] .
+%mor:	cconj|and det|the-Def-Art noun|frog aux|be-Fin-Ind-Pres-S3 adj|gone-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*CHI:	and [/] A:n(d) (.) they go looking everywhere for the fro:g (.) outside (.) in the woods (.) in trees (.) [^c] and get chased by bees [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Pres-P3 verb|look-Ger-S adv|everywhere adp|for det|the-Def-Art noun|frog adv|outside adp|in det|the-Def-Art noun|wood-Plur adp|in noun|tree-Plur cconj|and aux|get-Fin-Ind-Pres-P3 verb|chase-Part-Past-S adp|by noun|bee-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|19|ROOT 4|3|XCOMP 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|4|ADVMOD 10|12|CASE 11|12|DET 12|4|OBL 13|14|CASE 14|12|NMOD 15|17|CC 16|17|AUX-PASS 17|3|CONJ 18|19|CASE 19|17|OBL-AGENT 20|3|PUNCT
+*CHI:	they go to the swamp [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Pres-P3 adp|to det|the-Def-Art noun|swamp .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	and they see their frog [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|see-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|frog-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*CHI:	an(d) (.) they take him home [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|take-Fin-Ind-Pres-P3 pron|he-Prs-Acc-S3 adv|home .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+@End

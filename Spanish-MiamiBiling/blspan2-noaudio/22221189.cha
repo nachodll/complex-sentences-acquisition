@@ -1,0 +1,119 @@
+@UTF8
+@PID:	11312/c-00021339-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|7;04.|female|||Target_Child|||
+@Comment:	2nd Grade (Age 7 or 8)
+@Comment:	Date is 2/2/95
+@Transcriber:	P.Ortega
+@Types:	cross, narrative, biling
+*CHI:	el perro estuvo mirando ahí (.) adentro (.) de: (.) la caja [* jarra] (.) [^c] .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Past-S3 verb|mirar-Ger-S adv|ahí adv|adentro adp|de det|el-Fem-Def-Art noun|caja-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|ADVMOD 6|4|ADVMOD 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*CHI:	y (.) el niño estuvo mirando lo mismo [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Past-S3 verb|mirar-Ger-S pron|él-Prs-Acc-S3 pron|mismo-Dem-S1 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	el niño está durmiendo (.) [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|dormir-Ger-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*CHI:	y (.) ahora la rana se fue afuera [* salió] (.) de la caja [* jarra] (.) [^c] mientras que estuvieron dormiendo [* durmiendo] [^c] .
+%mor:	cconj|y adv|ahora det|el-Fem-Def-Art noun|rana-Fem pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-S3 adv|afuera adp|de det|el-Fem-Def-Art noun|caja-Fem cconj|mientras sconj|que aux|estar-Fin-Ind-Past-P3 verb|dormir-Ger-S .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|14|ROOT 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|14|MARK 12|11|FIXED 13|14|AUX 14|6|ADVCL 15|6|PUNCT
+*CHI:	cuando el niño se despertó [^c] y el perro (.) [^c] él vio [^c] que la caja [*] estuvo [* estaba] (.) sin nada [^c] .
+%mor:	sconj|cuando det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Past-S3 cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-AccNom-S3 verb|ver-Fin-Ind-Past-S3 sconj|que det|el-Fem-Def-Art noun|caja-Fem verb|estar-Fin-Ind-Past-S3 adp|sin pron|nada-Neg-S1 .
+%gra:	1|5|MARK 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|16|ROOT 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|NSUBJ 10|5|CONJ 11|14|MARK 12|13|DET 13|14|NSUBJ 14|10|CCOMP 15|16|CASE 16|14|OBL 17|5|PUNCT
+*CHI:	entonce(s) después el perro y el niño empezaron a buscar [^c] y (.) a gritar (.) [^c] a ver a [* 0] [^c] donde estuvo [* estaba] [^c] .
+%mor:	adv|entonces adv|después det|el-Masc-Def-Art noun|perro-Masc cconj|y det|el-Masc-Def-Art noun|niño-Masc verb|empezar-Fin-Ind-Past-P3 adp|a verb|buscar-Inf-S cconj|y adp|a verb|gritar-Inf-S adp|a verb|ver-Inf-S adp|a adv|donde verb|estar-Fin-Ind-Past-S3 .
+%gra:	1|8|ADVMOD 2|8|ADVMOD 3|4|DET 4|8|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|18|ROOT 9|10|MARK 10|8|XCOMP 11|13|CC 12|13|MARK 13|10|CONJ 14|15|MARK 15|13|XCOMP 16|18|MARK 17|18|ADVMOD 18|15|CCOMP 19|8|PUNCT
+*CHI:	pero no lo [* la] encontró [* encontraron] [^c] .
+%mor:	cconj|pero adv|no pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	entonces (.) el perro se cayó (.) [^c] .
+%mor:	adv|entonces det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	y después el niño (.) vino abajo (.) [^c] a recogerlo [^c] .
+%mor:	cconj|y adv|después det|el-Masc-Def-Art noun|niño-Masc verb|venir-Fin-Ind-Past-S3 adv|abajo adp|a verb|recoger-Inf-S .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|8|ROOT 6|5|ADVMOD 7|8|MARK 8|5|ADVCL 9|5|PUNCT
+*CHI:	y entonces lo está lambiando [* lamiendo] [^c] .
+%mor:	cconj|y adv|entonces pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|lambiar-Ger-S .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|OBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	y después el niño se fue afuera [^c] <a bus> [/] a (.) gritar [^c] a donde estuvo [* estaba] (.) [^c] .
+%mor:	cconj|y adv|después det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-S3 adv|afuera adp|a verb|gritar-Inf-S adp|a adv|donde verb|estar-Fin-Ind-Past-S3 .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|12|ROOT 7|6|ADVMOD 8|9|MARK 9|6|ADVCL 10|12|MARK 11|12|ADVMOD 12|9|CCOMP 13|6|PUNCT
+*CHI:	pero él no lo [* la] encontró [^c] .
+%mor:	cconj|pero pron|él-Prs-AccNom-S3 adv|no pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|ADVMOD 4|5|OBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	se fueron (.) para el bosque (.) [^c] a ver [^c] si lo [* la] encontraron [* encontraban] [^c] .
+%mor:	pron|él-Prs-Acc-S3 aux|ser-Fin-Ind-Past-P3 adp|para det|el-Masc-Def-Art noun|bosque-Masc adp|a verb|ver-Inf-S sconj|si pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-P3 .
+%gra:	1|2|EXPL-PV 2|10|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|MARK 7|2|ADVCL 8|10|MARK 9|10|OBJ 10|7|CCOMP 11|2|PUNCT
+*CHI:	pero no lo [*] encontró [* encontraron] [^c] .
+%mor:	cconj|pero adv|no pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	después (.) el niño se puso [* trepó] (.) arriba del árbol (.) [^c] .
+%mor:	adv|después det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Past-S3 adv|arriba det|del-Masc-Def-Art noun|árbol-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|8|ROOT 6|5|ADVMOD 7|8|CASE 8|5|OBL 9|5|PUNCT
+*CHI:	y [/] (.) pero no encontró xxx [^c] .
+%mor:	cconj|pero adv|no verb|encontrar-Fin-Ind-Past-S3 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	el niño se cayó (.) en (.) el piso [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art noun|piso-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	y el perro estuvo corriendo [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Past-S3 verb|correr-Ger-S .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	después vino un pájaro (.) [^c] .
+%mor:	adv|después verb|venir-Fin-Ind-Past-S3 det|uno-Masc-Ind-Art noun|pájaro-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	y (.) él se estuvo escapando [^c] para que no le dé [* diera] [^c] .
+%mor:	cconj|y pron|él-Prs-AccNom-S3 pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Past-S3 verb|escapar-Ger-S adp|para sconj|que adv|no pron|él-Prs-Dat-S3 verb|dar-Fin-Sub-Pres-S3 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|EXPL-PV 4|5|AUX 5|10|ROOT 6|10|MARK 7|10|MARK 8|10|ADVMOD 9|10|OBJ 10|5|ADVCL 11|5|PUNCT
+*CHI:	empezó a gritar otra vez [^c] .
+%mor:	verb|empezar-Fin-Ind-Past-S3 adp|a verb|gritar-Inf-S det|otro-Fem-Def-Ind noun|vez-Fem .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	pero él no lo podía oir [^c] .
+%mor:	cconj|pero pron|él-Prs-AccNom-S3 adv|no pron|él-Prs-Acc-S3 aux|poder-Fin-Ind-Imp-S3 verb|oír-Inf-S .
+%gra:	1|6|ADVMOD 2|6|NSUBJ 3|6|ADVMOD 4|6|OBJ 5|6|AUX 6|6|ROOT 7|6|PUNCT
+*CHI:	entonces se montó encima de algo (.) [^c] .
+%mor:	adv|entonces pron|él-Prs-Acc-S3 verb|montar-Fin-Ind-Past-S3 adv|encima adp|de pron|algo-Ind-S1 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|6|ROOT 4|3|ADVMOD 5|6|CASE 6|4|OBL 7|3|PUNCT
+*CHI:	y despué(s) (.) <el (.) ani (.) un> [/] un animal (.) <vino y> [/] vino [^c] .
+%mor:	cconj|y adv|después det|uno-Masc-Ind-Art noun|animal-Masc adj|vino-Pos-S1 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|5|ROOT 5|4|AMOD 6|4|PUNCT
+*CHI:	y lo iba a tirar [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Imp-S3 adp|a verb|tirar-Inf-S .
+%gra:	1|3|ADVMOD 2|5|OBJ 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*CHI:	entonces el animal lo tiró para el agua y el perro también [^c] .
+%mor:	adv|entonces det|el-Masc-Def-Art noun|animal-Masc pron|él-Prs-Acc-S3 verb|tirar-Fin-Ind-Past-S3 adp|para det|el-Masc-Def-Art noun|agua-Fem cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|también .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|OBJ 5|12|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CC 10|11|DET 11|8|CONJ 12|11|ADVMOD 13|5|PUNCT
+*CHI:	xxx se [/] el niño <se (.) sen> [/] se sentó en el agua [^c] donde estuvo [* había] (.) <u:n un palo> [/] un palo [* tronco] [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|sentar-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art noun|agua-Fem adv|donde verb|estar-Fin-Ind-Past-S3 det|uno-Masc-Ind-Art noun|palo-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|11|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|ADVMOD 9|7|ACL 10|11|DET 11|9|NSUBJ 12|4|PUNCT
+*CHI:	<y des> [/] y el perro estuvo [* estaba] arriba de su cabeza [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|estar-Fin-Ind-Past-S3 adv|arriba adp|de det|su-Def-Prs noun|cabeza-Fem .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	despué(s) estu [/] se pusieron a nadar [^c] a ver [^c] si él estuvo [* estaba] en el (.) palo [* tronco] adentro (.) [^c] .
+%mor:	adv|después pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Past-P3 adp|a verb|nadar-Inf-S adp|a verb|ver-Inf-S sconj|si pron|él-Prs-AccNom-S3 verb|estar-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art noun|palo-Masc adj|adentro-Pos-S1 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|14|ROOT 4|5|MARK 5|3|XCOMP 6|7|MARK 7|3|ADVCL 8|10|MARK 9|10|NSUBJ 10|7|CCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|13|AMOD 15|3|PUNCT
+*CHI:	pero no (.) estuvo [* estaba] [^c] .
+%mor:	cconj|pero adv|no verb|estar-Fin-Ind-Past-S3 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	y después (.) él vio dos ranas [^c] .
+%mor:	cconj|y adv|después pron|él-Prs-AccNom-S3 verb|ver-Fin-Ind-Past-S3 num|dos noun|rana-Fem-Plur .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|6|ROOT 5|6|NUMMOD 6|4|OBJ 7|4|PUNCT
+*CHI:	pero él no era [^c] .
+%mor:	cconj|pero pron|él-Prs-AccNom-S3 adv|no aux|ser-Fin-Ind-Imp-S3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	[^ Hay no espérate (.) I think I'm wrong (.) I think I'm wrong in this page] entonce(s) encontró la rana (.) con la familia [^c] .
+%mor:	adv|entonces verb|encontrar-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|rana-Fem adp|con det|el-Fem-Def-Art noun|familia-Fem .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL-ARG 8|2|PUNCT
+*CHI:	entonces le dijo (.) +"/.
+%mor:	adv|entonces pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S3 +"/.
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	+" adiós [^c] !
+%mor:	noun|adiós-Masc !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y se llevó la rana [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|llevar-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@End

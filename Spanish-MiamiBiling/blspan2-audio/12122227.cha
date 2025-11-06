@@ -1,0 +1,114 @@
+@UTF8
+@PID:	11312/c-00021291-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@Options:	bullets
+@ID:	spa|Spanish-MiamiBiling|CHI|8;05.|female|||Target_Child|||
+@Media:	12122227, audio
+@Comment:	2nd Grade (Age 7 or 8)
+@Comment:	Date is 2-13-1996
+@Tape Location:	FSS96.ER
+@Transcriber:	ERodriguez
+@Types:	cross, narrative, biling
+*CHI:	<la r> [/] La rana está adentro de un pomo [^c] . 460_4980
+%mor:	det|el-Fem-Def-Art noun|rana-Fem aux|estar-Fin-Ind-Pres-S3 adv|adentro adp|de det|uno-Masc-Ind-Art noun|pomo-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	la 460_1440 r La rana 1440_2020 está 2020_2560 adentro 2560_3940 de 3940_4220 un 4220_4480 pomo 4480_4980 .
+*CHI:	y el perro está mirando (.) con el niño también [^c] . 5240_8840
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 verb|mirar-Ger-S adp|con det|el-Masc-Def-Art noun|niño-Masc adv|también .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|ADVMOD 10|5|PUNCT
+%wor:	y 5240_5420 el 5420_5640 perro 5640_6080 está 6080_6520 mirando 6520_7220 con 7220_7780 el 7780_8060 niño 8060_8340 también 8340_8840 .
+*CHI:	la rana salió del pomo [^c] . 10040_16800
+%mor:	det|el-Fem-Def-Art noun|rana-Fem verb|salir-Fin-Ind-Past-S3 det|del-Masc-Def-Art noun|pomo-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	la 10040_14340 rana 14340_14960 salió 14960_15960 del 15960_16300 pomo 16300_16800 .
+*CHI:	<los niñ> [/] El niño y el perro están durmientro [: durmiendo] [^c] . 17420_20960
+%mor:	det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-P3 verb|dormir-Ger-S .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|AUX 7|7|ROOT 8|7|PUNCT
+%wor:	los 17420_17880 niñ 17880_18340 El 18340_18720 niño 18720_19140 y 19140_19340 el 19340_19560 perro 19560_19940 están 19940_20460 durmiendo 20460_20960 .
+*CHI:	los niños se despertaron [^c] . 21980_26780
+%mor:	det|el-Masc-Def-Art noun|niño-Masc-Plur pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Past-P3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+%wor:	los 21980_25680 niños 25680_26040 se 26040_26280 despertaron 26280_26780 .
+*CHI:	y el perro también [^c] . 27580_28620
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|también .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	y 27580_27620 el 27620_27800 perro 27800_28120 también 28120_28620 .
+*CHI:	empezaron a buscar a la rana [^c] . 29960_35460
+%mor:	verb|empezar-Fin-Ind-Past-P3 adp|a verb|buscar-Inf-S adp|a det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|6|ROOT 2|3|MARK 3|1|XCOMP 4|6|CASE 5|6|DET 6|1|OBJ 7|1|PUNCT
+%wor:	empezaron 29960_33700 a 33700_33920 buscar 33920_34440 a 34440_34760 la 34760_34960 rana 34960_35460 .
+*CHI:	le [* La] llamaron [^c] . 36420_37100
+%mor:	pron|él-Prs-Dat-S3 verb|llamar-Fin-Ind-Past-P3 .
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%wor:	le 36420_36600 llamaron 36600_37100 .
+*CHI:	y no salía [^c] . 37310_38150
+%mor:	cconj|y adv|no verb|salir-Fin-Ind-Imp-S3 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	y 37310_37550 no 37550_37650 salía 37650_38150 .
+*CHI:	el perro se cayó (...) [^c] . 38970_44530
+%mor:	det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+%wor:	el 38970_43250 perro 43250_43710 se 43710_44030 cayó 44030_44530 .
+*CHI:	y siguieron buscando [^c] . 45910_56770
+%mor:	cconj|y verb|seguir-Fin-Ind-Past-P3 verb|buscar-Ger-S .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+%wor:	y 45910_55610 siguieron 55610_56270 buscando 56270_56770 .
+*CHI:	[^ I don't know] buscaron abajo del piso [* en un hueco en la tierra] [^c] . 66950_69090
+%mor:	verb|buscar-Fin-Ind-Past-P3 adv|abajo det|del-Masc-Def-Art noun|piso-Masc .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|4|DET 4|1|OBJ 5|1|PUNCT
+%wor:	buscaron 66950_67650 abajo 67650_68030 del 68030_68590 piso 68590_69090 .
+*CHI:	el perro la [/] ladraba (...) [^c] . 70610_72230
+%mor:	det|el-Masc-Def-Art noun|perro-Masc verb|ladrar-Fin-Ind-Imp-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	el 70610_70810 perro 70810_71150 la 71150_71730 ladraba 71730_72230 .
+*CHI:	el niño se subió en una mata [^c] a mirar por un hueco [^c] . 72690_84090
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-S3 adp|en det|uno-Fem-Ind-Art noun|matar-Fem adp|a verb|mirar-Inf-S adp|por det|uno-Masc-Ind-Art noun|hueco-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|12|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|MARK 9|4|ADVCL 10|12|CASE 11|12|DET 12|9|OBL 13|4|PUNCT
+%wor:	el 72690_81010 niño 81010_81350 se 81350_81570 subió 81570_81990 en 81990_82130 una 82130_82350 mata 82350_82670 a 82670_82870 mirar 82870_83190 por 83190_83430 un 83430_83590 hueco 83590_84090 .
+*CHI:	el niño se cayó [^c] . 87270_88550
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+%wor:	el 87270_87670 niño 87670_87870 se 87870_88050 cayó 88050_88550 .
+*CHI:	y el perro se mandó a correr [^c] . 88570_90870
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|mandar-Fin-Ind-Past-S3 adp|a verb|correr-Inf-S .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|7|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+%wor:	y 88570_88650 el 88650_88750 perro 88750_89210 se 89210_89890 mandó 89890_90250 a 90250_90370 correr 90370_90870 .
+*CHI:	y el niño <paró en un> [/] se paró en unas piedras (...) [^c] . 91410_117670
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|parar-Fin-Ind-Past-S3 adp|en det|uno-Fem-Ind-Art noun|piedra-Fem-Plur .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	y 91410_96250 el 96250_96350 niño 96350_96630 paró 96630_97170 en 97170_97430 un 97430_97590 se paró 97590_97930 en 97930_98030 unas 98030_117170 piedras 117170_117670 .
+*CHI:	el niño se cayó [^c] . 118120_119520
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+%wor:	el 118120_118540 niño 118540_118800 se 118800_119020 cayó 119020_119520 .
+*CHI:	y el perro también [^c] . 119620_120660
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|también .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	y 119620_119700 el 119700_119820 perro 119820_120160 también 120160_120660 .
+*CHI:	se cayeron en el agua [^c] . 122120_127440
+%mor:	pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-P3 adp|en det|el-Masc-Def-Art noun|agua-Fem .
+%gra:	1|2|EXPL-PV 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	se 122120_125960 cayeron 125960_126560 en 126560_126740 el 126740_126940 agua 126940_127440 .
+*CHI:	el perro se subió arriba en [* de] la cabeza del niño [^c] . 129240_133200
+%mor:	det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-S3 adv|arriba adp|en det|el-Fem-Def-Art noun|cabeza-Fem adp|del noun|niño-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|10|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|10|CASE 10|8|NMOD 11|4|PUNCT
+%wor:	el 129240_129420 perro 129420_129680 se 129680_129900 subió 129900_130320 arriba 130320_130860 en 130860_131800 la 131800_131960 cabeza 131960_132340 del 132340_132700 niño 132700_133200 .
+*CHI:	se subieron en un palo [* tronco] [^c] . 141050_142850
+%mor:	pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-P3 adp|en det|uno-Masc-Ind-Art noun|palo-Masc .
+%gra:	1|2|EXPL-PV 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	se 141050_141290 subieron 141290_141810 en 141810_142070 un 142070_142350 palo 142350_142850 .
+*CHI:	se encontraron a las dos ranas (.) con sus niñitos [^c] . 143570_155150
+%mor:	pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-P3 adp|a det|el-Fem-Def-Art num|dos noun|rana-Fem-Plur adp|con det|su-Def-Prs noun|niñito-Masc-Plur .
+%gra:	1|2|EXPL-PV 2|9|ROOT 3|6|CASE 4|6|DET 5|4|NUMMOD 6|2|OBJ 7|9|CASE 8|9|DET 9|2|OBL 10|2|PUNCT
+%wor:	se 143570_151030 encontraron 151030_151810 a 151810_151950 las 151950_152150 dos 152150_152330 ranas 152330_152930 con 152930_154270 sus 154270_154650 niñitos 154650_155150 .
+*CHI:	se llevaron a una rana [^c] . 162370_164090
+%mor:	pron|él-Prs-Acc-S3 verb|llevar-Fin-Ind-Past-P3 adp|a det|uno-Fem-Ind-Art noun|rana-Fem .
+%gra:	1|2|EXPL-PV 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	se 162370_162630 llevaron 162630_163190 a 163190_163410 una 163410_163590 rana 163590_164090 .
+*CHI:	y se fueron [^c] . 164610_165690
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-P3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	y 164610_164990 se 164990_165190 fueron 165190_165690 .
+@End

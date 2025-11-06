@@ -1,0 +1,120 @@
+@UTF8
+@PID:	11312/c-00020686-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiMono|CHI|10;09.|male|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Comment:	Date is 1-23-1996
+@Tape Location:	S96.PO
+@Transcriber:	PO
+@Types:	cross, narrative, TD
+*CHI:	there's a boy [^c] .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	and he has two pets (.) a dog and a frog [^c] .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|two noun|pet-Plur-Acc det|a-Ind-Art noun|dog cconj|and det|a-Ind-Art noun|frog .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|5|NUMMOD 5|3|OBJ 6|7|DET 7|5|APPOS 8|10|CC 9|10|DET 10|7|CONJ 11|3|PUNCT
+*CHI:	he puts the frog in a bottle [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|put-Fin-Ind-Pres-S3 det|the-Def-Art noun|frog-Acc adp|in det|a-Ind-Art noun|bottle .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*CHI:	then the boy goes to sleep (.) [^c] .
+%mor:	adv|then det|the-Def-Art noun|boy verb|go-Fin-Ind-Pres-S3 adp|to noun|sleep .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	and so does the dog [^c] .
+%mor:	cconj|and adv|so aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|dog .
+%gra:	1|3|CC 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*CHI:	the frog umm [/] quietly tiptoes out of the room [^c] .
+%mor:	det|the-Def-Art noun|frog adv|quietly verb|tiptoe-Fin-Ind-Pres-S3 adp|out adp|of det|the-Def-Art noun|room .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|ADVMOD 4|8|ROOT 5|8|CASE 6|5|FIXED 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	then the boy wakes up [^c] .
+%mor:	adv|then det|the-Def-Art noun|boy verb|wake-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	and he sees [^c] that his frog is gone [^c] .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|see-Fin-Ind-Pres-S3 sconj|that pron|his-Prs-Gen-S3 noun|frog aux|be-Fin-Ind-Pres-S3 adj|gone-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|8|MARK 5|6|NMOD-POSS 6|8|NSUBJ 7|8|COP 8|3|CCOMP 9|3|PUNCT
+*CHI:	he checks in his boots [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|check-Fin-Ind-Pres-S3 adp|in pron|his-Prs-Gen-S3 noun|boot-Plur-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|COMPOUND-PRT 4|5|NMOD-POSS 5|2|OBJ 6|2|PUNCT
+*CHI:	and he checks everywhere in (h)is room [^c] .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|check-Fin-Ind-Pres-S3 adv|everywhere adp|in pron|his-Prs-Gen-S3 noun|room .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*CHI:	but he can't find (h)im [^c] .
+%mor:	cconj|but pron|he-Prs-Nom-S3 aux|can-Fin-S~part|not verb|find-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	the he looks out the window with his dog [^c] .
+%mor:	det|the-Def-Art pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|out det|the-Def-Art noun|window adp|with pron|his-Prs-Gen-S3 noun|dog .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|NMOD-POSS 9|3|OBL 10|3|PUNCT
+*CHI:	his dog falls (.) [^c] .
+%mor:	pron|his-Prs-Gen-S3 noun|dog verb|fall-Fin-Ind-Pres-S3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	and (.) a bottle breaks on his head [^c] .
+%mor:	cconj|and det|a-Ind-Art noun|bottle verb|break-Fin-Ind-Pres-S3 adp|on pron|his-Prs-Gen-S3 noun|head .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*CHI:	umm [/] Then the boy (.) goes out [^c] and picks up his dog [^c] .
+%mor:	adv|then det|the-Def-Art noun|boy verb|go-Fin-Ind-Pres-S3 adp|out cconj|and verb|pick-Fin-Ind-Pres-S3 adp|up pron|his-Prs-Gen-S3 noun|dog-Acc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|4|COMPOUND-PRT 6|7|CC 7|4|CONJ 8|7|COMPOUND-PRT 9|10|NMOD-POSS 10|7|OBJ 11|4|PUNCT
+*CHI:	then the:y go out looking (.) in their backyard [^c] .
+%mor:	adv|then pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Pres-P3 adv|out verb|look-Part-Pres-S adp|in pron|their-Prs-Gen-P3 noun|backyard .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ROOT 4|3|ADVMOD 5|3|ADVCL 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|3|PUNCT
+*CHI:	the boy looks in a gopher hole [^c] .
+%mor:	det|the-Def-Art noun|boy verb|look-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art noun|gopher noun|hole .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*CHI:	and then the gopher pops out [^c] and hurts his nose (.) [^c] while the dog's looking in a beehive [^c] .
+%mor:	cconj|and adv|then det|the-Def-Art noun|gopher verb|pop-Fin-Ind-Pres-S3 adp|out cconj|and verb|hurt-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|nose-Acc sconj|while det|the-Def-Art noun|dog~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|in det|a-Ind-Art noun|beehive .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|18|ROOT 6|5|COMPOUND-PRT 7|8|CC 8|5|CONJ 9|10|NMOD-POSS 10|8|OBJ 11|15|MARK 12|13|DET 13|15|NSUBJ 14|15|AUX 15|8|ADVCL 16|18|CASE 17|18|DET 18|15|OBL 19|5|PUNCT
+*CHI:	then the beehive breaks [^c] .
+%mor:	adv|then det|the-Def-Art noun|beehive verb|break-Fin-Ind-Pres-S3 .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	and [/] (.) and the bees come out [^c] and (.) go after the dog [^c] while the boy is looking in a tree [^c] .
+%mor:	cconj|and det|the-Def-Art noun|bee-Plur verb|come-Fin-Ind-Pres-P3 adp|out cconj|and verb|go-Fin-Ind-Pres-P3 adp|after det|the-Def-Art noun|dog sconj|while det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|in det|a-Ind-Art noun|tree .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|18|ROOT 5|4|COMPOUND-PRT 6|7|CC 7|4|CONJ 8|10|CASE 9|10|DET 10|7|OBL 11|15|MARK 12|13|DET 13|15|NSUBJ 14|15|AUX 15|7|ADVCL 16|18|CASE 17|18|DET 18|15|OBL 19|4|PUNCT
+*CHI:	then an owl pops out of the tree [^c] and pushes the boy off (.) [^c] while the (.) bees are still chasing the dog [^c] .
+%mor:	adv|then det|a-Ind-Art noun|owl verb|pop-Fin-Ind-Pres-S3 adp|out adp|of det|the-Def-Art noun|tree cconj|and verb|push-Fin-Ind-Pres-S3 det|the-Def-Art noun|boy-Acc adp|off sconj|while det|the-Def-Art noun|bee-Plur aux|be-Fin-Ind-Pres-P3 adv|still verb|chase-Part-Pres-S det|the-Def-Art noun|dog-Acc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|21|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|10|CC 10|4|CONJ 11|12|DET 12|10|OBJ 13|10|COMPOUND-PRT 14|19|MARK 15|16|DET 16|19|NSUBJ 17|19|AUX 18|19|ADVMOD 19|10|ADVCL 20|21|DET 21|19|OBJ 22|4|PUNCT
+*CHI:	then the owl's shooing him away [^c] .
+%mor:	adv|then det|the-Def-Art noun|owl~aux|be-Fin-Ind-Pres-S3 verb|shoo-Part-Pres-S pron|he-Prs-Acc-S3 adv|away .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*CHI:	and (.) the boy climbs up on a big rock [^c] .
+%mor:	cconj|and det|the-Def-Art noun|boy verb|climb-Fin-Ind-Pres-S3 adp|up adp|on det|a-Ind-Art adj|big-S1 noun|rock .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|9|ROOT 5|4|COMPOUND-PRT 6|9|CASE 7|9|DET 8|9|AMOD 9|4|OBL 10|4|PUNCT
+*CHI:	then the boy <calls for the rock on I mean> [/] (.) calls for the frog on the rock [^c] .
+%mor:	adv|then det|the-Def-Art noun|boy verb|call-Fin-Ind-Pres-S3 adp|for det|the-Def-Art noun|frog adp|on det|the-Def-Art noun|rock .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+*CHI:	then the deer (.) pi [/] picks up its head [^c] .
+%mor:	adv|then det|the-Def-Art noun|deer verb|pick-Fin-Ind-Pres-S3 adp|up pron|its-Prs-Gen-S3 noun|head-Acc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|4|COMPOUND-PRT 6|7|NMOD-POSS 7|4|OBJ 8|4|PUNCT
+*CHI:	and the boy gets caught on its antlers [^c] .
+%mor:	cconj|and det|the-Def-Art noun|boy aux|get-Fin-Ind-Pres-S3 verb|catch-Part-Past-S-irr adp|on pron|its-Prs-Gen-S3 noun|antler-Plur .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|8|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+*CHI:	then the deer (.) runs over to a pond (.) [^c] .
+%mor:	adv|then det|the-Def-Art noun|deer verb|run-Fin-Ind-Pres-S3 adp|over adp|to det|a-Ind-Art noun|pond .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	and the boy falls out [* down?] [^c] .
+%mor:	cconj|and det|the-Def-Art noun|boy verb|fall-Fin-Ind-Pres-S3 adp|out .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	and then the dog falls too [^c] .
+%mor:	cconj|and adv|then det|the-Def-Art noun|dog verb|fall-Fin-Ind-Pres-S3 adv|too .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	they land in the pond [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|land-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|pond .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	and then they hear something [^c] .
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 verb|hear-Fin-Ind-Pres-P3 pron|something-Ind-S1 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	they see a log (.) [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|see-Fin-Ind-Pres-P3 det|a-Ind-Art noun|log-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and then they look over the log [^c] .
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Pres-P3 adp|over det|the-Def-Art noun|log .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	and they see two frogs [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|see-Fin-Ind-Pres-P3 num|two noun|frog-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|PUNCT
+*CHI:	they see [^c] that the frogs had babies [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|see-Fin-Ind-Pres-P3 sconj|that det|the-Def-Art noun|frog-Plur verb|have-Fin-Ind-Past-P3-irr noun|baby-Plur-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|6|MARK 4|5|DET 5|6|NSUBJ 6|2|CCOMP 7|6|OBJ 8|2|PUNCT
+*CHI:	then the boy (.) takes one of the babies [^c] and says bye [^c] .
+%mor:	adv|then det|the-Def-Art noun|boy verb|take-Fin-Ind-Pres-S3 num|one adp|of det|the-Def-Art noun|baby-Plur cconj|and verb|say-Fin-Ind-Pres-S3 intj|bye .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|11|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|10|CC 10|4|CONJ 11|10|OBJ 12|4|PUNCT
+@End

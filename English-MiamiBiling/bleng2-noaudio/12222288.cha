@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/c-00020485-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiBiling|CHI|8;04.|female|||Target_Child|||
+@Comment:	2nd Grade (Age 7 or 9)
+@Comment:	Date is 3-33-1996
+@Tape Location:	FSS96.MP
+@Transcriber:	ERodriguez
+@Types:	cross, narrative, TD
+*CHI:	the boy is looking at the frog [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|at det|the-Def-Art noun|frog .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	when the boy went to sleep [^c] the frog was coming out [^c] .
+%mor:	adv|when det|the-Def-Art noun|boy verb|go-Fin-Ind-Past-S3-irr part|to verb|sleep-Inf-S det|the-Def-Art noun|frog aux|be-Fin-Ind-Past-S3-irr verb|come-Part-Pres-S adp|out .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|10|ADVCL 5|6|MARK 6|4|XCOMP 7|8|DET 8|10|NSUBJ 9|10|AUX 10|11|ROOT 11|10|COMPOUND-PRT 12|10|PUNCT
+*CHI:	when he woke up [^c] he was looking for the frog [^c] .
+%mor:	adv|when pron|he-Prs-Nom-S3 verb|wake-Fin-Ind-Past-S3-irr adp|up pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|look-Part-Pres-S adp|for det|the-Def-Art noun|frog .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ADVCL 4|3|COMPOUND-PRT 5|7|NSUBJ 6|7|AUX 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+*CHI:	he looked out the window [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	the frog [% dog] fell down [% 0] out the window [^c] .
+%mor:	det|the-Def-Art noun|frog verb|fall-Fin-Ind-Past-S3-irr adp|down adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|COMPOUND-PRT 5|3|COMPOUND-PRT 6|7|DET 7|3|OBJ 8|3|PUNCT
+*CHI:	the boy went out [% of] the house [^c] and went to look for the dog I mean (.) umm frog [^c] .
+%mor:	det|the-Def-Art noun|boy verb|go-Fin-Ind-Past-S3-irr adp|out det|the-Def-Art noun|house cconj|and verb|go-Fin-Ind-Past-S3-irr part|to verb|look-Inf-S adp|for det|the-Def-Art noun|dog pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 intj|umm noun|frog-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|17|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CC 8|3|CONJ 9|10|MARK 10|8|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|15|NSUBJ 15|13|ACL-RELCL 16|17|DISCOURSE 17|15|OBJ 18|3|PUNCT
+*CHI:	the boy is looking for the frog in a hole [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|for det|the-Def-Art noun|frog adp|in det|a-Ind-Art noun|hole .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+*CHI:	the boy climbed up a tree [^c] .
+%mor:	det|the-Def-Art noun|boy verb|climb-Fin-Ind-Past-S3 adp|up det|a-Ind-Art noun|tree-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	an owl pushed the boy down [^c] .
+%mor:	det|a-Ind-Art noun|owl verb|push-Fin-Ind-Past-S3 det|the-Def-Art noun|boy-Acc adp|down .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+*CHI:	the boy is going to (.) climb up (.) a rock [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|climb-Inf-S adp|up det|a-Ind-Art noun|rock-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|9|DET 9|6|OBJ 10|4|PUNCT
+*CHI:	a deer (.) carried the boy [^c] .
+%mor:	det|a-Ind-Art noun|deer verb|carry-Fin-Ind-Past-S3 det|the-Def-Art noun|boy-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	the deer dropped the boy <in a w> [/] to [% in] the water [^c] .
+%mor:	det|the-Def-Art noun|deer verb|drop-Fin-Ind-Past-S3 det|the-Def-Art noun|boy-Acc adp|to det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*CHI:	the boy fell to the water [^c] .
+%mor:	det|the-Def-Art noun|boy verb|fall-Fin-Ind-Past-S3-irr adp|to det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	the boy told the dog [^c] to be quiet [^c] .
+%mor:	det|the-Def-Art noun|boy verb|tell-Fin-Ind-Past-S3-irr det|the-Def-Art noun|dog part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|IOBJ 6|8|MARK 7|8|COP 8|3|XCOMP 9|3|PUNCT
+*CHI:	the [/] he was looking for the frog (.) in back of the log [^c] .
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|look-Part-Pres-S adp|for det|the-Def-Art noun|frog adp|in noun|back adp|of det|the-Def-Art noun|log .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|3|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*CHI:	he saw two frogs (.) and then more frogs [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|see-Fin-Ind-Past-S3-irr num|two noun|frog-Plur-Acc cconj|and adv|then adj|more-Cmp-S1 noun|frog-Plur .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|NUMMOD 4|2|OBJ 5|8|CC 6|8|ADVMOD 7|8|AMOD 8|4|CONJ 9|2|PUNCT
+*CHI:	he said bye to the frogs [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr noun|bye-Acc adp|to det|the-Def-Art noun|frog-Plur .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+@End

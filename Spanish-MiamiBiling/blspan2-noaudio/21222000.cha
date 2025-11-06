@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/c-00021322-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|7;06.|female|||Target_Child|||
+@Comment:	2nd Grade (Age 7 or 8)
+@Tape Location:	Diana's tape
+@Comment:	Date is 2-21-94
+@Transcriber:	Patti Ortega
+@Types:	cross, narrative, biling
+*CHI:	el niño está (.) mirando el [* la] (.) <how do you say frog in Spanish> [/] rana [/] rana (...) [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|mirar-Ger-S det|el-Masc-Def-Art noun|rana-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	<cuando el niño estaba> [/] cuando el niño estaba durmiendo (.) [^c] la rana se salió [^c] .
+%mor:	sconj|cuando det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|dormir-Ger-S det|el-Fem-Def-Art noun|rana-Fem pron|él-Prs-Acc-S3 verb|salir-Fin-Ind-Past-S3 .
+%gra:	1|5|MARK 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ADVCL 6|7|DET 7|5|OBJ 8|9|EXPL-PV 9|9|ROOT 10|9|PUNCT
+*CHI:	el niño se de(s)pertó [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+*CHI:	y la rana no (e)staba en el bustelo [* la botella ?] [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|rana-Fem adv|no verb|estar-Fin-Ind-Imp-S3 adp|en det|el-Masc-Def-Art noun|bustelo-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*CHI:	el perro tenía la (.) cabeza adentro de: (.) el (...) xxx [^c] .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc verb|tener-Fin-Ind-Imp-S3 det|el-Fem-Def-Art noun|cabeza-Fem adv|adentro adp|de det|el-Masc-Def-Art .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|6|CASE 8|6|OBL 9|3|PUNCT
+*CHI:	el perro salió [^c] corriendo (.) adentro de un busún [* jarrón] con la cabeza [* 0] [^c] .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc verb|salir-Fin-Ind-Past-S3 verb|correr-Ger-S adv|adentro adp|de det|uno-Masc-Ind-Art noun|busún-Masc adp|con det|el-Fem-Def-Art noun|cabeza-Fem .
+%gra:	1|2|DET 2|3|NSUBJ 3|11|ROOT 4|3|ADVCL 5|3|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*CHI:	cuando él se cayó (...) [^c] el (.) niño (.) lo (.) cogió [^c] .
+%mor:	sconj|cuando pron|él-Prs-AccNom-S3 pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|coger-Fin-Ind-Past-S3 .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|EXPL-PV 4|8|ADVCL 5|6|DET 6|4|NSUBJ 7|8|OBJ 8|8|ROOT 9|8|PUNCT
+*CHI:	y despué(s) el perro (.) <se me> [/] (.) liquió [* lamió] [^c] .
+%mor:	cconj|y adv|después det|el-Masc-Def-Art noun|perro-Masc verb|liquir-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	cuando él fue +"/.
+%mor:	sconj|cuando pron|él-Prs-AccNom-S3 aux|ser-Fin-Ind-Past-S3 +"/.
+%gra:	1|3|MARK 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	+" aju: con el perro (.) [^c] el perro miraba a <los (.) híjados> [/] xxx hígados [* las abejas] [^c] .
+%mor:	noun|aju-Masc adp|con det|el-Masc-Def-Art noun|perro-Masc det|el-Masc-Def-Art noun|perro-Masc verb|mirar-Fin-Ind-Imp-S3 adp|a noun|hígado-Masc-Plur .
+%gra:	1|7|NSUBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|6|DET 6|7|NSUBJ 7|9|ROOT 8|9|CASE 9|7|OBJ 10|7|PUNCT
+*CHI:	y despué(s) fue [^c] a la [/] (.) donde (e)staban las (.) ho(r)migas [* abejas] (...) [^c] .
+%mor:	cconj|y adv|después aux|ser-Fin-Ind-Past-S3 adp|a adv|donde verb|estar-Fin-Ind-Imp-P3 det|el-Fem-Def-Art noun|hormiga-Fem-Plur .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|2|COP 4|5|CASE 5|6|ADVMOD 6|2|ADVCL 7|8|DET 8|6|NSUBJ 9|2|PUNCT
+*CHI:	cuando él se subió a la mata (.) [^c] la cosa se cayó [^c] .
+%mor:	sconj|cuando pron|él-Prs-AccNom-S3 pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-S3 adp|a det|el-Fem-Def-Art noun|matar-Fem det|el-Fem-Def-Art noun|cosa-Fem pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|EXPL-PV 4|11|ADVCL 5|7|CASE 6|7|DET 7|4|OBL 8|9|DET 9|11|NSUBJ 10|11|EXPL-PV 11|11|ROOT 12|11|PUNCT
+*CHI:	todo(s) las (.) hígados [* abejas] se cayeron [^c] .
+%mor:	det|todo-Masc-Def-Tot det|el-Fem-Def-Art noun|hígado-Masc-Plur pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-P3 .
+%gra:	1|2|DET 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	y el niño estaba en el hueco [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc verb|estar-Fin-Ind-Imp-S3 adp|en det|el-Masc-Def-Art noun|hueco-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	[^ God it's hard] xxx [/] despué(s) (.) el (.) niño se (.) cayó en el (.) agua [^c] cuando el niño dijo shhh [^c] .
+%mor:	adv|después det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art noun|agua-Fem sconj|cuando det|el-Masc-Def-Art noun|niño-Masc verb|decir-Fin-Ind-Past-S3 noun|shhh-Fem .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|13|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|MARK 10|11|DET 11|12|NSUBJ 12|5|ADVCL 13|12|OBJ 14|5|PUNCT
+*CHI:	cuando miraron (.) [^c] era [/] <la no> [/] (.) <e (.) el> [/] los hijos (es)staban ahí [^c] .
+%mor:	sconj|cuando verb|mirar-Fin-Ind-Past-P3 det|el-Masc-Def-Art noun|hijo-Masc-Plur verb|esstar-Fin-Ind-Imp-P3 adv|ahí .
+%gra:	1|2|MARK 2|5|ADVCL 3|4|DET 4|2|OBJ 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	cuando él se fue (.) [^c] <tenía (.) u:n> [/] tenía siete (.) ratones [* ranitas] [^c] [^ the end] !
+%mor:	sconj|cuando pron|él-Prs-AccNom-S3 pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-S3 verb|tener-Fin-Ind-Imp-S3 num|siete noun|ratón-Masc-Plur !
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|EXPL-PV 4|5|ADVCL 5|7|ROOT 6|7|NUMMOD 7|5|OBJ 8|5|PUNCT
+@End

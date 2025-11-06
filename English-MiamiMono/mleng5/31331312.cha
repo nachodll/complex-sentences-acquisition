@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/c-00020667-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiMono|CHI|10;09.|female|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Tape Location:	FS1S94.YW
+@Comment:	Date is 12-6-94
+@Transcriber:	YW
+@Types:	cross, narrative, TD
+*CHI:	and they're all friends [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|all noun|friend-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	and when the boy and the dog go to sleep [^c] the frog escaped [^c] .
+%mor:	cconj|and adv|when det|the-Def-Art noun|boy cconj|and det|the-Def-Art noun|dog verb|go-Fin-Ind-Pres-P3 part|to verb|sleep-Inf-S det|the-Def-Art noun|frog verb|escape-Fin-Ind-Past-S3 .
+%gra:	1|13|CC 2|8|ADVMOD 3|4|DET 4|8|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|13|ADVCL 9|10|MARK 10|8|XCOMP 11|12|DET 12|13|NSUBJ 13|13|ROOT 14|13|PUNCT
+*CHI:	and in the morning <they're> [/] they don't see the frog in the jar [^c] .
+%mor:	cconj|and adp|in det|the-Def-Art noun|morning-Ger pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|see-Inf-S det|the-Def-Art noun|frog-Acc adp|in det|the-Def-Art noun|jar .
+%gra:	1|8|CC 2|4|CASE 3|4|DET 4|8|OBL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|13|ROOT 9|10|DET 10|8|OBJ 11|13|CASE 12|13|DET 13|8|OBL 14|8|PUNCT
+*CHI:	so they're looking everywhere in the room for them [* him] [^c] .
+%mor:	adv|so pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|look-Part-Pres-S adv|everywhere adp|in det|the-Def-Art noun|room adp|for pron|they-Prs-Acc-P3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|10|CASE 10|4|OBL 11|4|PUNCT
+*CHI:	they're calling out to him (.) [^c] .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|call-Part-Pres-S adp|out adp|to pron|he-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|COMPOUND-PRT 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	and <they ge> [/] they decide [^c] to go and look for him outside [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|decide-Fin-Ind-Pres-P3 part|to verb|go-Inf-S cconj|and verb|look-Inf-S adp|for pron|he-Prs-Acc-S3 adv|outside .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|7|CC 7|5|CONJ 8|9|CASE 9|7|OBL 10|7|ADVMOD 11|3|PUNCT
+*CHI:	so they go outside [^c] .
+%mor:	adv|so pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Pres-P3 adv|outside .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	and they're calling for him [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|call-Part-Pres-S adp|for pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	and they're looking (.) un [/] in holes [^c] a:nd up the trees (.) [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|look-Part-Pres-S adp|in noun|hole-Plur cconj|and adp|up det|the-Def-Art noun|tree-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|CASE 6|4|OBL 7|10|CC 8|10|CASE 9|10|DET 10|6|CONJ 11|4|PUNCT
+*CHI:	a:nd it's not very easy [^c] looking for them [* him] [^c] .
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|very adj|easy-S1 verb|look-Part-Pres-S adp|for pron|they-Prs-Acc-P3 .
+%gra:	1|6|CC 2|6|EXPL 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|9|ROOT 7|6|CSUBJ 8|9|CASE 9|7|OBL 10|6|PUNCT
+*CHI:	a:nd when the boy tries to look behind the rock [^c] <a de> [/] he ends up on a deer (.) head [^c] .
+%mor:	cconj|and adv|when det|the-Def-Art noun|boy verb|try-Fin-Ind-Pres-S3 part|to verb|look-Inf-S adp|behind det|the-Def-Art noun|rock pron|he-Prs-Nom-S3 verb|end-Fin-Ind-Pres-S3 adp|up adp|on det|a-Ind-Art noun|deer noun|head .
+%gra:	1|12|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|12|ADVCL 6|7|MARK 7|5|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|12|NSUBJ 12|17|ROOT 13|12|COMPOUND-PRT 14|17|CASE 15|17|DET 16|17|COMPOUND 17|12|OBL 18|12|PUNCT
+*CHI:	and the deer takes him to a cliff [^c] and throws him into the water [^c] .
+%mor:	cconj|and det|the-Def-Art noun|deer verb|take-Fin-Ind-Pres-S3 pron|he-Prs-Acc-S3 adp|to det|a-Ind-Art noun|cliff cconj|and verb|throw-Fin-Ind-Pres-S3 pron|he-Prs-Acc-S3 adp|into det|the-Def-Art noun|water .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|14|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|10|CC 10|4|CONJ 11|10|OBJ 12|14|CASE 13|14|DET 14|10|OBL 15|4|PUNCT
+*CHI:	and there's a log in the water [^c] .
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|log adp|in det|the-Def-Art noun|water .
+%gra:	1|3|CC 2|3|EXPL 3|8|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+*CHI:	a:nd (.) on the other side of the log (.) they see his frog and <u:m (.) I guess> [/] his wife [^c] .
+%mor:	cconj|and adp|on det|the-Def-Art adj|other-S1 noun|side adp|of det|the-Def-Art noun|log pron|they-Prs-Nom-P3 verb|see-Fin-Ind-Pres-P3 pron|his-Prs-Gen-S3 noun|frog-Acc cconj|and pron|his-Prs-Gen-S3 noun|wife .
+%gra:	1|10|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|10|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|10|NSUBJ 10|15|ROOT 11|12|NMOD-POSS 12|10|OBJ 13|15|CC 14|15|NMOD-POSS 15|12|CONJ 16|10|PUNCT
+*CHI:	and they have little babies [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 adj|little-S1 noun|baby-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*CHI:	and the frog and his wife let them [^c] take one home instead of 0the father [^c] [^ and that's the end] .
+%mor:	cconj|and det|the-Def-Art noun|frog cconj|and pron|his-Prs-Gen-S3 noun|wife verb|let-Fin-Ind-Past-S3-irr pron|they-Prs-Acc-P3 verb|take-Inf-S num|one noun|home-Acc adv|instead adp|of noun|father .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|6|CC 5|6|NMOD-POSS 6|3|CONJ 7|14|ROOT 8|7|OBJ 9|7|XCOMP 10|11|NUMMOD 11|9|OBJ 12|14|CASE 13|12|FIXED 14|9|OBL 15|7|PUNCT
+@End

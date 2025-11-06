@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/c-00021345-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|7;05.|female|||Target_Child|||
+@Comment:	2nd (Age 7 or 8)
+@Tape Location:	FSF95.ER3
+@Comment:	Date is 11-20-1996
+@Transcriber:	ERodriguez
+@Types:	cross, narrative, biling
+*CHI:	el niño y el perro estaba [* estaban] viendo el [* al] sapo [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Imp-S3 verb|ver-Ger-S det|el-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|AUX 7|9|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+*CHI:	y el niño estaba durmiendo [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|dormir-Ger-S .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	y el sapo <escapó sa> [/] se: escapó [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|sapo-Masc pron|él-Prs-Acc-S3 verb|escapar-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	el perro (.) y el niño estaba [* estaban] viendo al sapo [^c] .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc cconj|y det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|ver-Ger-S det|al-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|AUX 7|9|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+*CHI:	y no estaba ahí [^c] .
+%mor:	cconj|y adv|no verb|estar-Fin-Ind-Imp-S3 adv|ahí .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	el niño se puso el sombrero [* la bota] [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|sombrero-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|OBL-ARG 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	y el: perro se [/] (.) se metió en el cristal [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|meter-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art noun|cristal-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*CHI:	<el niño:> [/] (.) El niño vio [^c] que el perro se cayó (...) [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|ver-Fin-Ind-Past-S3 sconj|que det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|EXPL-PV 8|3|CCOMP 9|3|PUNCT
+*CHI:	el niño regaño al perro (...) [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|regacir-Fin-Ind-Pres-S1 det|al-Masc-Def-Art noun|perro-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	el niño buscó por un hueco [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|buscar-Fin-Ind-Past-S3 adp|por det|uno-Masc-Ind-Art noun|hueco-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	<y el perro> [/] (.) El niño se cayó [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+*CHI:	el niño se (.) (en)caramó en la piedra [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|encaramar-Fin-Ind-Past-S3 adp|en det|el-Fem-Def-Art noun|piedra-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	el niño se cayó del perro [* ? ?] [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 adp|del noun|perro-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	y el niño se cayó <en la> [/] en el agua [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art noun|agua-Fem .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*CHI:	el niño vio (.) dos sapos (.) [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|ver-Fin-Ind-Past-S3 num|dos noun|sapo-Masc-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|PUNCT
+*CHI:	y el perro también (...) [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|también .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	el niño cogió al sapo [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|coger-Fin-Ind-Past-S3 det|al-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	se lo llevó pa(ra) la casa [^c] .
+%mor:	pron|él-Prs-Acc-S3 pron|él-Prs-Acc-S3 verb|llevar-Fin-Ind-Past-S3 adp|para det|el-Fem-Def-Art noun|casa-Fem .
+%gra:	1|3|EXPL-PV 2|3|OBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+@End

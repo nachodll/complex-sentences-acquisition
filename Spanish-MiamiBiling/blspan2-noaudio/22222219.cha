@@ -1,0 +1,97 @@
+@UTF8
+@PID:	11312/c-00021347-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|8;02.|male|||Target_Child|||
+@Comment:	2nd Grade (Age 7 or 8)
+@Comment:	Date is 1-11-1996
+@Tape Location:	FSS96.YW
+@Transcriber:	YW
+@Types:	cross, narrative, biling
+*CHI:	<el e el> [/] é:l y su perro (es)tá [* están] viendo la rana [^c] .
+%mor:	pron|él-Prs-AccNom-S3 cconj|y det|su-Def-Prs noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 verb|ver-Ger-S det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|6|NSUBJ 2|4|CC 3|4|DET 4|1|CONJ 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*CHI:	Él fue a dormir (.) [^c] .
+%mor:	pron|él-Prs-AccNom-S3 aux|ser-Fin-Ind-Past-S3 adp|a verb|dormir-Inf-S .
+%gra:	1|4|NSUBJ 2|4|ROOT 3|4|MARK 4|2|CCOMP 5|2|PUNCT
+*CHI:	y e [/] la rana se e(s)capó [/] escapó [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|rana-Fem pron|él-Prs-Acc-S3 verb|escapar-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	y despué(s) él se despertó (.) [^c] .
+%mor:	cconj|y adv|después pron|él-Prs-AccNom-S3 pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	y despué(s) no vio la rana (...) [^c] .
+%mor:	cconj|y adv|después adv|no verb|ver-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	y despué(s) (.) buscó para (.) [^c] .
+*CHI:	y despué(s) (.) llamó [^c] pa [/] parando [* parado] [^c] .
+%mor:	cconj|y adv|después verb|llamar-Fin-Ind-Past-S3 verb|parar-Ger-S .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*CHI:	y se cayó el (.) perro [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*CHI:	y despué(s) el perro (.) le dio un beso [^c] .
+%mor:	cconj|y adv|después det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Dat-S3 verb|dar-Fin-Ind-Past-S3 det|uno-Masc-Ind-Art noun|beso-Masc .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|OBJ 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*CHI:	despué(s) llamó la rana [^c] .
+%mor:	adv|después verb|llamar-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	y despué(s) buscó por un (.) hueco (.) [^c] .
+%mor:	cconj|y adv|después verb|buscar-Fin-Ind-Past-S3 adp|por det|uno-Masc-Ind-Art noun|hueco-Masc .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	y despué(s) (.) se cayó (.) un [/] un [* una] casa de <o o> [/] o [* abejas] [^c] .
+%mor:	cconj|y adv|después pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 det|uno-Masc-Ind-Art noun|casa-Fem adp|de cconj|o .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|8|ROOT 5|6|DET 6|4|NSUBJ 7|8|CASE 8|4|ADVMOD 9|4|PUNCT
+*CHI:	y despué(s) buscó por la mata [^c] .
+%mor:	cconj|y adv|después verb|buscar-Fin-Ind-Past-S3 adp|por det|el-Fem-Def-Art noun|matar-Fem .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	y despué(s) no estaba allí [^c] .
+%mor:	cconj|y adv|después adv|no verb|estar-Fin-Ind-Imp-S3 adv|allí .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	<y despué(s) llama ot> [/] y despué(s) <el niño> [/] (.) el pájaro [* ? ?] [^c] .
+%mor:	cconj|y adv|después det|el-Masc-Def-Art noun|pájaro-Masc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	y [/] y el pe [* niño] puso tu [* su] mano arriba en [* de] su cabeza [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|pe-Masc verb|poner-Fin-Ind-Past-S3 det|tu-Def-Prs noun|mano-Fem adv|arriba adp|en det|su-Def-Prs noun|cabeza-Fem .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|6|DET 6|4|OBJ 7|6|ADVMOD 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+*CHI:	y despué(s) llamó pa(ra) él [* la llamó ?] [^c] .
+%mor:	cconj|y adv|después verb|llamar-Fin-Ind-Past-S3 adp|para pron|él-Prs-AccNom-S3 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	y despué(s) (.) se puso abría [: arriba] [* encima] 0de u:n (.) animal [^c] .
+%mor:	cconj|y adv|después pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Past-S3 adv|arriba det|uno-Masc-Ind-Art noun|animal-Masc .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|7|ROOT 5|4|ADVMOD 6|7|DET 7|4|NSUBJ 8|4|PUNCT
+*CHI:	y [/] y se fueron [* fue] [^c] corriendo el animal (.) [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-P3 verb|correr-Ger-S det|el-Masc-Def-Art noun|animal-Masc .
+%gra:	1|3|ADVMOD 2|4|EXPL-PV 3|6|ROOT 4|3|XCOMP 5|6|DET 6|3|NSUBJ 7|3|PUNCT
+*CHI:	despué(s) se cayó [^c] .
+%mor:	adv|después pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*CHI:	y se cayó la mata [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|matar-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*CHI:	y despué(s) se cayó en la [* el] agua [^c] .
+%mor:	cconj|y adv|después pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 adp|en det|el-Fem-Def-Art noun|agua-Fem .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	y (.) despué(s) (.) se cayó (.) [^c] .
+%mor:	cconj|y adv|después pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+*CHI:	y dijo +"/.
+%mor:	cconj|y verb|decir-Fin-Ind-Past-S3 +"/.
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	+" shhh [^c] .
+%mor:	noun|shhh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	then he opened [* después el abrió] (.) la parte de la mata [* ? ?] (.) [^c] .
+%mor:	noun|then noun|he noun|opened det|el-Fem-Def-Art noun|parte-Fem adp|de det|el-Fem-Def-Art noun|matar-Fem .
+%gra:	1|8|ROOT 2|1|COMPOUND 3|1|COMPOUND 4|5|DET 5|1|APPOS 6|8|CASE 7|8|DET 8|5|NMOD 9|1|PUNCT
+*CHI:	y (en)contró su rana y [/] y su familia [^c] .
+%mor:	cconj|y verb|encontrar-Fin-Ind-Past-S3 det|su-Def-Prs noun|rana-Fem cconj|y det|su-Def-Prs noun|familia-Fem .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|2|PUNCT
+*CHI:	despué(s) él cogió un [/] una rana suquita [: chiquita] de su familia [^c] .
+%mor:	adv|después pron|él-Prs-AccNom-S3 verb|coger-Fin-Ind-Past-S3 det|uno-Fem-Ind-Art noun|rana-Fem adj|chiquito-Pos-S1 adp|de det|su-Def-Prs noun|familia-Fem .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|5|AMOD 7|9|CASE 8|9|DET 9|5|NMOD 10|3|PUNCT
+*CHI:	él dio [* dijo] (.) bye [* adiós] [^c] .
+%mor:	pron|él-Prs-AccNom-S3 verb|dar-Fin-Ind-Past-S3 intj|bye .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+@End

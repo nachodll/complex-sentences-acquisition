@@ -1,0 +1,291 @@
+@UTF8
+@PID:	11312/c-00020482-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	bullets
+@ID:	eng|English-MiamiBiling|CHI|8;00.|female|||Target_Child|||
+@Media:	12222013, audio
+@Comment:	2nd Grade (Age 7 or 8)
+@Comment:	Date is 2-6-1995
+@Tape Location:	FSS95.AF2
+@Transcriber:	ERodriguez
+@Types:	cross, narrative, TD
+*CHI:	there was this boy [^c] . 2095_3235
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|this-Def-Dem-Sing noun|boy .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there 2095_2295 was 2295_2495 this 2495_2735 boy 2735_3235 .
+*CHI:	he got (.) a frog [/] a pet [^c] that's a frog [^c] and a dog [^c] . 3235_8815
+%mor:	pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr det|a-Ind-Art det|a-Ind-Art noun|pet-Acc pron|that-Rel~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|frog cconj|and det|a-Ind-Art noun|dog .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|5|DET 4|5|DET 5|2|OBJ 6|9|NSUBJ 7|9|COP 8|9|DET 9|5|ACL-RELCL 10|12|CC 11|12|DET 12|9|CONJ 13|2|PUNCT
+%wor:	he 3235_3375 got 3375_3795 a 3795_4495 frog 4495_4935 a 4935_5395 pet 5395_5715 that's 5715_6135 a 6135_6295 frog 6295_6715 and 6715_8195 a 8195_8315 dog 8315_8815 .
+*CHI:	it was nighttime [^c] . 9455_10255
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr noun|nighttime .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	it 9455_9555 was 9555_9755 nighttime 9755_10255 .
+*CHI:	they were sitting [^c] and watching the frog [^c] . 11095_13215
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|sit-Part-Pres-S cconj|and verb|watch-Part-Pres-S det|the-Def-Art noun|frog-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|CC 5|3|CONJ 6|7|DET 7|5|OBJ 8|3|PUNCT
+%wor:	they 11095_11175 were 11175_11335 sitting 11335_11655 and 11655_11955 watching 11955_12375 the 12375_12715 frog 12715_13215 .
+*CHI:	the frog was happy [^c] . 13835_15195
+%mor:	det|the-Def-Art noun|frog aux|be-Fin-Ind-Past-S3-irr adj|happy-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 13835_14275 frog 14275_14515 was 14515_14695 happy 14695_15195 .
+*CHI:	the boy went to bed [^c] . 18545_20525
+%mor:	det|the-Def-Art noun|boy verb|go-Fin-Ind-Past-S3-irr adp|to noun|bed .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	the 18545_19165 boy 19165_19345 went 19345_19785 to 19785_20025 bed 20025_20525 .
+*CHI:	the dog too [^c] . 20665_21585
+%mor:	det|the-Def-Art noun|dog adv|too .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	the 20665_20805 dog 20805_21085 too 21085_21585 .
+*CHI:	the frog didn't [^c] . 22225_23165
+%mor:	det|the-Def-Art noun|frog aux|do-Fin-Ind-Past-S3-irr~part|not .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	the 22225_22345 frog 22345_22665 didn't 22665_23165 .
+*CHI:	the frog escaped (.) from his little jar [^c] . 23405_28525
+%mor:	det|the-Def-Art noun|frog verb|escape-Fin-Ind-Past-S3 adp|from pron|his-Prs-Gen-S3 adj|little-S1 noun|jar .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|7|NMOD-POSS 6|7|AMOD 7|3|OBL 8|3|PUNCT
+%wor:	the 23405_24545 frog 24545_25085 escaped 25085_26045 from 26045_27385 his 27385_27665 little 27665_28025 jar 28025_28525 .
+*CHI:	when it was morning [^c] the boy woke up [^c] . 29365_31885
+%mor:	adv|when pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr noun|morning-Ger det|the-Def-Art noun|boy verb|wake-Fin-Ind-Past-S3-irr adp|up .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|7|ADVCL 5|6|DET 6|7|NSUBJ 7|8|ROOT 8|7|COMPOUND-PRT 9|7|PUNCT
+%wor:	when 29365_29745 it 29745_29905 was 29905_30125 morning 30125_30485 the 30485_30825 boy 30825_31045 woke 31045_31385 up 31385_31885 .
+*CHI:	and the dog too [^c] . 31705_32685
+%mor:	cconj|and det|the-Def-Art noun|dog adv|too .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	and the 31705_31905 dog 31905_32185 too 32185_32685 .
+*CHI:	the dog went +"/. 33345_34085
+%mor:	det|the-Def-Art noun|dog verb|go-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	the 33345_33605 dog 33605_33845 went 33845_34085 +"/.
+*CHI:	+" wuff [: ruff] wuff [: ruff] [^c] .
+%mor:	noun|ruff noun|ruff .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	the boy s:aid +"/. 35025_37505
+%mor:	det|the-Def-Art noun|boy verb|say-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	the 35025_35685 boy 35685_36405 said 36405_37505 +"/.
+*CHI:	+" oh my [^c] +"/. 38065_38245
+%mor:	intj|oh pron|my-Prs-Gen-S1 +"/.
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 38065_38205 my 38205_38245 +"/.
+*CHI:	+" where's the frog [^c] ? 38515_39495
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|frog ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%wor:	where's 38515_38855 the 38855_38995 frog 38995_39495 ?
+*CHI:	th:e boy looked everywhere [^c] . 39455_46275
+%mor:	det|the-Def-Art noun|boy verb|look-Fin-Ind-Past-S3 adv|everywhere .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	the 39455_44575 boy 44575_45215 looked 45215_45775 everywhere 45775_46275 .
+*CHI:	the dog looked in the jar again [^c] . 47115_49715
+%mor:	det|the-Def-Art noun|dog verb|look-Fin-Ind-Past-S3 adp|in det|the-Def-Art noun|jar adv|again .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|ADVMOD 8|3|PUNCT
+%wor:	the 47115_47275 dog 47275_47635 looked 47635_48315 in 48315_48575 the 48575_48755 jar 48755_49215 again 49215_49715 .
+*CHI:	the boy opened the window (.) [^c] and said +"/. 51935_56755
+%mor:	det|the-Def-Art noun|boy verb|open-Fin-Ind-Past-S3 det|the-Def-Art noun|window-Acc cconj|and verb|say-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|3|CONJ 8|3|PUNCT
+%wor:	the 51935_52595 boy 52595_53055 opened 53055_54075 the 54075_54375 window 54375_54695 and 54695_56115 said 56115_56755 +"/.
+*CHI:	+" frog (.) frog [^c] +"/. 58475_59315
+%mor:	noun|frog noun|frog +"/.
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	frog 58475_58835 frog 58835_59315 +"/.
+*CHI:	+" where are you [^c] ? 59655_60355
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	where are 59655_59855 you 59855_60355 ?
+*CHI:	the dog (.) was [% fell/went?] out the window [^c] . 60075_66875
+%mor:	det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr adp|out det|the-Def-Art noun|window .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	the 60075_61455 dog 61455_62135 was 62135_65695 out 65695_66175 the 66175_66375 window 66375_66875 .
+*CHI:	the dog fell [^c] . 68135_74835
+%mor:	det|the-Def-Art noun|dog verb|fall-Fin-Ind-Past-S3-irr .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	the 68135_73875 dog 73875_74335 fell 74335_74835 .
+*CHI:	<the boy jumped> [/] the glass [% jar] fall [% fell] [^c] . 76905_80085
+%mor:	det|the-Def-Art noun|glass noun|fall .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	the 76905_77065 boy 77065_77425 jumped 77425_77545 the 77545_79025 glass 79025_79585 fall 79585_80085 .
+*CHI:	the boy jumped off [^c] . 80385_81645
+%mor:	det|the-Def-Art noun|boy verb|jump-Fin-Ind-Past-S3 adp|off .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	the boy 80385_80865 jumped 80865_81145 off 81145_81645 .
+*CHI:	the boy was upset [^c] . 82445_84305
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr adj|upset-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 82445_83325 boy 83325_83605 was 83605_83805 upset 83805_84305 .
+*CHI:	the dog licked him [^c] . 84485_86085
+%mor:	det|the-Def-Art noun|dog verb|lick-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	the dog 84485_84825 licked 84825_85585 him 85585_86085 .
+*CHI:	the boy said +"/. 86745_89145
+%mor:	det|the-Def-Art noun|boy verb|say-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	the 86745_88825 boy 88825_89145 said +"/.
+*CHI:	+" frog (.) frog [^c] +"/.
+%mor:	noun|frog noun|frog +"/.
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	+" where are you [^c] ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	the dog was mad [^c] . 96465_97905
+%mor:	det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr adj|mad-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 96465_96725 dog 96725_96945 was 96945_97405 mad 97405_97905 .
+*CHI:	there was [% were] bees [^c] . 98505_99825
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr noun|bee-Plur .
+%gra:	1|2|EXPL 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	there 98505_99085 was 99085_99325 bees 99325_99825 .
+*CHI:	the boy (.) called +"/. 100585_107965
+%mor:	det|the-Def-Art noun|boy verb|call-Fin-Ind-Past-S3 +"/.
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	the 100585_104625 boy 104625_105285 called 105285_107965 +"/.
+*CHI:	+" frog frog under [% in] a hole [^c] . 108585_110365
+%mor:	noun|frog noun|frog adp|under det|a-Ind-Art noun|hole .
+%gra:	1|2|COMPOUND 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	frog frog 108585_109105 under 109105_109525 a 109525_109865 hole 109865_110365 .
+*CHI:	there was [% were] more bees coming [^c] . 112085_113845
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr adj|more-Cmp-S1 noun|bee-Plur verb|come-Ger-S .
+%gra:	1|2|EXPL 2|5|ROOT 3|4|AMOD 4|2|NSUBJ 5|4|ACL 6|2|PUNCT
+%wor:	there 112085_112345 was 112345_112605 more 112605_112865 bees 112865_113345 coming 113345_113845 .
+*CHI:	the dog went +"/.
+%mor:	det|the-Def-Art noun|dog verb|go-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	+" ruff ruff ruff [^c] .
+%mor:	noun|ruff noun|ruff noun|ruff .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	<the ddd (.) the dog> [/] the little (.) squirrel bit the boy's nose [^c] . 124905_129845
+%mor:	det|the-Def-Art adj|little-S1 noun|squirrel verb|bite-Fin-Ind-Past-S3-irr det|the-Def-Art noun|boy~part|s noun|nose-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|8|ROOT 5|6|DET 6|8|NMOD-POSS 7|6|CASE 8|4|OBJ 9|4|PUNCT
+%wor:	the 124905_125025 ddd the dog the little 125025_125485 squirrel 125485_126985 bit 126985_128345 the 128345_128865 boy's 128865_129345 nose 129345_129845 .
+*CHI:	the dog jumped up [^c] . 130225_132985
+%mor:	det|the-Def-Art noun|dog verb|jump-Fin-Ind-Past-S3 adp|up .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	the 130225_131625 dog 131625_132005 jumped 132005_132485 up 132485_132985 .
+*CHI:	the bees came out [^c] . 133345_135105
+%mor:	det|the-Def-Art noun|bee-Plur verb|come-Fin-Ind-Past-P3-irr adp|out .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	the 133345_133905 bees 133905_134225 came 134225_134605 out 134605_135105 .
+*CHI:	the hund@n [: hive] fell down [^c] . 135765_139045
+%mor:	det|the-Def-Art noun|hive verb|fall-Fin-Ind-Past-S3-irr adp|down .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	the 135765_137285 hive 137285_138085 fell 138085_138545 down 138545_139045 .
+*CHI:	all the bees were coming [^c] . 139385_140945
+%mor:	det|all-Def-Tot det|the-Def-Art noun|bee-Plur aux|be-Fin-Ind-Past-P3-irr verb|come-Part-Pres-S .
+%gra:	1|3|DET-PREDET 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	all 139385_139805 the 139805_139965 bees 139965_140205 were 140205_140445 coming 140445_140945 .
+*CHI:	the boy climbed on the tree [^c] . 141605_143545
+%mor:	det|the-Def-Art noun|boy verb|climb-Fin-Ind-Past-S3 adp|on det|the-Def-Art noun|tree .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	the 141605_141845 boy 141845_142145 climbed 142145_142545 on 142545_142805 the 142805_143045 tree 143045_143545 .
+*CHI:	and the owl (.) came out [^c] . 144785_148585
+%mor:	cconj|and det|the-Def-Art noun|owl verb|come-Fin-Ind-Past-S3-irr adp|out .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	and 144785_145165 the 145165_146085 owl 146085_146525 came 146525_148085 out 148085_148585 .
+*CHI:	all the bees were running after the dog [^c] . 149045_151785
+%mor:	det|all-Def-Tot det|the-Def-Art noun|bee-Plur aux|be-Fin-Ind-Past-P3-irr verb|run-Part-Pres-S adp|after det|the-Def-Art noun|dog .
+%gra:	1|3|DET-PREDET 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	all 149045_149605 the 149605_149805 bees 149805_150025 were 150025_150205 running 150205_150525 after 150525_150985 the 150985_151285 dog 151285_151785 .
+*CHI:	the boy climbed on the rock [^c] . 152725_163785
+%mor:	det|the-Def-Art noun|boy verb|climb-Fin-Ind-Past-S3 adp|on det|the-Def-Art noun|rock .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	the 152725_162165 boy 162165_162465 climbed 162465_162905 on 162905_163185 the 163185_163285 rock 163285_163785 .
+*CHI:	the owl flew (.) [^c] where he was [^c] . 164065_166765
+%mor:	det|the-Def-Art noun|owl verb|fly-Fin-Ind-Past-S3-irr adv|where pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|ADVMOD 5|6|NSUBJ 6|3|ADVCL 7|3|PUNCT
+%wor:	the 164065_164525 owl 164525_164705 flew 164705_165105 where 165105_166085 he 166085_166265 was 166265_166765 .
+*CHI:	the boy climbed on the rock (.) higher and higher and higher [^c] . 167285_172705
+%mor:	det|the-Def-Art noun|boy verb|climb-Fin-Ind-Past-S3 adp|on det|the-Def-Art noun|rock adj|high-Cmp-S1 cconj|and adj|high-Cmp-S1 cconj|and adj|high-Cmp-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|ADVMOD 8|9|CC 9|7|CONJ 10|11|CC 11|9|CONJ 12|3|PUNCT
+%wor:	the 167285_168405 boy 168405_168665 climbed 168665_169105 on 169105_169345 the 169345_169505 rock 169505_169845 higher 169845_171345 and 171345_171625 higher 171625_171965 and 171965_172205 higher 172205_172705 .
+*CHI:	he thought [^c] that that was a stick [^c] . 172845_176545
+%mor:	pron|he-Prs-Nom-S3 verb|think-Fin-Ind-Past-S3-irr sconj|that pron|that-Dem aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|stick .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|7|MARK 4|7|NSUBJ 5|7|COP 6|7|DET 7|2|CCOMP 8|2|PUNCT
+%wor:	he 172845_173565 thought 173565_174645 that 174645_175085 that 175085_175405 was 175405_175765 a 175765_176045 stick 176045_176545 .
+*CHI:	and it was a deer [^c] . 176865_179005
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|deer .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	and 176865_177025 it 177025_178005 was 178005_178225 a 178225_178505 deer 178505_179005 .
+*CHI:	the deer picked him up [^c] . 178945_180565
+%mor:	det|the-Def-Art noun|deer verb|pick-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 adp|up .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+%wor:	the 178945_179185 deer 179185_179525 picked 179525_179885 him 179885_180065 up 180065_180565 .
+*CHI:	the deer ran (.) [^c] . 181105_182605
+%mor:	det|the-Def-Art noun|deer verb|run-Fin-Ind-Past-S3-irr .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	the 181105_181865 deer 181865_182105 ran 182105_182605 .
+*CHI:	and the dog too [^c] . 183225_184185
+%mor:	cconj|and det|the-Def-Art noun|dog adv|too .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	and 183225_183425 the 183425_183605 dog 183605_183685 too 183685_184185 .
+*CHI:	they f:ell (.) [^c] . 185595_186175
+%mor:	pron|they-Prs-Nom-P3 verb|fall-Fin-Ind-Past-P3-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	they 185595_185675 fell 185675_186175 .
+*CHI:	and the dog too (.) in the water [^c] . 186835_189055
+%mor:	cconj|and det|the-Def-Art noun|dog adv|too adp|in det|the-Def-Art noun|water .
+%gra:	1|3|CC 2|3|DET 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|NMOD 8|3|PUNCT
+%wor:	and 186835_187235 the 187235_187455 dog 187455_187775 too 187775_188035 in 188035_188395 the 188395_188555 water 188555_189055 .
+*CHI:	they fell deeper [^c] . 190975_192535
+%mor:	pron|they-Prs-Nom-P3 verb|fall-Fin-Ind-Past-P3-irr adv|deep .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	they 190975_191595 fell 191595_192035 deeper 192035_192535 .
+*CHI:	and then <they went> [/] they came up [^c] . 194115_196535
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 verb|come-Fin-Ind-Past-P3-irr adp|up .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	and 194115_194235 then 194235_194515 they 194515_194955 went 194955_195215 they 195215_195795 came 195795_196035 up 196035_196535 .
+*CHI:	the deer was laughing [^c] . 197555_198975
+%mor:	det|the-Def-Art noun|deer aux|be-Fin-Ind-Past-S3-irr verb|laugh-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 197555_197975 deer 197975_198235 was 198235_198475 laughing 198475_198975 .
+*CHI:	the boy went +"/. 201315_202275
+%mor:	det|the-Def-Art noun|boy verb|go-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	the 201315_201595 boy 201595_201935 went 201935_202275 +"/.
+*CHI:	+" shh [^c] .
+%mor:	intj|shh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	the dog went swimming toward him [^c] . 203705_206125
+%mor:	det|the-Def-Art noun|dog verb|go-Fin-Ind-Past-S3-irr verb|swim-Ger-S adp|toward pron|he-Prs-Acc-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|XCOMP 5|6|CASE 6|4|OBL 7|3|PUNCT
+%wor:	the 203705_204245 dog went 204245_204585 swimming 204585_205085 toward 205085_205625 him 205625_206125 .
+*CHI:	the boy climbed over (.) the log [^c] . 206725_212465
+%mor:	det|the-Def-Art noun|boy verb|climb-Fin-Ind-Past-S3 adp|over det|the-Def-Art noun|log .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	the 206725_208905 boy 208905_209185 climbed 209185_209625 over 209625_210305 the 210305_211965 log 211965_212465 .
+*CHI:	the dog too [^c] . 213305_214505
+%mor:	det|the-Def-Art noun|dog adv|too .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	the 213305_213465 dog 213465_214005 too 214005_214505 .
+*CHI:	they saw two love frogs [% frogs in love?] [^c] . 215185_218285
+%mor:	pron|they-Prs-Nom-P3 verb|see-Fin-Ind-Past-P3-irr num|two noun|love noun|frog-Plur-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NUMMOD 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+%wor:	they 215185_215845 saw 215845_216245 two 216245_217185 love 217185_217785 frogs 217785_218285 .
+*CHI:	he was happy [% wanted?] (.) to keep (th)em [^c] . 219945_221925
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|happy-S1 part|to verb|keep-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%wor:	he 219945_220265 was 220265_220525 happy 220525_220965 to 220965_221265 keep 221265_221425 (th)em 221425_221925 .
+*CHI:	th:e boy said +"/. 224265_227265
+%mor:	det|the-Def-Art noun|boy verb|say-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	the 224265_227025 boy said 227025_227265 +"/.
+*CHI:	+" hooray [^c] .
+%mor:	intj|hooray .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+" look at my frog (.) there [^c] . 228145_231745
+%mor:	verb|look-Fin-Imp-S adp|at pron|my-Prs-Gen-S1 noun|frog adv|there .
+%gra:	1|5|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|OBL 5|1|ADVMOD 6|1|PUNCT
+%wor:	look 228145_229825 at 229825_230345 my 230345_230785 frog 230785_231245 there 231245_231745 .
+*CHI:	he said +"/. 232965_233585
+%mor:	pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	he 232965_233165 said 233165_233585 +"/.
+*CHI:	+" bye [^c] . 234125_234625
+%mor:	intj|bye .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bye 234125_234625 .
+*CHI:	he'll come back again [^c] . 235025_236325
+%mor:	pron|he-Prs-Nom-S3~aux|will-Fin-S verb|come-Inf-S adv|back adv|again .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+%wor:	he'll 235025_235185 come 235185_235485 back 235485_235825 again 235825_236325 .
+@End

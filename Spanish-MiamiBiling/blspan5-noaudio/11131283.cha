@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/c-00021351-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|11;00.|male|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Tape Location:	PO.F94
+@Comment:	Date is 11-9-94
+@Transcriber:	P. Ortega
+@Types:	cross, narrative, biling
+*CHI:	emm [/] el niñito estaba mirando con el perrito a la rana (.) [^c] .
+%mor:	det|el-Masc-Def-Art noun|niñito-Masc aux|estar-Fin-Ind-Imp-S3 verb|mirar-Ger-S adp|con det|el-Masc-Def-Art noun|perrito-Masc adp|a det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBJ 11|4|PUNCT
+*CHI:	entonce(s) por la noche <la rana (.) se:> [/] (.) cuando el niño y el perro estaban durmiendo (.) [^c] la rana se escapó [^c] .
+%mor:	adv|entonces adp|por det|el-Fem-Def-Art noun|noche-Fem sconj|cuando det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Imp-P3 verb|dormir-Ger-S det|el-Fem-Def-Art noun|rana-Fem pron|él-Prs-Acc-S3 verb|escapar-Fin-Ind-Past-S3 .
+%gra:	1|16|ADVMOD 2|4|CASE 3|4|DET 4|1|OBL 5|12|MARK 6|7|DET 7|12|NSUBJ 8|10|CC 9|10|DET 10|7|CONJ 11|12|AUX 12|16|ADVCL 13|14|DET 14|12|NSUBJ 15|16|EXPL-PV 16|16|ROOT 17|16|PUNCT
+*CHI:	entonce(s) por la mañana cuando se despertaron (.) [^c] no vieron la rana [^c] .
+%mor:	adv|entonces adp|por det|el-Fem-Def-Art noun|mañana-Fem sconj|cuando pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Past-P3 adv|no verb|ver-Fin-Ind-Past-P3 det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|9|ADVMOD 2|4|CASE 3|4|DET 4|1|OBL 5|7|MARK 6|7|EXPL-PV 7|9|ADVCL 8|9|ADVMOD 9|11|ROOT 10|11|DET 11|9|OBJ 12|9|PUNCT
+*CHI:	entonce(s) él miró [^c] .
+%mor:	adv|entonces pron|él-Prs-AccNom-S3 verb|mirar-Fin-Ind-Past-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	entonce(s) el perro metió la cabeza dentro de la cosa [^c] donde estaba la rana [^c] .
+%mor:	adv|entonces det|el-Masc-Def-Art noun|perro-Masc verb|meter-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|cabeza-Fem adv|dentro adp|de det|el-Fem-Def-Art noun|cosa-Fem adv|donde verb|estar-Fin-Ind-Imp-S3 det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|14|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|10|CASE 9|10|DET 10|7|OBL 11|12|ADVMOD 12|10|ACL 13|14|DET 14|12|NSUBJ 15|4|PUNCT
+*CHI:	y su perro se cayó: (.) [^c] .
+%mor:	cconj|y det|su-Def-Prs noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	y rompió <el (.) el> [/] la cosa xxx [^c] <que estaba> [/] donde estaba la rana [^c] .
+%mor:	cconj|y verb|romper-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|cosa-Fem adv|donde verb|estar-Fin-Ind-Imp-S3 det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|4|DET 4|2|OBJ 5|6|ADVMOD 6|4|ACL 7|8|DET 8|6|NSUBJ 9|2|PUNCT
+*CHI:	entonce(s) fueron afuera [^c] .
+%mor:	adv|entonces aux|ser-Fin-Ind-Past-P3 adv|afuera .
+%gra:	1|3|ADVMOD 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	y llamaron (.) [^c] .
+%mor:	cconj|y verb|llamar-Fin-Ind-Past-P3 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	entonce(s) el perro estaba jugando con la cosa esa de honey [* el panal de abejas] [^c] .
+%mor:	adv|entonces det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Imp-S3 verb|jugar-Ger-S adp|con det|el-Fem-Def-Art noun|cosa-Fem pron|ese-Dem-S1 adp|de noun|honey-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|OBJ 10|11|CASE 11|9|NMOD 12|5|PUNCT
+*CHI:	entonce(s) todas las (.) obejas [* abejas] salieron (.) atrá(s) del perro [^c] .
+%mor:	adv|entonces det|todo-Fem-Def-Tot det|el-Fem-Def-Art noun|obeja-Fem-Plur verb|salir-Fin-Ind-Past-P3 adv|atrás det|del-Masc-Def-Art noun|perro-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|4|DET 4|5|NSUBJ 5|8|ROOT 6|5|ADVMOD 7|8|CASE 8|5|OBL 9|5|PUNCT
+*CHI:	y el perro (.) em [/] (.) estaba parado al lado del [/] (.) del tree [* árbol] [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Imp-S3 adj|parado-Pos-S1 det|al-Masc-Def-Art noun|lado adp|del noun|tree-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|COP 5|9|ROOT 6|9|CASE 7|6|FIXED 8|6|FIXED 9|5|OBL 10|5|PUNCT
+*CHI:	y el niño estaba buscando por el hueco de un árbol [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|buscar-Ger-S adp|por det|el-Masc-Def-Art noun|hueco-Masc adp|de det|uno-Masc-Ind-Art noun|árbol-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|5|PUNCT
+*CHI:	y entonce(s) el niño se cayó (.) [^c] <y (.) y> [/] porque salió <u:n> [/] una owl [* lechuza] de [/] del árbol [^c] .
+%mor:	cconj|y adv|entonces det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 sconj|porque verb|salir-Fin-Ind-Past-S3 det|uno-Fem-Ind-Art noun|owl-Fem det|del-Masc-Def-Art noun|árbol-Masc .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|12|ROOT 7|8|MARK 8|6|ADVCL 9|10|DET 10|8|NSUBJ 11|12|CASE 12|10|NMOD 13|6|PUNCT
+*CHI:	y las obejas [* abejas] estaban detrás del perro [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|obeja-Fem-Plur verb|estar-Fin-Ind-Imp-P3 adv|detrás adp|del noun|perro-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|5|FIXED 7|4|OBL 8|4|PUNCT
+*CHI:	entonce(s) la owl [* lechuza] (.) no paraba de ir detrá(s) de [/] (.) del (.) niño [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|owl-Fem adv|no verb|parar-Fin-Ind-Imp-S3 adp|de verb|ir-Inf-S adv|detrás det|del-Masc-Def-Art noun|niño-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|ADVMOD 5|10|ROOT 6|7|MARK 7|5|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+*CHI:	entonce(s) el niño (.) se montó arriba de una roca (.) [^c] .
+%mor:	adv|entonces det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|montar-Fin-Ind-Past-S3 adv|arriba adp|de det|uno-Fem-Ind-Art noun|roca-Fem .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|9|ROOT 6|5|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*CHI:	y (.) empezó a llamar (.) por [* a] la rana [^c] .
+%mor:	cconj|y verb|empezar-Fin-Ind-Past-S3 adp|a verb|llamar-Inf-S adp|por det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*CHI:	entonce(s) un deer [* venado] lo reca [/] recogió [^c] .
+%mor:	adv|entonces det|uno-Masc-Ind-Art noun|deer-Masc pron|él-Prs-Acc-S3 verb|recoger-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|OBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	y corrió con él en la cabeza [^c] .
+%mor:	cconj|y verb|correr-Fin-Ind-Past-S3 adp|con pron|él-Prs-AccNom-S3 adp|en det|el-Fem-Def-Art noun|cabeza-Fem .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|CASE 4|2|OBL 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*CHI:	entonce(s) lo tiró en u:n edge [* sobre la orilla] [^c] .
+%mor:	adv|entonces pron|él-Prs-Acc-S3 verb|tirar-Fin-Ind-Past-S3 adp|en det|uno-Masc-Ind-Art noun|edge-Masc .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	y se cayeron los dos en [* el] agua [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-P3 det|el-Masc-Def-Art num|dos adp|en noun|agua-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|7|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+*CHI:	se mojaron los dos [^c] .
+%mor:	pron|él-Prs-Acc-S3 verb|mojar-Fin-Ind-Past-P3 det|el-Masc-Def-Art num|dos .
+%gra:	1|2|EXPL-PV 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	entonce(s) el niño <encontró> [/] (.) miró arriba del palo [* tronco] [^c] .
+%mor:	adv|entonces det|el-Masc-Def-Art noun|niño-Masc verb|mirar-Fin-Ind-Past-S3 adv|arriba det|del-Masc-Def-Art noun|palo-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|4|ADVMOD 6|7|CASE 7|4|OBL 8|4|PUNCT
+*CHI:	y entonce(s) encontró la familia de la rana [^c] .
+%mor:	cconj|y adv|entonces verb|encontrar-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|familia-Fem adp|de det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+*CHI:	entonce(s) se llevaron la rana pa(ra) atrá(s) para la casa [^c] .
+%mor:	adv|entonces pron|él-Prs-Acc-S3 verb|llevar-Fin-Ind-Past-P3 det|el-Fem-Def-Art noun|rana-Fem adp|para adv|atrás adp|para det|el-Fem-Def-Art noun|casa-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|10|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|ADVMOD 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+@End

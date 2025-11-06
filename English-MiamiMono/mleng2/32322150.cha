@@ -1,0 +1,107 @@
+@UTF8
+@PID:	11312/c-00020657-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiMono|CHI|8;00.|female|||Target_Child|||
+@Comment:	2nd Grade (Age 7 or 8)
+@Tape Location:	MP's
+@Transcriber:	PO
+@Types:	cross, narrative, TD
+*CHI:	<there once was a boy and> [/] There once was a boy (.) a dog and a frog [^c] .
+%mor:	pron|there-Dem-S1 adv|once aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|boy det|a-Ind-Art noun|dog cconj|and det|a-Ind-Art noun|frog .
+%gra:	1|2|EXPL 2|10|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|7|DET 7|5|APPOS 8|10|CC 9|10|DET 10|7|CONJ 11|2|PUNCT
+*CHI:	one night they were sleeping [^c] .
+%mor:	num|one noun|night pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|sleep-Part-Pres-S .
+%gra:	1|2|NUMMOD 2|5|OBL-UNMARKED 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	and the frog got away (...) [^c] .
+%mor:	cconj|and det|the-Def-Art noun|frog verb|get-Fin-Ind-Past-S3-irr adv|away .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	the next morning (.) they woke up [^c] .
+%mor:	det|the-Def-Art adj|next-S1 noun|morning-Ger pron|they-Prs-Nom-P3 verb|wake-Fin-Ind-Past-P3-irr adp|up .
+%gra:	1|3|DET 2|3|AMOD 3|5|OBL-UNMARKED 4|5|NSUBJ 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*CHI:	and the frog wasn't there [^c] .
+%mor:	cconj|and det|the-Def-Art noun|frog aux|be-Fin-Ind-Past-S3-irr~part|not adv|there .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+*CHI:	they looked everywhere (.) in the house (.) [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Past-P3 adv|everywhere adp|in det|the-Def-Art noun|house .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|ADVMOD 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*CHI:	they looked outside [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Past-P3 adv|outside .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	they looked in the glass jar [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Past-P3 adp|in det|the-Def-Art noun|glass noun|jar .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+*CHI:	and they looked all around [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Past-P3 det|all-Def-Tot adv|around .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+*CHI:	<they went> [/] They looked in the forest [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Past-P3 adp|in det|the-Def-Art noun|forest .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	but they couldn't find (h)im [^c] .
+%mor:	cconj|but pron|they-Prs-Nom-P3 aux|could-Fin-S~part|not verb|find-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	they [* He] looked in a sandpile [^c] while the dog was playing with a beehive [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Past-P3 adp|in det|a-Ind-Art noun|sandpile sconj|while det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr verb|play-Part-Pres-S adp|with det|a-Ind-Art noun|beehive .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|AUX 10|2|ADVCL 11|13|CASE 12|13|DET 13|10|OBL 14|2|PUNCT
+*CHI:	the dog knocked the beehive down [^c] .
+%mor:	det|the-Def-Art noun|dog verb|knock-Fin-Ind-Past-S3 det|the-Def-Art noun|beehive-Acc adp|down .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+*CHI:	and all the bees came out [^c] .
+%mor:	cconj|and det|all-Def-Tot det|the-Def-Art noun|bee-Plur verb|come-Fin-Ind-Past-P3-irr adp|out .
+%gra:	1|5|CC 2|4|DET-PREDET 3|4|DET 4|5|NSUBJ 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*CHI:	the boy was climbing in [* 0] a tree [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr verb|climb-Part-Pres-S adp|in det|a-Ind-Art noun|tree .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	then (.) a [* an] owl was flapping its wing [^c] .
+%mor:	adv|then det|a-Ind-Art noun|owl aux|be-Fin-Ind-Past-S3-irr verb|flap-Part-Pres-S pron|its-Prs-Gen-S3 noun|wing-Acc-Ger .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|PUNCT
+*CHI:	and all the bees came strapping [* ??] by [^c] .
+%mor:	cconj|and det|all-Def-Tot det|the-Def-Art noun|bee-Plur verb|come-Fin-Ind-Past-P3-irr verb|strapp-Ger-S adp|by .
+%gra:	1|5|CC 2|4|DET-PREDET 3|4|DET 4|5|NSUBJ 5|7|ROOT 6|5|XCOMP 7|5|OBL 8|5|PUNCT
+*CHI:	he looked on a rock (.) [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|on det|a-Ind-Art noun|rock .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	he called the frog's name [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|call-Fin-Ind-Past-S3 det|the-Def-Art noun|frog~part|s noun|name-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|2|OBJ 7|2|PUNCT
+*CHI:	he [/] He looked in the bushes [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|in det|the-Def-Art noun|bush-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	and something jumped out [^c] and [/] (.) and made him fall [^c] .
+%mor:	cconj|and pron|something-Ind-S1 verb|jump-Fin-Ind-Past-S3 adp|out cconj|and verb|make-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 verb|fall-Inf-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|3|COMPOUND-PRT 5|6|CC 6|3|CONJ 7|6|OBJ 8|6|XCOMP 9|3|PUNCT
+*CHI:	and it got to the end of the bridge [* cliff] [^c] and stopped [^c] .
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adp|to det|the-Def-Art noun|end adp|of det|the-Def-Art noun|bridge cconj|and verb|stop-Fin-Ind-Past-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|11|CC 11|3|CONJ 12|3|PUNCT
+*CHI:	and [/] and the dog and the boy fell [^c] .
+%mor:	cconj|and det|the-Def-Art noun|dog cconj|and det|the-Def-Art noun|boy verb|fall-Fin-Ind-Past-S3-irr .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|7|ROOT 8|7|PUNCT
+*CHI:	they were in the lake [^c] .
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adp|in det|the-Def-Art noun|lake .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+*CHI:	and the dog was on top of the boy [^c] .
+%mor:	cconj|and det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr adp|on noun|top adp|of det|the-Def-Art noun|boy .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|CASE 6|9|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|6|PUNCT
+*CHI:	<and the dog> [/] The boy was telling the dog [^c] to ssh [* be quiet] [^c] (be)cause he tried [* was trying] to catch a:nother frog [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr verb|tell-Part-Pres-S det|the-Def-Art noun|dog part|to verb|ssh-Inf-S sconj|because pron|he-Prs-Nom-S3 verb|try-Fin-Ind-Past-S3 part|to verb|catch-Inf-S det|another-Def-Ind noun|frog-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|15|ROOT 5|6|DET 6|4|IOBJ 7|8|MARK 8|4|XCOMP 9|11|MARK 10|11|NSUBJ 11|4|ADVCL 12|13|MARK 13|11|XCOMP 14|15|DET 15|13|OBJ 16|4|PUNCT
+*CHI:	he got [* leaned?] over the log [^c] and looked [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adp|over det|the-Def-Art noun|log cconj|and verb|look-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CC 7|2|CONJ 8|2|PUNCT
+*CHI:	it was two frogs together [^c] .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr num|two noun|frog-Plur adv|together .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NUMMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	then they looked over again [^c] .
+%mor:	adv|then pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Past-P3 adp|over adv|again .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+*CHI:	it was a whole family of frogs [^c] .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|whole-S1 noun|family adp|of noun|frog-Plur .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|7|ROOT 6|7|CASE 7|5|NMOD 8|5|PUNCT
+*CHI:	<the boy got one> [/] The boy made [/] made one of the frogs fall [^c] .
+%mor:	det|the-Def-Art noun|boy verb|make-Fin-Ind-Past-S3-irr num|one adp|of det|the-Def-Art noun|frog-Plur verb|fall-Inf-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|XCOMP 9|3|PUNCT
+*CHI:	and <he (.) then (.) he ma> [/] then he took the other one home with him [^ the end] [^c] .
+%mor:	cconj|and adv|then pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr det|the-Def-Art adj|other-S1 num|one noun|home-Acc adp|with pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|10|ROOT 5|8|DET 6|8|AMOD 7|8|NUMMOD 8|4|OBJ 9|10|CASE 10|4|OBL 11|4|PUNCT
+@End

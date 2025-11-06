@@ -1,0 +1,87 @@
+@UTF8
+@PID:	11312/c-00021323-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|7;02.||||Target_Child|||
+@Comment:	2nd Grade (Age 7 or 8)
+@Comment:	Date is 9-29-1995
+@Tape Location:	F95.PO
+@Transcriber:	P.Ortega
+@Types:	cross, narrative, biling
+*CHI:	[^ El niño y el perro] un día el niño y el perro tenía [* tenían] un [* una] rata [* un sapo] [^c] .
+%mor:	det|uno-Masc-Ind-Art noun|día-Masc det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|tener-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art noun|rata-Fem .
+%gra:	1|2|DET 2|8|OBL 3|4|DET 4|8|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+*CHI:	Él (...) dormió y dormió [* durmió y durmió] [^c] .
+%mor:	pron|él-Prs-AccNom-S3 verb|dormir-Fin-Ind-Past-S3 cconj|y verb|dormir-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+*CHI:	y el [* la] rata sacó [* salió] (.) ayy [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|rata-Fem verb|sacar-Fin-Ind-Past-S3 intj|ayy .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	y cuando el niño se (des)pertó [^c] el [* la] rata [* sapo] [* se] fue [^c] .
+%mor:	cconj|y sconj|cuando det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|rata-Fem aux|ser-Fin-Ind-Past-S3 .
+%gra:	1|9|ADVMOD 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|9|ADVCL 7|8|DET 8|6|NSUBJ 9|9|ROOT 10|9|PUNCT
+*CHI:	y (.) vie [* vieron buscaron ?] en el zapato [^c] .
+%mor:	cconj|y verb|ver-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art noun|zapato-Masc .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	y vio [* buscó] afuera [^c] .
+%mor:	cconj|y verb|ver-Fin-Ind-Past-S3 adv|afuera .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	y el perro umm (.) [^ How do you say fall en español] [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc noun|umm .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|APPOS 5|3|PUNCT
+*CHI:	y (en)tonce(s) el niño bajó [^c] .
+%mor:	cconj|y adv|entonces det|el-Masc-Def-Art noun|niño-Masc verb|bajar-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	y <cojó> [/] cajó [* cogió] el perro [^c] .
+%mor:	cconj|y verb|cajar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	y (en)tonce(s) (.) llamó en [/] a la xxx [^c] .
+%mor:	cconj|y adv|entonces verb|llamar-Fin-Ind-Past-S3 adp|a det|el-Fem-Def-Art .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|5|ROOT 4|5|CASE 5|3|OBJ 6|3|PUNCT
+*CHI:	y llamó y llamó [^c] .
+%mor:	cconj|y verb|llamar-Fin-Ind-Past-S3 cconj|y verb|llamar-Fin-Ind-Past-S3 .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+*CHI:	y (en)tonce(s) (.) va [* fue] (.) a mirar a [/] (.) en el (.) 0cosa [^c] .
+%mor:	cconj|y adv|entonces verb|ir-Fin-Ind-Pres-S3 adp|a verb|mirar-Inf-S adp|en det|el-Masc-Def-Art .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|3|OBL 8|3|PUNCT
+*CHI:	y (en)tonce(s) (.) el perro (.) miró en el beehive [* panal] [^c] .
+%mor:	cconj|y adv|entonces det|el-Masc-Def-Art noun|perro-Masc verb|mirar-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art noun|beehive-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*CHI:	y (en)tonce(s) lo bee [* las abejas] (.) (es)taba [* estaban ?] corriendo [* siguiendo] el [* al] pa [/] (.) perro [^c] .
+%mor:	cconj|y adv|entonces pron|él-Prs-Acc-S3 noun|bee aux|estar-Fin-Ind-Imp-S3 verb|correr-Ger-S det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|6|OBJ 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|DET 8|6|NSUBJ 9|6|PUNCT
+*CHI:	el niño (.) ve en xxx mata [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|ver-Fin-Ind-Pres-S3 adp|en noun|matar-Fem .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	<el niñ> [/] Pero el <pája> [/] el pájaro (em)pujó el [* al] niño [^c] .
+%mor:	cconj|pero det|el-Masc-Def-Art det|el-Masc-Def-Art noun|pájaro-Masc verb|empujar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|5|ADVMOD 2|4|DET 3|4|DET 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	y (.) el bee [* la abeja] (es)taba cogiendo [* siguiendo] el [* al] perro [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|bee-Masc aux|estar-Fin-Ind-Imp-S3 verb|coger-Ger-S det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	entonce(s) el [/] (.) el pájaro (es)taba cogiendo [* siguiendo] (.) el [* al] niño [^c] .
+%mor:	adv|entonces det|el-Masc-Def-Art noun|pájaro-Masc aux|estar-Fin-Ind-Imp-S3 verb|coger-Ger-S det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	y (en)tonce(s) (.) el niño fue arriba del (.) yo no sé eso [^c] .
+%mor:	cconj|y adv|entonces det|el-Masc-Def-Art noun|niño-Masc aux|ser-Fin-Ind-Past-S3 adv|arriba adp|del pron|yo-Prs-Nom-S1 adv|no verb|saber-Fin-Ind-Pres-S1 pron|ese-Dem-S1 .
+%gra:	1|10|ADVMOD 2|6|ADVMOD 3|4|DET 4|10|NSUBJ 5|10|COP 6|10|ADVMOD 7|8|CASE 8|10|NSUBJ 9|10|ADVMOD 10|11|ROOT 11|10|OBJ 12|10|PUNCT
+*CHI:	y (en)tonce(s) el reindeer [* venado] pushó [* empujó] el [* al] niño y el [* al] perro [^c] .
+%mor:	cconj|y adv|entonces det|el-Masc-Def-Art noun|reindeer-Masc verb|pushar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CC 9|10|DET 10|7|CONJ 11|5|PUNCT
+*CHI:	y (en)tonce(s) (.) He fell inside the water [*] [^c] .
+%mor:	cconj|y adv|entonces noun|haber noun|fell noun|inside noun|the noun|water .
+%gra:	1|3|CC 2|3|ADVMOD 3|7|ROOT 4|3|FLAT 5|3|FLAT 6|3|FLAT 7|3|FLAT 8|3|PUNCT
+*CHI:	y (en)tonce(s) (.) estaba (.) y (en)tonce(s) (.) el niño said [* le dijo] xxx perro [^c] +"/.
+%mor:	cconj|y adv|entonces verb|estar-Fin-Ind-Imp-S3 cconj|y adv|entonces det|el-Masc-Def-Art noun|niño-Masc noun|said noun|perro +"/.
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|9|ROOT 4|5|CC 5|3|CONJ 6|7|DET 7|3|NSUBJ 8|7|APPOS 9|8|FLAT 10|3|PUNCT
+*CHI:	+" shhh (.) Allí (es)tá el [*] rata [* sapo] [^c] .
+%mor:	intj|shhh adv|allí verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|rata-Fem .
+%gra:	1|3|DEP 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*CHI:	y (en)tonce(s) el [/] (.) el [* la] ma:má tenía baby [* bebés] [^c] .
+%mor:	cconj|y adv|entonces det|el-Masc-Def-Art noun|mamá-Fem verb|tener-Fin-Ind-Imp-S3 noun|baby-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	y (.) fue a la casa [/] fue a la casa [^c] .
+%mor:	cconj|y aux|ser-Fin-Ind-Past-S3 adp|a pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-S3 adp|a det|el-Fem-Def-Art noun|casa-Fem .
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|MARK 4|5|OBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+@End

@@ -1,0 +1,69 @@
+@UTF8
+@PID:	11312/c-00020606-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiBiling|CHI|10;03.|female|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Comment:	Date is 9-29-1995
+@Tape Location:	F95.PO
+@Transcriber:	P.Ortega
+@Types:	cross, narrative, TD
+*CHI:	Johnny and spot umm [/] (.) catched [% caught] a frog [^c] &-um [/] and put (h)im in a jar [^c] .
+%mor:	propn|Johnny cconj|and noun|spot verb|catch-Fin-Ind-Past-S3 det|a-Ind-Art noun|frog-Acc cconj|and verb|put-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 adp|in det|a-Ind-Art noun|jar .
+%gra:	1|4|NSUBJ 2|3|CC 3|1|CONJ 4|12|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|4|PUNCT
+*CHI:	they fell asleep [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|fall-Fin-Ind-Past-P3-irr adj|asleep-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*CHI:	and <while they while they while> [/] while they were sleeping [^c] the frog (.) jumped <out of the> [/] (.) out of the jar [^c] .
+%mor:	cconj|and sconj|while pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|sleep-Part-Pres-S det|the-Def-Art noun|frog verb|jump-Fin-Ind-Past-S3 adp|out adp|of det|the-Def-Art noun|jar .
+%gra:	1|8|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|8|ADVCL 6|7|DET 7|8|NSUBJ 8|12|ROOT 9|12|CASE 10|12|CASE 11|12|DET 12|8|OBL 13|8|PUNCT
+*CHI:	in the morning (.) when Johnny and spot woke up (.) [^c] they didn't find an [/] anything in the jar [^c] .
+%mor:	adp|in det|the-Def-Art noun|morning-Ger adv|when propn|Johnny cconj|and noun|spot verb|wake-Fin-Ind-Past-S3-irr adp|up pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|find-Inf-S pron|anything-Ind-S1 adp|in det|the-Def-Art noun|jar .
+%gra:	1|3|CASE 2|3|DET 3|13|OBL 4|8|ADVMOD 5|8|NSUBJ 6|7|CC 7|5|CONJ 8|13|ADVCL 9|8|COMPOUND-PRT 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|17|ROOT 14|13|OBJ 15|17|CASE 16|17|DET 17|13|OBL 18|13|PUNCT
+*CHI:	they started looking all over the room [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|start-Fin-Ind-Past-P3 verb|look-Ger-S adv|all adp|over det|the-Def-Art noun|room .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|XCOMP 4|7|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+*CHI:	then (.) they went outside [^c] .
+%mor:	adv|then pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adv|outside .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	they called him and called him (.) [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Past-P3 pron|he-Prs-Acc-S3 cconj|and verb|call-Fin-Ind-Past-P3 pron|he-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|5|CC 5|2|CONJ 6|5|OBJ 7|2|PUNCT
+*CHI:	but (.) nobody answered [^c] .
+%mor:	cconj|but pron|nobody-Neg-S1 verb|answer-Fin-Ind-Past-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	there were some bees (.) [^c] flying around [^c] .
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-P3-irr det|some-Def-Ind noun|bee-Plur verb|fly-Ger-S adv|around .
+%gra:	1|2|EXPL 2|6|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|5|ADVMOD 7|2|PUNCT
+*CHI:	spot started jumping [^c] and trying to bite the beehive (.) [^c] while (.) Johnny was trapped in a hole [^c] and (.) a (.) mouse [*] (.) came out [^c] .
+%mor:	noun|spot verb|start-Fin-Ind-Past-S3 verb|jump-Ger-S cconj|and verb|try-Part-Pres-S part|to verb|bite-Inf-S det|the-Def-Art noun|beehive-Acc sconj|while propn|Johnny aux|be-Fin-Ind-Past-S3-irr verb|trap-Part-Past-S adp|in det|a-Ind-Art noun|hole cconj|and det|a-Ind-Art noun|mouse verb|come-Fin-Ind-Past-S3-irr adp|out .
+%gra:	1|2|NSUBJ 2|21|ROOT 3|2|XCOMP 4|5|CC 5|3|CONJ 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|13|MARK 11|13|NSUBJ-PASS 12|13|AUX-PASS 13|7|ADVCL 14|16|CASE 15|16|DET 16|13|OBL 17|20|CC 18|19|DET 19|20|NSUBJ 20|2|CONJ 21|20|COMPOUND-PRT 22|2|PUNCT
+*CHI:	umm [/] finally (.) spot dropped the beehive [% made it fall] [^c] .
+%mor:	adv|finally noun|spot verb|drop-Fin-Ind-Past-S3 det|the-Def-Art noun|beehive-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and the bees started chasing [/] chasing him [^c] .
+%mor:	cconj|and det|the-Def-Art noun|bee-Plur verb|start-Fin-Ind-Past-P3 verb|chase-Ger-S pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|4|XCOMP 6|5|OBJ 7|4|PUNCT
+*CHI:	when [/] when all of this was happening (.) [^c] Johnny was on top of [% up in] a tree umm [^c] .
+%mor:	adv|when det|all-Def-Tot adp|of pron|this-Dem-S1 aux|be-Fin-Ind-Past-S3-irr verb|happen-Part-Pres-S propn|Johnny aux|be-Fin-Ind-Past-S3-irr adp|on noun|top adp|of det|a-Ind-Art noun|tree noun|umm .
+%gra:	1|6|ADVMOD 2|6|NSUBJ 3|4|CASE 4|2|NMOD 5|6|AUX 6|10|ADVCL 7|10|NSUBJ 8|10|COP 9|10|CASE 10|14|ROOT 11|14|CASE 12|14|DET 13|14|COMPOUND 14|10|NMOD 15|10|PUNCT
+*CHI:	when an owl came out [^c] the bees and the owl started chasing (h)im [^c] until they stopped [^c] .
+%mor:	adv|when det|a-Ind-Art noun|owl verb|come-Fin-Ind-Past-S3-irr adp|out det|the-Def-Art noun|bee-Plur-Acc cconj|and det|the-Def-Art noun|owl verb|start-Fin-Ind-Past-S3 verb|chase-Ger-S pron|he-Prs-Acc-S3 sconj|until pron|they-Prs-Nom-P3 verb|stop-Fin-Ind-Past-P3 .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|11|ADVCL 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|11|CC 9|10|DET 10|11|NSUBJ 11|16|ROOT 12|11|XCOMP 13|12|OBJ 14|16|MARK 15|16|NSUBJ 16|12|ADVCL 17|11|PUNCT
+*CHI:	and (.) <a deer> [/] and a deer got (.) &-um [/] Johnny [^c] and put (h)im on his back [% head ?] [^c] and carried him to a cliff [^c] and dropped him and spot down the cliff [^c] .
+%mor:	cconj|and cconj|and det|a-Ind-Art noun|deer verb|get-Fin-Ind-Past-S3-irr propn|Johnny-Acc cconj|and verb|put-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 adp|on pron|his-Prs-Gen-S3 noun|back cconj|and verb|carry-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 adp|to det|a-Ind-Art noun|cliff cconj|and verb|drop-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 cconj|and verb|spot-Fin-Ind-Pres-S3 adp|down det|the-Def-Art noun|cliff .
+%gra:	1|5|CC 2|5|CC 3|4|DET 4|5|NSUBJ 5|26|ROOT 6|5|OBJ 7|8|CC 8|5|CONJ 9|8|OBJ 10|12|CASE 11|12|NMOD-POSS 12|8|OBL 13|14|CC 14|5|CONJ 15|14|OBJ 16|18|CASE 17|18|DET 18|14|OBL 19|20|CC 20|14|CONJ 21|20|OBJ 22|23|CC 23|20|CONJ 24|26|CASE 25|26|DET 26|23|OBL 27|5|PUNCT
+*CHI:	they fell in the puddle [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|fall-Fin-Ind-Past-P3-irr adp|in det|the-Def-Art noun|puddle .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	and <they stoo> [/] they stand [% stood] up [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|stand-Fin-Ind-Pres-P3 adp|up .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CHI:	and <they found> [/] (.) they found (.) <his &-um> [/] Johnny's frog (.) and his family [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|find-Fin-Ind-Past-P3-irr propn|Johnny~part|s noun|frog-Acc cconj|and pron|his-Prs-Gen-S3 noun|family .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|6|NMOD-POSS 5|4|CASE 6|3|OBJ 7|9|CC 8|9|NMOD-POSS 9|6|CONJ 10|3|PUNCT
+*CHI:	<Johnny's frog said (.) well> [/] Johnny's frog (.) gave (.) Johnny (.) one of his little children [^ the end] [^c] .
+%mor:	propn|Johnny~part|s noun|frog verb|give-Fin-Ind-Past-S3-irr propn|Johnny num|one adp|of pron|his-Prs-Gen-S3 adj|little-S1 noun|child-Plur .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|4|NSUBJ 4|10|ROOT 5|4|IOBJ 6|4|OBJ 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|6|NMOD 11|4|PUNCT
+@End

@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/c-00021300-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|7;08.|female|||Target_Child|||
+@Comment:	2nd Grade (Age 7 or 8)
+@Comment:	Date is 3-4-1996
+@Tape Location:	FSS96.MP
+@Transcriber:	ERodriguez
+@Types:	cross, narrative, biling
+*CHI:	el perro estaba oliendo el sapo [^c] .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Imp-S3 verb|oleír-Ger-S det|el-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	cuando el niño estaba durmiendo [^c] el sapo se [/] (.) se fue [^c] .
+%mor:	sconj|cuando det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|dormir-Ger-S det|el-Masc-Def-Art noun|sapo-Masc pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-S3 .
+%gra:	1|5|MARK 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ADVCL 6|7|DET 7|5|NSUBJ 8|9|EXPL-PV 9|9|ROOT 10|9|PUNCT
+*CHI:	el niño estaba butando [: buscando] el sapo [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|buscar-Ger-S det|el-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	el perro se cayó de [* por] la ventana [^c] .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 adp|de det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	el niño se fue de la casa [^c] pa(ra) buscar <el ra el el> [/] el: [* al] sapo [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-S3 adp|de det|el-Fem-Def-Art noun|casa-Fem adp|para verb|buscar-Inf-S det|el-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|11|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|MARK 9|4|ADVCL 10|11|DET 11|9|OBJ 12|4|PUNCT
+*CHI:	el niño estaba [/] (es)taba llamando el [* al] sapo [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|llamar-Ger-S det|el-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	el niño se subió en una mata [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-S3 adp|en det|uno-Fem-Ind-Art noun|matar-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	el niño se cayó [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+*CHI:	el niño estaba corriendo (...) [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|correr-Ger-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*CHI:	se subió (.) en un animal [* venado] [^c] .
+%mor:	pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-S3 adp|en det|uno-Masc-Ind-Art noun|animal-Masc .
+%gra:	1|2|EXPL-PV 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	el animal [* venado] <lo sum> [/] lo tumbó [^c] .
+%mor:	det|el-Masc-Def-Art noun|animal-Masc pron|él-Prs-Acc-S3 verb|tumbar-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	el niño se cayó en el agua [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art noun|agua-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	el niño le dijo al perro [^c] que (.) se calle [* callara] [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S3 det|al-Masc-Def-Art noun|perro-Masc sconj|que pron|él-Prs-Acc-S3 verb|calle-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|OBL-ARG 4|9|ROOT 5|6|DET 6|4|OBL-ARG 7|9|MARK 8|9|EXPL-PV 9|4|CCOMP 10|4|PUNCT
+*CHI:	el niño con [/] (en)contró los sapos [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|encontrar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|sapo-Masc-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	el niño le(s) dijo adiós [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Dat-P3 verb|decir-Fin-Ind-Past-S3 noun|adiós-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|OBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+@End

@@ -1,0 +1,133 @@
+@UTF8
+@PID:	11312/c-00021437-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@Options:	bullets
+@ID:	spa|Spanish-MiamiBiling|CHI|11;05.|male|||Target_Child|||
+@Media:	22232410, audio
+@Comment:	5th Grade (Age 10 or 11)
+@Comment:	Date is 3-29-1996
+@Tape Location:	FSS96.YW4
+@Transcriber:	YW
+@Types:	cross, narrative, biling
+*CHI:	hay un niño [^c] que: trapó [* atrapó] a un [/] (.) una rana (.) [^c] . 140_3820
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|niño-Masc pron|que-Rel-S1 verb|trapar-Fin-Ind-Past-S3 adp|a det|uno-Fem-Ind-Art noun|rana-Fem .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|5|NSUBJ 5|3|ACL 6|8|CASE 7|8|DET 8|5|OBJ 9|1|PUNCT
+%wor:	hay 140_420 un 420_540 niño 540_880 que 880_1160 trapó 1160_2320 a 2320_2520 un 2520_2800 una 2800_3320 rana 3320_3820 .
+*CHI:	y su perro y él están <m:> [/] mirando (.) al [/] a la rana [^c] . 4320_9100
+%mor:	cconj|y det|su-Def-Prs noun|perro-Masc cconj|y pron|él-Prs-AccNom-S3 aux|estar-Fin-Ind-Pres-P3 verb|mirar-Ger-S adp|a det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|5|CC 5|3|CONJ 6|7|AUX 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBJ 11|7|PUNCT
+%wor:	y 4320_4400 su 4400_4700 perro 4700_5200 y 5200_5720 él 5720_6020 están 6020_6720 m 6720_7240 mirando 7240_7500 al 7500_8020 a 8020_8360 la 8360_8600 rana 8600_9100 .
+*CHI:	el ni [/] niño está dormiendo [* durmiendo] con su perrito (.) [^c] . 10520_16600
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|dormir-Ger-S adp|con det|su-Def-Prs noun|perrito-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	el 10520_13460 ni 13460_13860 niño 13860_13980 está 13980_14780 dormiendo 14780_15620 con 15620_15980 su 15980_16100 perrito 16100_16600 .
+*CHI:	e [/] y la rana (.) está m [/] como [* 0] escapándose [^c] . 17440_20940
+%mor:	cconj|y det|el-Fem-Def-Art noun|rana-Fem verb|estar-Fin-Ind-Pres-S3 sconj|como verb|escapándonar-Ger-S .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|CCOMP 7|4|PUNCT
+%wor:	e 17440_17680 y la 17680_17800 rana 17800_18180 está 18180_19100 m 19100_19620 como 19620_20440 escapándose 20440_20940 .
+*CHI:	um [/] el niño se levantó [^c] y el perrito (.) [^c] . 22540_26980
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|levantar-Fin-Ind-Past-S3 cconj|y det|el-Masc-Def-Art noun|perrito-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|7|ROOT 5|7|CC 6|7|DET 7|4|CONJ 8|4|PUNCT
+%wor:	um 22540_24720 el 24720_25400 niño 25400_25620 se 25620_25820 levantó 25820_26260 y 26260_26420 el 26420_26480 perrito 26480_26980 .
+*CHI:	y vieron [^c] que (.) la rana no (e)stá [^c] . 27440_29600
+%mor:	cconj|y verb|ver-Fin-Ind-Past-P3 sconj|que det|el-Fem-Def-Art noun|rana-Fem adv|no verb|estar-Fin-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|7|MARK 4|5|DET 5|7|NSUBJ 6|7|ADVMOD 7|2|CCOMP 8|2|PUNCT
+%wor:	y 27440_27520 vieron 27520_27740 que 27740_28080 la 28080_28660 rana 28660_28940 no 28940_29100 (e)stá 29100_29600 .
+*CHI:	<ellos están e> [/] el niño y el perro están buscando para [* 0] <la e el> [/] el [* la] rana [^c] . 33490_39710
+%mor:	det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-P3 verb|buscar-Ger-S adp|para det|el-Masc-Def-Art noun|rana-Fem .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|AUX 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+%wor:	ellos 33490_33970 están 33970_34350 e 34350_35130 el niño 35130_35350 y 35350_35490 el 35490_35670 perro 35670_35990 están 35990_36510 buscando 36510_37010 para 37010_37370 la 37370_37710 e 37710_38050 el 38050_38970 el 38970_39210 rana 39210_39710 .
+*CHI:	el niño y el perro salió [* salieron] pa(ra) fuera [^c] <para ver (.) si> [/] (.) para llamar <la ra la> [/] la rana (.) [^c] para ver [^c] si él puede (.) xxx [^c] . 40590_51150
+%mor:	det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|salir-Fin-Ind-Past-S3 adp|para adv|fuera adp|para verb|llamar-Inf-S det|el-Fem-Def-Art noun|rana-Fem adp|para verb|ver-Inf-S sconj|si pron|él-Prs-AccNom-S3 verb|poder-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|17|ROOT 7|8|CASE 8|6|ADVMOD 9|10|MARK 10|6|ADVCL 11|12|DET 12|10|OBJ 13|14|MARK 14|10|ADVCL 15|17|MARK 16|17|NSUBJ 17|14|CCOMP 18|6|PUNCT
+%wor:	el 40590_42630 niño 42630_42930 y 42930_43110 el 43110_43290 perro 43290_43690 salió 43690_44630 pa(ra) 44630_44910 fuera 44910_45130 para 45130_45470 ver 45470_45810 si 45810_46770 para 46770_47490 llamar 47490_47890 la 47890_48070 ra 48070_48570 la la 48570_48690 rana 48690_49030 para 49030_49310 ver 49310_49430 si 49430_50210 él 50210_50650 puede 50650_51150 .
+*CHI:	el perro se cayó [^c] . 83020_83520
+%mor:	det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+%wor:	el perro se cayó 83020_83520 .
+*CHI:	<m se> [/] entonce(s) (.) <el niño (.) xxx el perro (.) xxx> [/] (.) el niño estaba llamando (.) a la rana (.) [^c] . 58060_75120
+%mor:	adv|entonces det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|llamar-Ger-S adp|a det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBJ 9|5|PUNCT
+%wor:	m 58060_58420 se entonce(s) el niño 58420_58660 xxx 58660_60920 el 60920_63400 perro 63400_64180 xxx 64180_67720 el 67720_73040 niño 73040_73340 estaba 73340_73680 llamando 73680_74180 a 74180_74480 la 74480_74620 rana 74620_75120 .
+*CHI:	y el perrito estaba mirando a los pájaro(s) (.) [^c] . 76060_78340
+%mor:	cconj|y det|el-Masc-Def-Art noun|perrito-Masc aux|estar-Fin-Ind-Imp-S3 verb|mirar-Ger-S adp|a det|el-Masc-Def-Art noun|pájaro-Masc-Plur .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBJ 9|5|PUNCT
+%wor:	y 76060_76140 el 76140_76340 perrito 76340_76760 estaba 76760_77100 mirando 77100_77540 a 77540_77720 los 77720_77840 pájaro(s) 77840_78340 .
+*CHI:	el niño estaba buscando para [* 0] el [* la] rana [/] rana (.) [^c] . 82020_85140
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|buscar-Ger-S adp|para det|el-Masc-Def-Art noun|rana-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	el 82020_82400 niño 82400_82600 estaba 82600_82900 buscando 82900_83360 para 83360_83700 el 83700_84020 rana 84020_84640 rana 84640_85140 .
+*CHI:	0y el perro estaba (.) bincando [* brincando] (.) a [* hacia] una(s) abeja(s) [^c] . 85720_91100
+%mor:	det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Imp-S3 verb|bincar-Ger-S adp|a det|uno-Fem-Ind-Art noun|abejas-Fem-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	el 85720_86300 perro 86300_86520 estaba 86520_86900 bincando 86900_87820 a 87820_89700 una(s) 89700_90600 abeja(s) 90600_91100 .
+*CHI:	<el niño> [/] (.) el niño ve a u:n squirrel [* una ardilla] [^c] . 91940_96460
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|ver-Fin-Ind-Pres-S3 adp|a det|uno-Masc-Ind-Art noun|squirrel-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	el 91940_93900 niño 93900_94180 el 94180_95140 niño 95140_95400 ve 95400_95600 a 95600_95700 un 95700_95960 squirrel 95960_96460 .
+*CHI:	y el perro está m [/] (.) jugando con lo [/] la abeja [^c] . 100320_103980
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 verb|jugar-Ger-S adp|con det|el-Fem-Def-Art noun|abeja-Fem .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	y 100320_100520 el 100520_100560 perro 100560_100900 está 100900_101200 m 101200_101520 jugando 101520_102520 con 102520_102840 lo 102840_103140 la 103140_103480 abeja 103480_103980 .
+*CHI:	el niño e [/] estaba (.) buscando otra vez para [* 0] [^ su perrito I mean e] la rana [^c] y el perrito (.) también [^c] . 109340_121800
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|buscar-Ger-S det|otro-Fem-Def-Ind noun|vez-Fem adp|para det|el-Fem-Def-Art noun|rana-Fem cconj|y det|el-Masc-Def-Art noun|perrito-Masc adv|también .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|6|DET 6|4|OBL 7|9|CASE 8|9|DET 9|4|OBL 10|12|CC 11|12|DET 12|9|CONJ 13|4|ADVMOD 14|4|PUNCT
+%wor:	el 109340_109940 niño 109940_109960 e 109960_110260 estaba 110260_111240 buscando 111240_116440 otra 116440_116900 vez 116900_117180 para 117180_117340 la 117340_117580 rana 117580_119900 y 119900_120680 el 120680_120860 perrito 120860_121300 también 121300_121800 .
+*CHI:	él estaba jugando con [/] con la abeja (.) [^c] . 122520_125600
+%mor:	pron|él-Prs-AccNom-S3 aux|estar-Fin-Ind-Imp-S3 verb|jugar-Ger-S adp|con det|el-Fem-Def-Art noun|abeja-Fem .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	él 122520_122700 estaba 122700_123040 jugando 123040_123560 con 123560_123920 con 123920_125080 la 125080_125100 abeja 125100_125600 .
+*CHI:	m [/] (.) el niño se resbaló [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|resbalar-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+*CHI:	y se cayó en el piso [^c] . 138960_140700
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art noun|piso-Masc .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	y 138960_139180 se 139180_139280 cayó 139280_139740 en 139740_140000 el 140000_140200 piso 140200_140700 .
+*CHI:	y <el (.) perrito la abeja estaban> [/] (.) el perrito está (.) m [/] corriendo [* huyendo] de las abejas [^c] . 140660_148580
+%mor:	cconj|y det|el-Masc-Def-Art noun|perrito-Masc aux|estar-Fin-Ind-Pres-S3 verb|correr-Ger-S adp|de det|el-Fem-Def-Art noun|abejas-Fem-Plur .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	y 140660_140760 el 140760_141160 perrito 141160_141920 la 141920_142640 abeja 142640_143160 estaban 143160_144040 el 144040_145320 perrito 145320_145680 está 145680_145980 m 145980_146160 corriendo 146160_147480 de 147480_147920 las 147920_148080 abejas 148080_148580 .
+*CHI:	<el niño está m (...) oh (.) oh> [/] el niño está caminando [^c] . 167260_170840
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|caminar-Ger-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	el niño está m oh oh 167260_169740 el 169740_169960 niño 169960_170020 está 170020_170340 caminando 170340_170840 .
+*CHI:	<el niño> [/] (...) el perrito está <m (.) um> [/] (.) buscando <para su (.) dea el> [/] la rana [^c] . 177740_194900
+%mor:	det|el-Masc-Def-Art noun|perrito-Masc aux|estar-Fin-Ind-Pres-S3 verb|buscar-Ger-S det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	el 177740_178100 niño 178100_178360 el 178360_186080 perrito 186080_186660 está 186660_187060 m 187060_188900 um buscando 188900_190140 para 190140_190720 su 190720_191120 dea 191120_193340 el 193340_193900 la 193900_194400 rana 194400_194900 .
+*CHI:	y el niño está encarama(d)o de [* en] un (.) deer [/] deer [* venado] xxx (...) [^c] . 198360_202100
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 adj|encaramado-Pos-S1 adp|de det|uno-Masc-Ind-Art noun|deer-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|COP 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	y 198360_198640 el niño 198640_198900 está 198900_199100 encarama(d)o 199100_199940 de 199940_200040 un 200040_200380 deer 200380_201600 deer 201600_202100 .
+*CHI:	el niño se cayó (.) [^c] y el perrito también entre la [* dentro del] agua [^c] . 202400_214480
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 cconj|y det|el-Masc-Def-Art noun|perrito-Masc adv|también adp|entre det|el-Fem-Def-Art noun|agua-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|11|ROOT 5|7|CC 6|7|DET 7|4|CONJ 8|7|ADVMOD 9|8|CASE 10|11|DET 11|8|NMOD 12|4|PUNCT
+%wor:	el 202400_205760 niño 205760_208740 se 208740_208980 cayó 208980_209400 y 209400_209620 el 209620_209780 perrito 209780_210160 también 210160_210700 entre 210700_213760 la 213760_213980 agua 213980_214480 .
+*CHI:	el niño [* se] e [/] está burlando [/] burlando de xxx [^c] . 216900_226660
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|burlar-Ger-S adp|de .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|PUNCT 6|4|PUNCT
+%wor:	el 216900_217180 niño 217180_217480 e 217480_218040 está 218040_219560 burlando 219560_220040 burlando 220040_226160 de 226160_226660 .
+*CHI:	ahora <el niño y el perro (.) el niño y y el perro estaban dor um> [/] (.) el niño está deciendo [* diciendo ?] al perrito [^c] que se calle [^c] . 222570_241650
+%mor:	adv|ahora det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|decir-Ger-S det|al-Masc-Def-Art noun|perrito-Masc pron|que-Rel-S1 pron|él-Prs-Acc-S3 verb|calle-Fin-Ind-Pres-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|NSUBJ 9|10|EXPL-PASS 10|7|ACL 11|5|PUNCT
+%wor:	ahora 222570_223070 el 223070_223410 niño 223410_223670 y 223670_223830 el 223830_223990 perro 223990_224310 el 224310_229250 niño 229250_229530 y 229530_229650 y 229650_230250 el 230250_230430 perro 230430_231030 estaban 231030_232450 dor 232450_233210 um 233210_233470 el 233470_238710 niño 238710_239010 está 239010_239450 deciendo 239450_239870 al 239870_240090 perrito 240090_240690 que 240690_241090 se 241090_241150 calle 241150_241650 .
+*CHI:	<hay o> [/] ahora ellos <(e)staban en encarama(d)o(s) de u:n (.) una (.) una (.) (es)taban encarama> [/] estaban encarama(d)o(s) <de u:n (...) un xxx oh> [/] de [* en] un árbol [* tronco] [^c] . 244280_274760
+%mor:	adv|ahora pron|él-Prs-AccNom-P3 aux|estar-Fin-Ind-Imp-P3 adj|encaramado-Pos-P1 adp|de det|uno-Masc-Ind-Art noun|árbol-Masc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	hay 244280_244660 o ahora 244660_244780 ellos 244780_245240 (e)staban 245240_245520 en 245520_246080 encarama(d)o(s) 246080_246960 de 246960_247060 un 247060_247500 una 247500_248300 una 248300_250760 (es)taban 250760_258460 encarama 258460_259000 estaban 259000_261400 encarama(d)o(s) 261400_268440 de 268440_269680 un un 269680_272040 xxx 272040_272580 oh 272580_273360 de 273360_274180 un 274180_274260 árbol 274260_274760 .
+*CHI:	y <cuando se> [/] (.) cuando ellos están (.) al <lado (.) el la> [/] otra [* otro] lado <de el de el> [/] del árbol [* tronco] (.) [^c] ellos <vien de> [/] ven <a los> [/] a los rana [* las ranas] [^c] um [/] (.) besando [* besandose] [^c] . 275490_288830
+%mor:	cconj|y sconj|cuando pron|él-Prs-AccNom-P3 aux|estar-Fin-Ind-Pres-P3 adp|al det|otro-Fem-Def-Ind noun|lado-Masc adp|del noun|árbol-Masc pron|él-Prs-AccNom-P3 verb|ver-Fin-Ind-Pres-P3 adp|a det|el-Masc-Def-Art noun|rana-Fem verb|besar-Ger-S .
+%gra:	1|11|ADVMOD 2|4|MARK 3|4|NSUBJ 4|7|COP 5|7|DET 6|5|DET 7|11|ADVCL 8|9|CASE 9|7|NMOD 10|11|NSUBJ 11|15|ROOT 12|14|CASE 13|14|DET 14|11|OBJ 15|11|ADVCL 16|11|PUNCT
+%wor:	y 275490_275930 cuando se 275930_276310 cuando 276310_277370 ellos 277370_277750 están 277750_278230 al 278230_279010 lado 279010_279330 el 279330_280970 la 280970_281230 otra 281230_281450 lado 281450_281810 de 281810_282050 el 282050_282770 de 282770_283190 el 283190_283350 del árbol 283350_283690 ellos 283690_284690 vien 284690_285050 de 285050_285310 ven 285310_285770 a 285770_286190 los 286190_286730 a los rana 286730_287130 um 287130_288330 besando 288330_288830 .
+*CHI:	y ahora ellos estaban viendo [* a] <lo(s) lo(s) (.) lo(s) ranacit los xxx ranacitos de los> [/] los babies [* bebés] 0de los [* las] rana(s) [^c] . 291050_303050
+%mor:	cconj|y adv|ahora pron|él-Prs-AccNom-P3 aux|estar-Fin-Ind-Imp-P3 verb|ver-Ger-S det|el-Masc-Def-Art noun|babie-Masc-Plur det|el-Masc-Def-Art noun|rana-Fem-Plur .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|DET 9|5|OBJ 10|5|PUNCT
+%wor:	y 291050_291270 ahora 291270_291750 ellos 291750_292170 estaban 292170_292510 viendo 292510_292890 lo(s) 292890_294410 lo(s) 294410_294670 lo(s) 294670_295010 ranacit 295010_295550 los 295550_296230 xxx 296230_297230 ranacitos 297230_297710 de 297710_298330 los 298330_298690 los 298690_298850 babies los 298850_302550 rana(s) 302550_303050 .
+*CHI:	<ellos están m dejame ver> [/] (.) ahora ellos están nadando [^c] para irse pa(ra) su casa [^c] . 331800_344620
+%mor:	adv|ahora pron|él-Prs-AccNom-P3 aux|estar-Fin-Ind-Pres-P3 verb|nadar-Ger-S adp|para verb|ir-Inf-S adp|para det|su-Def-Prs noun|casa-Fem .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|MARK 6|4|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+%wor:	ellos 331800_343040 están 343040_343060 m dejame ver ahora ellos están nadando 343060_343200 para irse pa(ra) 343200_344120 su casa 344120_344620 .
+@End

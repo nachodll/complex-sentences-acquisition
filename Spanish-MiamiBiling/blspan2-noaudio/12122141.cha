@@ -1,0 +1,87 @@
+@UTF8
+@PID:	11312/c-00021290-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|7;08.|female|||Target_Child|||
+@Comment:	2nd Grade (Age 7 or 8)
+@Comment:	Date is 11-13-1995
+@Tape Location:	FSF95.ER2
+@Transcriber:	ERodriguez
+@Types:	cross, narrative, biling
+*CHI:	un día había un (.) niño y un perro y un sapo [^c] .
+%mor:	det|uno-Masc-Ind-Art noun|día-Masc verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art noun|niño-Masc cconj|y det|uno-Masc-Ind-Art noun|perro-Masc cconj|y det|uno-Masc-Ind-Art noun|sapo-Masc .
+%gra:	1|2|DET 2|3|OBL 3|11|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CC 10|11|DET 11|5|CONJ 12|3|PUNCT
+*CHI:	y (.) ha [/] cuando de [/] despertó [^c] el sapo estaba adentro de un vaso [^c] .
+%mor:	cconj|y sconj|cuando verb|despertar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|sapo-Masc aux|estar-Fin-Ind-Imp-S3 adv|adentro adp|de det|uno-Masc-Ind-Art noun|vaso-Masc .
+%gra:	1|6|ADVMOD 2|3|MARK 3|6|ADVCL 4|5|DET 5|3|OBJ 6|10|ROOT 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|6|PUNCT
+*CHI:	y <de fueron> [/] cuando ya era de noche [^c] se fueron a dormir [^c] .
+%mor:	cconj|y sconj|cuando adv|ya aux|ser-Fin-Ind-Imp-S3 adp|de noun|noche-Fem pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-P3 adp|a verb|dormir-Inf-S .
+%gra:	1|8|ADVMOD 2|6|MARK 3|6|ADVMOD 4|6|COP 5|6|CASE 6|8|ADVCL 7|10|EXPL-PV 8|10|ROOT 9|10|MARK 10|8|XCOMP 11|8|PUNCT
+*CHI:	y (.) dentró [* entró] el sapo al vaso [^c] .
+%mor:	cconj|y verb|dentrar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|sapo-Masc adp|al noun|vaso-Masc .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|2|OBL 7|2|PUNCT
+*CHI:	y despué(s) cuando se despertó [^c] se fue el sapo del vaso [^c] .
+%mor:	cconj|y adv|después sconj|cuando pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Past-S3 pron|él-Prs-Acc-S3 aux|ser-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|sapo-Masc adp|del noun|vaso-Masc .
+%gra:	1|7|ADVMOD 2|7|ADVMOD 3|5|MARK 4|5|EXPL-PV 5|2|ADVCL 6|7|EXPL-PV 7|11|ROOT 8|9|DET 9|7|NSUBJ 10|11|CASE 11|9|NMOD 12|7|PUNCT
+*CHI:	<so le (.) pu> [/] El niño le [* se] despertó [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Dat-S3 verb|despertar-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	y le [* se] puso su ropa [^c] para ir a buscarlo [^c] .
+%mor:	cconj|y pron|él-Prs-Dat-S3 verb|poner-Fin-Ind-Past-S3 det|su-Def-Prs noun|ropa-Fem adp|para verb|ir-Inf-S adp|a verb|buscar-Inf-S .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|9|MARK 9|7|XCOMP 10|3|PUNCT
+*CHI:	y el perro también [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|también .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	y (.) fueron [^c] .
+%mor:	cconj|y aux|ser-Fin-Ind-Past-P3 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	y despué(s) em gritaron +"/.
+%mor:	cconj|y adv|después adv|em verb|gritar-Fin-Ind-Past-P3 +"/.
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	+" sapo [^c] .
+%mor:	noun|sapo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y [/] (.) y buscaron buscaron [^c] .
+%mor:	cconj|y verb|buscar-Fin-Ind-Past-P3 verb|buscar-Fin-Ind-Past-P3 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*CHI:	pero no lo podían buscar [* encontrar] [^c] .
+%mor:	cconj|pero adv|no pron|él-Prs-Acc-S3 aux|poder-Fin-Ind-Imp-P3 verb|buscar-Inf-S .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|OBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	so [* 0] <despué(s)> [/] (.) despué(s) había un deer [* venado] [^c] que le [* lo] llevaban [* llevaba] [^c] adonde estaban [^c] .
+%mor:	adv|so adv|después verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art noun|deer-Masc pron|que-Rel-S1 pron|él-Prs-Dat-S3 verb|llevar-Fin-Ind-Imp-P3 sconj|adonde verb|estar-Fin-Ind-Imp-P3 .
+%gra:	1|2|ADVMOD 2|3|ADVMOD 3|10|ROOT 4|5|DET 5|3|OBJ 6|8|OBJ 7|8|OBJ 8|5|ACL 9|10|MARK 10|8|ADVCL 11|3|PUNCT
+*CHI:	so [* entonces] le [* se] fue [^c] .
+%mor:	adv|so pron|él-Prs-Dat-S3 aux|ser-Fin-Ind-Past-S3 .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	y le [* se] cayó [* cayeron] el niño y el perro [^c] .
+%mor:	cconj|y pron|él-Prs-Dat-S3 verb|caer-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|8|ROOT 4|5|DET 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|3|PUNCT
+*CHI:	<y despué(s) (.) le> [/] y despué(s) le [* se] callaron [/] cayeron en la [* el] agua [^c] .
+%mor:	cconj|y adv|después pron|él-Prs-Dat-S3 verb|caer-Fin-Ind-Past-P3 adp|en det|el-Fem-Def-Art noun|agua-Fem .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	y despué(s) (.) vio una cosa (.) [^c] .
+%mor:	cconj|y adv|después verb|ver-Fin-Ind-Past-S3 det|uno-Fem-Ind-Art noun|cosa-Fem .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	y fue allá [^c] .
+%mor:	cconj|y aux|ser-Fin-Ind-Past-S3 adv|allá .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	y encontró am [/] la [* al] papá y [* a] la mamá y a todo(s) los sapos [^c] .
+%mor:	cconj|y verb|encontrar-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|papá-Fem cconj|y det|el-Fem-Def-Art noun|mamá-Fem cconj|y adp|a det|todo-Masc-Def-Tot det|el-Masc-Def-Art noun|sapo-Masc-Plur .
+%gra:	1|2|ADVMOD 2|12|ROOT 3|4|DET 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|12|CC 9|12|CASE 10|11|DET 11|12|DET 12|4|CONJ 13|2|PUNCT
+*CHI:	y despué(s) le dio [* dijo] +"/.
+%mor:	cconj|y adv|después pron|él-Prs-Dat-S3 verb|dar-Fin-Ind-Past-S3 +"/.
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	+" hi [* hola] [^c] .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y despué(s) le [* se] llevo al [* un] sapo [^c] .
+%mor:	cconj|y adv|después pron|él-Prs-Dat-S3 verb|llevar-Fin-Ind-Pres-S1 det|al-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	y despué(s) dijo +"/.
+%mor:	cconj|y adv|después verb|decir-Fin-Ind-Past-S3 +"/.
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	+" bye [* adiós] [^c] .
+%mor:	intj|bye .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/c-00020566-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiBiling|CHI|11;00.|female|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Tape Location:	FS2S95.YW
+@Comment:	Date is 1-12-95
+@Transcriber:	YW
+@Types:	cross, narrative, TD
+*CHI:	<the do the dog was> [/] the dog was covering the jar (...) [^c] .
+%mor:	det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr verb|cover-Part-Pres-S det|the-Def-Art noun|jar-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and then that [/] (.) the [% that?] night when the boy was sleeping [^c] since the dog wasn't covering the jar [^c] the frog out up by [% ??] the morning [^c] .
+%mor:	cconj|and adv|then det|the-Def-Art noun|night adv|when det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr verb|sleep-Part-Pres-S sconj|since det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr~part|not verb|cover-Part-Pres-S det|the-Def-Art noun|jar-Acc det|the-Def-Art noun|frog-Acc adp|out adp|up adp|by det|the-Def-Art noun|morning-Ger .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|24|ROOT 5|9|ADVMOD 6|7|DET 7|9|NSUBJ 8|9|AUX 9|4|ADVCL 10|15|MARK 11|12|DET 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|9|ADVCL 16|17|DET 17|15|OBJ 18|19|DET 19|15|OBJ 20|15|COMPOUND-PRT 21|15|COMPOUND-PRT 22|24|CASE 23|24|DET 24|15|OBL 25|4|PUNCT
+*CHI:	the boy saw [^c] that the frog got out [^c] .
+%mor:	det|the-Def-Art noun|boy verb|see-Fin-Ind-Past-S3-irr sconj|that det|the-Def-Art noun|frog verb|get-Fin-Ind-Past-S3-irr adp|out .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|7|MARK 5|6|DET 6|7|NSUBJ 7|3|CCOMP 8|7|COMPOUND-PRT 9|3|PUNCT
+*CHI:	and then he started to look for it by [% in] his room (...) [^c] .
+%mor:	cconj|and adv|then pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 part|to verb|look-Inf-S adp|for pron|it-Prs-Acc-S3 adp|by pron|his-Prs-Gen-S3 noun|room .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|11|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|4|PUNCT
+*CHI:	then they went outside by [% through?] the window [^c] and [/] and [% he] was calling by [% 0] their [% its] name (...) [^c] .
+%mor:	adv|then pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adv|outside adp|by det|the-Def-Art noun|window cconj|and aux|be-Fin-Ind-Past-S3-irr verb|call-Part-Pres-S adp|by pron|their-Prs-Gen-P3 noun|name .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|13|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|10|CC 9|10|AUX 10|3|CONJ 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|3|PUNCT
+*CHI:	and they [/] they went by the window [^c] and [/] and 0started at the boy [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|by det|the-Def-Art noun|window cconj|and adp|at det|the-Def-Art noun|boy .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|10|CC 8|10|CASE 9|10|DET 10|6|CONJ 11|3|PUNCT
+*CHI:	the dog had the jar on his window [^c] .
+%mor:	det|the-Def-Art noun|dog verb|have-Fin-Ind-Past-S3-irr det|the-Def-Art noun|jar-Acc adp|on pron|his-Prs-Gen-S3 noun|window .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+*CHI:	<and (...) and it> [/] and when they went down [^c] it broke [^c] .
+%mor:	cconj|and adv|when pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|down pron|it-Prs-Acc-S3 verb|break-Fin-Ind-Past-S3-irr .
+%gra:	1|7|CC 2|4|ADVMOD 3|4|NSUBJ 4|7|ADVCL 5|4|COMPOUND-PRT 6|7|NSUBJ 7|7|ROOT 8|7|PUNCT
+*CHI:	and they [/] they started looking for him (...) [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|start-Fin-Ind-Past-P3 verb|look-Ger-S adp|for pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|3|XCOMP 5|6|CASE 6|4|OBL 7|3|PUNCT
+*CHI:	they [/] the boy looked &-um [/] in a hole [^c] where there was dirt [^c] .
+%mor:	det|the-Def-Art noun|boy verb|look-Fin-Ind-Past-S3 adp|in det|a-Ind-Art noun|hole adv|where pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr noun|dirt .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|ADVMOD 8|9|EXPL 9|6|ACL-RELCL 10|9|NSUBJ 11|3|PUNCT
+*CHI:	and the dog looked in <where the honey bees the honey maker> [/] the honey 0comb [^c] .
+%mor:	cconj|and det|the-Def-Art noun|dog verb|look-Fin-Ind-Past-S3 adp|in det|the-Def-Art noun|honey .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	and <they a a> [/] bees came <out on> [/] out of the [% honey] comb [^c] .
+%mor:	cconj|and noun|bee-Plur verb|come-Fin-Ind-Past-P3-irr adp|out adp|of det|the-Def-Art noun|comb .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|4|FIXED 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	and a beaver came out of the hole [^c] .
+%mor:	cconj|and det|a-Ind-Art noun|beaver verb|come-Fin-Ind-Past-S3-irr adp|out adp|of det|the-Def-Art noun|hole .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|8|CASE 6|5|FIXED 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	then the boy looked inside [^c] .
+%mor:	adv|then det|the-Def-Art noun|boy verb|look-Fin-Ind-Past-S3 adv|inside .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	xxx there [/] there was &-um [/] an owl in it [^c] that scareded [: scared] [* m:++ed] it [^c] .
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|owl adp|in pron|it-Prs-Acc-S3 pron|that-Rel verb|scare-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|EXPL 2|9|ROOT 3|4|DET 4|2|NSUBJ 5|6|CASE 6|4|NMOD 7|8|NSUBJ 8|4|ACL-RELCL 9|8|OBJ 10|2|PUNCT
+*CHI:	and the bees were chasing the dog (...) [^c] .
+%mor:	cconj|and det|the-Def-Art noun|bee-Plur aux|be-Fin-Ind-Past-P3-irr verb|chase-Part-Pres-S det|the-Def-Art noun|dog-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	and then the owl <was fo was fo> [/] was following the boy (...) [^c] .
+%mor:	cconj|and adv|then det|the-Def-Art noun|owl aux|be-Fin-Ind-Past-S3-irr verb|follow-Part-Pres-S det|the-Def-Art noun|boy-Acc .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*CHI:	and then the boy started talking to the rock [^c] and holding [^c] [^ portion missing] .
+%mor:	cconj|and adv|then det|the-Def-Art noun|boy verb|start-Fin-Ind-Past-S3 verb|talk-Ger-S adp|to det|the-Def-Art noun|rock cconj|and noun|hold-Ger .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|11|ROOT 6|5|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|11|CC 11|9|CONJ 12|5|PUNCT
+@End

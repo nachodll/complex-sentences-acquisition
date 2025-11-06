@@ -1,0 +1,3467 @@
+@UTF8
+@PID:	11312/a-00060134-1
+@Begin
+@Languages:	eng, spa
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	bullets
+@ID:	eng|Hoff|MOT|||||Mother|||
+@ID:	eng|Hoff|CHI|2;06.|male|||Target_Child|||
+@Media:	001, video
+@Date:	03-JAN-2011
+@Situation:	Animal toys
+@Transcriber:	AF
+@Time Duration:	00:00-10:07
+@Types:	cross, toyplay, TD
+*MOT:	do you feel it ? 0_2134
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|feel-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	what do you think that is &=points ? 2134_3495
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|that-Rel aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	was that water ? 3495_6006
+%mor:	aux|be-Fin-Ind-Past-S3-irr det|that-Def-Dem-Sing noun|water ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	hey look .
+%mor:	intj|hey verb|look-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%com:	gasps . 6006_7912
+*MOT:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	spider .
+%mor:	noun|spider .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	spider . 7912_12070
+%mor:	noun|spider .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	who's afraid of spiders ?
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 adj|afraid-S1 adp|of noun|spider-Plur ?
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	daddy .
+%mor:	noun|daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	daddy .
+%mor:	noun|daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's right . 12070_16878
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	do you want to put the spider <on the> [/] on the land somewhere &=points ? 16878_20534
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|put-Inf-S det|the-Def-Art noun|spider-Acc adp|on det|the-Def-Art noun|land adv|somewhere ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|ADVMOD 12|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	where do you think the spider goes ?
+%mor:	adv|where aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S det|the-Def-Art noun|spider verb|go-Fin-Ind-Pres-S3 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|6|DET 6|7|NSUBJ 7|4|CCOMP 8|4|PUNCT
+*CHI:	+< 0 [=! places toy] . 20534_23478
+*MOT:	right there ? 23478_25030
+%mor:	adv|right adv|there ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	what color is this &=points ? 25030_26790
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	red .
+%mor:	adj|red-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's green .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|green-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%com:	enunciates the g sound before saying green .
+*MOT:	what color is this &=points ? 26790_31750
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	green too .
+%mor:	adj|green-S1 adv|too .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%com:	child articulates the g sound before saying green as the mother did before causing mother to laugh .
+*MOT:	+< that's green &=points .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|green-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	that's blue &=points .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|blue-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	what's this ? 31750_35910
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	seal .
+%mor:	noun|seal .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	seal .
+%mor:	noun|seal .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what does a seal say ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 det|a-Ind-Art noun|seal verb|say-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	0 [=! seal sounds] .
+*MOT:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%com:	mother gasps .
+*MOT:	Jack look at these . 35910_43737
+%mor:	propn|Jack verb|look-Fin-Imp-S adp|at pron|this-Dem-P1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*MOT:	what are these ? 43737_45177
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|this-Dem-P1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	fence .
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	fence .
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you want to set up the fence ? 45177_48729
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|set-Inf-S adp|up det|the-Def-Art noun|fence-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|8|DET 8|5|OBJ 9|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's set up the fence . 48729_50969
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|set-Inf-S adp|up det|the-Def-Art noun|fence-Acc .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|1|PUNCT
+*MOT:	can you do it ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|do-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	look it .
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	they lock together . 50969_54681
+%mor:	pron|they-Prs-Nom-P3 verb|lock-Fin-Ind-Pres-P3 adv|together .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MOT:	let's set up the fence . 54681_59354
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|set-Inf-S adp|up det|the-Def-Art noun|fence-Acc .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|1|PUNCT
+*MOT:	do you want to see +...
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|see-Inf-S +...
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you want to see what's in the bag ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|see-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|bag ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|10|COP 8|10|CASE 9|10|DET 10|6|ACL-RELCL 11|3|PUNCT
+*CHI:	xxx .
+*MOT:	+< that we can put inside the fence . 59354_63146
+%mor:	sconj|that pron|we-Prs-Nom-P1 aux|can-Fin-S verb|put-Inf-S adp|inside det|the-Def-Art noun|fence .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let me have this piece . 63146_64504
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|have-Inf-S det|this-Def-Dem-Sing noun|piece-Acc .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that .
+%mor:	pron|that-Dem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what is that ? 64504_68730
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	octopus .
+%mor:	noun|octopus .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	octopus . 68730_71778
+%mor:	noun|octopus .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	where does the octopus live ? 71778_73626
+%mor:	adv|where aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|octopus verb|live-Inf-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	at home .
+%mor:	adp|at noun|home .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	at home ?
+%mor:	adp|at noun|home ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	where is the octopus' home ? 73626_77354
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|octopus~x|' noun|home ?
+%gra:	1|6|ROOT 2|1|COP 3|4|DET 4|6|COMPOUND 5|4|PUNCT 6|1|NSUBJ 7|1|PUNCT
+*MOT:	does he live on a farm ? 77354_80265
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|live-Inf-S adp|on det|a-Ind-Art noun|farm ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	does an octopus live on a farm ?
+%mor:	aux|do-Fin-Ind-Pres-S3 det|a-Ind-Art noun|octopus verb|live-Inf-S adp|on det|a-Ind-Art noun|farm ?
+%gra:	1|4|AUX 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no . 80265_85277
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	does he live in a school ?
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|live-Inf-S adp|in det|a-Ind-Art noun|school ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	+< at home . 85277_89901
+%mor:	adp|at noun|home .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	he lives at home ?
+%mor:	pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Pres-S3 adp|at noun|home ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*MOT:	where is the octopus' home ? 89901_92125
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|octopus~x|' noun|home ?
+%gra:	1|6|ROOT 2|1|COP 3|4|DET 4|6|COMPOUND 5|4|PUNCT 6|1|NSUBJ 7|1|PUNCT
+*MOT:	in the sky ?
+%mor:	adp|in det|the-Def-Art noun|sky ?
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	no . 92125_96670
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	in the water ?
+%mor:	adp|in det|the-Def-Art noun|water ?
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	no . 96670_98781
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yes . 98781_100439
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at that &=points . 100439_102823
+%mor:	verb|look-Fin-Imp-S adp|at pron|that-Dem .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what animal is that ? 102823_105271
+%mor:	det|what-Def-Int noun|animal aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< what is this ? 105271_107847
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's a giraffe .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|giraffe .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	giraffe . 107847_112391
+%mor:	noun|giraffe .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	we've seen giraffes .
+%mor:	pron|we-Prs-Nom-P1~aux|have-Fin-Ind-Pres-P1 verb|see-Part-Past-S-irr noun|giraffe-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	haven't we ? 112391_114311
+%mor:	aux|have-Fin-Ind-Pres-P1~part|not pron|we-Prs-Nom-P1 ?
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|1|PUNCT
+*MOT:	at the zoo .
+%mor:	adp|at det|the-Def-Art noun|zoo .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	cactus . 114311_117751
+%mor:	noun|cactus .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	cactus .
+%mor:	noun|cactus .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother laughs .
+*MOT:	how did you know that ? 117751_120999
+%mor:	adv|how aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|know-Inf-S pron|that-Dem ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	<are cactus> [//] are they soft ?
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adj|soft-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	or are they sharp ? 120999_125031
+%mor:	cconj|or aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adj|sharp-S1 ?
+%gra:	1|4|CC 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	sharp .
+%mor:	adj|sharp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	they are !
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 !
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	remember when you touch them go ouch . 125031_128418
+%mor:	verb|remember-Fin-Imp-S adv|when pron|you-Prs-Nom-S2 verb|touch-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 verb|go-Inf-S adv|ouch .
+%gra:	1|7|ROOT 2|4|ADVMOD 3|4|NSUBJ 4|1|ADVCL 5|4|OBJ 6|4|XCOMP 7|6|ADVMOD 8|1|PUNCT
+%com:	child tries to touch toy .
+*MOT:	ouch . 128418_131474
+%mor:	intj|ouch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ouch . 131474_132914
+%mor:	intj|ouch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that one's not sharp .
+%mor:	sconj|that pron|one-Prs-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|sharp-S1 .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	that's just play . 132914_136016
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just noun|play .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	what's this ? 136016_139750
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*MOT:	you took something out of the bag .
+%mor:	pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Past-S2-irr pron|something-Ind-S1 adp|out adp|of det|the-Def-Art noun|bag .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|7|CASE 5|4|FIXED 6|7|DET 7|2|OBL 8|2|PUNCT
+*MOT:	what's that one ? 139750_142112
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|one ?
+%gra:	1|4|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	bear .
+%mor:	noun|bear .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	the bear . 142112_144721
+%mor:	det|the-Def-Art noun|bear .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	let's put the bear here .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S det|the-Def-Art noun|bear-Acc adv|here .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|1|PUNCT
+*MOT:	let's put everything that goes on land in there .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S pron|everything-Tot-S1 pron|that-Rel verb|go-Fin-Ind-Pres-S3 adp|on noun|land adp|in adv|there .
+%gra:	1|10|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|8|CASE 8|6|OBL 9|10|CASE 10|6|OBL 11|1|PUNCT
+*CHI:	+< bear . 144721_148750
+%mor:	noun|bear .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and <look at all> [//] look at the starfish .
+%mor:	cconj|and verb|look-Fin-Imp-S adp|at det|the-Def-Art noun|starfish .
+%gra:	1|2|CC 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*MOT:	and the seal .
+%mor:	cconj|and det|the-Def-Art noun|seal .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	and the octopus go in the water . 148750_152813
+%mor:	cconj|and det|the-Def-Art noun|octopus verb|go-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|water .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*MOT:	what do you think that is ? 152813_154461
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|that-Rel aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+*CHI:	lamb .
+%mor:	propn|lamb .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	a what ? 154461_157151
+%mor:	det|a-Ind-Art pron|what-Int-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	lamb .
+%mor:	propn|lamb .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	a lamb ? 157151_159000
+%mor:	adp|a propn|lamb ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	kind of looks like a llama . 159000_161636
+%mor:	noun|kind adp|of verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|llama .
+%gra:	1|3|ADVMOD 2|1|FIXED 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	llama .
+%mor:	verb|llamar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	llama . 161636_163348
+%mor:	verb|llamar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's this ? 163348_165876
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	penguins .
+%mor:	noun|penguin-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	penguins .
+%mor:	noun|penguin-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mommy loves penguins .
+%mor:	propn|mommy verb|love-Fin-Ind-Pres-S3 noun|penguin-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	don't I ? 165876_169800
+%mor:	aux|do-Fin-Imp-S~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mommy loves penguins too .
+%mor:	propn|mommy verb|love-Fin-Ind-Pres-S3 noun|penguin-Plur-Acc adv|too .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*MOT:	+< I do . 169800_172447
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	your daddy loves penguins ? 172447_174334
+%mor:	pron|your-Prs-Gen-S2 noun|daddy verb|love-Fin-Ind-Pres-S3 noun|penguin-Plur-Acc ?
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what is that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	shark . 174334_177279
+%mor:	noun|shark .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	a shark ? 177279_178900
+%mor:	det|a-Ind-Art noun|shark ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's an eel . 178900_180702
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|eel .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	eel .
+%mor:	noun|eel .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< where does the eel go ?
+%mor:	adv|where aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|eel verb|go-Inf-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*MOT:	do you know if the eel goes on the land &=points ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S sconj|if det|the-Def-Art noun|eel verb|go-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|land ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|7|MARK 5|6|DET 6|7|NSUBJ 7|3|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|3|PUNCT
+*MOT:	or in the water &=points ? 180702_185199
+%mor:	cconj|or adp|in det|the-Def-Art noun|water ?
+%gra:	1|4|CC 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	water .
+%mor:	noun|water .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	good boy . 185199_186736
+%mor:	adj|good-S1 noun|boy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	here let's put .
+%mor:	adv|here verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*MOT:	there we go . 186736_188761
+%mor:	pron|there-Int-S1 pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	put him in the water with all of our water animals .
+%mor:	verb|put-Fin-Imp-S pron|he-Prs-Acc-S3 adp|in det|the-Def-Art noun|water adp|with det|all-Def-Tot adp|of pron|our-Prs-Gen-P1 noun|water noun|animal-Plur .
+%gra:	1|11|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|7|CASE 7|1|OBL 8|11|CASE 9|11|NMOD-POSS 10|11|COMPOUND 11|7|NMOD 12|1|PUNCT
+*MOT:	is he eating the starfish ? 188761_194926
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|eat-Part-Pres-S det|the-Def-Art noun|starfish-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no . 194926_197327
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what else do you see ?
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*MOT:	look at all those awesome +...
+%mor:	verb|look-Fin-Imp-S adp|at det|all-Def-Tot pron|that-Dem-P1 adj|awesome-S1 +...
+%gra:	1|5|ROOT 2|4|CASE 3|4|DET-PREDET 4|1|OBL 5|4|AMOD 6|1|PUNCT
+*MOT:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's that ? 197327_206990
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	gecko .
+%mor:	noun|gecko .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	a gecko ? 206990_209662
+%mor:	det|a-Ind-Art noun|gecko ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	where does a gecko go ? 209662_211261
+%mor:	adv|where aux|do-Fin-Ind-Pres-S3 det|a-Ind-Art noun|gecko verb|go-Inf-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*CHI:	water too .
+%mor:	noun|water adv|too .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	in the water ? 211261_213598
+%mor:	adp|in det|the-Def-Art noun|water ?
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	hm .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's he doing ? 213598_216173
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	he's eating starfish too .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|eat-Part-Pres-S noun|starfish-Acc adv|too .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*MOT:	he's gonna eat the starfish too ?
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|eat-Inf-S det|the-Def-Art noun|starfish-Acc adv|too ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*MOT:	that poor starfish . 216173_221158
+%mor:	det|that-Def-Dem-Sing adj|poor-S1 noun|starfish .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	tree .
+%mor:	noun|tree .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	a tree .
+%mor:	det|a-Ind-Art noun|tree .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	where does the tree go ? 221158_226949
+%mor:	adv|where aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|tree verb|go-Inf-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	right here . 226949_229189
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	you could put the tree in the water ? 229189_232518
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S verb|put-Inf-S det|the-Def-Art noun|tree-Acc adp|in det|the-Def-Art noun|water ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*CHI:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx wet . 232518_235638
+%mor:	adj|wet-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's gonna get all wet .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|go verb|get-Inf-S det|all-Def-Tot adj|wet-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|ADVMOD 6|4|XCOMP 7|4|PUNCT
+*CHI:	+< ouch .
+%mor:	intj|ouch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what is that ? 235638_238629
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm . 238629_240165
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	is that a lizard ? 240165_243685
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art noun|lizard ?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	what do you see in there ? 243685_247500
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S adp|in adv|there ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	(a)nother one .
+%mor:	det|another-Def-Ind noun|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	what is that ? 247500_249893
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	fence .
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	fence . 249893_253650
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let me add it to this fence . 253650_255307
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|add-Inf-S pron|it-Prs-Acc-S3 adp|to det|this-Def-Dem-Sing noun|fence .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+*MOT:	can you put the bear inside the fence ? 255307_259963
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S det|the-Def-Art noun|bear-Acc adp|inside det|the-Def-Art noun|fence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*MOT:	Jack can you put the bear inside the fence ? 259963_264650
+%mor:	propn|Jack aux|can-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S det|the-Def-Art noun|bear-Acc adp|inside det|the-Def-Art noun|fence ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*CHI:	0 [=! places toy] .
+*MOT:	thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	can you put the giraffe by the fence ? 264650_268314
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S det|the-Def-Art noun|giraffe-Acc adp|by det|the-Def-Art noun|fence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*CHI:	0 [=! places toy] .
+*MOT:	+< oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	good job .
+%mor:	adj|good-S1 noun|job .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	let's put it by the fence .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S pron|it-Prs-Acc-S3 adp|by det|the-Def-Art noun|fence .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+*MOT:	he's just xxx +... 268314_276000
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just +...
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MOT:	do you think the giraffe and the bear should go together &=points ? 276000_278330
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S det|the-Def-Art noun|giraffe cconj|and det|the-Def-Art noun|bear aux|should-Fin-S verb|go-Inf-S adv|together ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|5|DET 5|10|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|10|AUX 10|3|CCOMP 11|10|ADVMOD 12|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I think the bear might eat the giraffe &=points .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art noun|bear aux|might-Fin-S verb|eat-Inf-S det|the-Def-Art noun|giraffe-Acc .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|8|DET 8|6|OBJ 9|2|PUNCT
+%com:	child and mother giggle . 278330_284500
+*MOT:	what [//] do you remember when we went to the zoo ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S adv|when pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adp|to det|the-Def-Art noun|zoo ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|6|ADVMOD 5|6|NSUBJ 6|3|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+*MOT:	what did we feed the giraffe ? 284500_287450
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-P1-irr pron|we-Prs-Nom-P1 verb|feed-Inf-S det|the-Def-Art noun|giraffe-Acc ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	we went there a long time ago .
+%mor:	pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adv|there det|a-Ind-Art adj|long-S1 noun|time adv|ago .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|ADVMOD 4|6|DET 5|6|AMOD 6|2|OBL-UNMARKED 7|2|ADVMOD 8|2|PUNCT
+*CHI:	+< leaf .
+%mor:	noun|leaf .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	leaf .
+%mor:	noun|leaf .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's right . 287450_292853
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	we did feed them a leaf .
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1-irr verb|feed-Inf-S pron|they-Prs-Acc-P3 det|a-Ind-Art noun|leaf-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*MOT:	who did we go to the zoo with ? 292853_295254
+%mor:	pron|who-Int aux|do-Fin-Ind-Past-P1-irr pron|we-Prs-Nom-P1 verb|go-Inf-S adp|to det|the-Def-Art noun|zoo adp|with ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|OBL 9|4|PUNCT
+*CHI:	mmhm . 295254_297765
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	who's your girlfriend that we go to the zoo with ? 297765_299893
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|girlfriend pron|that-Rel pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 adp|to det|the-Def-Art noun|zoo adp|with ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|11|ROOT 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|10|CASE 9|10|DET 10|7|OBL 11|5|CASE 12|4|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you haven't seen her for a long +/.
+%mor:	pron|you-Prs-Nom-S2 aux|have-Fin-Ind-Pres-S2~part|not verb|see-Part-Past-S-irr pron|her-Prs-Acc-S3 adp|for det|a-Ind-Art adj|long-S1 +/.
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	Ava .
+%mor:	propn|Ava .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Ava . 299893_306054
+%mor:	propn|Ava .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Ava's mommy's gonna have a baby . 306054_309654
+%mor:	propn|Ava~part|s noun|mommy~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|have-Inf-S det|a-Ind-Art noun|baby-Acc .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*MOT:	think she's gonna have a baby boy or a baby girl ? 309654_312198
+%mor:	verb|think-Fin-Imp-S pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|have-Inf-S det|a-Ind-Art noun|baby noun|boy-Acc cconj|or det|a-Ind-Art noun|baby noun|girl ?
+%gra:	1|12|ROOT 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|1|CCOMP 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|12|CC 10|12|DET 11|12|COMPOUND 12|8|CONJ 13|1|PUNCT
+*CHI:	baby girl .
+%mor:	adj|baby-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	baby girl .
+%mor:	adj|baby-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	another baby girl ?
+%mor:	det|another-Def-Ind noun|baby noun|girl ?
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*MOT:	I don't know we'll have to see .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|we-Prs-Nom-P1~aux|will-Fin-S verb|have-Inf-S part|to verb|see-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|9|MARK 9|7|XCOMP 10|4|PUNCT
+*CHI:	+< snakes . 312198_317430
+%mor:	noun|snake-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	snakes .
+%mor:	noun|snake-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ooh .
+%mor:	intj|ooh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	who doesn't like snakes ? 317430_320213
+%mor:	pron|who-Int aux|do-Fin-Ind-Pres-S3~part|not verb|like-Inf-S noun|snake-Plur-Acc ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	daddy .
+%mor:	noun|daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	daddy likes snakes . 320213_322885
+%mor:	noun|daddy verb|like-Fin-Ind-Pres-S3 noun|snake-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what do I say when I see a snake ? 322885_325701
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|say-Inf-S adv|when pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|snake-Acc ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|7|ADVMOD 6|7|NSUBJ 7|4|ADVCL 8|9|DET 9|7|OBJ 10|4|PUNCT
+*CHI:	ah .
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ah !
+%mor:	intj|ah !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	snake . 325701_329278
+%mor:	noun|snake .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's do a +/.
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|do-Inf-S det|a-Ind-Art +/.
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT 5|1|PUNCT
+*CHI:	+< I like snakes too . 329278_331794
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 noun|snake-Plur-Acc adv|too .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*MOT:	you know who else likes snakes ? 331794_333198
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|who-Int adv|else verb|like-Fin-Ind-Pres-S3 noun|snake-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|NSUBJ 4|3|ADVMOD 5|2|CCOMP 6|5|OBJ 7|2|PUNCT
+*CHI:	mommy likes snakes too .
+%mor:	noun|mommy verb|like-Fin-Ind-Pres-S3 noun|snake-Plur-Acc adv|too .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*MOT:	+< hm . 333198_335470
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	not so much . 335470_337055
+%mor:	part|not adv|so adv|much .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	leave the mic alone .
+%mor:	verb|leave-Fin-Imp-S det|the-Def-Art noun|mic-Acc adv|alone .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+%com:	child and mother gasp . 337055_340750
+*MOT:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	tiger .
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	tiger ! 340750_344000
+%mor:	noun|tiger !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I like tigers . 344000_345358
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 noun|tiger-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	we do .
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	tigers are pretty . 345358_348190
+%mor:	noun|tiger-Plur aux|be-Fin-Ind-Pres-P3 adv|pretty .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what do we have at home that's like tigers ? 348190_351471
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|have-Inf-S adp|at noun|home pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adp|like noun|tiger-Plur ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|10|ROOT 5|6|CASE 6|4|OBL 7|10|NSUBJ 8|10|COP 9|10|CASE 10|6|ACL-RELCL 11|4|PUNCT
+*CHI:	mmhm . 351471_354654
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	remember I told you ?
+%mor:	verb|remember-Fin-Imp-S pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 ?
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|IOBJ 5|1|PUNCT
+*CHI:	+< no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< Oscar and Maya are like tigers .
+%mor:	propn|Oscar cconj|and propn|Maya aux|be-Fin-Ind-Pres-P3 adp|like noun|tiger-Plur .
+%gra:	1|6|NSUBJ 2|3|CC 3|1|CONJ 4|6|COP 5|6|CASE 6|6|ROOT 7|6|PUNCT
+%com:	mother begins to say a word before Oscar .
+*MOT:	aren't they ? 354654_359240
+%mor:	aux|be-Fin-Ind-Pres-P3~part|not pron|they-Prs-Nom-P3 ?
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|1|PUNCT
+*CHI:	little . 359240_361590
+%mor:	adj|little-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	they're little .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|little-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	what's this ? 361590_364225
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	scorpion .
+%mor:	noun|scorpion .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	scorpion . 364225_368024
+%mor:	noun|scorpion .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	good boy . 368024_368898
+%mor:	adj|good-S1 noun|boy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	scorpions have eyes &=points .
+%mor:	noun|scorpion-Plur verb|have-Fin-Ind-Pres-P3 noun|eye-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	they do have eyes .
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3 verb|have-Inf-S noun|eye-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	daddy sees scorpions .
+%mor:	noun|daddy verb|see-Fin-Ind-Pres-S3 noun|scorpion-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	doesn't he ? 368898_374461
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not pron|he-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm . 374461_375574
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%com:	child shrugs .
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look it . 375574_378200
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	I have some trees .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|some-Def-Ind noun|tree-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	+< mmhm . 378200_379365
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you know what let's +/.
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Int-S1 verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 +/.
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|2|PUNCT
+*MOT:	look at this .
+%mor:	verb|look-Fin-Imp-S adp|at pron|this-Dem-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*MOT:	let's count our trees . 379365_382546
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|count-Inf-S pron|our-Prs-Gen-P1 noun|tree-Plur-Acc .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|NMOD-POSS 5|3|OBJ 6|1|PUNCT
+*MOT:	can you count them with me ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|count-Inf-S pron|they-Prs-Acc-P3 adp|with pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*MOT:	give me your finger . 382546_384519
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 pron|your-Prs-Gen-S2 noun|finger-Acc .
+%gra:	1|4|ROOT 2|1|IOBJ 3|4|NMOD-POSS 4|1|OBJ 5|1|PUNCT
+*MOT:	show me your finger . 384519_385486
+%mor:	verb|show-Fin-Imp-S pron|I-Prs-Acc-S1 pron|your-Prs-Gen-S2 noun|finger-Acc .
+%gra:	1|4|ROOT 2|1|IOBJ 3|4|NMOD-POSS 4|1|OBJ 5|1|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child begins to fuss .
+*MOT:	you don't wanna count them ?
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not adv|wanna verb|count-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*MOT:	okay . 385486_387608
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look . 387608_389453
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< what's this ? 389453_393109
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	<do you> [/] do you remember what this was ? 393109_397700
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|what-Int-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Past-S3-irr ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< I think daddy read a book about this kind of animal with you . 397700_401023
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|daddy verb|read-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|book-Acc adp|about det|this-Def-Dem-Sing noun|kind adp|of noun|animal adp|with pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|11|CASE 11|9|NMOD 12|13|CASE 13|9|NMOD 14|2|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	armadillo .
+%mor:	noun|armadillo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	armadillo . 401023_405000
+%mor:	noun|armadillo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	they have a hard back . 405000_406431
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art adj|hard-S1 noun|back-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*CHI:	hard back . 406431_407807
+%mor:	adj|hard-S1 adv|back .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	I'm trying to +...
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|try-Part-Pres-S part|to +...
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%com:	begins to say a word before trailing off .
+*MOT:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%com:	mother gasps .
+*MOT:	what's this ? 407807_413271
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	elephant .
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child mispronounces elephant .
+*MOT:	elephant . 413271_417647
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at his tusks &=points .
+%mor:	verb|look-Fin-Imp-S adp|at pron|his-Prs-Gen-S3 noun|tusk-Plur .
+%gra:	1|4|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|OBL 5|1|PUNCT
+%com:	mother gasps .
+*MOT:	we saw an elephant at the zoo too .
+%mor:	pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Past-P1-irr det|a-Ind-Art noun|elephant-Acc adp|at det|the-Def-Art noun|zoo adv|too .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|ADVMOD 9|2|PUNCT
+*MOT:	didn't we ? 417647_421404
+%mor:	aux|do-Fin-Ind-Past-S1-irr~part|not pron|we-Prs-Nom-P1 ?
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm . 421404_422415
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	they were big . 422415_423535
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adj|big-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	uhhuh . 423535_424671
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you're taking apart the fence ? 424671_427553
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|take-Part-Pres-S adv|apart det|the-Def-Art noun|fence-Acc ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|ADVMOD 5|6|DET 6|3|OBJ 7|3|PUNCT
+*MOT:	or the gate ?
+%mor:	cconj|or det|the-Def-Art noun|gate ?
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	mmhm . 427553_429446
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at the lizards . 429446_432994
+%mor:	verb|look-Fin-Imp-S adp|at det|the-Def-Art noun|lizard-Plur .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	uhoh .
+%mor:	propn|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I didn't [//] shouldn't have put the armadillo in the water .
+%mor:	pron|I-Prs-Nom-S1 aux|should-Fin-S~part|not aux|have-Inf-S verb|put-Part-Past-S-irr det|the-Def-Art noun|armadillo-Acc adp|in det|the-Def-Art noun|water .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|AUX 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*MOT:	should I ? 432994_437551
+%mor:	aux|should-Fin-S pron|I-Prs-Nom-S1 ?
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+*MOT:	he doesn't live in the water . 437551_439700
+%mor:	pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|live-Inf-S adp|in det|the-Def-Art noun|water .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	can we put the starfish back in the water ? 439700_442779
+%mor:	aux|can-Fin-S pron|we-Prs-Nom-P1 verb|put-Inf-S det|the-Def-Art noun|starfish-Acc adv|back adp|in det|the-Def-Art noun|water ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*MOT:	there you go . 442779_444726
+%mor:	pron|there-Dem-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	do you wanna see what else is in here ? 444726_446238
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|see-Inf-S pron|what-Int-S1 adj|else-S1 aux|be-Fin-Ind-Pres-S3 adp|in adv|here ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|9|ROOT 5|4|OBJ 6|5|AMOD 7|5|COP 8|9|CASE 9|4|CCOMP 10|4|PUNCT
+*CHI:	mmhm . 446238_447411
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look it !
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Acc-S3 !
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	here we go . 447411_449501
+%mor:	adv|here pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+*MOT:	what's that ? 449501_451642
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm . 451642_452754
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	man .
+%mor:	noun|man .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	man . 452754_456650
+%mor:	noun|man .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	man .
+%mor:	noun|man .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you think the man wants to be on the land ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S det|the-Def-Art noun|man verb|want-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adp|on det|the-Def-Art noun|land ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|5|DET 5|6|NSUBJ 6|3|CCOMP 7|11|MARK 8|11|COP 9|11|CASE 10|11|DET 11|6|XCOMP 12|3|PUNCT
+*MOT:	or in the water ? 456650_459808
+%mor:	cconj|or adp|in det|the-Def-Art noun|water ?
+%gra:	1|4|CC 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	land .
+%mor:	noun|land .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you put him where you want him . 459808_462563
+%mor:	pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 pron|he-Prs-Acc-S3 adv|where pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|he-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|6|ADVMOD 5|6|NSUBJ 6|2|ADVCL 7|6|OBJ 8|2|PUNCT
+*CHI:	right here .
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	right there ? 462563_465950
+%mor:	adv|right adv|there ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	he's gonna look at +...
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|look-Inf-S adp|at +...
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBL 6|4|PUNCT
+*MOT:	look at <what's he> [/] what's he looking at ? 465950_468991
+%mor:	verb|look-Fin-Imp-S adp|at pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|look-Part-Pres-S adp|at ?
+%gra:	1|7|ROOT 2|3|CASE 3|6|OBL 4|6|AUX 5|6|NSUBJ 6|1|ADVCL 7|6|OBL 8|1|PUNCT
+*CHI:	bear .
+%mor:	noun|bear .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	the bear .
+%mor:	det|the-Def-Art noun|bear .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	I don't know if the man wants to stand up . 468991_473461
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if det|the-Def-Art noun|man verb|want-Fin-Ind-Pres-S3 part|to verb|stand-Inf-S adp|up .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|8|MARK 6|7|DET 7|8|NSUBJ 8|4|CCOMP 9|10|MARK 10|8|XCOMP 11|10|COMPOUND-PRT 12|4|PUNCT
+*MOT:	well he'll take a nap . 473461_476358
+%mor:	intj|well pron|he-Prs-Nom-S3~aux|will-Fin-S verb|take-Inf-S det|a-Ind-Art noun|nap-Acc .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you like the snake ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S det|the-Def-Art noun|snake-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	+< yeah . 476358_483915
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no . 483915_485000
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	he's going by the man . 485000_487239
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|by det|the-Def-Art noun|man .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%com:	child and mother giggle .
+*MOT:	what do you think the man's going to do ? 487239_492715
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S det|the-Def-Art noun|man~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|do-Inf-S ?
+%gra:	1|10|OBJ 2|4|AUX 3|4|NSUBJ 4|10|ROOT 5|6|DET 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|10|MARK 10|8|XCOMP 11|4|PUNCT
+*CHI:	ah . 492715_493883
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	scream .
+%mor:	verb|scream-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	scream ?
+%mor:	verb|scream-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	my goodness . 493883_497956
+%mor:	pron|my-Prs-Gen-S1 noun|goodness .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	the zebra doesn't belong in the water . 497956_500651
+%mor:	det|the-Def-Art noun|zebra aux|do-Fin-Ind-Pres-S3~part|not verb|belong-Inf-S adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%com:	mother and child giggle . 500651_506000
+*MOT:	where ?
+%mor:	adv|where ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< help me fix that whole piece mommy . 506000_509990
+%mor:	verb|help-Fin-Imp-S pron|I-Prs-Acc-S1 verb|fix-Inf-S det|that-Def-Dem-Sing adj|whole-S1 noun|piece noun|mommy-Acc .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|7|DET 5|7|AMOD 6|7|COMPOUND 7|3|OBJ 8|1|PUNCT
+*CHI:	fix that whole piece .
+%mor:	verb|fix-Inf-S det|that-Def-Dem-Sing adj|whole-S1 noun|piece-Acc .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*MOT:	you want me to put it together ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|put-Inf-S pron|it-Prs-Acc-S3 adv|together ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|OBJ 7|5|ADVMOD 8|2|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let me see to put this back together . 509990_514799
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S part|to verb|put-Inf-S pron|this-Dem-S1 adv|back adv|together .
+%gra:	1|8|ROOT 2|1|OBJ 3|1|XCOMP 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|ADVMOD 8|5|ADVMOD 9|1|PUNCT
+*CHI:	snake go on it too please mommy .
+%mor:	noun|snake verb|go-Fin-Imp-S adp|on pron|it-Prs-Acc-S3 adv|too intj|please verb|mommy-Fin-Imp-S .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|CASE 4|2|OBL 5|2|ADVMOD 6|7|DISCOURSE 7|2|PARATAXIS 8|2|PUNCT
+*MOT:	make what ?
+%mor:	verb|make-Fin-Imp-S pron|what-Int-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	snake go on it .
+%mor:	noun|snake verb|go-Fin-Imp-S adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|CASE 4|2|OBL 5|2|PUNCT
+*MOT:	snake go on it ? 514799_522400
+%mor:	noun|snake verb|go-Fin-Imp-S adp|on pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay . 522400_523700
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	give me more of the fence please . 523700_525515
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 adj|more-Cmp-S1 adp|of det|the-Def-Art noun|fence intj|please .
+%gra:	1|7|ROOT 2|1|IOBJ 3|1|OBJ 4|6|CASE 5|6|DET 6|3|OBL 7|1|DISCOURSE 8|1|PUNCT
+*MOT:	thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< 0 [=! gives toy] .
+*MOT:	what color is this fence ? 525515_529364
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|fence ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+*CHI:	red .
+%mor:	adj|red-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at it . 529364_531108
+%mor:	verb|look-Fin-Imp-S adp|at pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	red . 531108_535396
+%mor:	adj|red-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother giggles .
+*MOT:	xxx [=! ya] .
+%com:	mother says the first syllable of yellow .
+*CHI:	xxx [=! ya] .
+*MOT:	what color begins with xxx [=! ya] ?
+%mor:	det|what-Def-Int noun|color verb|begin-Fin-Ind-Pres-S3 adp|with ?
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|OBL 5|3|PUNCT
+*CHI:	xxx [=! ya] . 535396_542947
+%com:	mother stresses the beginning of yellow .
+*MOT:	yello(w) +/.
+%mor:	adj|yellow-S1 +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< blue .
+%mor:	adj|blue-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no !
+%mor:	adv|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	blue begins with xxx [=! ba] . 542947_547100
+%mor:	noun|blue verb|begin-Fin-Ind-Pres-S3 adp|with .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|CASE 4|2|PUNCT
+*MOT:	yellow .
+%mor:	adj|yellow-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yellow .
+%mor:	adj|yellow-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yellow . 547100_551450
+%mor:	adj|yellow-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what else is yellow ? 551450_552692
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 adj|yellow-S1 ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	hm .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what do we see in the sky that's yellow ? 552692_557091
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|see-Inf-S adp|in det|the-Def-Art noun|sky pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adj|yellow-S1 ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ 9|10|COP 10|7|ACL-RELCL 11|4|PUNCT
+*CHI:	mmhm . 557091_559051
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	the sun ? 559051_564708
+%mor:	det|the-Def-Art noun|sun ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	don't put in your mouth .
+%mor:	aux|do-Fin-Imp-S~part|not verb|put-Fin-Imp-S adp|in pron|your-Prs-Gen-S2 noun|mouth-Acc .
+%gra:	1|3|AUX 2|3|ADVMOD 3|6|ROOT 4|3|COMPOUND-PRT 5|6|NMOD-POSS 6|3|OBJ 7|3|PUNCT
+*MOT:	yucky .
+%mor:	adj|yucky-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother laughs and tickles child as he looks into camera .
+*MOT:	what are you doing ? 564708_573060
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	I love you .
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	play mommy .
+%mor:	verb|play-Fin-Imp-S noun|mommy-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	you are playing with mommy . 573060_576870
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 verb|play-Part-Pres-S adp|with noun|mommy .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	we'll put all these animals inside the fence . 576870_580476
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|put-Inf-S det|all-Def-Tot det|this-Def-Dem-Plur noun|animal-Plur-Acc adp|inside det|the-Def-Art noun|fence .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|6|DET-PREDET 5|6|DET 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	time to clean up . 580476_583428
+%mor:	noun|time part|to verb|clean-Inf-S adp|up .
+%gra:	1|4|ROOT 2|3|MARK 3|1|ACL 4|3|COMPOUND-PRT 5|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< let's clean up .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|clean-Inf-S adp|up .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|1|PUNCT
+*MOT:	and open up the other bag . 583428_586156
+%mor:	cconj|and verb|open-Fin-Imp-S adp|up det|the-Def-Art adj|other-S1 noun|bag-Acc .
+%gra:	1|2|CC 2|6|ROOT 3|2|COMPOUND-PRT 4|6|DET 5|6|AMOD 6|2|OBJ 7|2|PUNCT
+*CHI:	<clean up> [/] clean up .
+%mor:	verb|clean-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*MOT:	+< thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	clean up . 586156_589080
+%mor:	verb|clean-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*MOT:	time to open up the other bag .
+%mor:	noun|time part|to verb|open-Inf-S adp|up det|the-Def-Art adj|other-S1 noun|bag-Acc .
+%gra:	1|7|ROOT 2|3|MARK 3|1|ACL 4|3|COMPOUND-PRT 5|7|DET 6|7|AMOD 7|3|OBJ 8|1|PUNCT
+*CHI:	+< <clean up> [/] clean up .
+%mor:	verb|clean-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*MOT:	we'll see what else we have .
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|see-Inf-S pron|what-Int-S1 adj|else-S1 pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|4|AMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|3|PUNCT
+*MOT:	clean up .
+%mor:	verb|clean-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CHI:	clean up . 588780_594507
+%mor:	verb|clean-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*MOT:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	clean up . 594507_596715
+%mor:	verb|clean-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*MOT:	thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	spider . 596715_599104
+%mor:	noun|spider .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	spider .
+%mor:	noun|spider .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< stay away spiders . 599104_602195
+%mor:	verb|stay-Fin-Imp-S adv|away noun|spider-Plur-Acc .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|OBJ 4|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	can you give me the red bag ? 602195_606056
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|I-Prs-Acc-S1 det|the-Def-Art adj|red-S1 noun|bag-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|IOBJ 5|7|DET 6|7|AMOD 7|3|OBJ 8|3|PUNCT
+*CHI:	mmhm . 606056_608408
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+@Situation:	Food toys 10:07-20:36
+*CHI:	red bag .
+%mor:	adj|red-S1 noun|bag .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	red bag .
+%mor:	adj|red-S1 noun|bag .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	come here .
+%mor:	verb|come-Fin-Imp-S adv|here .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	sit right here .
+%mor:	verb|sit-Fin-Imp-S adv|right adv|here .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	+< red bag . 608408_612450
+%mor:	adj|red-S1 noun|bag .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	what's in here ? 612450_613465
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|in adv|here ?
+%gra:	1|4|ROOT 2|4|COP 3|4|CASE 4|1|OBL 5|1|PUNCT
+%com:	mother gasps . 613465_614945
+*MOT:	Jack we're gonna have a picnic . 614945_617001
+%mor:	propn|Jack pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|gonna verb|have-Inf-S det|a-Ind-Art noun|picnic-Acc .
+%gra:	1|5|VOCATIVE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*MOT:	put [/] put the blanket out first . 617001_619833
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art noun|blanket-Acc adp|out adv|first .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|1|ADVMOD 6|1|PUNCT
+*MOT:	picnic . 619833_624007
+%mor:	noun|picnic-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	fun . 624007_627000
+%mor:	noun|fun .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's put out +...
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S adp|out +...
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|1|PUNCT
+*MOT:	what are these ? 627000_628880
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|this-Dem-P1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	plates .
+%mor:	noun|plate-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	plates . 628880_630600
+%mor:	noun|plate-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	there's one for Jack . 630600_632177
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|one adp|for propn|Jack .
+%gra:	1|2|EXPL 2|5|ROOT 3|2|NSUBJ 4|5|CASE 5|3|NMOD 6|2|PUNCT
+*CHI:	one for +/.
+%mor:	num|one adp|for +/.
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*MOT:	and one for ?
+%mor:	cconj|and num|one adp|for ?
+%gra:	1|2|CC 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+*CHI:	mommy .
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mommy . 632177_634650
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what else do you think we need ? 634650_636929
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|7|ROOT 6|7|NSUBJ 7|5|CCOMP 8|5|PUNCT
+*CHI:	cup .
+%mor:	noun|cup-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	cup .
+%mor:	noun|cup-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	one for ?
+%mor:	num|one adp|for ?
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*CHI:	Jack .
+%mor:	propn|Jack .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and one for ?
+%mor:	cconj|and num|one adp|for ?
+%gra:	1|2|CC 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+*CHI:	mommy . 636929_642472
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mommy .
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	here mommy .
+%mor:	adv|here noun|mommy .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*MOT:	thank_you . 642472_647000
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	what do you want for a picnic ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S adp|for det|a-Ind-Art noun|picnic ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*MOT:	do you want to eat hot_dogs ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|eat-Inf-S noun|hotdog-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	mmhm . 647000_653817
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	or what's this ? 653817_654849
+%mor:	cconj|or pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|2|CC 2|4|ROOT 3|4|COP 4|2|NSUBJ 5|2|PUNCT
+*MOT:	what do you think that is ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|that-Rel aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+%com:	child plays with separate toy . 654849_657808
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it does come out . 657808_662151
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 verb|come-Inf-S adp|out .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*MOT:	do you know what this is ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|what-Int-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT
+*MOT:	pizza .
+%mor:	noun|pizza .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pizza . 662151_667769
+%mor:	noun|pizza .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look Jack . 667769_669320
+%mor:	verb|look-Fin-Imp-S propn|Jack-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	or we can have one of these . 669320_671061
+%mor:	cconj|or pron|we-Prs-Nom-P1 aux|can-Fin-S verb|have-Inf-S num|one adp|of pron|this-Dem-P1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|PUNCT
+*CHI:	knife please mommy .
+%mor:	noun|knife intj|please verb|mommy-Fin-Imp-S .
+%gra:	1|3|NSUBJ 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+*MOT:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you want a knife ? 671061_673277
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|a-Ind-Art noun|knife-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	+< mmhm . 673277_675152
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	here's a knife . 675152_677536
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|knife .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	no xxx .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's a fork ?
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|fork ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	oh . 677536_680585
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	here's +/.
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 +/.
+%gra:	1|2|ROOT 2|1|COP 3|1|PUNCT
+%com:	mother is interrupted by coughing .
+*MOT:	excuse me .
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	here's a knife . 680585_683913
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|knife .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what are these ? 683913_685121
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|this-Dem-P1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	those are grapes . 685121_687598
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|grape-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	grapes .
+%mor:	noun|grape-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	here's a knife . 687598_690857
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|knife .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	ice_cream cone .
+%mor:	propn|icecream propn|cone .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*MOT:	ice_cream cone . 690857_694536
+%mor:	propn|icecream propn|cone .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	here we go .
+%mor:	adv|here pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+*MOT:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	here we go .
+%mor:	adv|here pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+*MOT:	here's a knife . 694536_698065
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|knife .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	is it sharp ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|sharp-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	be careful . 698065_701857
+%mor:	aux|be-Fin-Imp-S adj|careful-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*MOT:	that's a play knife . 701857_705169
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|play noun|knife .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*CHI:	play knife .
+%mor:	verb|play-Fin-Imp-S noun|knife-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	play knife . 705169_708545
+%mor:	verb|play-Fin-Imp-S noun|knife-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	mmhm . 708545_710096
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	here's some ketchup . 710096_711752
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|ketchup .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	you wanna put some ketchup on <your hamburger> [//] your hot_dog ? 711752_714120
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|put-Inf-Pres-S det|some-Def-Ind noun|ketchup-Acc adp|on pron|your-Prs-Gen-S2 noun|hotdog ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+*CHI:	hold please .
+%mor:	verb|hold-Fin-Imp-S intj|please .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	here [/] here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< what ? 714120_716429
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look and see .
+%mor:	verb|look-Fin-Imp-S cconj|and verb|see-Fin-Imp-S .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*MOT:	what do you see in there ? 716429_718721
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S adp|in adv|there ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	pepper .
+%mor:	noun|pepper .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx xxx . 718721_723903
+*MOT:	what are you putting on it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|put-Part-Pres-S adp|on pron|it-Prs-Acc-S3 ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|1|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	pepper .
+%mor:	noun|pepper .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	pepper ?
+%mor:	noun|pepper ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< mmhm . 723903_729352
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what am I supposed to eat ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|suppose-Part-Past-S part|to verb|eat-Inf-S ?
+%gra:	1|6|OBJ 2|4|AUX-PASS 3|4|NSUBJ-PASS 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CHI:	pepper .
+%mor:	noun|pepper .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	pepper ?
+%mor:	noun|pepper ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I think I'm going to have a hamburger . 729352_735057
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|have-Inf-S det|a-Ind-Art noun|hamburger-Acc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|2|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	<can you> [//] is there any fruit in there ? 735057_737721
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 det|any-Def-Ind noun|fruit adp|in adv|there ?
+%gra:	1|6|ROOT 2|1|EXPL 3|4|DET 4|1|NSUBJ 5|6|CASE 6|1|OBL 7|1|PUNCT
+*MOT:	I want some fruit . 737721_738769
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|some-Def-Ind noun|fruit-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	I'll get knife mommy . 738769_742151
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|get-Inf-S noun|knife noun|mommy-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+*MOT:	you're gonna cut it ?
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|go verb|cut-Part-Past-S-irr pron|it-Prs-Acc-S3 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	Jack <can we look for some> [//] let's look for some fruit in here . 742151_745400
+%mor:	propn|Jack verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|look-Inf-S adp|for det|some-Def-Ind noun|fruit adp|in adv|here .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|4|OBL 10|2|PUNCT
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let me put some out . 745400_748984
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|put-Inf-S det|some-Def-Ind adp|out .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|3|COMPOUND-PRT 6|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I see some fruit . 748984_751697
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|some-Def-Ind noun|fruit-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	hm ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what are these ? 751697_755849
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|this-Dem-P1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm . 755849_758217
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx xxx .
+*MOT:	what are these ? 758217_761465
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|this-Dem-P1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm . 761465_763312
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	strawberries . 763312_765252
+%mor:	noun|strawberry-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ketchup on it .
+%mor:	noun|ketchup adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*MOT:	ketchup on it .
+%mor:	noun|ketchup adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*MOT:	can you put some ketchup on my hamburger please ? 765252_770000
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S det|some-Def-Ind noun|ketchup-Acc adp|on pron|my-Prs-Gen-S1 noun|hamburger intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|DISCOURSE 10|3|PUNCT
+%com:	child pretends to use ketchup bottle .
+*MOT:	thank_you . 770000_775000
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	there's another strawberry . 775000_777567
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|another-Def-Ind noun|strawberry .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*MOT:	look at my strawberries . 777567_779400
+%mor:	verb|look-Fin-Imp-S adp|at pron|my-Prs-Gen-S1 noun|strawberry-Plur .
+%gra:	1|4|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|OBL 5|1|PUNCT
+*MOT:	I have one_two_three_four@x strawberries &=points . 779400_782832
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 noun|onetwothreefour noun|strawberry-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	Jack eat them .
+%mor:	propn|Jack verb|eat-Fin-Ind-Pres-S3 pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	Jack eat them ?
+%mor:	propn|Jack verb|eat-Fin-Ind-Pres-S3 pron|they-Prs-Acc-P3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	just pretend . 782832_786953
+%mor:	adv|just verb|pretend-Fin-Imp-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	+< mommy eat that one please .
+%mor:	noun|mommy verb|eat-Fin-Imp-S det|that-Def-Dem-Sing num|one intj|please .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|DISCOURSE 6|2|PUNCT
+*MOT:	+< oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay . 786953_789714
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's good . 789714_792778
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	I found another hot_dog for you .
+%mor:	pron|I-Prs-Nom-S1 verb|find-Fin-Ind-Past-S1-irr det|another-Def-Ind noun|hotdog-Acc adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+*CHI:	+< xxx . 792778_794697
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mommy eat that please .
+%mor:	noun|mommy verb|eat-Fin-Imp-S det|that-Def-Dem-Sing intj|please .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|DISCOURSE 5|2|PUNCT
+*MOT:	you want me to eat the hot_dog ? 794697_797900
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|eat-Inf-S det|the-Def-Art noun|hotdog-Acc ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+*MOT:	can I have some ketchup please ? 797900_799185
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S det|some-Def-Ind noun|ketchup-Acc intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|DISCOURSE 7|3|PUNCT
+*MOT:	where'd you put the ketchup ? 799185_800992
+%mor:	adv|where~aux|would-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S det|the-Def-Art noun|ketchup-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	0 [=! gives ketchup] .
+*MOT:	thank_you [=! eating noises] . 800992_805528
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you want something to drink ? 805528_808600
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|something-Ind-S1 part|to verb|drink-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|MARK 6|4|ACL 7|3|PUNCT
+*CHI:	apple juice . 808600_811100
+%mor:	noun|apple noun|juice .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mug . 811100_813448
+%mor:	noun|mug .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you drink out of a bottle ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|drink-Inf-S adp|out adp|of det|a-Ind-Art noun|bottle ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|4|FIXED 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	who drinks bottles ? 813448_816944
+%mor:	pron|who-Rel verb|drink-Fin-Ind-Pres-S3 noun|bottle-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	babies .
+%mor:	noun|babie-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	babies drink bottles .
+%mor:	noun|baby-Plur verb|drink-Fin-Ind-Pres-P3 noun|bottle-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	oh [/] oh . 816944_820500
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	there's some water .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|water .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	mmhm . 820500_821656
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and here's some milk . 821656_823846
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|milk .
+%gra:	1|2|CC 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*MOT:	here Jack .
+%mor:	adv|here propn|Jack .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*MOT:	you can pour some in your cup . 823846_828448
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|pour-Inf-S det|some-Def-Ind adp|in pron|your-Prs-Gen-S2 noun|cup .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*MOT:	can I have some milk please ? 828448_832096
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S det|some-Def-Ind noun|milk-Acc intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|DISCOURSE 7|3|PUNCT
+*MOT:	in my cup ?
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|cup ?
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	0 [=! pours milk] .
+*MOT:	thank_you . 832096_834431
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	close that mommy . 834431_839517
+%mor:	verb|close-Fin-Imp-S det|that-Def-Dem-Sing noun|mommy-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	are you putting more milk in the bottle ? 839517_842104
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|put-Part-Pres-S adj|more-Cmp-S1 noun|milk-Acc adp|in det|the-Def-Art noun|bottle ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|AMOD 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*MOT:	thank_you . 842104_844929
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look Jack .
+%mor:	verb|look-Fin-Imp-S propn|Jack-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	there's cheese I can put on my hamburger . 844929_847700
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|cheese pron|I-Prs-Nom-S1 aux|can-Fin-S verb|put-Inf-S adp|on pron|my-Prs-Gen-S1 noun|hamburger .
+%gra:	1|2|EXPL 2|9|ROOT 3|2|NSUBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|2|PUNCT
+*MOT:	and tomato . 847700_849977
+%mor:	cconj|and noun|tomato .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	mommy the bottle too please . 849977_853171
+%mor:	intj|mommy det|the-Def-Art noun|bottle adv|too intj|please .
+%gra:	1|3|DISCOURSE 2|3|DET 3|5|ROOT 4|5|ADVMOD 5|3|DISCOURSE 6|3|PUNCT
+*MOT:	thank_you . 853171_854817
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oops .
+%mor:	intj|oop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mommy xxx baby bottle please . 854817_857600
+%mor:	noun|mommy noun|baby noun|bottle intj|please .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*MOT:	I'm gonna put the baby bottle back in here .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|put-Part-Past-S-irr det|the-Def-Art noun|baby noun|bottle-Acc adv|back adp|in adv|here .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|ADVMOD 9|10|CASE 10|4|OBL 11|4|PUNCT
+%com:	mother coughs .
+*CHI:	hold that knife . 857600_861417
+%mor:	verb|hold-Fin-Imp-S det|that-Def-Dem-Sing noun|knife-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	mommy hold that knife too .
+%mor:	noun|mommy verb|hold-Fin-Imp-S det|that-Def-Dem-Sing noun|knife-Acc adv|too .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*MOT:	what do you want me to cut ? 861417_865129
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|cut-Inf-S ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|4|PUNCT
+*CHI:	that &=points . 865129_866683
+%mor:	pron|that-Dem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	<cut cut cut cut> [/] cut . 866683_869427
+%mor:	verb|cut-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	knife . 869427_872739
+%mor:	noun|knife .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mmhm . 872739_874863
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	play knife . 874863_876436
+%mor:	verb|play-Fin-Imp-S noun|knife-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	cut . 876436_880000
+%mor:	verb|cut-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cut .
+%mor:	verb|cut-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at this . 880000_881732
+%mor:	verb|look-Fin-Imp-S adp|at pron|this-Dem-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*MOT:	you know what that is ? 881732_883408
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|2|PUNCT
+*CHI:	apple . 883408_885007
+%mor:	noun|apple .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it does look like an apple . 885007_886444
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 verb|look-Inf-S adp|like det|a-Ind-Art noun|apple .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*MOT:	it's a cherry . 886444_887711
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cherry .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	what's that mommy ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|mommy ?
+%gra:	1|4|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	that's the stem . 887711_890445
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|stem .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	mommy take off .
+%mor:	noun|mommy verb|take-Fin-Imp-S adp|off .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*MOT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's [//] it's just pretend . 890445_893200
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|pretend-Inf-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	we keep that on there .
+%mor:	pron|we-Prs-Nom-P1 verb|keep-Fin-Ind-Pres-P1 pron|that-Dem adp|on adv|there .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*MOT:	if it was a real one would [//] we'd take the stem off . 893200_896630
+%mor:	sconj|if pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|real-S1 noun|one pron|we-Prs-Nom-P1~aux|would-Fin-S verb|take-Inf-S det|the-Def-Art noun|stem-Acc adp|off .
+%gra:	1|6|MARK 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|9|ADVCL 7|9|NSUBJ 8|9|AUX 9|12|ROOT 10|11|DET 11|9|OBJ 12|9|COMPOUND-PRT 13|9|PUNCT
+*MOT:	keep the stem on .
+%mor:	verb|keep-Fin-Imp-S det|the-Def-Art noun|stem-Acc adp|on .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|1|PUNCT
+*MOT:	oops .
+%mor:	intj|oop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	keep the stem on .
+%mor:	verb|keep-Fin-Imp-S det|the-Def-Art noun|stem-Acc adp|on .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|1|PUNCT
+*MOT:	thank_you . 896630_900000
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cut it off mommy .
+%mor:	verb|cut-Fin-Imp-S pron|it-Prs-Acc-S3 adp|off noun|mommy .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+*MOT:	we can pretend to cut it off . 900000_903182
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|pretend-Inf-S part|to verb|cut-Inf-S pron|it-Prs-Acc-S3 adp|off .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|COMPOUND-PRT 8|3|PUNCT
+*MOT:	careful .
+%mor:	adj|careful-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	go that way . 903182_909647
+%mor:	verb|go-Fin-Imp-S det|that-Def-Dem-Sing noun|way-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	it's just pretend . 909647_913937
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|pretend-Inf-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	pretend .
+%mor:	noun|pretend-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it's pretend buddy .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|pretend-Part-S noun|buddy-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	not in your mouth . 913937_919969
+%mor:	part|not adp|in pron|your-Prs-Gen-S2 noun|mouth .
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*MOT:	thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ice_cream cone . 919969_922318
+%mor:	propn|icecream propn|cone .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*MOT:	ice_cream cone .
+%mor:	propn|icecream propn|cone .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	0 [=! eating noises] .
+*MOT:	pretend .
+%mor:	noun|pretend-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it's pretend . 922318_926159
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|pretend-Part-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	ahm .
+%mor:	propn|ahm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother gasps . 926159_930551
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	where'd your ice_cream go ? 930551_932935
+%mor:	adv|where~aux|would-Fin-S pron|your-Prs-Gen-S2 noun|icecream verb|go-Inf-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|NMOD-POSS 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*CHI:	here is . 932935_937151
+%mor:	adv|here aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|ROOT 2|1|COP 3|1|PUNCT
+*MOT:	here it is .
+%mor:	adv|here pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|COP 4|1|PUNCT
+*CHI:	mommy eat that too .
+%mor:	noun|mommy verb|eat-Fin-Imp-S pron|that-Dem adv|too .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*MOT:	and it's pink . 937151_942903
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|pink-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	pink .
+%mor:	adj|pink-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I like that color .
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 det|that-Def-Dem-Sing noun|color-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	cut it off .
+%mor:	verb|cut-Fin-Imp-S pron|it-Prs-Acc-S3 adp|off .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*MOT:	you're gonna cut it off ? 942903_947102
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|go verb|cut-Inf-S pron|it-Prs-Acc-S3 adp|off ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mommy eat it please .
+%mor:	noun|mommy verb|eat-Fin-Imp-S pron|it-Prs-Acc-S3 intj|please .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|DISCOURSE 5|2|PUNCT
+*MOT:	+< oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's this ? 947102_952119
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	uhhuh . 952119_953741
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Albert_Einstein doughnut .
+%mor:	propn|AlbertEinstein noun|doughnut .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%com:	child mispronounces Einstein .
+*MOT:	Albert_Einstein doughnut ? 953741_957981
+%mor:	propn|AlbertEinstein noun|doughnut ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	cut this . 957981_960327
+%mor:	verb|cut-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	you're gonna cut it too ? 960327_962583
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|go verb|cut-Inf-S pron|it-Prs-Acc-S3 adv|too ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+*CHI:	knife .
+%mor:	noun|knife .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	fork . 962583_965879
+%mor:	noun|fork .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	+< that's a sweet potato ? 965879_967314
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|sweet-S1 noun|potato ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	carrot . 967314_969617
+%mor:	noun|carrot .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's a carrot ? 969617_972007
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|carrot ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	mommy xxx xxx knife . 972007_974118
+%mor:	noun|mommy noun|knife .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mommy xxx xxx too please .
+%mor:	noun|mommy adv|too intj|please .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|DISCOURSE 4|1|PUNCT
+*MOT:	fork ? 974118_977831
+%mor:	noun|fork ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mommy put it spoon down please .
+%mor:	noun|mommy verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 noun|spoon-Acc adp|down intj|please .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|2|OBJ 5|2|COMPOUND-PRT 6|2|DISCOURSE 7|2|PUNCT
+*MOT:	okay . 977831_980500
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you say fork .
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 noun|fork-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	fork .
+%mor:	noun|fork .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child mispronounces fork . 980500_983695
+*CHI:	xxx .
+%com:	more than two unintelligible words spoken .
+*MOT:	xxx down . 983695_987478
+%mor:	adv|down .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mommy eat that too please . 987478_989900
+%mor:	noun|mommy verb|eat-Fin-Imp-S pron|that-Dem adv|too intj|please .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|DISCOURSE 6|2|PUNCT
+*MOT:	what do you want me to eat ? 989900_991878
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|eat-Inf-S ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|4|PUNCT
+*CHI:	mommy cut it .
+%mor:	noun|mommy verb|cut-Fin-Ind-Past-S-irr pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	knife that please . 991878_994611
+%mor:	noun|knife pron|that-Dem intj|please .
+%gra:	1|3|ROOT 2|1|NSUBJ 3|1|DISCOURSE 4|1|PUNCT
+*MOT:	you want me to cut my hamburger in half ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|cut-Inf-S pron|my-Prs-Gen-S1 noun|hamburger-Acc adp|in noun|half ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|9|CASE 9|5|OBL 10|2|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay . 994611_997886
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what do you wanna go eat for lunch ? 997886_999278
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|wanna verb|go-Inf-S verb|eat-Inf-S adp|for noun|lunch ?
+%gra:	1|6|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|8|ROOT 6|5|XCOMP 7|8|CASE 8|6|OBL 9|5|PUNCT
+*CHI:	chicken nuggets . 999278_1001010
+%mor:	noun|chicken noun|nugget-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	you want chicken nuggets ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 noun|chicken noun|nugget-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*MOT:	you can have whatever you want . 1001010_1003998
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|have-Inf-S pron|whatever-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT
+*MOT:	(be)cause you're such a good boy . 1003998_1005222
+%mor:	sconj|because pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|such-Def-Ind det|a-Ind-Art adj|good-S1 noun|boy .
+%gra:	1|7|MARK 2|7|NSUBJ 3|7|COP 4|7|DET-PREDET 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+*CHI:	chicken nuggets and +/.
+%mor:	noun|chicken noun|nugget-Plur cconj|and +/.
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|CC 4|2|PUNCT
+*MOT:	+< xxx .
+*MOT:	we can go have chicken nuggets .
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|go-Inf-S verb|have-Inf-S noun|chicken noun|nugget-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|XCOMP 5|6|COMPOUND 6|4|OBJ 7|3|PUNCT
+*MOT:	if you want . 1005222_1009262
+%mor:	sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	chicken nuggets by here mommy . 1009262_1012900
+%mor:	noun|chicken noun|nugget-Plur adp|by adv|here noun|mommy .
+%gra:	1|2|COMPOUND 2|5|ROOT 3|5|CASE 4|2|NMOD 5|2|NMOD 6|2|PUNCT
+*MOT:	um@fp .
+%mor:	fp|um .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	let me see .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	I don't see any chicken nuggets . 1012900_1017350
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S det|any-Def-Ind noun|chicken noun|nugget-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*MOT:	I see shrimp . 1017350_1019018
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 noun|shrimp-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	look it's shrimp . 1019018_1020990
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|shrimp .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|COP 4|1|CCOMP 5|1|PUNCT
+*CHI:	mommy xxx two .
+%mor:	noun|mommy num|two .
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+%com:	mother gasps . 1020990_1024209
+*MOT:	do you know what those are ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|what-Int-S1 pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|4|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT
+*CHI:	mmhm . 1024209_1026718
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it's what Meme sends you .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 propn|Meme verb|send-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|3|PUNCT
+*MOT:	what did Meme give you for Christmas ? 1026718_1031790
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr propn|Meme verb|give-Inf-S pron|you-Prs-Acc-S2 adp|for propn|Christmas ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|IOBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*CHI:	mmhm . 1031790_1033681
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	gummy [/] gummy bugs .
+%mor:	noun|gummy noun|bug-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	gummy [/] gummy bugs .
+%mor:	noun|gummy noun|bug-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	but these are gummy [/] gummy_bears . 1033681_1038800
+%mor:	cconj|but pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|gummybear-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	gummy [/] gummy_bears .
+%mor:	noun|gummybear-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	open them please mommy .
+%mor:	verb|open-Fin-Imp-S pron|they-Prs-Acc-P3 intj|please verb|mommy-Fin-Imp-S .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|DISCOURSE 4|1|PARATAXIS 5|1|PUNCT
+*MOT:	+< well it's just pretend honey . 1038800_1044558
+%mor:	intj|well pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|pretend-Inf-S noun|honey-Acc .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	open them please .
+%mor:	verb|open-Fin-Imp-S pron|they-Prs-Acc-P3 intj|please .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|DISCOURSE 4|1|PUNCT
+*MOT:	it's just pretend . 1044558_1049400
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|pretend-Inf-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	just for play . 1049400_1051002
+%mor:	adv|just adp|for noun|play .
+%gra:	1|3|ADVMOD 2|3|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx .
+*MOT:	+< did you eat all your Gummy_gummy bugs ? 1051002_1053782
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|eat-Inf-S det|all-Def-Tot pron|your-Prs-Gen-S2 propn|Gummygummy noun|bug-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|7|DET-PREDET 5|7|NMOD-POSS 6|7|COMPOUND 7|3|OBJ 8|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what are these ? 1053782_1056158
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|this-Dem-P1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	french_fries .
+%mor:	noun|frenchfry-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mispronounces french fries . 1056158_1058822
+*MOT:	french fries .
+%mor:	adj|French-S1 noun|fry-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	don't take them apart . 1058822_1062344
+%mor:	aux|do-Fin-Imp-S~part|not verb|take-Fin-Imp-S pron|they-Prs-Acc-P3 adv|apart .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*MOT:	thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	please take that off . 1062344_1065000
+%mor:	intj|please verb|take-Fin-Imp-S pron|that-Dem adp|off .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|PUNCT
+*MOT:	you've gotta keep that on .
+%mor:	pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 part|getta verb|keep-Inf-S pron|that-Dem adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|PUNCT
+*MOT:	so we can hear you . 1065000_1067126
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|can-Fin-S verb|hear-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	come sit in my lap ? 1067126_1071974
+%mor:	verb|come-Fin-Imp-S verb|sit-Inf-S adp|in pron|my-Prs-Gen-S1 noun|lap ?
+%gra:	1|5|ROOT 2|1|XCOMP 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|1|PUNCT
+*MOT:	look at the french fries . 1071974_1074374
+%mor:	verb|look-Fin-Imp-S adp|at det|the-Def-Art adj|French-S1 noun|fry-Plur .
+%gra:	1|5|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|1|PUNCT
+*MOT:	just pretend . 1074374_1076191
+%mor:	adv|just verb|pretend-Fin-Imp-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	and these are some nuts . 1076191_1077625
+%mor:	cconj|and pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|some-Def-Ind noun|nut-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+*CHI:	want the nuts please .
+%mor:	verb|want-Fin-Imp-S det|the-Def-Art noun|nut-Plur-Acc intj|please .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|DISCOURSE 5|1|PUNCT
+*MOT:	just pretend . 1077625_1080915
+%mor:	adv|just verb|pretend-Fin-Imp-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	they're just pretend .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|just verb|pretend-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	thank_you . 1080915_1085999
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	here's a bowl .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|bowl .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	we have some strawberries in a bowl . 1085999_1091460
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|some-Def-Ind noun|strawberry-Plur-Acc adp|in det|a-Ind-Art noun|bowl .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*CHI:	mmhm . 1091460_1093672
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I'm gonna put my shrimp in a bowl . 1093672_1095123
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|put-Part-Past-S-irr pron|my-Prs-Gen-S1 noun|shrimp-Acc adp|in det|a-Ind-Art noun|bowl .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*CHI:	no Jack shrimp . 1095123_1098680
+%mor:	det|no-Def-Neg propn|Jack noun|shrimp .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*MOT:	Jack shrimp ?
+%mor:	propn|Jack noun|shrimp ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	do you have a bowl ? 1098680_1101912
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S det|a-Ind-Art noun|bowl-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	we only have +...
+%mor:	pron|we-Prs-Nom-P1 adv|only verb|have-Fin-Ind-Pres-P1 +...
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	how many bowls ?
+%mor:	adv|how adj|many-S1 noun|bowl-Plur ?
+%gra:	1|2|ADVMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	we do have two bowls . 1101912_1107983
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1 verb|have-Inf-S num|two noun|bowl-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|PUNCT
+*MOT:	the strawberries are in the other bowl .
+%mor:	det|the-Def-Art noun|strawberry-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art adj|other-S1 noun|bowl .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+*CHI:	mommy you done with these . 1107983_1112675
+%mor:	intj|mommy pron|you-Prs-Nom-S2 verb|do-Part-Past-S-irr adp|with pron|this-Dem-P1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	thank_you . 1112675_1114867
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Jack put them here please .
+%mor:	propn|Jack verb|put-Fin-Ind-Past-S3-irr pron|they-Prs-Acc-P3 adv|here intj|please .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|DISCOURSE 6|2|PUNCT
+*MOT:	oh . 1114867_1117700
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	now we each have a shrimp in a bowl . 1117700_1120407
+%mor:	adv|now pron|we-Prs-Nom-P1 det|each-Def-Tot verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|shrimp-Acc adp|in det|a-Ind-Art noun|bowl .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|2|DET 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|4|PUNCT
+*CHI:	mommy cut shrimp please . 1120407_1124484
+%mor:	noun|mommy verb|cut-Fin-S noun|shrimp-Acc intj|please .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|DISCOURSE 5|2|PUNCT
+*MOT:	mommy what ?
+%mor:	noun|mommy pron|what-Int-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	mommy cut it please . 1124484_1128248
+%mor:	noun|mommy verb|cut-Fin-Imp-S pron|it-Prs-Acc-S3 intj|please .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|DISCOURSE 5|2|PUNCT
+*MOT:	thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	cut . 1128248_1131543
+%mor:	verb|cut-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Jack cut it that .
+%mor:	propn|Jack verb|cut-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 pron|that-Dem .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*MOT:	you gonna cut it too ? 1131543_1135171
+%mor:	pron|you-Prs-Nom-S2 adv|gonna verb|cut-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adv|too ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*MOT:	thank_you . 1135171_1139840
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Jack look .
+%mor:	propn|Jack verb|look-Fin-Ind-Pres-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	how many hot_dogs do you have ? 1139840_1145375
+%mor:	adv|how adj|many-S1 noun|hotdog-Plur-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|AMOD 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+*CHI:	two . 1145375_1146767
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	two ? 1146767_1147791
+%mor:	num|two ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	is everything two ? 1147791_1149151
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|everything-Tot-S1 num|two ?
+%gra:	1|2|COP 2|3|ROOT 3|2|NUMMOD 4|2|PUNCT
+*MOT:	don't take it off .
+%mor:	aux|do-Fin-Imp-S~part|not verb|take-Fin-Imp-S pron|it-Prs-Acc-S3 adp|off .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*MOT:	thank_you . 1149151_1152337
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look it .
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	ooh .
+%mor:	intj|ooh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's this ? 1152337_1157056
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm . 1157056_1158432
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cut mommy off .
+%mor:	verb|cut-Fin-Imp-S noun|mommy-Acc adp|off .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*MOT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	are you supposed to cut people ? 1158432_1163038
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|suppose-Part-Past-S part|to verb|cut-Inf-S noun|person-Plur-Acc ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ-PASS 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	just cut food . 1163038_1165791
+%mor:	adv|just verb|cut-Fin-Past-S-irr noun|food-Acc .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	remember the lemon ?
+%mor:	verb|remember-Fin-Imp-S det|the-Def-Art noun|lemon-Acc ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	no . 1165791_1168009
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no ?
+%mor:	adv|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cut lemons .
+%mor:	verb|cut-Fin-Imp-S noun|lemon-Plur-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	cut lemons ?
+%mor:	verb|cut-Fin-Imp-S noun|lemon-Plur-Acc ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	did you try a lemon before ? 1168009_1172416
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|try-Inf-S det|a-Ind-Art noun|lemon-Acc adv|before ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*CHI:	no [=! shaking head] .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother giggles .
+*MOT:	no ? 1172416_1175408
+%mor:	adv|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	remember you tried one it was sour .
+%mor:	verb|remember-Fin-Imp-S pron|you-Prs-Nom-S2 verb|try-Fin-Ind-Past-S2 num|one pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|sour-S1 .
+%gra:	1|7|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|OBJ 5|7|NSUBJ 6|7|COP 7|3|CCOMP 8|1|PUNCT
+*MOT:	what kind of face did you make ?
+%mor:	det|what-Def-Int noun|kind-Acc adp|of noun|face aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|make-Inf-S ?
+%gra:	1|2|DET 2|7|OBJ 3|4|CASE 4|2|NMOD 5|7|AUX 6|7|NSUBJ 7|7|ROOT 8|7|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	was it sour ? 1175408_1184591
+%mor:	aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 adj|sour-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it was . 1184591_1186199
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Cookie_monster do that mommy .
+%mor:	propn|Cookiemonster verb|do-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|mommy-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	what does Cookie_monster do ? 1186199_1190000
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 propn|Cookiemonster verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	sour too ? 1190000_1192900
+%mor:	adj|sour-S1 adv|too ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	she said sour ?
+%mor:	pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr adj|sour-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's clean up . 1192900_1194974
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|clean-Inf-S adp|up .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|1|PUNCT
+*CHI:	xxx xxx mommy .
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's clean up .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|clean-Inf-S adp|up .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|1|PUNCT
+*MOT:	I think we're gonna read books next . 1194974_1200800
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|go verb|read-Inf-S noun|book-Plur-Acc adv|next .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|6|OBJ 8|6|ADVMOD 9|2|PUNCT
+*MOT:	uh oh .
+%mor:	intj|uh intj|oh .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	Jack .
+%mor:	propn|Jack .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	there we go .
+%mor:	pron|there-Int-S1 pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's put the food away . 1200800_1204983
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S det|the-Def-Art noun|food-Acc adv|away .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|1|PUNCT
+*MOT:	bye_bye picnic .
+%mor:	noun|byebye noun|picnic .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	bye_bye picnic .
+%mor:	noun|byebye noun|picnic .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	+< did you have fun at the picnic ? 1204983_1208406
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|have-Inf-S noun|fun-Acc adp|at det|the-Def-Art noun|picnic ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	uhhuh . 1208406_1210078
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	fun picnic .
+%mor:	adj|fun-S1 noun|picnic .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	fun picnic . 1210078_1215374
+%mor:	adj|fun-S1 noun|picnic .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	pour it out .
+%mor:	verb|pour-Fin-Imp-S pron|it-Prs-Acc-S3 adp|out .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*MOT:	good job . 1215374_1217670
+%mor:	adj|good-S1 noun|job .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	put that out . 1217670_1221674
+%mor:	verb|put-Fin-Imp-S pron|that-Dem adp|out .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*CHI:	mommy .
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	put that out . 1221674_1224640
+%mor:	verb|put-Fin-Imp-S pron|that-Dem adp|out .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*MOT:	let me fold the picnic blanket . 1224640_1228813
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|fold-Inf-S det|the-Def-Art noun|picnic noun|blanket-Acc .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|1|PUNCT
+*MOT:	thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx things .
+%mor:	noun|thing-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	put the things in .
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art noun|thing-Plur-Acc adp|in .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	give me that &=points .
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 pron|that-Dem .
+%gra:	1|3|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+*MOT:	give me that bag right there &=points . 1228813_1236291
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 det|that-Def-Dem-Sing noun|bag-Acc adv|right adv|there .
+%gra:	1|6|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|6|ADVMOD 6|1|ADVMOD 7|1|PUNCT
+@Situation:	Book reading 20:36-30:11
+*CHI:	take it . 1236291_1238608
+%mor:	verb|take-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	fun picnic .
+%mor:	adj|fun-S1 noun|picnic .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	+< oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	books Jack . 1238608_1240998
+%mor:	noun|book-Plur propn|Jack .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	which one do you want to read first ? 1240998_1245492
+%mor:	det|which-Def-Int noun|one-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|read-Inf-S adv|first ?
+%gra:	1|2|DET 2|7|OBJ 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|5|PUNCT
+*CHI:	that one &=points . 1245492_1247124
+%mor:	det|that-Def-Dem-Sing num|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%com:	mother gasps then someone whispers .
+*MOT:	come here .
+%mor:	verb|come-Fin-Imp-S adv|here .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	come and sit on my lap . 1247124_1250067
+%mor:	verb|come-Fin-Imp-S cconj|and verb|sit-Fin-Imp-S adp|on pron|my-Prs-Gen-S1 noun|lap .
+%gra:	1|6|ROOT 2|3|CC 3|1|CONJ 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	this is Goodnight_moon .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 propn|Goodnightmoon .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	Goodnight_moon .
+%mor:	propn|Goodnightmoon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< do you remember this book ? 1250067_1254612
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S det|this-Def-Dem-Sing noun|book-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	Goodnight_moon .
+%mor:	propn|Goodnightmoon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Goodnight_moon . 1254612_1258844
+%mor:	propn|Goodnightmoon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	where's the moon on this page ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|moon adp|on det|this-Def-Dem-Sing noun|page ?
+%gra:	1|7|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+*CHI:	0 &=points .
+*MOT:	there it is .
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	what else do we call the moon ? 1258844_1263188
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|call-Inf-S det|the-Def-Art noun|moon-Acc ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	[- spa] la luna .
+%mor:	det|el-Fem-Def-Art-Sing noun|luna-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	[- spa] la luna . 1263188_1265771
+%mor:	det|el-Fem-Def-Art-Sing noun|luna-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	Goodnight_moon .
+%mor:	propn|Goodnightmoon .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother gasps . 1265771_1270723
+*MOT:	in the great green room there was a telephone . 1270723_1275133
+%mor:	adp|in det|the-Def-Art adj|great-S1 adj|green-S1 noun|room pron|there-Int-S1 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|telephone .
+%gra:	1|5|CASE 2|5|DET 3|5|AMOD 4|5|AMOD 5|9|NMOD 6|9|EXPL 7|9|COP 8|9|DET 9|9|ROOT 10|9|PUNCT
+*MOT:	and a red balloon .
+%mor:	cconj|and det|a-Ind-Art adj|red-S1 noun|balloon .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	and a picture of .
+%mor:	cconj|and det|a-Ind-Art noun|picture adp|of .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|NMOD 5|3|PUNCT
+*MOT:	see the balloon ? 1275133_1280180
+%mor:	verb|see-Fin-Imp-S det|the-Def-Art noun|balloon-Acc ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	the cow jumping over the moon . 1280180_1284749
+%mor:	det|the-Def-Art noun|cow verb|jump-Ger-S adp|over det|the-Def-Art noun|moon .
+%gra:	1|2|DET 2|6|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+*MOT:	and there were three little bears sitting on chairs . 1284749_1288941
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Past-P3-irr num|three adj|little-S1 noun|bear-Plur verb|sit-Ger-S adp|on noun|chair-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|9|ROOT 4|6|NUMMOD 5|6|AMOD 6|3|NSUBJ 7|6|ACL 8|9|CASE 9|7|OBL 10|3|PUNCT
+*MOT:	one_two_three@x &=points . 1288941_1290939
+%mor:	intj|onetwothree .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and two little kittens .
+%mor:	cconj|and num|two adj|little-S1 noun|kitten-Plur .
+%gra:	1|4|CC 2|4|NUMMOD 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	and a pair of mittens . 1290939_1297577
+%mor:	cconj|and det|a-Ind-Art noun|pair adp|of noun|mitten-Plur .
+%gra:	1|3|CC 2|3|DET 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+*MOT:	where's the kittens ? 1297577_1299087
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|kitten-Plur ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	where's the little kittens ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|little-S1 noun|kitten-Plur ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	mittens is mommy .
+%mor:	noun|mitten-Plur aux|be-Fin-Ind-Pres-S3 noun|mommy .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	the mittens are hanging up . 1299087_1306325
+%mor:	det|the-Def-Art noun|mitten-Plur aux|be-Fin-Ind-Pres-P3 verb|hang-Part-Pres-S adp|up .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*MOT:	by the socks . 1306325_1308565
+%mor:	adp|by det|the-Def-Art noun|sock-Plur .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	the hats is +/.
+%mor:	det|the-Def-Art noun|hat-Plur aux|be-Fin-Ind-Pres-S3 +/.
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	do you see where the mittens are ? 1308565_1311949
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S adv|where det|the-Def-Art noun|mitten-Plur aux|be-Fin-Ind-Pres-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|CCOMP 5|6|DET 6|7|NSUBJ 7|4|COP 8|3|PUNCT
+*CHI:	0 &=points .
+*MOT:	there they are .
+%mor:	pron|there-Dem-S1 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	where's the kittens ? 1311949_1315165
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|kitten-Plur ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	0 &=points .
+*MOT:	one_two@x .
+%mor:	noun|onetwo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and a little toy house .
+%mor:	cconj|and det|a-Ind-Art adj|little-S1 noun|toy noun|house .
+%gra:	1|5|CC 2|5|DET 3|5|AMOD 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*MOT:	and a young mouse . 1315165_1321006
+%mor:	cconj|and det|a-Ind-Art adj|young-S1 noun|mouse .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	where little mouse is mommy ?
+%mor:	adv|where adj|little-S1 noun|mouse aux|be-Fin-Ind-Pres-S3 noun|mommy ?
+%gra:	1|5|ADVMOD 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*MOT:	little toy mouse ?
+%mor:	adj|little-S1 noun|toy noun|mouse ?
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	little toy house . 1321006_1328004
+%mor:	adj|little-S1 noun|toy noun|house .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	little toy house .
+%mor:	adj|little-S1 noun|toy noun|house .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*MOT:	where's the toy house ? 1328004_1331949
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|toy noun|house ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|COMPOUND 5|1|NSUBJ 6|1|PUNCT
+*CHI:	0 &=points .
+*MOT:	good boy .
+%mor:	adj|good-S1 noun|boy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	mouse is mommy ?
+%mor:	noun|mouse aux|be-Fin-Ind-Pres-S3 noun|mommy ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	where's the mouse ? 1331949_1337269
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|mouse ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	0 &=points .
+*MOT:	there he is . 1337269_1340405
+%mor:	pron|there-Dem-S1 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx go mommy .
+%mor:	verb|go-Fin-Imp-S noun|mommy-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	and a comb .
+%mor:	cconj|and det|a-Ind-Art noun|comb .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	and a brush .
+%mor:	cconj|and det|a-Ind-Art noun|brush .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	and a full [//] bowl full of mush .
+%mor:	cconj|and det|a-Ind-Art noun|bowl adj|full-S1 adp|of noun|mush .
+%gra:	1|3|CC 2|3|DET 3|6|ROOT 4|3|AMOD 5|6|CASE 6|4|OBL 7|3|PUNCT
+*MOT:	and a quiet old lady who was whispering hush . 1340405_1350969
+%mor:	cconj|and det|a-Ind-Art adj|quiet-S1 adj|old-S1 noun|lady pron|who-Rel aux|be-Fin-Ind-Past-S3-irr verb|whisper-Part-Pres-S adj|hush-S1 .
+%gra:	1|5|CC 2|5|DET 3|5|AMOD 4|5|AMOD 5|9|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|5|ACL-RELCL 10|5|PUNCT
+*MOT:	hush . 1350969_1353548
+%mor:	intj|hush .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight room . 1353548_1357143
+%mor:	noun|goodnight noun|room .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight moon . 1357143_1362981
+%mor:	noun|goodnight noun|moon .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight cow jumping over the moon . 1362981_1365423
+%mor:	noun|goodnight noun|cow verb|jump-Part-Pres-S adp|over det|the-Def-Art noun|moon .
+%gra:	1|2|COMPOUND 2|6|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+*MOT:	goodnight light .
+%mor:	noun|goodnight noun|light .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	and the red balloon . 1365423_1370206
+%mor:	cconj|and det|the-Def-Art adj|red-S1 noun|balloon .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	goodnight bears .
+%mor:	noun|goodnight noun|bear-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight chairs . 1370206_1374089
+%mor:	noun|goodnight noun|chair-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	that rhymes .
+%mor:	det|that-Def-Dem-Sing noun|rhyme-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	huh ?
+%mor:	propn|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	bears .
+%mor:	noun|bear-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	chairs .
+%mor:	noun|chair-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight kittens .
+%mor:	noun|goodnight noun|kitten-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	and goodnight mittens . 1374089_1382277
+%mor:	cconj|and noun|goodnight noun|mitten-Plur .
+%gra:	1|3|CC 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*MOT:	kittens and mittens . 1382277_1385477
+%mor:	noun|kitten-Plur cconj|and noun|mitten-Plur .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*MOT:	goodnight clocks .
+%mor:	noun|goodnight noun|clock-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	and goodnight socks . 1385477_1390041
+%mor:	cconj|and noun|goodnight noun|sock-Plur .
+%gra:	1|3|CC 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*MOT:	there's a clock . 1390041_1395086
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|clock .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*MOT:	where's another clock ? 1395086_1400258
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|another-Def-Ind noun|clock ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	goodnight little house .
+%mor:	intj|goodnight adj|little-S1 noun|house .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	and goodnight ?
+%mor:	cconj|and noun|goodnight ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	mouse .
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mouse . 1400258_1409035
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	goodnight mouse . 1409035_1410505
+%mor:	noun|goodnight noun|mouse .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight mouse .
+%mor:	noun|goodnight noun|mouse .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight comb .
+%mor:	noun|goodnight noun|comb .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	and goodnight brush . 1410495_1416047
+%mor:	cconj|and noun|goodnight noun|brush .
+%gra:	1|3|CC 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	goodnight brush is mommy .
+%mor:	noun|goodnight noun|brush aux|be-Fin-Ind-Pres-S3 noun|mommy .
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	where's the brush ? 1416047_1420607
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|brush ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	0 &=points .
+*MOT:	that's the comb .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|comb .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	comb .
+%mor:	noun|comb-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	the brush is right there . 1420607_1424238
+%mor:	det|the-Def-Art noun|brush aux|be-Fin-Ind-Pres-S3 adj|right-S1 adv|there .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	that's a funny looking brush .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|funny-S1 verb|look-Ger-S noun|brush .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*MOT:	huh ? 1424238_1427463
+%mor:	propn|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight nobody .
+%mor:	intj|goodnight pron|nobody-Neg-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight mush . 1427463_1433559
+%mor:	noun|goodnight noun|mush .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	that mommy ?
+%mor:	det|that-Def-Dem-Sing noun|mommy ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	that's mush .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|mush-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	it's like oatmeal .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like noun|oatmeal .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+*CHI:	+< mush .
+%mor:	adj|mush-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oatmeal and xxx . 1433559_1439339
+%mor:	noun|oatmeal cconj|and .
+%gra:	1|2|ROOT 2|1|CC 3|1|PUNCT
+*MOT:	oatmeal's something we eat for breakfast . 1439339_1441179
+%mor:	noun|oatmeal~aux|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 pron|we-Prs-Nom-P1 verb|eat-Fin-Ind-Pres-P1 adp|for noun|breakfast .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|CASE 7|5|OBL 8|3|PUNCT
+*MOT:	and goodnight to the old lady whispering hush . 1441179_1447406
+%mor:	cconj|and noun|goodnight adp|to det|the-Def-Art adj|old-S1 noun|lady verb|whisper-Ger-S noun|hush .
+%gra:	1|2|CC 2|8|ROOT 3|8|CASE 4|8|DET 5|6|AMOD 6|8|COMPOUND 7|8|AMOD 8|2|NMOD 9|2|PUNCT
+*CHI:	hush . 1447406_1448837
+%mor:	intj|hush .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what are these ? 1448837_1453323
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|this-Dem-P1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	stars . 1453323_1454511
+%mor:	noun|star-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight stars .
+%mor:	noun|goodnight noun|star-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight air . 1454511_1457683
+%mor:	noun|goodnight noun|air .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight noises everywhere . 1457683_1463154
+%mor:	noun|goodnight noun|noise-Plur adv|everywhere .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	goodnight noises .
+%mor:	noun|goodnight noun|noise-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	noises is mommy ? 1463154_1469019
+%mor:	noun|noise-Plur aux|be-Fin-Ind-Pres-S3 noun|mommy ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	um@fp .
+%mor:	fp|um .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	noises are things that you hear . 1469019_1472220
+%mor:	noun|noise-Plur aux|be-Fin-Ind-Pres-P3 noun|thing-Plur pron|that-Rel pron|you-Prs-Nom-S2 verb|hear-Fin-Ind-Pres-S2 .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|3|PUNCT
+*CHI:	noises .
+%mor:	noun|nois-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you [/] you hear noises . 1472220_1476171
+%mor:	pron|you-Prs-Nom-S2 verb|hear-Fin-Ind-Pres-S2 noun|noise-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	look at it please mommy .
+%mor:	verb|look-Fin-Imp-S adp|at pron|it-Prs-Acc-S3 intj|please verb|mommy-Fin-Imp-S .
+%gra:	1|5|ROOT 2|3|CASE 3|1|OBL 4|5|DISCOURSE 5|1|PARATAXIS 6|1|PUNCT
+*MOT:	well <there's not> [//] you can't look at the noises .
+%mor:	intj|well pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|look-Inf-S adp|at det|the-Def-Art noun|noise-Plur .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*MOT:	you can look at things that make noise .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|look-Inf-S adp|at noun|thing-Plur pron|that-Rel verb|make-Fin-Ind-Pres-P3 noun|noise-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|CASE 5|3|OBL 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBJ 9|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	like the clock . 1476171_1484870
+%mor:	adp|like det|the-Def-Art noun|clock .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	it goes tick_tock [/] tick_tock .
+%mor:	pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 noun|ticktock-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	that's a noise . 1484870_1488395
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|noise .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	what do the cats do ? 1488395_1491099
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-P3 det|the-Def-Art noun|cat-Plur verb|do-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*MOT:	to make a noise .
+%mor:	part|to verb|make-Inf-S det|a-Ind-Art noun|noise-Acc .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	meow .
+%mor:	noun|meow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	meow .
+%mor:	noun|meow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	and what does the telephone do to make a noise ? 1491099_1498090
+%mor:	cconj|and pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|telephone verb|do-Inf-S part|to verb|make-Inf-S det|a-Ind-Art noun|noise-Acc ?
+%gra:	1|6|CC 2|8|OBJ 3|6|AUX 4|5|DET 5|6|NSUBJ 6|10|ROOT 7|8|MARK 8|6|ADVCL 9|10|DET 10|8|OBJ 11|6|PUNCT
+*CHI:	hello .
+%mor:	noun|hello-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what does the telephone do though ? 1498090_1501795
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|telephone verb|do-Inf-S adv|though ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|DET 4|5|NSUBJ 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	ring .
+%mor:	noun|ring-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ring .
+%mor:	noun|ring-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	+< ring .
+%mor:	noun|ring-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it makes noise . 1501795_1504538
+%mor:	pron|it-Prs-Nom-S3 verb|make-Fin-Ind-Pres-S3 noun|noise-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mmhm . 1504538_1507267
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	which one do you want to read next ?
+%mor:	det|which-Def-Int noun|one-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|read-Inf-S adv|next ?
+%gra:	1|2|DET 2|7|OBJ 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|5|PUNCT
+*MOT:	Brown_bear_brown_bear or Big_red_barn ? 1507267_1510997
+%mor:	propn|Brownbearbrownbear cconj|or propn|Bigredbarn ?
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*CHI:	brown bear .
+%mor:	adj|brown-S1 noun|bear .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	brown bear .
+%mor:	adj|brown-S1 noun|bear .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	we like this one . 1510997_1514215
+%mor:	pron|we-Prs-Nom-P1 verb|like-Fin-Ind-Pres-P1 det|this-Def-Dem-Sing noun|one-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	Brown_bear_brown_bear_what_do_you ?
+%mor:	propn|Brownbearbrownbearwhatdoyou ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	see .
+%mor:	verb|see-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	see .
+%mor:	verb|see-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	good boy . 1514215_1520275
+%mor:	adj|good-S1 noun|boy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	by Bill_Martin_Jr .
+%mor:	adp|by propn|BillMartinJr .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	and pictures by Eric_Carle . 1520275_1526322
+%mor:	cconj|and noun|picture-Plur adp|by propn|EricCarle .
+%gra:	1|2|CC 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*MOT:	that's mommy's favorite author .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|mommy~part|s adj|favorite-S1 noun|author .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|NMOD-POSS 4|3|CASE 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*MOT:	brown bear .
+%mor:	adj|brown-S1 noun|bear .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	brown bear .
+%mor:	adj|brown-S1 noun|bear .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	what do you see ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	read that book there mommy .
+%mor:	verb|read-Fin-Imp-S det|that-Def-Dem-Sing noun|book-Acc adv|there noun|mommy .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|OBL-UNMARKED 6|1|PUNCT
+*MOT:	+< you wanna read Goodnight_moon again ? 1526322_1535274
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|read-Fin-Ind-Pres-S propn|Goodnightmoon-Acc adv|again ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	mmhm [=! nodding] .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	make tick that .
+%mor:	verb|make-Fin-Imp-S verb|tick-Inf-S pron|that-Dem .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+*MOT:	make tic_tac ?
+%mor:	verb|make-Fin-Imp-S noun|tictac-Acc ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	+< xxx . 1535274_1542074
+*CHI:	tick_tock .
+%mor:	noun|ticktock .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you just want to look at the pictures ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|just verb|want-Inf-S part|to verb|look-Inf-S adp|at det|the-Def-Art noun|picture-Plur ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+*MOT:	or do you want me to read the book ?
+%mor:	cconj|or aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|read-Inf-S det|the-Def-Art noun|book-Acc ?
+%gra:	1|4|CC 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|9|DET 9|7|OBJ 10|4|PUNCT
+*CHI:	read book .
+%mor:	verb|read-Fin-Imp-S noun|book-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	in the great green room there was a telephone .
+%mor:	adp|in det|the-Def-Art adj|great-S1 adj|green-S1 noun|room pron|there-Int-S1 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|telephone .
+%gra:	1|5|CASE 2|5|DET 3|5|AMOD 4|5|AMOD 5|9|NMOD 6|9|EXPL 7|9|COP 8|9|DET 9|9|ROOT 10|9|PUNCT
+*MOT:	and a red balloon .
+%mor:	cconj|and det|a-Ind-Art adj|red-S1 noun|balloon .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	and a picture of ? 1542074_1556489
+%mor:	cconj|and det|a-Ind-Art noun|picture adp|of ?
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|NMOD 5|3|PUNCT
+*MOT:	what's that cow doing ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|cow verb|do-Part-Pres-S ?
+%gra:	1|5|OBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*CHI:	jump over the moon .
+%mor:	verb|jump-Fin-Imp-S adp|over det|the-Def-Art noun|moon .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*MOT:	that's right . 1556489_1561000
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	and there were three little bears sitting on ? 1561000_1564117
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Past-P3-irr num|three adj|little-S1 noun|bear-Plur verb|sit-Ger-S adp|on ?
+%gra:	1|3|CC 2|3|EXPL 3|8|ROOT 4|6|NUMMOD 5|6|AMOD 6|3|NSUBJ 7|6|ACL 8|7|COMPOUND-PRT 9|3|PUNCT
+*CHI:	one_two_three_four@x &=points .
+%mor:	propn|onetwothreefour .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	what are they sitting on ? 1564117_1569877
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|sit-Part-Pres-S adp|on ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	chairs .
+%mor:	noun|chair-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	chairs .
+%mor:	noun|chair-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	good boy . 1569877_1572196
+%mor:	adj|good-S1 noun|boy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	will you help me read the book ? 1572196_1573325
+%mor:	aux|will-Fin-S pron|you-Prs-Nom-S2 verb|help-Inf-S pron|I-Prs-Acc-S1 verb|read-Inf-S det|the-Def-Art noun|book-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	house is xxx .
+%mor:	noun|house aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	+< there were two little +... 1573325_1578237
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-P3-irr num|two adj|little-S1 +...
+%gra:	1|2|EXPL 2|4|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|2|PUNCT
+*CHI:	kitty cat . 1578237_1581501
+%mor:	noun|kitty noun|cat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	kittens .
+%mor:	noun|kitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kittens .
+%mor:	noun|kitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< and a pair of ? 1581501_1584141
+%mor:	cconj|and det|a-Ind-Art noun|pair adp|of ?
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+*CHI:	mittens .
+%mor:	noun|mitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mittens . 1584141_1586356
+%mor:	noun|mitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and a little ?
+%mor:	cconj|and det|a-Ind-Art adj|little-S1 ?
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	house . 1586356_1589007
+%mor:	noun|house .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and a young ?
+%mor:	cconj|and det|a-Ind-Art adj|young-S1 ?
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	mouse . 1589007_1592620
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	good boy .
+%mor:	adj|good-S1 noun|boy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	house is mommy ?
+%mor:	noun|house aux|be-Fin-Ind-Pres-S3 noun|mommy ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	what honey ?
+%mor:	det|what-Def-Int noun|honey ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	+< house is ? 1592620_1598332
+%mor:	noun|house aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	house .
+%mor:	noun|house .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	clowns ?
+%mor:	noun|clown-Plur ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no house .
+%mor:	det|no-Def-Neg noun|house .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	I don't know babe .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S noun|babe-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	house . 1598332_1606395
+%mor:	noun|house .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	house .
+%mor:	noun|house .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	well let's read it .
+%mor:	intj|well verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|read-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*CHI:	tick_tock .
+%mor:	noun|ticktock .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	it's a +/.
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art +/.
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+*MOT:	clock ?
+%mor:	noun|clock ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and a ?
+%mor:	cconj|and det|a-Ind-Art ?
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*MOT:	what's that ? 1606395_1614324
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	comb .
+%mor:	noun|comb-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	comb . 1614324_1618000
+%mor:	noun|comb-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and a ?
+%mor:	cconj|and det|a-Ind-Art ?
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*CHI:	brush . 1618000_1620100
+%mor:	noun|brush .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and a bowl full of ?
+%mor:	cconj|and det|a-Ind-Art noun|bowl adj|full-S1 adp|of ?
+%gra:	1|3|CC 2|3|DET 3|5|ROOT 4|3|AMOD 5|4|OBL 6|3|PUNCT
+*MOT:	do you remember what that was called ? 1620100_1625588
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|what-Int-S1 pron|that-Rel aux|be-Fin-Ind-Past-S3-irr verb|call-Part-Past-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|4|ACL-RELCL 8|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mush . 1625588_1627400
+%mor:	adj|mush-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mush .
+%mor:	adj|mush-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and a little [//] quiet little lady who was whispering ? 1627400_1632396
+%mor:	cconj|and det|a-Ind-Art adj|quiet-S1 adj|little-S1 noun|lady pron|who-Rel aux|be-Fin-Ind-Past-S3-irr verb|whisper-Part-Pres-S ?
+%gra:	1|5|CC 2|5|DET 3|5|AMOD 4|5|AMOD 5|8|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|5|PUNCT
+*MOT:	hush .
+%mor:	intj|hush .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hush . 1632396_1634836
+%mor:	intj|hush .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight room . 1634836_1639276
+%mor:	noun|goodnight noun|room .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight ?
+%mor:	noun|goodnight ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cow .
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight cow jumping over the ?
+%mor:	noun|goodnight noun|cow verb|jump-Part-Pres-S adp|over det|the-Def-Art ?
+%gra:	1|2|COMPOUND 2|5|ROOT 3|2|ACL 4|5|CASE 5|3|OBL 6|2|PUNCT
+*CHI:	moon . 1639276_1645769
+%mor:	noun|moon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	moon .
+%mor:	noun|moon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight ?
+%mor:	noun|goodnight ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	light .
+%mor:	noun|light .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	good job !
+%mor:	adj|good-S1 noun|job !
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	and the red ?
+%mor:	cconj|and det|the-Def-Art adj|red-S1 ?
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	balloon . 1645769_1655276
+%mor:	noun|balloon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight ? 1655276_1657228
+%mor:	noun|goodnight ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bears .
+%mor:	noun|bear-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight ?
+%mor:	noun|goodnight ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what are they sitting on ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|sit-Part-Pres-S adp|on ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	chairs . 1657228_1662756
+%mor:	noun|chair-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	good boy .
+%mor:	adj|good-S1 noun|boy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	I like when you help me read .
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 adv|when pron|you-Prs-Nom-S2 verb|help-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 verb|read-Inf-S .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|ADVMOD 4|5|NSUBJ 5|2|ADVCL 6|5|OBJ 7|5|XCOMP 8|2|PUNCT
+*MOT:	goodnight ? 1662756_1667080
+%mor:	noun|goodnight ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kitty cat .
+%mor:	noun|kitty noun|cat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	kittens .
+%mor:	noun|kitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kittens .
+%mor:	noun|kitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and goodnight ? 1667080_1671629
+%mor:	cconj|and noun|goodnight ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	mittens .
+%mor:	noun|mitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mittens . 1671629_1674632
+%mor:	noun|mitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	they're hanging .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|hang-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*MOT:	we have one of those that you put outside . 1674632_1677929
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 num|one adp|of pron|that-Dem-P1 pron|that-Rel pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2-irr adv|outside .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|8|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|8|ADVMOD 10|2|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	to hang clothes .
+%mor:	part|to verb|hang-Inf-S noun|clothes-Ptan-Acc .
+%gra:	1|2|MARK 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight ?
+%mor:	noun|goodnight ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what are these called ? 1677929_1684337
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|this-Dem-P1 verb|call-Part-Past-S ?
+%gra:	1|4|NSUBJ-PASS 2|4|AUX-PASS 3|4|NSUBJ-PASS 4|4|ROOT 5|4|PUNCT
+*CHI:	clocks .
+%mor:	noun|clock-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	clocks .
+%mor:	noun|clock-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother gasps . 1684337_1688213
+*MOT:	what does your clock do in your playroom ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|clock verb|do-Inf-S adp|in pron|your-Prs-Gen-S2 noun|playroom ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|NMOD-POSS 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+*CHI:	tick_tock xxx .
+%mor:	noun|ticktock .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's right . 1688213_1692789
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	and goodnight ?
+%mor:	cconj|and noun|goodnight ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	socks .
+%mor:	noun|sock-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	socks . 1692789_1697221
+%mor:	noun|sock-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look Jack .
+%mor:	verb|look-Fin-Imp-S propn|Jack-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	there's a little book of Goodnight_moon right there . 1697221_1703007
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|book adp|of propn|Goodnightmoon adv|right adv|there .
+%gra:	1|2|EXPL 2|9|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|7|CASE 7|5|NMOD 8|9|ADVMOD 9|2|ADVMOD 10|2|PUNCT
+*CHI:	house .
+%mor:	noun|house .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goodnight little ?
+%mor:	intj|goodnight adj|little-S1 ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	house .
+%mor:	noun|house .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and goodnight ? 1703007_1712000
+%mor:	cconj|and noun|goodnight ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	little mouse .
+%mor:	adj|little-S1 noun|mouse .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	+< little mouse . 1712000_1714373
+%mor:	adj|little-S1 noun|mouse .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight comb .
+%mor:	noun|goodnight noun|comb .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	and goodnight brush . 1714373_1719549
+%mor:	cconj|and noun|goodnight noun|brush .
+%gra:	1|3|CC 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*MOT:	goodnight nobody .
+%mor:	intj|goodnight pron|nobody-Neg-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight mush . 1719549_1726939
+%mor:	noun|goodnight noun|mush .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	and goodnight to the old lady whispering hush . 1726939_1733437
+%mor:	cconj|and noun|goodnight adp|to det|the-Def-Art adj|old-S1 noun|lady verb|whisper-Ger-S noun|hush .
+%gra:	1|2|CC 2|8|ROOT 3|8|CASE 4|8|DET 5|6|AMOD 6|8|COMPOUND 7|8|AMOD 8|2|NMOD 9|2|PUNCT
+*MOT:	goodnight stars .
+%mor:	noun|goodnight noun|star-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight air . 1733437_1740645
+%mor:	noun|goodnight noun|air .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	goodnight noises everywhere .
+%mor:	noun|goodnight noun|noise-Plur adv|everywhere .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	noises it xxx .
+%mor:	noun|noise-Plur pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|NMOD-UNMARKED 3|1|PUNCT
+*MOT:	what are something that make noise ? 1740645_1750546
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|something-Ind-S1 pron|that-Rel verb|make-Fin-Ind-Pres-P3 noun|noise-Acc ?
+%gra:	1|6|ROOT 2|1|COP 3|1|NSUBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|1|PUNCT
+*MOT:	what's that ? 1750546_1753509
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	clock .
+%mor:	noun|clock .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	clock .
+%mor:	noun|clock .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what are some other things that make noise ? 1753509_1756072
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 det|some-Def-Ind adj|other-S1 noun|thing-Plur pron|that-Rel verb|make-Fin-Ind-Pres-P3 noun|noise-Acc ?
+%gra:	1|8|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBJ 9|1|PUNCT
+*CHI:	kitty cat .
+%mor:	noun|kitty noun|cat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	kitty cats .
+%mor:	noun|kitty noun|cat-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	what else ? 1756072_1758754
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	what's that ? 1758754_1761675
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	xxx .
+*MOT:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	does the bunny make noise ? 1761675_1764789
+%mor:	aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|bunny verb|make-Inf-S noun|noise-Acc ?
+%gra:	1|4|AUX 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	when it's awake the bunny kind of makes noise . 1764789_1768338
+%mor:	adv|when pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|awake-S1 det|the-Def-Art noun|bunny noun|kind adp|of verb|make-Fin-Ind-Pres-S3 noun|noise-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|9|ADVCL 5|6|DET 6|9|NSUBJ 7|9|ADVMOD 8|7|FIXED 9|10|ROOT 10|9|OBJ 11|9|PUNCT
+*MOT:	do you wanna see what brown bear ? 1768338_1772259
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|see-Inf-S det|what-Def-Int adj|brown-S1 noun|bear-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+%com:	child begins to fuss .
+*MOT:	Big_red_barn . 1772259_1776999
+%mor:	propn|Bigredbarn .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	are they at the zoo ?
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adp|at det|the-Def-Art noun|zoo ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	think they're at the zoo ? 1776999_1783468
+%mor:	verb|think-Fin-Imp-S pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adp|at det|the-Def-Art noun|zoo ?
+%gra:	1|6|ROOT 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|1|CCOMP 7|1|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< or are they at the farm ? 1783468_1786147
+%mor:	cconj|or aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adp|at det|the-Def-Art noun|farm ?
+%gra:	1|6|CC 2|6|COP 3|6|NSUBJ 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+*CHI:	the farm .
+%mor:	det|the-Def-Art noun|farm .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%com:	child mispronounces farm .
+*MOT:	remember we went to the cow farm ? 1786147_1789412
+%mor:	verb|remember-Fin-Imp-S pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adp|to det|the-Def-Art noun|cow noun|farm ?
+%gra:	1|7|ROOT 2|3|NSUBJ 3|1|CCOMP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|1|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	who did we go to the cow farm with ? 1789412_1791739
+%mor:	pron|who-Int aux|do-Fin-Ind-Past-P1-irr pron|we-Prs-Nom-P1 verb|go-Inf-S adp|to det|the-Def-Art noun|cow noun|farm adp|with ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|OBL 10|4|PUNCT
+*CHI:	mmhm . 1791739_1794275
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Dede .
+%mor:	propn|dede .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at all the corn .
+%mor:	verb|look-Fin-Imp-S adp|at det|all-Def-Tot det|the-Def-Art noun|corn .
+%gra:	1|5|ROOT 2|5|CASE 3|5|DET-PREDET 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	+< Dede .
+%mor:	propn|dede .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	by the big red barn in the great green fields . 1794275_1802203
+%mor:	adp|by det|the-Def-Art adj|big-S1 adj|red-S1 noun|barn adp|in det|the-Def-Art adj|great-S1 adj|green-S1 noun|field-Plur .
+%gra:	1|5|CASE 2|5|DET 3|5|AMOD 4|5|AMOD 5|10|ROOT 6|10|CASE 7|10|DET 8|10|AMOD 9|10|AMOD 10|5|NMOD 11|5|PUNCT
+*MOT:	there was a pink pig who learned to squeal . 1802203_1806255
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|pink-S1 noun|pig pron|who-Rel verb|learn-Fin-Ind-Past-S3 part|to verb|squeal-Inf-S .
+%gra:	1|2|EXPL 2|9|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|2|PUNCT
+*CHI:	pink pig .
+%mor:	adj|pink-S1 noun|pig .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	there was a great big horse .
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|great-S1 adj|big-S1 noun|horse .
+%gra:	1|2|EXPL 2|6|ROOT 3|6|DET 4|6|AMOD 5|6|AMOD 6|2|NSUBJ 7|2|PUNCT
+*MOT:	and a very little horse . 1806255_1810539
+%mor:	cconj|and det|a-Ind-Art adv|very adj|little-S1 noun|horse .
+%gra:	1|5|CC 2|5|DET 3|4|ADVMOD 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+@End

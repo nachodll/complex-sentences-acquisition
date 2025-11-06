@@ -1,0 +1,87 @@
+@UTF8
+@PID:	11312/c-00020685-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiMono|CHI|10;05.|female|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Comment:	Date is 1-9-1996
+@Tape Location:	S96.PO
+@Transcriber:	PO
+@Types:	cross, narrative, TD
+*CHI:	there was a boy [^c] who caught a frog [^c] .
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|boy pron|who-Rel verb|catch-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|frog-Acc .
+%gra:	1|2|EXPL 2|8|ROOT 3|4|DET 4|2|NSUBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|8|DET 8|6|OBJ 9|2|PUNCT
+*CHI:	and he brought it home [^c] and put it in a jar [^c] .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|bring-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 adv|home cconj|and verb|put-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 adp|in det|a-Ind-Art noun|jar .
+%gra:	1|3|CC 2|3|NSUBJ 3|11|ROOT 4|3|OBJ 5|3|ADVMOD 6|7|CC 7|3|CONJ 8|7|OBJ 9|11|CASE 10|11|DET 11|7|OBL 12|3|PUNCT
+*CHI:	then he went to sleep [^c] .
+%mor:	adv|then pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|to noun|sleep .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	when he was asleep (.) [^c] the frog got out of the jar [^c] .
+%mor:	adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|asleep-S1 det|the-Def-Art noun|frog verb|get-Fin-Ind-Past-S3-irr adp|out adp|of det|the-Def-Art noun|jar .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|7|ADVCL 5|6|DET 6|7|NSUBJ 7|11|ROOT 8|11|CASE 9|8|FIXED 10|11|DET 11|7|OBL 12|7|PUNCT
+*CHI:	and then when he woke up the next morning (.) [^c] the frog was gone [^c] .
+%mor:	cconj|and adv|then adv|when pron|he-Prs-Nom-S3 verb|wake-Fin-Ind-Past-S3-irr adp|up det|the-Def-Art adj|next-S1 noun|morning-Ger det|the-Def-Art noun|frog aux|be-Fin-Ind-Past-S3-irr adj|gone-S1 .
+%gra:	1|13|CC 2|13|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|13|ADVCL 6|5|COMPOUND-PRT 7|9|DET 8|9|AMOD 9|5|OBL-UNMARKED 10|11|DET 11|13|NSUBJ 12|13|COP 13|13|ROOT 14|13|PUNCT
+*CHI:	the boy looked inside his boots [^c] and out the window [^c] .
+%mor:	det|the-Def-Art noun|boy verb|look-Fin-Ind-Past-S3 adp|inside pron|his-Prs-Gen-S3 noun|boot-Plur cconj|and adp|out det|the-Def-Art noun|window .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|10|CC 8|10|CASE 9|10|DET 10|6|CONJ 11|3|PUNCT
+*CHI:	and then his dog fell out [* of the window?] [^c] .
+%mor:	cconj|and adv|then pron|his-Prs-Gen-S3 noun|dog verb|fall-Fin-Ind-Past-S3-irr adp|out .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|NMOD-POSS 4|5|NSUBJ 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*CHI:	the boy ran down [^c] and got his dog [^c] .
+%mor:	det|the-Def-Art noun|boy verb|run-Fin-Ind-Past-S3-irr adp|down cconj|and verb|get-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|dog-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|3|COMPOUND-PRT 5|6|CC 6|3|CONJ 7|8|NMOD-POSS 8|6|OBJ 9|3|PUNCT
+*CHI:	he went out into (.) the fields (.) [^c] and yelled for the frog [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adv|out adp|into det|the-Def-Art noun|field-Plur cconj|and verb|yell-Fin-Ind-Past-S3 adp|for det|the-Def-Art noun|frog .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|ADVMOD 4|6|CASE 5|6|DET 6|2|OBL 7|8|CC 8|2|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+*CHI:	he looked in a gopher hole (.) [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|in det|a-Ind-Art noun|gopher noun|hole .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+*CHI:	and a gopher popped out [^c] .
+%mor:	cconj|and det|a-Ind-Art noun|gopher verb|pop-Fin-Ind-Past-S3 adp|out .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	there was a beehive [^c] that the dog hit [* knocked?] down [^c] .
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|beehive pron|that-Rel det|the-Def-Art noun|dog verb|hit-Fin-Ind-Past-S3-irr adp|down .
+%gra:	1|2|EXPL 2|9|ROOT 3|4|DET 4|2|NSUBJ 5|8|OBJ 6|7|DET 7|8|NSUBJ 8|4|ACL-RELCL 9|8|COMPOUND-PRT 10|2|PUNCT
+*CHI:	and the bees were coming out (.) [^c] while the boy was looking through the hole <of the tree> [/] of a tree [^c] .
+%mor:	cconj|and det|the-Def-Art noun|bee-Plur aux|be-Fin-Ind-Past-P3-irr verb|come-Part-Pres-S adp|out sconj|while det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr verb|look-Part-Pres-S adp|through det|the-Def-Art noun|hole adp|of det|a-Ind-Art noun|tree .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|17|ROOT 6|5|COMPOUND-PRT 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|AUX 11|5|ADVCL 12|14|CASE 13|14|DET 14|11|OBL 15|17|CASE 16|17|DET 17|14|NMOD 18|5|PUNCT
+*CHI:	an owl came out of the tree [^c] .
+%mor:	det|a-Ind-Art noun|owl verb|come-Fin-Ind-Past-S3-irr adp|out adp|of det|the-Def-Art noun|tree .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|4|FIXED 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	and the boy fell out [* down?] (.) [^c] while the bees <were running aft> [/] were flying after the dog [^c] .
+%mor:	cconj|and det|the-Def-Art noun|boy verb|fall-Fin-Ind-Past-S3-irr adp|out sconj|while det|the-Def-Art noun|bee-Plur aux|be-Fin-Ind-Past-P3-irr verb|fly-Part-Pres-S adp|after det|the-Def-Art noun|dog .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|13|ROOT 5|4|COMPOUND-PRT 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|AUX 10|4|ADVCL 11|13|CASE 12|13|DET 13|10|OBL 14|4|PUNCT
+*CHI:	the boy went over to a bush (.) [^c] and climbed up on a rock (.) [^c] .
+%mor:	det|the-Def-Art noun|boy verb|go-Fin-Ind-Past-S3-irr adv|over adp|to det|a-Ind-Art noun|bush cconj|and verb|climb-Fin-Ind-Past-S3 adp|up adp|on det|a-Ind-Art noun|rock .
+%gra:	1|2|DET 2|3|NSUBJ 3|13|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|9|CC 9|3|CONJ 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|3|PUNCT
+*CHI:	and a bird flew out [^c] .
+%mor:	cconj|and det|a-Ind-Art noun|bird verb|fly-Fin-Ind-Past-S3-irr adp|out .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	when he went on top of the rock (.) [^c] he was calling for it (.) [^c] .
+%mor:	adv|when pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|on noun|top adp|of det|the-Def-Art noun|rock pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|call-Part-Pres-S adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|11|ADVCL 4|5|CASE 5|3|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|11|NSUBJ 10|11|AUX 11|13|ROOT 12|13|CASE 13|11|OBL 14|11|PUNCT
+*CHI:	and a deer came up (.) [^c] picked him up with his antlers (.) [^c] and ran [^c] .
+%mor:	cconj|and det|a-Ind-Art noun|deer verb|come-Fin-Ind-Past-S3-irr adp|up verb|pick-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 adp|up adp|with pron|his-Prs-Gen-S3 noun|antler-Plur cconj|and verb|run-Fin-Ind-Past-S3-irr .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|13|ROOT 5|4|COMPOUND-PRT 6|4|XCOMP 7|6|OBJ 8|6|COMPOUND-PRT 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|13|CC 13|6|CONJ 14|4|PUNCT
+*CHI:	the dog was chasing the deer [^c] .
+%mor:	det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr verb|chase-Part-Pres-S det|the-Def-Art noun|deer-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and they both fell off a cliff (.) into a swamp [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 det|both-Def-Tot verb|fall-Fin-Ind-Past-P3-irr adp|off det|a-Ind-Art noun|cliff adp|into det|a-Ind-Art noun|swamp .
+%gra:	1|4|CC 2|4|NSUBJ 3|2|DET 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+*CHI:	the boy saw a log [^c] .
+%mor:	det|the-Def-Art noun|boy verb|see-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|log-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	then he climbed over it [^c] .
+%mor:	adv|then pron|he-Prs-Nom-S3 verb|climb-Fin-Ind-Past-S3 adp|over pron|it-Prs-Acc-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|3|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	and then he saw (.) his frog (.) and a (.) lady frog <with other> [/] (.) with babies [^c] .
+%mor:	cconj|and adv|then pron|he-Prs-Nom-S3 verb|see-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|frog-Acc cconj|and det|a-Ind-Art noun|lady noun|frog adp|with noun|baby-Plur .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|12|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|10|CC 8|10|DET 9|10|COMPOUND 10|6|CONJ 11|12|CASE 12|10|NMOD 13|4|PUNCT
+*CHI:	he took one of the babies [^c] and then left [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr num|one adp|of det|the-Def-Art noun|baby-Plur cconj|and adv|then verb|leave-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|9|CC 8|9|ADVMOD 9|2|CONJ 10|2|PUNCT
+@End

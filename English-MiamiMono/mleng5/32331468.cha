@@ -1,0 +1,114 @@
+@UTF8
+@PID:	11312/c-00020695-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiMono|CHI|10;08.|female|||Target_Child|||
+@Comment:	5the Grade (Age 10 or 11)
+@Tape Location:	FS2S95.YW
+@Comment:	Date is 3-7-95
+@Transcriber:	YW
+@Types:	cross, narrative, TD
+*CHI:	there's a boy and his dog [^c] .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy cconj|and pron|his-Prs-Gen-S3 noun|dog .
+%gra:	1|2|EXPL 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|7|CC 6|7|NMOD-POSS 7|4|CONJ 8|2|PUNCT
+*CHI:	and they're looking at a frog (.) [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|look-Part-Pres-S adp|at det|a-Ind-Art noun|frog .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	the boy is asleep [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adj|asleep-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	and so is the dog [^c] .
+%mor:	cconj|and adv|so aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|dog .
+%gra:	1|2|CC 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*CHI:	and the frog is getting out [^c] .
+%mor:	cconj|and det|the-Def-Art noun|frog aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|out .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*CHI:	the boy and the dog notice [^c] that the frog is gone [^c] .
+%mor:	det|the-Def-Art noun|boy cconj|and det|the-Def-Art noun|dog verb|notice-Fin-Ind-Pres-P3 sconj|that det|the-Def-Art noun|frog aux|be-Fin-Ind-Pres-S3 adj|gone-S1 .
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|11|ROOT 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|COP 11|6|CCOMP 12|6|PUNCT
+*CHI:	the boy and the dog start looking (.) in the room [^c] .
+%mor:	det|the-Def-Art noun|boy cconj|and det|the-Def-Art noun|dog verb|start-Fin-Ind-Pres-P3 verb|look-Ger-S adp|in det|the-Def-Art noun|room .
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|10|ROOT 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|6|PUNCT
+*CHI:	the boy and the dog start looking outside everywhere [^c] .
+%mor:	det|the-Def-Art noun|boy cconj|and det|the-Def-Art noun|dog verb|start-Fin-Ind-Pres-P3 verb|look-Ger-S adv|outside adv|everywhere .
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|9|ROOT 7|6|XCOMP 8|7|ADVMOD 9|7|ADVMOD 10|6|PUNCT
+*CHI:	the dog falls out of the window [^c] .
+%mor:	det|the-Def-Art noun|dog verb|fall-Fin-Ind-Pres-S3 adp|out adp|of det|the-Def-Art noun|window .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|4|FIXED 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	the boy picks up the dog [^c] .
+%mor:	det|the-Def-Art noun|boy verb|pick-Fin-Ind-Pres-S3 adp|up det|the-Def-Art noun|dog-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	the dog starts licking the boy [^c] .
+%mor:	det|the-Def-Art noun|dog verb|start-Fin-Ind-Pres-S3 verb|lick-Ger-S det|the-Def-Art noun|boy-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+*CHI:	the boy and the dog start calling for the dog [* frog] [^c] .
+%mor:	det|the-Def-Art noun|boy cconj|and det|the-Def-Art noun|dog verb|start-Fin-Ind-Pres-P3 verb|call-Ger-S adp|for det|the-Def-Art noun|dog .
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|10|ROOT 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|6|PUNCT
+*CHI:	the boy looks in a hole [^c] .
+%mor:	det|the-Def-Art noun|boy verb|look-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art noun|hole .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	the dog is looking at a beehive [^c] .
+%mor:	det|the-Def-Art noun|dog aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|at det|a-Ind-Art noun|beehive .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	the dog is barking at the beehive (.) [^c] .
+%mor:	det|the-Def-Art noun|dog aux|be-Fin-Ind-Pres-S3 verb|bark-Part-Pres-S adp|at det|the-Def-Art noun|beehive .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	<the beehi> [/] the beehive falls [^c] .
+%mor:	det|the-Def-Art noun|beehive verb|fall-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	bees are coming out [^c] .
+%mor:	noun|bee-Plur aux|be-Fin-Ind-Pres-P3 verb|come-Part-Pres-S adp|out .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CHI:	the boy is on [* up in] a tree [^c] looking in a hole [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|tree verb|look-Ger-S adp|in det|a-Ind-Art noun|hole .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|10|ROOT 7|6|ACL 8|10|CASE 9|10|DET 10|7|OBL 11|6|PUNCT
+*CHI:	the boy falls over [* down] [^c] .
+%mor:	det|the-Def-Art noun|boy verb|fall-Fin-Ind-Pres-S3 adv|over .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	and an owl comes out [^c] .
+%mor:	cconj|and det|a-Ind-Art noun|owl verb|come-Fin-Ind-Pres-S3 adp|out .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	the bees are chasing the dog [^c] .
+%mor:	det|the-Def-Art noun|bee-Plur aux|be-Fin-Ind-Pres-P3 verb|chase-Part-Pres-S det|the-Def-Art noun|dog-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	the boy (.) is starting to climb on a rock [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|start-Part-Pres-S part|to verb|climb-Inf-S adp|on det|a-Ind-Art noun|rock .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+*CHI:	the boy gets onto the rock [^c] .
+%mor:	det|the-Def-Art noun|boy verb|get-Fin-Ind-Pres-S3 adp|onto det|the-Def-Art noun|rock .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	<the boy gets> [/] (.) a deer picks up the boy [^c] .
+%mor:	det|a-Ind-Art noun|deer verb|pick-Fin-Ind-Pres-S3 adp|up det|the-Def-Art noun|boy-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	the deer starts to run [^c] .
+%mor:	det|the-Def-Art noun|deer verb|start-Fin-Ind-Pres-S3 part|to verb|run-Inf-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*CHI:	<and dog is chasi> [/] the dog is in front of the deer [^c] .
+%mor:	det|the-Def-Art noun|dog aux|be-Fin-Ind-Pres-S3 adp|in noun|front adp|of det|the-Def-Art noun|deer .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|CASE 5|8|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+*CHI:	the deer makes [^c] the boy and the dog fall [^c] .
+%mor:	det|the-Def-Art noun|deer verb|make-Fin-Ind-Pres-S3 det|the-Def-Art noun|boy-Acc cconj|and det|the-Def-Art noun|dog verb|fall-Inf-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|3|XCOMP 10|3|PUNCT
+*CHI:	the boy falls into the water [^c] .
+%mor:	det|the-Def-Art noun|boy verb|fall-Fin-Ind-Pres-S3 adp|into det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	the dog climbs on top of his head [^c] .
+%mor:	det|the-Def-Art noun|dog verb|climb-Fin-Ind-Pres-S3 adp|on noun|top adp|of pron|his-Prs-Gen-S3 noun|head .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|CASE 5|3|OBL 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|3|PUNCT
+*CHI:	the boy is telling the dog [^c] to be quiet [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S det|the-Def-Art noun|dog part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|DET 6|4|IOBJ 7|9|MARK 8|9|COP 9|4|XCOMP 10|4|PUNCT
+*CHI:	the boy and the dog look over a log [^c] .
+%mor:	det|the-Def-Art noun|boy cconj|and det|the-Def-Art noun|dog verb|look-Fin-Ind-Pres-P3 adp|over det|a-Ind-Art noun|log .
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*CHI:	the boy and the dog see two frogs [^c] .
+%mor:	det|the-Def-Art noun|boy cconj|and det|the-Def-Art noun|dog verb|see-Fin-Ind-Pres-P3 num|two noun|frog-Plur-Acc .
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|8|ROOT 7|8|NUMMOD 8|6|OBJ 9|6|PUNCT
+*CHI:	the boy (.) climbs (.) over the log [^c] .
+%mor:	det|the-Def-Art noun|boy verb|climb-Fin-Ind-Pres-S3 adp|over det|the-Def-Art noun|log .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	the boy waves goodbye to [/] to the frogs and their babies [^c] .
+%mor:	det|the-Def-Art noun|boy verb|wave-Fin-Ind-Pres-S3 noun|goodbye-Acc adp|to det|the-Def-Art noun|frog-Plur cconj|and pron|their-Prs-Gen-P3 noun|baby-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|10|CC 9|10|NMOD-POSS 10|7|CONJ 11|3|PUNCT
+@End

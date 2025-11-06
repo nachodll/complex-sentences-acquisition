@@ -1,0 +1,108 @@
+@UTF8
+@PID:	11312/c-00021432-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|10;11.|female|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Tape Location:	FSF95.ER
+@Comment:	Date is 10-9-1995
+@Transcriber:	ERodriguez
+@Types:	cross, narrative, biling
+*CHI:	[^ Do I start] había una vez un niño [^c] que tenía un sapo (.) y un perro [^c] .
+%mor:	verb|haber-Fin-Ind-Imp-S3 det|uno-Fem-Ind-Art noun|vez-Fem det|uno-Masc-Ind-Art noun|niño-Masc pron|que-Rel-S1 verb|tener-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art noun|sapo-Masc cconj|y det|uno-Masc-Ind-Art noun|perro-Masc .
+%gra:	1|12|ROOT 2|3|DET 3|1|OBL 4|5|DET 5|1|OBJ 6|7|NSUBJ 7|5|ACL 8|9|DET 9|7|OBJ 10|12|CC 11|12|DET 12|9|CONJ 13|1|PUNCT
+*CHI:	todos se [/] se durmieron (.) [^c] .
+%mor:	pron|todo-Tot-P1 pron|él-Prs-Acc-S3 verb|dormir-Fin-Ind-Past-P3 .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*CHI:	y la rana [* se] escapó del jarro [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|rana-Fem verb|escapar-Fin-Ind-Past-S3 det|del-Masc-Def-Art noun|jarro-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	cuando se levantó el niño por [* 0] la próxima mañana [^c] vio [^c] que no estaba ahí el (.) sapo [^c] .
+%mor:	sconj|cuando pron|él-Prs-Acc-S3 verb|levantar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|niño-Masc adp|por det|el-Fem-Def-Art adj|próximo-Pos-S1 noun|mañana-Fem verb|ver-Fin-Ind-Past-S3 sconj|que adv|no verb|estar-Fin-Ind-Imp-S3 adv|ahí det|el-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|3|MARK 2|3|EXPL-PV 3|10|ADVCL 4|5|DET 5|3|NSUBJ 6|9|CASE 7|9|DET 8|9|AMOD 9|3|OBL 10|16|ROOT 11|13|MARK 12|13|ADVMOD 13|10|CCOMP 14|13|ADVMOD 15|16|DET 16|13|NSUBJ 17|10|PUNCT
+*CHI:	Él buscó <en en todo> [/] en todos lados [^c] .
+%mor:	pron|él-Prs-AccNom-S3 verb|buscar-Fin-Ind-Past-S3 adp|en det|todo-Masc-Def-Tot noun|lado-Masc-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	Él salió de la ventana [^c] .
+%mor:	pron|él-Prs-AccNom-S3 verb|salir-Fin-Ind-Past-S3 adp|de det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	y [/] y llamó (.) al sapo [^c] .
+%mor:	cconj|y verb|llamar-Fin-Ind-Past-S3 det|al-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	Él salió de su casa [^c] .
+%mor:	pron|él-Prs-AccNom-S3 verb|salir-Fin-Ind-Past-S3 adp|de det|su-Def-Prs noun|casa-Fem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	y fue en busca del sapo [^c] .
+%mor:	cconj|y aux|ser-Fin-Ind-Past-S3 adp|en noun|busca-Fem adp|del noun|sapo-Masc .
+%gra:	1|4|ADVMOD 2|4|COP 3|4|CASE 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*CHI:	y fue con su perro también [^c] .
+%mor:	cconj|y aux|ser-Fin-Ind-Past-S3 adp|con det|su-Def-Prs noun|perro-Masc adv|también .
+%gra:	1|5|ADVMOD 2|5|COP 3|5|CASE 4|5|DET 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	cuando él estaba buscando [^c] su perro vio un panal de avispas [^c] .
+%mor:	sconj|cuando pron|él-Prs-AccNom-S3 aux|estar-Fin-Ind-Imp-S3 verb|buscar-Ger-S det|su-Def-Prs noun|perro-Masc verb|ver-Fin-Ind-Past-S3 det|uno-Masc-Ind-Art noun|panal-Masc adp|de noun|avispa-Fem-Plur .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|7|ADVCL 5|6|DET 6|4|OBJ 7|11|ROOT 8|9|DET 9|7|OBJ 10|11|CASE 11|9|NMOD 12|7|PUNCT
+*CHI:	Él empezó a ladrarle [^c] y (.) a mover el palo [^c] donde estaba el (.) panal [^c] .
+%mor:	pron|él-Prs-AccNom-S3 verb|empezar-Fin-Ind-Past-S3 adp|a verb|ladrarlar-Inf-S cconj|y adp|a verb|mover-Inf-S det|el-Masc-Def-Art noun|palo-Masc adv|donde verb|estar-Fin-Ind-Imp-S3 det|el-Masc-Def-Art noun|panal-Masc .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|4|MARK 4|2|XCOMP 5|7|CC 6|7|MARK 7|4|CONJ 8|9|DET 9|7|OBJ 10|11|ADVMOD 11|9|ACL 12|13|DET 13|11|NSUBJ 14|2|PUNCT
+*CHI:	todas las avispas salieron [^c] cuando se cayó el panal [^c] .
+%mor:	det|todo-Fem-Def-Tot det|el-Fem-Def-Art noun|avispa-Fem-Plur verb|salir-Fin-Ind-Past-P3 sconj|cuando pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|panal-Masc .
+%gra:	1|2|DET 2|3|DET 3|4|NSUBJ 4|9|ROOT 5|7|MARK 6|7|EXPL-PV 7|4|ADVCL 8|9|DET 9|7|NSUBJ 10|4|PUNCT
+*CHI:	<Él> [/] todas las avispas siguieron al perro [^c] .
+%mor:	det|todo-Fem-Def-Tot det|el-Fem-Def-Art noun|avispa-Fem-Plur verb|seguir-Fin-Ind-Past-P3 det|al-Masc-Def-Art noun|perro-Masc .
+%gra:	1|2|DET 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	un buho (.) e [/] siguió al niño [^c] .
+%mor:	det|uno-Masc-Ind-Art noun|buho-Masc verb|seguir-Fin-Ind-Past-S3 det|al-Masc-Def-Art noun|niño-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	Él se [/] se paró en una roca [^c] .
+%mor:	pron|él-Prs-AccNom-S3 pron|él-Prs-Acc-S3 verb|parar-Fin-Ind-Past-S3 adp|en det|uno-Fem-Ind-Art noun|roca-Fem .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	<y vió y vi y pasa> [/] en [* y ?] pensaba [^c] que había unas ramas de árbol [^c] .
+%mor:	adp|en verb|pensar-Fin-Ind-Imp-S3 sconj|que verb|haber-Fin-Ind-Imp-S3 det|uno-Fem-Ind-Art noun|rama-Fem-Plur adp|de noun|árbol-Masc .
+%gra:	1|2|MARK 2|8|ROOT 3|4|MARK 4|2|CCOMP 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|2|PUNCT
+*CHI:	pero eran unos: (.) cachos de: un antílope [^c] .
+%mor:	cconj|pero aux|ser-Fin-Ind-Imp-P3 det|uno-Masc-Ind-Art noun|cacho-Masc-Plur adp|de det|uno-Masc-Ind-Art noun|antílope-Masc .
+%gra:	1|4|ADVMOD 2|4|COP 3|4|DET 4|7|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*CHI:	Él se cayó [^c] .
+%mor:	pron|él-Prs-AccNom-S3 pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*CHI:	<y se> [/] y estaba arriba del (.) antílope [^c] .
+%mor:	cconj|y verb|estar-Fin-Ind-Imp-S3 adv|arriba det|del-Masc-Def-Art noun|antílope-Masc .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|ADVMOD 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*CHI:	el perro los [/] estaba delante de el [* del] antílope [^c] .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc verb|estar-Fin-Ind-Imp-S3 adv|delante adp|de det|el-Masc-Def-Art noun|antílope-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*CHI:	llegaron y de [^c] .
+%mor:	verb|llegar-Fin-Ind-Past-P3 cconj|y adp|de .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*CHI:	y el antílope paró [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|antílope-Masc verb|parar-Fin-Ind-Past-S3 .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	y se cayeron al agua [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-P3 det|al-Masc-Def-Art noun|agua-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*CHI:	<había un> [/] Él oyó al [/] [^c] a unas ranas cantando [^c] .
+%mor:	pron|él-Prs-AccNom-S3 verb|oír-Fin-Ind-Past-S3 adp|a det|uno-Fem-Ind-Art noun|rana-Fem-Plur verb|cantar-Ger-S .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|2|ADVCL 7|2|PUNCT
+*CHI:	<y él él> [/] él estaba ahí xxx [^c] .
+%mor:	pron|él-Prs-AccNom-S3 verb|estar-Fin-Ind-Imp-S3 adv|ahí .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	el perro empezó a ladrar [^c] .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc verb|empezar-Fin-Ind-Past-S3 adp|a verb|ladrar-Inf-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*CHI:	y él le dijo [^c] que se callara [^c] .
+%mor:	cconj|y pron|él-Prs-AccNom-S3 pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S3 sconj|que pron|él-Prs-Acc-S3 verb|callar-Fin-Sub-Imp-S3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|OBL-ARG 4|7|ROOT 5|7|MARK 6|7|EXPL-PV 7|4|CCOMP 8|4|PUNCT
+*CHI:	Él vio al otro lado <de la del> [/] del palo [* tronco] [^c] .
+%mor:	pron|él-Prs-AccNom-S3 verb|ver-Fin-Ind-Past-S3 det|al-Masc-Def-Art det|otro-Masc-Def-Ind noun|lado-Masc det|del-Masc-Def-Art noun|palo-Masc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|DET 4|5|DET 5|2|OBL 6|7|CASE 7|5|NMOD 8|2|PUNCT
+*CHI:	y vio a una familia de ranas [^c] .
+%mor:	cconj|y verb|ver-Fin-Ind-Past-S3 adp|a det|uno-Fem-Ind-Art noun|familia-Fem adp|de noun|rana-Fem-Plur .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|7|CASE 7|5|NMOD 8|2|PUNCT
+*CHI:	Él se llevó a [/] a una rana [^c] .
+%mor:	pron|él-Prs-AccNom-S3 pron|él-Prs-Acc-S3 verb|llevar-Fin-Ind-Past-S3 adp|a det|uno-Fem-Ind-Art noun|rana-Fem .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	y dejó <a la f al la otra> [/] a la familia en paz [^c] .
+%mor:	cconj|y verb|dejar-Fin-Ind-Past-S3 adp|a det|el-Fem-Def-Art noun|familia-Fem adp|en noun|paz-Fem .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|7|CASE 7|2|OBL 8|2|PUNCT
+@End

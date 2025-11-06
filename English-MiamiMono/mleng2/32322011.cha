@@ -1,0 +1,171 @@
+@UTF8
+@PID:	11312/c-00020646-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiMono|CHI|8;00.|female|||Target_Child|||
+@Comment:	2nd Grade (Age 7 or 8)
+@Comment:	Date is 12-7-94
+@Tape Location:	AF.3
+@Transcriber:	Patti Ortega
+@Types:	cross, narrative, TD
+*CHI:	this picture is telling [* about] a boy and a dog <and a frog (.) and a> [/] and a frog in a jar [^c] .
+%mor:	det|this-Def-Dem-Sing noun|picture aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S det|a-Ind-Art noun|boy-Acc cconj|and det|a-Ind-Art noun|dog cconj|and det|a-Ind-Art noun|frog adp|in det|a-Ind-Art noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|15|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|DET 9|6|CONJ 10|12|CC 11|12|DET 12|6|CONJ 13|15|CASE 14|15|DET 15|12|NMOD 16|4|PUNCT
+*CHI:	the boy is sleeping [^c] when the dog is sleeping on him (.) on the bed [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|sleep-Part-Pres-S adv|when det|the-Def-Art noun|dog aux|be-Fin-Ind-Pres-S3 verb|sleep-Part-Pres-S adp|on pron|he-Prs-Acc-S3 adp|on det|the-Def-Art noun|bed .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|14|ROOT 5|9|ADVMOD 6|7|DET 7|9|NSUBJ 8|9|AUX 9|4|ADVCL 10|11|CASE 11|9|OBL 12|14|CASE 13|14|DET 14|9|OBL 15|4|PUNCT
+*CHI:	the frog is sneaking out [* of] the jar [^c] .
+%mor:	det|the-Def-Art noun|frog aux|be-Fin-Ind-Pres-S3 verb|sneak-Part-Pres-S adp|out det|the-Def-Art noun|jar-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+*CHI:	the boy woke up [^c] .
+%mor:	det|the-Def-Art noun|boy verb|wake-Fin-Ind-Past-S3-irr adp|up .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CHI:	and the dog was standing in the 0big [^c] .
+%mor:	cconj|and det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr verb|stand-Part-Pres-S adp|in det|the-Def-Art .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*CHI:	he looked at the jar (.) [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|at det|the-Def-Art noun|jar .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	the frog was gone [^c] .
+%mor:	det|the-Def-Art noun|frog aux|be-Fin-Ind-Past-S3-irr adj|gone-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	he looked in his boots [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|in pron|his-Prs-Gen-S3 noun|boot-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+*CHI:	he let his window open xxx [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|let-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|window-Acc verb|open-Inf-S .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	he looked out the window [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	<the dog> [/] (.) the dog had <the (...) the:> [/] (.) the jar on his head [^c] .
+%mor:	det|the-Def-Art noun|dog verb|have-Fin-Ind-Past-S3-irr det|the-Def-Art noun|jar-Acc adp|on pron|his-Prs-Gen-S3 noun|head .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+*CHI:	the dog fell out the window with the jar [^c] .
+%mor:	det|the-Def-Art noun|dog verb|fall-Fin-Ind-Past-S3-irr adp|out det|the-Def-Art noun|window adp|with det|the-Def-Art noun|jar .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*CHI:	the boy was looking kind of [* a] little angry [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr verb|look-Part-Pres-S noun|kind adp|of adj|little-S1 adj|angry-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|ADVMOD 6|5|FIXED 7|8|OBL-UNMARKED 8|4|XCOMP 9|4|PUNCT
+*CHI:	the boy came out the window with his boots [^c] .
+%mor:	det|the-Def-Art noun|boy verb|come-Fin-Ind-Past-S3-irr adp|out det|the-Def-Art noun|window adp|with pron|his-Prs-Gen-S3 noun|boot-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|NMOD-POSS 9|3|OBL 10|3|PUNCT
+*CHI:	he was angry at the dog [^c] when he broke (.) the (.) jar [^c] .
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|angry-S1 adp|at det|the-Def-Art noun|dog adv|when pron|he-Prs-Nom-S3 verb|break-Fin-Ind-Past-S3-irr det|the-Def-Art noun|jar-Acc .
+%gra:	1|3|NSUBJ 2|3|COP 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|ADVMOD 8|9|NSUBJ 9|3|ADVCL 10|11|DET 11|9|OBJ 12|3|PUNCT
+*CHI:	the dog licked the boy [^c] .
+%mor:	det|the-Def-Art noun|dog verb|lick-Fin-Ind-Past-S3 det|the-Def-Art noun|boy-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	the boy is calling <the dog> [/] the frog [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|call-Part-Pres-S det|the-Def-Art noun|frog-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	the dog (.) it's: looking for food [^c] .
+%mor:	det|the-Def-Art noun|dog pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|for noun|food .
+%gra:	1|2|DET 2|7|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|7|CASE 7|5|OBL 8|2|PUNCT
+*CHI:	the dog (.) spotted a beehive [^c] .
+%mor:	det|the-Def-Art noun|dog verb|spot-Fin-Ind-Past-S3 det|a-Ind-Art noun|beehive-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	the boy spotted a hole [^c] .
+%mor:	det|the-Def-Art noun|boy verb|spot-Fin-Ind-Past-S3 det|a-Ind-Art noun|hole-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	the dog shook the tree [^c] .
+%mor:	det|the-Def-Art noun|dog verb|shake-Fin-Ind-Past-S3-irr det|the-Def-Art noun|tree-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	the boy got bit on the nose by the squirrel [^c] .
+%mor:	det|the-Def-Art noun|boy verb|get-Fin-Ind-Past-S3-irr noun|bit-Acc adp|on det|the-Def-Art noun|nose adp|by det|the-Def-Art noun|squirrel .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+*CHI:	<the bee> [/] the dog knocked the beehi [: beehive] down [^c] .
+%mor:	det|the-Def-Art noun|dog verb|knock-Fin-Ind-Past-S3 det|the-Def-Art noun|beehive-Acc adp|down .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+*CHI:	all of the bees came out [^c] .
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|bee-Plur verb|come-Fin-Ind-Past-P3-irr adp|out .
+%gra:	1|5|NSUBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*CHI:	the squirrel came halfway out of his hole [^c] .
+%mor:	det|the-Def-Art noun|squirrel verb|come-Fin-Ind-Past-S3-irr adv|halfway adp|out adp|of pron|his-Prs-Gen-S3 noun|hole .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|3|ADVMOD 5|8|CASE 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+*CHI:	the boy climbed the tree [^c] .
+%mor:	det|the-Def-Art noun|boy verb|climb-Fin-Ind-Past-S3 det|the-Def-Art noun|tree-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	<a owl popped him> [/] A [* an] owl popped out [* of] the hole [^c] and scared the boy [^c] .
+%mor:	det|a-Ind-Art noun|owl verb|pop-Fin-Ind-Past-S3 adp|out det|the-Def-Art noun|hole-Acc cconj|and verb|scare-Fin-Ind-Past-S3 det|the-Def-Art noun|boy-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|8|CC 8|3|CONJ 9|10|DET 10|8|OBJ 11|3|PUNCT
+*CHI:	and he fell (.) out [* of] the tree [^c] .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr adp|out det|the-Def-Art noun|tree-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	<the bees> [/] The bees was [* were] chasing after the dog [^c] .
+%mor:	det|the-Def-Art noun|bee-Plur aux|be-Fin-Ind-Past-S3-irr verb|chase-Part-Pres-S adp|after det|the-Def-Art noun|dog .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	the owl chased the boy (.) [^c] .
+%mor:	det|the-Def-Art noun|owl verb|chase-Fin-Ind-Past-S3 det|the-Def-Art noun|boy-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	the boy step [* stepped] on a rock [^c] and touched a giant rock [^c] .
+%mor:	det|the-Def-Art noun|boy noun|step adp|on det|a-Ind-Art noun|rock cconj|and verb|touch-Fin-Ind-Past-S3 det|a-Ind-Art adj|giant-S1 noun|rock-Acc .
+%gra:	1|3|DET 2|3|COMPOUND 3|11|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|8|CC 8|3|CONJ 9|11|DET 10|11|AMOD 11|8|OBJ 12|3|PUNCT
+*CHI:	the boy climbed the giant rock [^c] and 0howls +"/.
+%mor:	det|the-Def-Art noun|boy verb|climb-Fin-Ind-Past-S3 det|the-Def-Art adj|giant-S1 noun|rock-Acc cconj|and +"/.
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|CONJ 8|3|PUNCT
+*CHI:	+" froggie [^c] .
+%mor:	noun|froggie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<the dog looking> [/] The dog was looking under the (.) rock [^c] .
+%mor:	det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr verb|look-Part-Pres-S adp|under det|the-Def-Art noun|rock .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	a reindeer came up [^c] .
+%mor:	det|a-Ind-Art noun|reindeer verb|come-Fin-Ind-Past-S3-irr adp|up .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CHI:	and the boy <sli(d)es> [/] came on the reindeer [* reindeer's] neck [^c] .
+%mor:	cconj|and det|the-Def-Art noun|boy verb|come-Fin-Ind-Past-S3-irr adp|on det|the-Def-Art noun|reindeer noun|neck .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+*CHI:	and the owl is sl [/] sleeping [^c] .
+%mor:	cconj|and det|the-Def-Art noun|owl aux|be-Fin-Ind-Pres-S3 verb|sleep-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	the reindeer went <by halfway (.) to the> [/] (.) to the (.) edge of the xxx [^c] .
+%mor:	det|the-Def-Art noun|reindeer verb|go-Fin-Ind-Past-S3-irr adp|to det|the-Def-Art noun|edge adp|of det|the-Def-Art .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+*CHI:	the dog is barking ri [/] right in front of him [^c] .
+%mor:	det|the-Def-Art noun|dog aux|be-Fin-Ind-Pres-S3 verb|bark-Part-Pres-S adv|right adp|in noun|front adp|of pron|he-Prs-Acc-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|7|ADVMOD 6|7|CASE 7|4|OBL 8|9|CASE 9|7|NMOD 10|4|PUNCT
+*CHI:	<the reindeer> [/] the reindeer flipped the boy and the dog over (.) off of his head [^c] .
+%mor:	det|the-Def-Art noun|reindeer verb|flip-Fin-Ind-Past-S3 det|the-Def-Art noun|boy-Acc cconj|and det|the-Def-Art noun|dog adp|over adp|off adp|of pron|his-Prs-Gen-S3 noun|head .
+%gra:	1|2|DET 2|3|NSUBJ 3|13|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|3|COMPOUND-PRT 10|13|CASE 11|13|CASE 12|13|NMOD-POSS 13|3|OBL 14|3|PUNCT
+*CHI:	the boy splash [* splashed] in the water with his dog [^c] .
+%mor:	det|the-Def-Art noun|boy noun|splash adp|in det|the-Def-Art noun|water adp|with pron|his-Prs-Gen-S3 noun|dog .
+%gra:	1|3|DET 2|3|COMPOUND 3|9|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|9|CASE 8|9|NMOD-POSS 9|3|NMOD 10|3|PUNCT
+*CHI:	and the reindeer li [/] licked his tongue [^c] .
+%mor:	cconj|and det|the-Def-Art noun|reindeer verb|lick-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|tongue-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*CHI:	0he smiled [^c] .
+%mor:	verb|smile-Fin-Ind-Past-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	the boy stayed in the water with his dog on top of his head [^c] .
+%mor:	det|the-Def-Art noun|boy verb|stay-Fin-Ind-Past-S3 adp|in det|the-Def-Art noun|water adp|with pron|his-Prs-Gen-S3 noun|dog adp|on noun|top adp|of pron|his-Prs-Gen-S3 noun|head .
+%gra:	1|2|DET 2|3|NSUBJ 3|14|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|NMOD-POSS 9|3|OBL 10|11|CASE 11|3|OBL 12|14|CASE 13|14|NMOD-POSS 14|11|NMOD 15|3|PUNCT
+*CHI:	the dog got halfway deeper [^c] .
+%mor:	det|the-Def-Art noun|dog verb|get-Fin-Ind-Past-S3-irr adv|halfway adj|deep-Cmp-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+*CHI:	the boy told the dog [^c] to ssh [^c] .
+%mor:	det|the-Def-Art noun|boy verb|tell-Fin-Ind-Past-S3-irr det|the-Def-Art noun|dog part|to verb|ssh-Inf-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|IOBJ 6|7|MARK 7|3|XCOMP 8|3|PUNCT
+*CHI:	the boy got over the 0log [^c] .
+%mor:	det|the-Def-Art noun|boy verb|get-Fin-Ind-Past-S3-irr adp|over det|the-Def-Art .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|3|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	the dog did too [^c] .
+%mor:	det|the-Def-Art noun|dog aux|do-Fin-Ind-Past-S3-irr adv|too .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	the boy <saw the frog (.) and the dog> [/] saw the frog (.) with his mom [^c] .
+%mor:	det|the-Def-Art noun|boy verb|see-Fin-Ind-Past-S3-irr det|the-Def-Art noun|frog-Acc adp|with pron|his-Prs-Gen-S3 noun|mom .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+*CHI:	the dog looked angry [^c] .
+%mor:	det|the-Def-Art noun|dog verb|look-Fin-Ind-Past-S3 adj|angry-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*CHI:	the boy was happy [^c] to see the babies [^c] .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr adj|happy-S1 part|to verb|see-Inf-S det|the-Def-Art noun|baby-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*CHI:	the dog went up and down the water [^c] .
+%mor:	det|the-Def-Art noun|dog verb|go-Fin-Ind-Past-S3-irr adp|up cconj|and adp|down det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|3|COMPOUND-PRT 5|8|CC 6|8|CASE 7|8|DET 8|3|CONJ 9|3|PUNCT
+*CHI:	the boys [* boy] was playing with the frogs [^c] .
+%mor:	det|the-Def-Art noun|boy-Plur aux|be-Fin-Ind-Past-S3-irr verb|play-Part-Pres-S adp|with det|the-Def-Art noun|frog-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+@End

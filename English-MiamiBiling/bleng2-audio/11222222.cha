@@ -1,0 +1,108 @@
+@UTF8
+@PID:	11312/c-00020466-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	bullets
+@ID:	eng|English-MiamiBiling|CHI|8;02.|male|||Target_Child|||
+@Media:	11222222, audio
+@Comment:	2nd Grade (Age 7 or 8)
+@Tape Location:	FSF95.ER4
+@Comment:	Date is 1-18-1996
+@Transcriber:	ERodriguez
+@Types:	cross, narrative, TD
+*CHI:	[^ The story was about a boy a dog and a frog] the boy went to sleep (.) [^c] . 205945_216125
+%mor:	det|the-Def-Art noun|boy verb|go-Fin-Ind-Past-S3-irr adp|to noun|sleep .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	the boy 205945_215625 went to sleep 215625_216125 .
+*CHI:	and the frog jumped out (.) of the: little jar [^c] .
+%mor:	cconj|and det|the-Def-Art noun|frog verb|jump-Fin-Ind-Past-S3 adp|out adp|of det|the-Def-Art adj|little-S1 noun|jar .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|9|ROOT 5|9|CASE 6|9|CASE 7|9|DET 8|9|AMOD 9|4|OBL 10|4|PUNCT
+*CHI:	and then (.) the do:g (.) was sleeping too [^c] .
+%mor:	cconj|and adv|then det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr verb|sleep-Part-Pres-S adv|too .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+*CHI:	and then the dog and the boy woke up (.) [^c] and didn't see: the frog [^c] .
+%mor:	cconj|and adv|then det|the-Def-Art noun|dog cconj|and det|the-Def-Art noun|boy verb|wake-Fin-Ind-Past-S3-irr adp|up cconj|and aux|do-Fin-Ind-Past-S3-irr~part|not verb|see-Inf-S det|the-Def-Art noun|frog-Acc .
+%gra:	1|8|CC 2|8|ADVMOD 3|4|DET 4|8|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|15|ROOT 9|8|COMPOUND-PRT 10|13|CC 11|13|AUX 12|13|ADVMOD 13|8|CONJ 14|15|DET 15|13|OBJ 16|8|PUNCT
+*CHI:	and then they were (.) looking (.) for it [^c] .
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|look-Part-Pres-S adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*CHI:	the boy looked in his shoe [^c] .
+%mor:	det|the-Def-Art noun|boy verb|look-Fin-Ind-Past-S3 adp|in pron|his-Prs-Gen-S3 noun|shoe .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*CHI:	the dog looked <in the ca:n thing and> [/] in the jar [^c] .
+%mor:	det|the-Def-Art noun|dog verb|look-Fin-Ind-Past-S3 adp|in det|the-Def-Art noun|jar .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	and the: ja:r got stuck on his head [^c] .
+%mor:	cconj|and det|the-Def-Art noun|jar aux|get-Fin-Ind-Past-S3-irr adj|stuck-S1 adp|on pron|his-Prs-Gen-S3 noun|head .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|8|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+*CHI:	and then the: dog fell out of the window [^c] .
+%mor:	cconj|and adv|then det|the-Def-Art noun|dog verb|fall-Fin-Ind-Past-S3-irr adp|out adp|of det|the-Def-Art noun|window .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|9|ROOT 6|9|CASE 7|6|FIXED 8|9|DET 9|5|OBL 10|5|PUNCT
+*CHI:	<he jumped down> [/] the kid jumped down (.) [^c] and got the dog [^c] .
+%mor:	det|the-Def-Art noun|kid verb|jump-Fin-Ind-Past-S3 adp|down cconj|and verb|get-Fin-Ind-Past-S3-irr det|the-Def-Art noun|dog-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|3|COMPOUND-PRT 5|6|CC 6|3|CONJ 7|8|DET 8|6|OBJ 9|3|PUNCT
+*CHI:	then they were looking for: (.) the frog [^c] .
+%mor:	adv|then pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|look-Part-Pres-S adp|for det|the-Def-Art noun|frog .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	the boy looked in a: hole [^c] .
+%mor:	det|the-Def-Art noun|boy verb|look-Fin-Ind-Past-S3 adp|in det|a-Ind-Art noun|hole .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	the: dog looked in a: beehive [^c] .
+%mor:	det|the-Def-Art noun|dog verb|look-Fin-Ind-Past-S3 adp|in det|a-Ind-Art noun|beehive .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	and a [/] (.) a squirrel jumped out [^c] and pinched [% bit?] the boy in the nose [^c] .
+%mor:	cconj|and det|a-Ind-Art noun|squirrel verb|jump-Fin-Ind-Past-S3 adp|out cconj|and verb|pinch-Fin-Ind-Past-S3 det|the-Def-Art noun|boy-Acc adp|in det|the-Def-Art noun|nose .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|12|ROOT 5|4|COMPOUND-PRT 6|7|CC 7|4|CONJ 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|7|OBL 13|4|PUNCT
+*CHI:	and the bees started running after the dog [^c] .
+%mor:	cconj|and det|the-Def-Art noun|bee-Plur verb|start-Fin-Ind-Past-P3 verb|run-Ger-S adp|after det|the-Def-Art noun|dog .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+*CHI:	an:d the boy looked in another hole in the tree [^c] .
+%mor:	cconj|and det|the-Def-Art noun|boy verb|look-Fin-Ind-Past-S3 adp|in det|another-Def-Ind noun|hole adp|in det|the-Def-Art noun|tree .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|4|PUNCT
+*CHI:	and then an owl came out [^c] .
+%mor:	cconj|and adv|then det|a-Ind-Art noun|owl verb|come-Fin-Ind-Past-S3-irr adp|out .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*CHI:	and he fell [^c] .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr .
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	a:nd (.) the owl was going towards him [^c] .
+%mor:	cconj|and det|the-Def-Art noun|owl aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S adp|towards pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*CHI:	but then he left [^c] .
+%mor:	cconj|but adv|then pron|he-Prs-Nom-S3 verb|leave-Fin-Ind-Past-S3-irr .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	and then he got on a rock [^c] .
+%mor:	cconj|and adv|then pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adp|on det|a-Ind-Art noun|rock .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	and then he fell [^c] .
+%mor:	cconj|and adv|then pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	and a (.) dee:r got him [^c] .
+%mor:	cconj|and det|a-Ind-Art noun|deer verb|get-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	and the deer started running after the dog [^c] .
+%mor:	cconj|and det|the-Def-Art noun|deer verb|start-Fin-Ind-Past-S3 verb|run-Ger-S adp|after det|the-Def-Art noun|dog .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+*CHI:	they fell in a pond [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|fall-Fin-Ind-Past-P3-irr adp|in det|a-Ind-Art noun|pond .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	and they found a log [^c] .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|find-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|log-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	the boy: told the dog [^c] to be quiet [^c] . 215625_216125
+%mor:	det|the-Def-Art noun|boy verb|tell-Fin-Ind-Past-S3-irr det|the-Def-Art noun|dog part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|IOBJ 6|8|MARK 7|8|COP 8|3|XCOMP 9|3|PUNCT
+%wor:	the boy told the dog to be quiet 215625_216125 .
+*CHI:	and then they looked on [/] in back of the log [^c] .
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Past-P3 adp|in noun|back adp|of det|the-Def-Art noun|log .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|9|ROOT 5|6|CASE 6|4|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|4|PUNCT
+*CHI:	and there was the frog with his babies [^c] . 215625_216145
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|frog adp|with pron|his-Prs-Gen-S3 noun|baby-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|8|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|3|PUNCT
+%wor:	and there 215625_215645 was the frog with his babies 215645_216145 .
+*CHI:	and then the boy left with the frog [^c] . 215765_217105
+%mor:	cconj|and adv|then det|the-Def-Art noun|boy verb|leave-Fin-Ind-Past-S3-irr adp|with det|the-Def-Art noun|frog .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and then the 215765_216605 boy left with the frog 216605_217105 .
+@End

@@ -1,0 +1,117 @@
+@UTF8
+@PID:	11312/c-00021275-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|8;00.|male|||Target_Child|||
+@Comment:	2nd grade (Age 7 or 8)
+@Comment:	Date is 12-1-1994
+@Tape Location:	F94.PO
+@Transcriber:	PO
+@Types:	cross, narrative, biling
+*CHI:	la [* el] niño tene [* tiene] una: [/] (...) una [* un] perro (.) y una rrna [/] rana arrento [* adentro] la: (...) e:h [* jarra] [^c] .
+%mor:	det|el-Fem-Def-Art noun|niño-Masc verb|tener-Fin-Sub-Pres-S3 det|uno-Fem-Ind-Art noun|perro-Masc cconj|y det|uno-Fem-Ind-Art noun|rana-Fem adj|arrento-Pos-S1 det|el-Fem-Def-Art intj|eh .
+%gra:	1|2|DET 2|3|NSUBJ 3|11|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|8|AMOD 10|11|DET 11|3|OBJ 12|3|PUNCT
+*CHI:	la [* el] niño y la [* el] perro (es)taba [* estaban] amío [* dormidos] [^c] .
+%mor:	det|el-Fem-Def-Art noun|niño-Masc cconj|y det|el-Fem-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Imp-S3 adj|amío-Pos-S1 .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+*CHI:	y la rana sa [: se] fue afuera [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|rana-Fem pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-S3 adv|afuera .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	y (en)tonce(s) la [* el] niño y la [* el] perro no ve [* vieron] la rana alento [* adentro] la: [* del] vaso [^c] .
+%mor:	cconj|y adv|entonces det|el-Fem-Def-Art noun|niño-Masc cconj|y det|el-Fem-Def-Art noun|perro-Masc adv|no verb|ver-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|rana-Fem adj|alento-Pos-S1 det|el-Fem-Def-Art noun|vaso-Masc .
+%gra:	1|9|ADVMOD 2|9|ADVMOD 3|4|DET 4|9|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|9|ADVMOD 9|14|ROOT 10|11|DET 11|9|OBJ 12|11|AMOD 13|14|DET 14|9|OBJ 15|9|PUNCT
+*CHI:	y entonce(s) la [*] niño tiene [* tene] un pa [/] un zapato [^c] y <pone:> [/] (.) pone arriba [^c] .
+%mor:	cconj|y adv|entonces det|el-Fem-Def-Art noun|niño-Masc verb|tener-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art det|uno-Masc-Ind-Art noun|zapato-Masc cconj|y verb|poner-Fin-Ind-Pres-S3 adv|arriba .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|11|ROOT 6|8|DET 7|8|DET 8|5|OBJ 9|10|CC 10|5|CONJ 11|10|ADVMOD 12|5|PUNCT
+*CHI:	y la rana no estaba ahí [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|rana-Fem adv|no verb|estar-Fin-Ind-Imp-S3 adv|ahí .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|ADVMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	la [*] perro ve arento [: adentro] la cosa [^c] .
+%mor:	det|el-Fem-Def-Art noun|perro-Masc verb|ver-Fin-Ind-Pres-S3 adv|adentro det|el-Fem-Def-Art noun|cosa-Fem .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|ADVMOD 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	y no estaba ahí [^c] .
+%mor:	cconj|y adv|no verb|estar-Fin-Ind-Imp-S3 adv|ahí .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	(en)tonce(s) la [*] niño ve [^c] la [*] perro sa [: se] cae [* caerse] [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|niño-Masc verb|ver-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|6|DET 6|4|OBJ 7|8|EXPL-PV 8|4|ADVCL 9|4|PUNCT
+*CHI:	y (en)tonce:(s) la [*] perro: pone la lengua en la [*] niño [^c] .
+%mor:	cconj|y adv|entonces det|el-Fem-Def-Art noun|perro-Masc verb|poner-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|lengua-Fem adp|en det|el-Fem-Def-Art noun|niño-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*CHI:	entonce(s) la [*] niño y la [*] perro (.) ve [* ven] <una: ay> [/] una: bee [* abeja] (...) [^c] y estaba +"/.
+%mor:	adv|entonces det|el-Fem-Def-Art noun|niño-Masc cconj|y det|el-Fem-Def-Art noun|perro-Masc verb|ver-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|bee-Fem cconj|y verb|estar-Fin-Ind-Imp-S3 +"/.
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|11|ROOT 8|9|DET 9|7|OBJ 10|11|CC 11|7|CONJ 12|7|PUNCT
+*CHI:	+" oh rana oh rana [^c] .
+%mor:	intj|oh noun|rana-Fem x|oh noun|rana .
+%gra:	1|2|DEP 2|4|ROOT 3|2|FLAT 4|2|FLAT 5|2|PUNCT
+*CHI:	y entonce(s) la [*] perro ve <una: (.) una:> [/] (.) una beehive [* colmena] [^c] .
+%mor:	cconj|y adv|entonces det|el-Fem-Def-Art noun|perro-Masc verb|ver-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|beehive .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	y (en)tonce(s) la [*] niño ve una [* un] hueco [^c] .
+%mor:	cconj|y adv|entonces det|el-Fem-Def-Art noun|niño-Masc verb|ver-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|hueco-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	0pero es otra cosa [^c] donde está <una:> [/] (.) una [* un] <otra:> [/] (.) diferente: animal [* animal diferente] [^c] .
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|otro-Fem-Def-Ind noun|cosa-Fem adv|donde verb|estar-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art adj|diferente-Pos-S1 noun|animal-Masc .
+%gra:	1|3|COP 2|3|DET 3|8|ROOT 4|5|ADVMOD 5|3|ACL 6|8|DET 7|8|AMOD 8|5|NSUBJ 9|3|PUNCT
+*CHI:	(en)tonce(s) la beehive [* colmena] sa [: se] cae [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|beehive pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	y entonce(s) <la [*] perro> [/] (.) la [*] perro sa [: se] fue [^c] .
+%mor:	cconj|y adv|entonces det|el-Fem-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-S3 .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|6|ROOT 7|6|PUNCT
+*CHI:	y la [*] niño estaba ahí (.) en la: (.) tree [* mata] [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 adv|ahí adp|en det|el-Fem-Def-Art noun|tree-Fem .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	y entonce(s) la [*] niño sa [: se] cae [^c] .
+%mor:	cconj|y adv|entonces det|el-Fem-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|6|ROOT 7|6|PUNCT
+*CHI:	todo [* todas] la: [* las] bees [* abejas] y la owl [* lechuza] estaba [* estaban] ahí en la: tree [* mata] [^c] .
+%mor:	det|todo-Masc-Def-Tot det|el-Fem-Def-Art noun|bees cconj|y det|el-Fem-Def-Art noun|owl-Fem verb|estar-Fin-Ind-Imp-S3 adv|ahí adp|en det|el-Fem-Def-Art noun|tree-Fem .
+%gra:	1|2|DET 2|3|DET 3|7|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|11|ROOT 8|7|ADVMOD 9|11|CASE 10|11|DET 11|7|OBL 12|7|PUNCT
+*CHI:	y entonce(s) <la:> [/] la [*] perro hace +"/.
+%mor:	cconj|y adv|entonces det|el-Fem-Def-Art noun|perro-Masc verb|hacer-Fin-Ind-Pres-S3 +"/.
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	+" wuf wuf [^c] .
+%mor:	noun|wuf noun|wuf .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+*CHI:	(en)tonce(s) la owl [* lechuza] sa [: se] fue [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|owl-Fem pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	y la niño <(es)taba> [/] (es)taba ahí en la rock [* piedra] [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 adv|ahí adp|en det|el-Fem-Def-Art noun|rock-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	entonce(s) la [*] niño no ve <la:> [/] la [* el] animal [* venado] behind [* detrás] [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|niño-Masc adv|no verb|ver-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|animal-Masc noun|behind .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|ADVMOD 5|8|ROOT 6|7|DET 7|5|OBJ 8|7|COMPOUND 9|5|PUNCT
+*CHI:	y entonce(s) la [* el] animal [*] (.) estaba ahí [^c] condrendo [* corriendo] con la [*] perro [^c] .
+%mor:	cconj|y adv|entonces det|el-Fem-Def-Art noun|animal-Masc aux|estar-Fin-Ind-Imp-S3 adv|ahí adj|condrendo-Pos-S1 adp|con det|el-Fem-Def-Art noun|perro-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|10|ROOT 6|7|ADVMOD 7|5|OBJ 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+*CHI:	<y entonce(s) la niño> [/] (en)tonce(s) la [*] niño se cae [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	y la [*] perro se cae en la [* el] agua [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 adp|en det|el-Fem-Def-Art noun|agua-Fem .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*CHI:	(en)tonce(s) <la niño> [/] la [*] niño estaba en la [* el] agua [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|niño-Masc verb|estar-Fin-Ind-Imp-S3 adp|en det|el-Fem-Def-Art noun|agua-Fem .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	ve [* oye] un [* una] bulla 0saying [* como ?] +"/.
+%mor:	verb|ver-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|bulla-Fem +"/.
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	+" ribit ribit [^c] .
+%mor:	noun|ribit noun|ribit .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+*CHI:	(en)tonce(s) la [*] niño hace shhh pa(ra) la [* al] perro [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|niño-Masc verb|hacer-Fin-Ind-Pres-S3 noun|shhh adp|para det|el-Fem-Def-Art noun|perro-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	y entonce(s) ve <la rana> [/] (.) dos rana(s) (.) un [* una] niña un niño (.) con bebito(s) [^c] .
+%mor:	cconj|y adv|entonces verb|ver-Fin-Ind-Pres-S3 num|dos noun|rana-Fem-Plur det|uno-Masc-Ind-Art noun|niña-Fem det|uno-Masc-Ind-Art noun|niño-Masc adp|con noun|bebito-Masc-Plur .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|11|ROOT 4|5|NUMMOD 5|3|OBJ 6|7|DET 7|3|NSUBJ 8|9|DET 9|3|OBJ 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*CHI:	(en)tonce(s) la [*] niño: tene [* tiene] uno [* una] rana [/] bebito [* bebita] rana en la mano [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|niño-Masc verb|tener-Fin-Sub-Pres-S3 det|uno-Masc-Ind-Art noun|bebito noun|rana adp|en det|el-Fem-Def-Art noun|mano-Fem .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|6|DET 6|4|OBJ 7|6|APPOS 8|10|CASE 9|10|DET 10|6|NMOD 11|4|PUNCT
+*CHI:	y tira: la: rana (.) la otra: (.) ahí en la [* el] agua [^ y ya] [^c] .
+%mor:	cconj|y verb|tirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|rana-Fem det|el-Fem-Def-Art pron|otro-Ind-S1 adv|ahí adp|en det|el-Fem-Def-Art noun|agua-Fem .
+%gra:	1|2|ADVMOD 2|10|ROOT 3|4|DET 4|2|OBJ 5|6|DET 6|2|OBJ 7|2|ADVMOD 8|10|CASE 9|10|DET 10|2|OBL 11|2|PUNCT
+@End

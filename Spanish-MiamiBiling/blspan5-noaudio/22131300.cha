@@ -1,0 +1,92 @@
+@UTF8
+@PID:	11312/c-00021420-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|10;06.|male|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Comment:	Date is 1/31/95
+@Transcriber:	Patti Ortega
+@Types:	cross, narrative, biling
+*CHI:	había un niño y un perro (.) y una: 0rana [^c] .
+%mor:	verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art noun|niño-Masc cconj|y det|uno-Masc-Ind-Art noun|perro-Masc cconj|y pron|uno-Ind-S1 .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|6|CC 5|6|DET 6|3|CONJ 7|8|CC 8|3|CONJ 9|1|PUNCT
+*CHI:	[^ I don't know what's this one] y el niño se estaba durmiendo (.) [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Imp-S3 verb|dormir-Ger-S .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|EXPL-PV 5|6|AUX 6|6|ROOT 7|6|PUNCT
+*CHI:	<y:> [/] (.) y la rana se escapó [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|rana-Fem pron|él-Prs-Acc-S3 verb|escapar-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	chequió [* buscó] en todo(s) lo(s) lugares [^c] .
+%mor:	verb|chequir-Fin-Ind-Past-S3 adp|en det|todo-Masc-Def-Tot det|el-Masc-Def-Art noun|lugar-Masc-Plur .
+%gra:	1|5|ROOT 2|5|CASE 3|4|DET 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	pero no lo [* la] encontró (.) hasta en la ventana [^c] .
+%mor:	cconj|pero adv|no pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 adp|hasta adp|en det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBJ 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	pero tampoco no [* 0] lo [* la] encontró [^c] .
+%mor:	cconj|pero adv|tampoco adv|no pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|ADVMOD 4|5|OBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	y el perro se cayó [^c] porque estaba arriba de la ventana [^c] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 sconj|porque verb|estar-Fin-Ind-Imp-S3 adv|arriba adp|de det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|11|ROOT 6|7|MARK 7|5|ADVCL 8|7|ADVMOD 9|11|CASE 10|11|DET 11|7|OBL 12|5|PUNCT
+*CHI:	y se cayó (...) [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*CHI:	y todavía no lo [* la] encontraron [^c] .
+%mor:	cconj|y adv|todavía adv|no pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-P3 .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|ADVMOD 4|5|OBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	y fueron afuera [^c] .
+%mor:	cconj|y aux|ser-Fin-Ind-Past-P3 adv|afuera .
+%gra:	1|3|ADVMOD 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	<y:> [/] y había un hueco [^c] .
+%mor:	cconj|y verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art noun|hueco-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	y todavía no lo [*] encontraron [^c] .
+%mor:	cconj|y adv|todavía adv|no pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-P3 .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|ADVMOD 4|5|OBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	y había una mata [^c] que tenía un hueco (.) [^c] .
+%mor:	cconj|y verb|haber-Fin-Ind-Imp-S3 det|uno-Fem-Ind-Art noun|matar-Fem pron|que-Rel-S1 verb|tener-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art noun|hueco-Masc .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|4|DET 4|2|OBJ 5|6|NSUBJ 6|4|ACL 7|8|DET 8|6|OBJ 9|2|PUNCT
+*CHI:	él chequió [* buscó] ahí [^c] .
+%mor:	pron|él-Prs-AccNom-S3 verb|chequir-Fin-Ind-Past-S3 adv|ahí .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	y todavía no estaba [^c] .
+%mor:	cconj|y adv|todavía adv|no verb|estar-Fin-Ind-Imp-S3 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	y despué(s) (.) se cayó [^c] .
+%mor:	cconj|y adv|después pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+*CHI:	y chequió [*] arriba de una piedra (.) [^c] .
+%mor:	cconj|y verb|chequir-Fin-Ind-Past-S3 adv|arriba adp|de det|uno-Fem-Ind-Art noun|piedra-Fem .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|ADVMOD 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*CHI:	y tampoco lo [*] podía encontrar [^c] .
+%mor:	cconj|y adv|tampoco pron|él-Prs-Acc-S3 aux|poder-Fin-Ind-Imp-S3 verb|encontrar-Inf-S .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|OBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	y despué(s) un animal lo cogió (.) [^c] .
+%mor:	cconj|y adv|después det|uno-Masc-Ind-Art noun|animal-Masc pron|él-Prs-Acc-S3 verb|coger-Fin-Ind-Past-S3 .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|OBJ 6|6|ROOT 7|6|PUNCT
+*CHI:	y se cayó <en la> [/] en la [* el] agua [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 adp|en det|el-Fem-Def-Art noun|agua-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	y se mojó todo [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|mojar-Fin-Ind-Past-S3 pron|todo-Tot-S1 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+*CHI:	chequió [*] en un palo [* tronco] [^c] .
+%mor:	verb|chequir-Fin-Ind-Past-S3 adp|en det|uno-Masc-Ind-Art noun|palo-Masc .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*CHI:	pero tampoco no [* 0] estaba ahí [^c] .
+%mor:	cconj|pero adv|tampoco adv|no verb|estar-Fin-Ind-Imp-S3 adv|ahí .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	y despué(s) ahí (.) lo [*] encontró (.) [^c] .
+%mor:	cconj|y adv|después adv|ahí pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|ADVMOD 4|5|OBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	y había bebé(s) de rana(s) y dos ranas grandes [^c] .
+%mor:	cconj|y verb|haber-Fin-Ind-Imp-S3 noun|bebé-Masc-Plur adp|de noun|rana-Fem-Plur cconj|y num|dos noun|rana-Fem-Plur adj|grande-Pos-P1 .
+%gra:	1|2|ADVMOD 2|9|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|8|CC 7|8|NUMMOD 8|3|CONJ 9|8|AMOD 10|2|PUNCT
+*CHI:	y él lo encontró [^c] .
+%mor:	cconj|y pron|él-Prs-AccNom-S3 pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	y se llevó uno con ello(s) [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|llevar-Fin-Ind-Past-S3 pron|uno-Ind-S1 adp|con pron|él-Prs-AccNom-P3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+@End

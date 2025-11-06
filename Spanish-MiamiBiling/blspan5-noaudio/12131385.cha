@@ -1,0 +1,102 @@
+@UTF8
+@PID:	11312/c-00021375-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-MiamiBiling|CHI|10;10.|female|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Comment:	Date is 12-12-1994
+@Tape Location:	FSF94.PO
+@Transcriber:	ERodriguez
+@Types:	cross, narrative, biling
+*CHI:	<el niño> [/] Un niño y la [/] la [* el] sapo estaba adentro de <una una (.) bota> [/] una botella [^c] .
+%mor:	det|uno-Masc-Ind-Art noun|niño-Masc cconj|y det|el-Fem-Def-Art noun|sapo-Masc aux|estar-Fin-Ind-Imp-S3 adv|adentro adp|de det|uno-Fem-Ind-Art noun|botella-Fem .
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|10|ROOT 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|6|PUNCT
+*CHI:	y [/] y la [* el] niño lo está mirando con el perro [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|mirar-Ger-S adp|con det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|OBJ 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*CHI:	entonce(s) la [*] niño va a dormir [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|niño-Masc verb|ir-Fin-Ind-Pres-S3 adp|a verb|dormir-Inf-S .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CHI:	<y el> [/] la [* el] sapa [* sapo] sale <de la (.) de la (.) de la (.) pomo> [/] la [* del] vasito [^c] .
+%mor:	det|el-Fem-Def-Art noun|sapa-Fem verb|salir-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|vasito-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	y (en)tonce(s) cuando el niño xxx despierto [^c] él no ve la sapa [* el sapo] [^c] .
+%mor:	cconj|y adv|entonces sconj|cuando det|el-Masc-Def-Art noun|niño-Masc verb|despertar-Fin-Ind-Pres-S1 pron|él-Prs-AccNom-S3 adv|no verb|ver-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|sapa-Fem .
+%gra:	1|9|ADVMOD 2|9|ADVMOD 3|6|MARK 4|5|DET 5|6|NSUBJ 6|9|ADVCL 7|9|NSUBJ 8|9|ADVMOD 9|11|ROOT 10|11|DET 11|9|OBJ 12|9|PUNCT
+*CHI:	la [*] niño está mirando por parte(s) [^c] .
+%mor:	det|el-Fem-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|mirar-Ger-S adp|por noun|parte-Fem-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	entonce(s) ellos van afuera [^c] a ver [^c] .
+%mor:	adv|entonces pron|él-Prs-AccNom-P3 verb|ir-Fin-Ind-Pres-P3 adv|afuera adp|a verb|ver-Inf-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|3|ADVMOD 5|6|MARK 6|3|XCOMP 7|3|PUNCT
+*CHI:	y [/] y entonce(s) la [*] perro va de [* a] la ventana [^c] .
+%mor:	cconj|y adv|entonces det|el-Fem-Def-Art noun|perro-Masc verb|ir-Fin-Ind-Pres-S3 adp|de det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*CHI:	y se cae [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*CHI:	(en)tonce(s) la [*] niño [* se] pone bravo (.) con el perro (...) [^c] .
+%mor:	adv|entonces det|el-Fem-Def-Art noun|niño-Masc verb|poner-Fin-Ind-Pres-S3 noun|bravo-Masc adp|con det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	(en)tonce(s) um [/] the little boy is calling [*] [^c] .
+%mor:	adv|entonces noun|the noun|little noun|boy noun|is noun|calling .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|FLAT 4|2|FLAT 5|2|FLAT 6|2|FLAT 7|2|PUNCT
+*CHI:	xxx El niño (es)taba atrás [^c] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|estar-Fin-Ind-Imp-S3 adv|atrás .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	estaba mirando afuera para [* por ?] el sapo [^c] .
+%mor:	aux|estar-Fin-Ind-Imp-S3 verb|mirar-Ger-S adv|afuera adp|para det|el-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|2|AUX 2|6|ROOT 3|2|ADVMOD 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*CHI:	entonce(s) (es)tán mirando en un hueco [^c] .
+%mor:	adv|entonces aux|estar-Fin-Ind-Pres-P3 verb|mirar-Ger-S adp|en det|uno-Masc-Ind-Art noun|hueco-Masc .
+%gra:	1|3|ADVMOD 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	y la [*] perro <ju um> [/] jugando <con el (.) los> [/] con los (...) [^c] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|perro-Masc verb|jugar-Ger-S adp|con det|el-Masc-Def-Art .
+%gra:	1|4|CC 2|3|DET 3|6|ROOT 4|3|ACL 5|6|CASE 6|4|OBL 7|3|PUNCT
+*CHI:	entonce(s) the bees [*] coge [* se ponen] bravo [* bravas] [^c] .
+%mor:	adv|entonces noun|the noun|bees noun|coger noun|bravo .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|FLAT 4|2|FLAT 5|2|FLAT 6|2|PUNCT
+*CHI:	y lo ataki [* atacan] [^c] Cuando los [* el] niño estaba arriba de la mata [^c] a [* 0] viendo [^c] si la [*] sapo (es)tá [* estaba] ahí [^c] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|atakir-Fin-Ind-Pres-S1 sconj|cuando det|el-Masc-Def-Art noun|niño-Masc verb|estar-Fin-Ind-Imp-S3 adv|arriba adp|de pron|él-Prs-Acc-S3 verb|matar-Fin-Ind-Pres-S3 adp|a verb|ver-Ger-S sconj|si det|el-Fem-Def-Art noun|sapo-Masc verb|estar-Fin-Ind-Pres-S3 adv|ahí .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|18|ROOT 4|7|MARK 5|6|DET 6|7|NSUBJ 7|3|ADVCL 8|7|ADVMOD 9|11|MARK 10|11|OBJ 11|7|ADVCL 12|13|MARK 13|11|ADVCL 14|17|MARK 15|16|DET 16|17|NSUBJ 17|13|CCOMP 18|17|ADVMOD 19|3|PUNCT
+*CHI:	y (en)tonce(s) lo [/] los bees <coge lo> [/] coge [* cogen] el [* al] perro [^c] .
+%mor:	cconj|y adv|entonces det|el-Masc-Def-Art noun|bees-Masc verb|coger-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	<entonce(s)> [/] (.) Entonce(s) um [/] el niño corre arriba [* por] <la tie la la> [/] la tierra y todo (.) <y lo (.) y lo> [/] (...) rocks [* las piedras] [^c] .
+%mor:	adv|entonces det|el-Masc-Def-Art noun|niño-Masc verb|correr-Fin-Ind-Pres-S3 adv|arriba det|el-Fem-Def-Art noun|tierra-Fem cconj|y det|todo-Masc-Def-Tot noun|rocks-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|4|ADVMOD 6|7|DET 7|4|OBJ 8|10|CC 9|10|DET 10|7|CONJ 11|4|PUNCT
+*CHI:	y entonce(s) um [/] él crea [* cree] [^c] <que lo> [/] que <lo cosa> [/] lo cosa arriba del deer [* venado] es [* los cuernos son] una [/] una branch [/] branch [* rama] [^c] .
+%mor:	cconj|y adv|entonces pron|él-Prs-AccNom-S3 verb|creer-Fin-Sub-Pres-S3 sconj|que pron|él-Prs-Acc-S3 noun|cosa-Fem adv|arriba det|del-Masc-Def-Art noun|deer-Masc aux|ser-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|branch .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|13|ROOT 5|13|MARK 6|7|AMOD 7|13|NSUBJ 8|7|ADVMOD 9|10|DET 10|7|NMOD 11|13|COP 12|13|DET 13|4|CCOMP 14|4|PUNCT
+*CHI:	y entonce(s) él coge [* está ?] arriba el [* del] deer [*] [^c] .
+%mor:	cconj|y adv|entonces pron|él-Prs-AccNom-S3 verb|coger-Fin-Ind-Pres-S3 adv|arriba det|el-Masc-Def-Art noun|deer-Masc .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|7|ROOT 5|4|ADVMOD 6|7|DET 7|4|OBJ 8|4|PUNCT
+*CHI:	y (en)tonce(s) deer [* el venado] lo [* 0] va 0a tirarlo abajo <en un> [/] en el agua [^c] .
+%mor:	cconj|y adv|entonces noun|deer-Masc pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S3 verb|tirar-Inf-S adv|abajo adp|en det|el-Masc-Def-Art noun|agua-Fem .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|NSUBJ 4|5|OBJ 5|10|ROOT 6|5|XCOMP 7|5|ADVMOD 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*CHI:	y Entonce(s) cae en la [*] agua [^c] .
+%mor:	cconj|y adv|entonces verb|caer-Fin-Ind-Pres-S3 adp|en det|el-Fem-Def-Art noun|agua-Fem .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	<y (en)tonce(s)> [/] Entonce(s) él oye <lo(s)> [/] lo(s) opas [/] opas [* sapos] [^c] haciendo el ruido [^c] .
+%mor:	adv|entonces pron|él-Prs-AccNom-S3 verb|oír-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|opa-Masc-Plur verb|hacer-Ger-S det|el-Masc-Def-Art noun|ruido-Masc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|3|ADVCL 7|8|DET 8|6|OBJ 9|3|PUNCT
+*CHI:	entonce(s) él ve [/] [* le] dile [* dice] al perro [^c] que calla [* se calle] [^c] .
+%mor:	adv|entonces pron|él-Prs-AccNom-S3 verb|decir-Fin-Ind-Pres-S3 det|al-Masc-Def-Art noun|perro-Masc pron|que-Rel-S1 verb|callar-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|NSUBJ 7|5|ACL 8|3|PUNCT
+*CHI:	entonce(s) el ve a [/] abajo <a la> [/] a la mata [* del tronco] [^c] .
+%mor:	adv|entonces pron|el-Prs-Acc-S3 verb|ver-Fin-Ind-Pres-S3 adv|abajo adp|a det|el-Fem-Def-Art noun|matar-Fem .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL-ARG 8|3|PUNCT
+*CHI:	y él ve <los dos> [/] do(s) opas [*] y bastantes babies [* bebés] [^c] .
+%mor:	cconj|y pron|él-Prs-AccNom-S3 verb|ver-Fin-Ind-Pres-S3 num|dos noun|opa-Fem-Plur cconj|y det|bastante-Def-Ind noun|babie-Masc-Plur .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ROOT 4|5|NUMMOD 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|3|PUNCT
+*CHI:	<y Entonce(s)> [/] Entonce(s) el <oja de él> [/] opa [*] de él fue [^c] pa(ra) ver [/] jugar con él [^c] .
+%mor:	adv|entonces det|el-Masc-Def-Art noun|opa-Fem adp|de pron|él-Prs-AccNom-S3 aux|ser-Fin-Ind-Past-S3 adp|para verb|jugar-Inf-S adp|con pron|él-Prs-AccNom-S3 .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|5|CASE 5|3|NMOD 6|10|ROOT 7|8|MARK 8|6|CCOMP 9|10|CASE 10|8|OBL-ARG 11|6|PUNCT
+*CHI:	entonce(s) él [* le] dice bye [* adiós] a toda la familia [^c] .
+%mor:	adv|entonces pron|él-Prs-AccNom-S3 verb|decir-Fin-Ind-Pres-S3 intj|bye adp|a det|todo-Fem-Def-Tot det|el-Fem-Def-Art noun|familia-Fem .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|8|CASE 6|7|DET 7|8|DET 8|3|OBJ 9|3|PUNCT
+*CHI:	y va pa(ra) la casa [^c] .
+%mor:	cconj|y verb|ir-Fin-Ind-Pres-S3 adp|para det|el-Fem-Def-Art noun|casa-Fem .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+@End

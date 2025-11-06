@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/c-00020449-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiBiling|CHI|7;10.|male|||Target_Child|||
+@Tape Location:	po.Fs.F94
+@Comment:	Date is 00-OCT-1995
+@Transcriber:	patti ortega
+@Types:	cross, narrative, TD
+*CHI:	one day (.) there was a little boy (.) named Tom [^c] .
+%mor:	num|one noun|day pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|little-S1 noun|boy verb|name-Part-Past-S propn|Tom .
+%gra:	1|2|NUMMOD 2|4|OBL-UNMARKED 3|4|EXPL 4|9|ROOT 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|7|ACL 9|8|XCOMP 10|4|PUNCT
+*CHI:	he had a frog (.) na:med Robert [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|frog-Acc verb|name-Part-Past-S propn|Robert .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|5|XCOMP 7|2|PUNCT
+*CHI:	he went to sleep one night [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr part|to verb|sleep-Inf-S num|one noun|night .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|ADVCL 5|6|NUMMOD 6|4|OBL-UNMARKED 7|2|PUNCT
+*CHI:	and the frog escaped [^c] .
+%mor:	cconj|and det|the-Def-Art noun|frog verb|escape-Fin-Ind-Past-S3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	then [/] then he went (.) somewhere [/] (.) somewhere in the forest [^c] .
+%mor:	adv|then pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adv|somewhere adp|in det|the-Def-Art noun|forest .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	and then when he woke up in the morning (.) [^c] he saw <that it (.) Tom> [/] [^c] that Robert was gone [^c] !
+%mor:	cconj|and adv|then adv|when pron|he-Prs-Nom-S3 verb|wake-Fin-Ind-Past-S3-irr adp|up adp|in det|the-Def-Art noun|morning-Ger pron|he-Prs-Nom-S3 verb|see-Fin-Ind-Past-S3-irr sconj|that propn|Robert aux|be-Fin-Ind-Past-S3-irr adj|gone-S1 !
+%gra:	1|11|CC 2|11|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|11|ADVCL 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|11|NSUBJ 11|15|ROOT 12|15|MARK 13|15|NSUBJ 14|15|COP 15|11|CCOMP 16|11|PUNCT
+*CHI:	Tom looked in his shoes (.) [^c] everywhere under his bed (.) outside [^c] .
+%mor:	propn|Tom verb|look-Fin-Ind-Past-S3 adp|in pron|his-Prs-Gen-S3 noun|shoe-Plur adv|everywhere adp|under pron|his-Prs-Gen-S3 noun|bed adv|outside .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|ADVMOD 7|9|CASE 8|9|NMOD-POSS 9|2|OBL 10|2|ADVMOD 11|2|PUNCT
+*CHI:	then he went outside [^c] to look [^c] .
+%mor:	adv|then pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adv|outside part|to verb|look-Inf-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|3|ADVMOD 5|6|MARK 6|3|ADVCL 7|3|PUNCT
+*CHI:	he called for him [^c] when [% where?] he first met him [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|call-Fin-Ind-Past-S3 adp|for pron|he-Prs-Acc-S3 adv|when pron|he-Prs-Nom-S3 adv|first verb|meet-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|CASE 4|2|OBL 5|8|ADVMOD 6|8|NSUBJ 7|8|ADVMOD 8|2|ADVCL 9|8|OBJ 10|2|PUNCT
+*CHI:	he looked <in the> [/] in a hole [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|in det|a-Ind-Art noun|hole .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	he looked in a tree stump [% trunk] [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|in det|a-Ind-Art noun|tree noun|stump .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+*CHI:	but an owl came out [^c] .
+%mor:	cconj|but det|a-Ind-Art noun|owl verb|come-Fin-Ind-Past-S3-irr adp|out .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	he was carried by an animal [^c] that he didn't know [^c] what it was [% recognize] [^c] .
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|carry-Part-Past-S adp|by det|a-Ind-Art noun|animal pron|that-Rel pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|know-Inf-S pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|14|ROOT 4|6|CASE 5|6|DET 6|3|OBL-AGENT 7|11|OBJ 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|ACL-RELCL 12|11|OBJ 13|7|NSUBJ 14|12|ACL-RELCL 15|3|PUNCT
+*CHI:	so [/] so the deer dropped him in the water [^c] .
+%mor:	adv|so det|the-Def-Art noun|deer verb|drop-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 adp|in det|the-Def-Art noun|water .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	the deer just dropped him [^c] splish (.) splash [^c] .
+%mor:	det|the-Def-Art noun|deer adv|just verb|drop-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 noun|splish noun|splash-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*CHI:	he heard ribbit ribbit [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|hear-Fin-Ind-Past-S3-irr noun|ribbit noun|ribbit-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	he looked over the log [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|over det|the-Def-Art noun|log .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	and there it was [!] a whole family (.) of (.) frogs [^c] .
+%mor:	cconj|and pron|there-Int-S1 pron|it-Prs-Nom-S3 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|whole-S1 noun|family adp|of noun|frog-Plur .
+%gra:	1|4|CC 2|4|EXPL 3|4|EXPL 4|9|ROOT 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|9|CASE 9|7|NMOD 10|4|PUNCT
+*CHI:	he took one baby (.) [^c] and take [% took] care of it [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr num|one noun|baby-Acc cconj|and verb|take-Fin-Ind-Pres-S3 noun|care-Acc adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|NUMMOD 4|2|OBJ 5|6|CC 6|2|CONJ 7|6|OBJ 8|9|CASE 9|6|OBL 10|2|PUNCT
+@End

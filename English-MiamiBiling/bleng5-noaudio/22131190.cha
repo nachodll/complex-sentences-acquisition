@@ -1,0 +1,83 @@
+@UTF8
+@PID:	11312/c-00020604-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|English-MiamiBiling|CHI|10;03.|male|||Target_Child|||
+@Comment:	5th Grade (Age 10 or 11)
+@Comment:	Date is 1/31/95
+@Transcriber:	P.Ortega
+@Types:	cross, narrative, TD
+*CHI:	one day there was a [/] a kid right [/] with a dog and a (.) frog [^c] .
+%mor:	num|one noun|day pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|kid adp|with det|a-Ind-Art noun|dog cconj|and det|a-Ind-Art noun|frog .
+%gra:	1|2|NUMMOD 2|4|OBL-UNMARKED 3|4|EXPL 4|12|ROOT 5|6|DET 6|4|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|12|CC 11|12|DET 12|9|CONJ 13|4|PUNCT
+*CHI:	then (.) <when he wa> [/] when the kid was sleeping umm [/] (.) [^c] the frog went out of the jar [^c] .
+%mor:	adv|then adv|when det|the-Def-Art noun|kid aux|be-Fin-Ind-Past-S3-irr verb|sleep-Part-Pres-S det|the-Def-Art noun|frog verb|go-Fin-Ind-Past-S3-irr adp|out adp|of det|the-Def-Art noun|jar .
+%gra:	1|9|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|9|ADVCL 7|8|DET 8|9|NSUBJ 9|13|ROOT 10|13|CASE 11|10|FIXED 12|13|DET 13|9|OBL 14|9|PUNCT
+*CHI:	then (.) when the kid woke up (.) [^c] the frog wasn't there (.) [^c] .
+%mor:	adv|then adv|when det|the-Def-Art noun|kid verb|wake-Fin-Ind-Past-S3-irr adp|up det|the-Def-Art noun|frog aux|be-Fin-Ind-Past-S3-irr~part|not adv|there .
+%gra:	1|11|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|11|ADVCL 6|5|COMPOUND-PRT 7|8|DET 8|11|NSUBJ 9|11|COP 10|11|ADVMOD 11|11|ROOT 12|11|PUNCT
+*CHI:	so he got scared [^c] .
+%mor:	adv|so pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adj|scared-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*CHI:	then he was looking everywhere for the frog [^c] .
+%mor:	adv|then pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|look-Part-Pres-S adv|everywhere adp|for det|the-Def-Art noun|frog .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	he called outside [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|call-Fin-Ind-Past-S3 adv|outside .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	the dog fell out the window (.) [^c] .
+%mor:	det|the-Def-Art noun|dog verb|fall-Fin-Ind-Past-S3-irr adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	with the jar in [% on] his head [^c] .
+%mor:	adp|with det|the-Def-Art noun|jar adp|in pron|his-Prs-Gen-S3 noun|head .
+%gra:	1|3|CASE 2|3|DET 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|NMOD 7|3|PUNCT
+*CHI:	they started calling him (.) everywhere [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|start-Fin-Ind-Past-P3 verb|call-Ger-S pron|he-Prs-Acc-S3 adv|everywhere .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|3|OBJ 5|3|ADVMOD 6|2|PUNCT
+*CHI:	they saw a beehide [: beehive] (.) [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|see-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|beehive-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	they called in there [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Past-P3 adp|in adv|there .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*CHI:	they saw a hole [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|see-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|hole-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	they sc [/] screamed in there [^c] .
+%mor:	pron|they-Prs-Nom-P3 verb|scream-Fin-Ind-Past-P3 adp|in adv|there .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	they beehide [: beehive] fell down [^c] .
+%mor:	pron|they-Prs-Nom-P3 noun|beehive verb|fall-Fin-Ind-Past-P3-irr adp|down .
+%gra:	1|2|DEP 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CHI:	and (.) the dog started running away [^c] .
+%mor:	cconj|and det|the-Def-Art noun|dog verb|start-Fin-Ind-Past-S3 verb|run-Ger-S adv|away .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|4|XCOMP 6|5|ADVMOD 7|4|PUNCT
+*CHI:	and <the bees> [/] (.) all the bees were running after him [^c] .
+%mor:	cconj|and det|all-Def-Tot det|the-Def-Art noun|bee-Plur aux|be-Fin-Ind-Past-P3-irr verb|run-Part-Pres-S adp|after pron|he-Prs-Acc-S3 .
+%gra:	1|6|CC 2|4|DET-PREDET 3|4|DET 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+*CHI:	then he went on top of the rock (.) [^c] and [/] and called <his name out> [/] the frog [^c] .
+%mor:	adv|then pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|on noun|top adp|of det|the-Def-Art noun|rock cconj|and verb|call-Fin-Ind-Past-S3 det|the-Def-Art noun|frog-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|12|ROOT 4|5|CASE 5|3|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|10|CC 10|3|CONJ 11|12|DET 12|10|OBJ 13|3|PUNCT
+*CHI:	then he jumped on a deer [^c] .
+%mor:	adv|then pron|he-Prs-Nom-S3 verb|jump-Fin-Ind-Past-S3 adp|on det|a-Ind-Art noun|deer .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	the deer started running [^c] .
+%mor:	det|the-Def-Art noun|deer verb|start-Fin-Ind-Past-S3 verb|run-Ger-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*CHI:	he fell in a river [^c] .
+%mor:	pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr adp|in det|a-Ind-Art noun|river .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	then he came out [^c] .
+%mor:	adv|then pron|he-Prs-Nom-S3 verb|come-Fin-Ind-Past-S3-irr adp|out .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CHI:	then they crossed [% went over?] the log [^c] .
+%mor:	adv|then pron|they-Prs-Nom-P3 verb|cross-Fin-Ind-Past-P3 det|the-Def-Art noun|log-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and then there [/] there was [% were] two [/] two frogs (.) with little baby frogs [^c] .
+%mor:	cconj|and adv|then pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr num|two noun|frog-Plur adp|with adj|little-S1 noun|baby noun|frog-Plur .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|10|ROOT 5|6|NUMMOD 6|4|NSUBJ 7|10|CASE 8|10|AMOD 9|10|COMPOUND 10|6|NMOD 11|4|PUNCT
+*CHI:	so then he found his frog (.) and the other two frogs with the babies [^ and that's the end] [^c] .
+%mor:	adv|so adv|then pron|he-Prs-Nom-S3 verb|find-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|frog-Acc cconj|and det|the-Def-Art adj|other-S1 num|two noun|frog-Plur adp|with det|the-Def-Art noun|baby-Plur .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|14|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|11|CC 8|11|DET 9|11|AMOD 10|11|NUMMOD 11|6|CONJ 12|14|CASE 13|14|DET 14|11|NMOD 15|4|PUNCT
+@End
