@@ -1,0 +1,142 @@
+@UTF8
+@PID:	11312/a-00073451-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-Ornat|CHI|8;||||Target_Child|||
+@Types:	cross, narrative, TD
+*CHI:	pues (.) están viendo la rana en su habitación .
+%mor:	sconj|pues aux|estar-Fin-Ind-Pres-P3 verb|ver-Ger-S det|el-Fem-Def-Art noun|rana-Fem adp|en det|su-Def-Prs noun|habitación-Fem .
+%gra:	1|3|MARK 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+@G:	02
+*CHI:	y la rana por la noche cuando el niño y el perro están durmiendo se intenta escapar .
+%mor:	cconj|y det|el-Fem-Def-Art noun|rana-Fem adp|por det|el-Fem-Def-Art noun|noche-Fem sconj|cuando det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-P3 verb|dormir-Ger-S pron|él-Prs-Acc-S3 verb|intentar-Fin-Ind-Pres-S3 verb|escapar-Inf-S .
+%gra:	1|16|ADVMOD 2|3|DET 3|16|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|14|MARK 8|9|DET 9|14|NSUBJ 10|12|CC 11|12|DET 12|9|CONJ 13|14|AUX 14|3|ACL 15|16|EXPL-PASS 16|17|ROOT 17|16|XCOMP 18|16|PUNCT
+@G:	03
+*CHI:	y el niño cuando se despierta mira el frasco y ve que la rana no está .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc sconj|cuando pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Pres-S3 verb|mirar-Fin-Imp-S2 det|el-Masc-Def-Art noun|frasco-Masc cconj|y verb|ver-Fin-Ind-Pres-S3 sconj|que det|el-Fem-Def-Art noun|rana-Fem adv|no verb|estar-Fin-Ind-Pres-S3 .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|6|MARK 5|6|EXPL-PV 6|7|ADVCL 7|16|ROOT 8|9|DET 9|7|OBJ 10|11|CC 11|7|CONJ 12|16|MARK 13|14|DET 14|16|NSUBJ 15|16|ADVMOD 16|11|CCOMP 17|7|PUNCT
+*CHI:	se ha escapado .
+%mor:	pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|escapar-Part-Past-S .
+%gra:	1|3|EXPL-PV 2|3|AUX 3|3|ROOT 4|3|PUNCT
+@G:	04
+*CHI:	y luego empiezan a buscarla .
+%mor:	cconj|y adv|luego verb|empezar-Fin-Ind-Pres-P3 adp|a verb|buscarlar-Inf-S .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*CHI:	el niño está mirando dentro de una bota .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|mirar-Ger-S adv|dentro adp|de det|uno-Fem-Ind-Art noun|bota-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+*CHI:	y luego el perro está mirando dentro del frasco .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 verb|mirar-Ger-S adv|dentro adp|del noun|frasco-Masc .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|6|ADVMOD 8|9|CASE 9|7|OBL 10|6|PUNCT
+@G:	05
+*CHI:	y (.) luego se van a mirar por la ventana .
+%mor:	cconj|y adv|luego pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-P3 adp|a verb|mirar-Inf-S adp|por det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|6|EXPL-PV 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*CHI:	y el perro no se ha conseguido quitar el frasco del cuello .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|no pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|conseguir-Part-Past-S verb|quitar-Inf-S det|el-Masc-Def-Art noun|frasco-Masc adp|del noun|cuello-Masc .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|7|ADVMOD 5|7|EXPL-PASS 6|7|AUX 7|12|ROOT 8|7|XCOMP 9|10|DET 10|8|OBJ 11|12|CASE 12|10|NMOD 13|7|PUNCT
+@G:	06
+*CHI:	y el perro se cae (.) Y (.) como se habían ido a la ventana el niño empieza a mirar .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 cconj|y sconj|como pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Imp-P3 verb|ir-Part-Past-S adp|a det|el-Fem-Def-Art noun|ventana-Fem det|el-Masc-Def-Art noun|niño-Masc verb|empezar-Fin-Ind-Pres-S3 adp|a verb|mirar-Inf-S .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|18|ROOT 6|16|CC 7|10|MARK 8|10|EXPL-PV 9|10|AUX 10|16|ADVCL 11|13|CASE 12|13|DET 13|10|OBL 14|15|DET 15|16|NSUBJ 16|5|CONJ 17|18|MARK 18|16|XCOMP 19|5|PUNCT
+@G:	07
+*CHI:	y luego el niño sale (.) y se le ha roto el frasco al perro de la cabeza , y le coge y está muy enfada(d)o .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|niño-Masc verb|salir-Fin-Ind-Pres-S3 cconj|y pron|él-Prs-Acc-S3 pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Pres-S3 verb|romper-Part-Past-S det|el-Masc-Def-Art noun|frasco-Masc det|al-Masc-Def-Art noun|perro-Masc adp|de det|el-Fem-Def-Art noun|cabeza-Fem cm|cm cconj|y pron|él-Prs-Dat-S3 verb|coger-Fin-Ind-Pres-S3 cconj|y aux|estar-Fin-Ind-Pres-S3 adv|mucho adj|enfadado-Pos-S1 .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|25|ROOT 6|10|CC 7|10|OBL-ARG 8|10|OBJ 9|10|AUX 10|5|CONJ 11|12|DET 12|10|OBJ 13|14|DET 14|10|OBJ 15|17|CASE 16|17|DET 17|14|NMOD 18|21|PUNCT 19|21|CC 20|21|OBJ 21|5|CONJ 22|25|CC 23|25|COP 24|25|ADVMOD 25|21|CONJ 26|5|PUNCT
+@G:	08
+*CHI:	y luego empiezan a llamar a la rana (.) y el perro está mirando unas moscas (.) unas (.) unas abejas que hay y el niño está llamando a la rana .
+%mor:	cconj|y adv|luego verb|empezar-Fin-Ind-Pres-P3 adp|a verb|llamar-Inf-S adp|a det|el-Fem-Def-Art noun|rana-Fem cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 verb|mirar-Ger-S det|uno-Fem-Ind-Art noun|mosca-Fem-Plur det|uno-Fem-Ind-Art det|uno-Fem-Ind-Art noun|abejas-Fem-Plur pron|que-Rel-S1 verb|haber-Fin-Ind-Pres-S3 cconj|y det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|llamar-Ger-S adp|a det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|28|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBJ 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|AUX 13|5|CONJ 14|15|DET 15|13|OBJ 16|18|DET 17|16|DET 18|13|OBJ 19|20|OBJ 20|18|ACL 21|25|CC 22|23|DET 23|25|NSUBJ 24|25|AUX 25|13|CONJ 26|28|CASE 27|28|DET 28|25|OBJ 29|3|PUNCT
+@G:	09
+*CHI:	y luego el niño está empezando a mirar en un agujero de un topo a ver si está ahí dentro , y el perro intenta llegar al panal de las abejas .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|empezar-Ger-S adp|a verb|mirar-Inf-S adp|en det|uno-Masc-Ind-Art noun|agujero-Masc adp|de det|uno-Masc-Ind-Art noun|topo-Masc adp|a verb|ver-Inf-S sconj|si aux|estar-Fin-Ind-Pres-S3 adv|ahí adv|dentro cm|cm cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|intentar-Fin-Ind-Pres-S3 verb|llegar-Inf-S det|al-Masc-Def-Art noun|panal-Masc adp|de det|el-Fem-Def-Art noun|abejas-Fem-Plur .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|31|ROOT 7|8|MARK 8|6|XCOMP 9|11|CASE 10|11|DET 11|6|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|16|MARK 16|6|ADVCL 17|18|MARK 18|16|CCOMP 19|20|ADVMOD 20|18|ADVMOD 21|25|PUNCT 22|25|CC 23|24|DET 24|25|NSUBJ 25|8|CONJ 26|25|XCOMP 27|28|DET 28|26|OBJ 29|31|CASE 30|31|DET 31|28|NMOD 32|6|PUNCT
+@G:	10
+*CHI:	y luego el (.) el topo le muerde al niño y el perro se intenta subir al árbol al por el panal .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art det|el-Masc-Def-Art noun|topo-Masc pron|él-Prs-Dat-S3 verb|mordar-Fin-Ind-Pres-S3 det|al-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|intentar-Fin-Ind-Pres-S3 verb|subir-Inf-S det|al-Masc-Def-Art noun|árbol-Masc det|al-Masc-Def-Art adp|por det|el-Masc-Def-Art noun|panal-Masc .
+%gra:	1|7|ADVMOD 2|7|ADVMOD 3|5|DET 4|5|DET 5|7|NSUBJ 6|7|OBJ 7|21|ROOT 8|9|DET 9|7|OBJ 10|14|CC 11|12|DET 12|14|NSUBJ 13|14|OBL-ARG 14|7|CONJ 15|14|XCOMP 16|17|DET 17|15|OBJ 18|21|CASE 19|21|CASE 20|21|DET 21|15|OBL 22|7|PUNCT
+@G:	11
+*CHI:	y luego el panal lo consigue que se caiga y todas las avispas van a por él , y el niño se sube a un árbol a ver si encuentra a la rana .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|panal-Masc pron|él-Prs-Acc-S3 verb|conseguir-Fin-Ind-Pres-S3 sconj|que pron|él-Prs-Acc-S3 verb|caer-Fin-Sub-Pres-S3 cconj|y det|todo-Fem-Def-Tot det|el-Fem-Def-Art noun|avispa-Fem-Plur verb|ir-Fin-Ind-Pres-P3 adp|a adp|por pron|él-Prs-AccNom-S3 cm|cm cconj|y det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Pres-S3 adp|a det|uno-Masc-Ind-Art noun|árbol-Masc adp|a verb|ver-Inf-S sconj|si verb|encontrar-Fin-Ind-Pres-S3 adp|a det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|OBJ 6|33|ROOT 7|9|MARK 8|9|EXPL-PV 9|6|CSUBJ 10|14|CC 11|12|DET 12|13|DET 13|14|NSUBJ 14|9|CONJ 15|17|CASE 16|17|CASE 17|14|OBL 18|23|PUNCT 19|23|CC 20|21|DET 21|23|NSUBJ 22|23|EXPL-PV 23|6|CONJ 24|26|CASE 25|26|DET 26|23|OBL 27|28|MARK 28|23|ADVCL 29|30|MARK 30|28|CCOMP 31|33|CASE 32|33|DET 33|30|OBJ 34|6|PUNCT
+@G:	12
+*CHI:	luego las avispas (.) por poco le pican y se tira al suelo .
+%mor:	adv|luego det|el-Fem-Def-Art noun|avispa-Fem-Plur adp|por adv|poco pron|él-Prs-Dat-S3 verb|picar-Fin-Ind-Pres-P3 cconj|y pron|él-Prs-Acc-S3 verb|tirar-Fin-Ind-Pres-S3 det|al-Masc-Def-Art noun|suelo-Masc .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|7|ADVMOD 5|4|FIXED 6|7|OBJ 7|12|ROOT 8|10|CC 9|10|EXPL-PV 10|7|CONJ 11|12|CASE 12|10|OBL 13|7|PUNCT
+*CHI:	y el perro sigue corriendo porque ya (.) ido buscando .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|seguir-Fin-Ind-Pres-S3 verb|correr-Ger-S sconj|porque adv|ya verb|ir-Part-Past-S verb|buscar-Ger-S .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|9|ROOT 5|4|XCOMP 6|8|MARK 7|8|ADVMOD 8|4|ADVCL 9|8|XCOMP 10|4|PUNCT
+*CHI:	y un búho que le había desperta(d)o el niño ha salido .
+%mor:	cconj|y det|uno-Masc-Ind-Art noun|búho-Masc pron|que-Rel-S1 pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Imp-S3 verb|despertar-Part-Past-S det|el-Masc-Def-Art noun|niño-Masc aux|haber-Fin-Ind-Pres-S3 verb|salir-Part-Past-S .
+%gra:	1|11|ADVMOD 2|3|DET 3|11|NSUBJ 4|7|NSUBJ 5|7|OBJ 6|7|AUX 7|3|ACL 8|9|DET 9|7|NSUBJ 10|11|AUX 11|11|ROOT 12|11|PUNCT
+@G:	13
+*CHI:	y luego el búho le intenta picar al niño y (.) y se va corriendo hacia unas rocas .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|búho-Masc pron|él-Prs-Dat-S3 verb|intentar-Fin-Ind-Pres-S3 verb|picar-Inf-S det|al-Masc-Def-Art noun|niño-Masc cconj|y cconj|y pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S3 verb|correr-Ger-S adp|hacia det|uno-Fem-Ind-Art noun|roca-Fem-Plur .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|OBL-ARG 6|17|ROOT 7|6|XCOMP 8|9|DET 9|7|OBJ 10|13|CC 11|13|CC 12|13|EXPL-PV 13|6|CONJ 14|13|XCOMP 15|17|CASE 16|17|DET 17|13|OBL 18|6|PUNCT
+@G:	14
+*CHI:	luego se sube y se sujeta con unos palos .
+%mor:	adv|luego pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Pres-S3 cconj|y pron|él-Prs-Acc-S3 verb|sujeto-Fin-Ind-Pres-S3 adp|con det|uno-Masc-Ind-Art noun|palo-Masc-Plur .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|9|ROOT 4|6|CC 5|6|EXPL-PV 6|3|CONJ 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+*CHI:	y el búho se ha queda(d)o en una rama .
+%mor:	cconj|y det|el-Masc-Def-Art noun|búho-Masc pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|quedar-Part-Past-S adp|en det|uno-Fem-Ind-Art noun|rama-Fem .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|EXPL-PV 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*CHI:	y el perro , el perro está debajo (.) debajo de la roca .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc cm|cm det|el-Masc-Def-Art noun|perro-Masc verb|estar-Fin-Ind-Pres-S3 adv|debajo adv|debajo adp|de det|el-Fem-Def-Art noun|roca-Fem .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|3|PUNCT 5|6|DET 6|7|NSUBJ 7|12|ROOT 8|7|ADVMOD 9|12|CASE 10|9|FIXED 11|12|DET 12|8|OBL 13|7|PUNCT
+@G:	15
+*CHI:	luego como (.) no eran , no eran unos palos , eran los cuernos de un ciervo , el ciervo se levanta y se cae encima de su cabeza .
+%mor:	adv|luego sconj|como adv|no aux|ser-Fin-Ind-Imp-P3 cm|cm adv|no aux|ser-Fin-Ind-Imp-P3 det|uno-Masc-Ind-Art noun|palo-Masc-Plur cm|cm aux|ser-Fin-Ind-Imp-P3 det|el-Masc-Def-Art noun|cuerno-Masc-Plur adp|de det|uno-Masc-Ind-Art noun|ciervo-Masc cm|cm det|el-Masc-Def-Art noun|ciervo-Masc pron|él-Prs-Acc-S3 verb|levantar-Fin-Ind-Pres-S3 cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 adv|encima adp|de det|su-Def-Prs noun|cabeza-Fem .
+%gra:	1|9|ADVMOD 2|4|MARK 3|4|ADVMOD 4|9|ADVCL 5|1|PUNCT 6|9|ADVMOD 7|9|COP 8|9|DET 9|28|ROOT 10|9|PUNCT 11|13|COP 12|13|DET 13|9|ADVCL 14|16|CASE 15|16|DET 16|13|NMOD 17|9|PUNCT 18|19|DET 19|21|NSUBJ 20|21|EXPL-PV 21|9|ADVCL 22|24|CC 23|24|EXPL-PV 24|21|CONJ 25|24|ADVMOD 26|28|CASE 27|28|DET 28|25|OBL 29|9|PUNCT
+*CHI:	y el perro empieza a buscarle .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|empezar-Fin-Ind-Pres-S3 adp|a verb|buscarlar-Inf-S .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+@G:	16
+*CHI:	y luego el ciervo va hacia una pendiente para soltar al niño .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|ciervo-Masc verb|ir-Fin-Ind-Pres-S3 adp|hacia det|uno-Fem-Ind-Art noun|pendiente-Fem adp|para verb|soltar-Inf-S det|al-Masc-Def-Art noun|niño-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|12|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|12|DET 12|10|OBJ 13|5|PUNCT
+*CHI:	y el perro va detrás .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|ir-Fin-Ind-Pres-S3 adv|detrás .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+@G:	17
+*CHI:	y luego suelta al niño para que se caiga y el perro también se cae .
+%mor:	cconj|y adv|luego verb|suelta-Fin-Ind-Pres-S3 det|al-Masc-Def-Art noun|niño-Masc adp|para sconj|que pron|él-Prs-Acc-S3 verb|caer-Fin-Sub-Pres-S3 cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|también pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|15|ROOT 4|5|DET 5|3|OBJ 6|9|MARK 7|9|MARK 8|9|EXPL-PV 9|3|ADVCL 10|15|CC 11|12|DET 12|15|NSUBJ 13|15|ADVMOD 14|15|EXPL-PV 15|3|CONJ 16|3|PUNCT
+@G:	18
+*CHI:	y luego se caen a un río y el ciervo se ríe .
+%mor:	cconj|y adv|luego pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-P3 adp|a det|uno-Masc-Ind-Art noun|río-Masc cconj|y det|el-Masc-Def-Art noun|ciervo-Masc pron|él-Prs-Acc-S3 verb|reír-Fin-Ind-Pres-S3 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|12|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|12|CC 9|10|DET 10|12|NSUBJ 11|12|EXPL-PV 12|4|CONJ 13|4|PUNCT
+@G:	19
+*CHI:	y luego se levantan y el perro está ahí en la cabeza del niño y hay un nenúfar .
+%mor:	cconj|y adv|luego pron|él-Prs-Acc-S3 verb|levantar-Fin-Ind-Pres-P3 cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 adv|ahí adp|en det|el-Fem-Def-Art noun|cabeza-Fem adp|del noun|niño-Masc cconj|y verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|nenúfar-Masc .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|18|ROOT 5|8|CC 6|7|DET 7|8|NSUBJ 8|4|CONJ 9|8|ADVMOD 10|12|CASE 11|12|DET 12|8|OBL 13|14|CASE 14|12|NMOD 15|16|CC 16|4|CONJ 17|18|DET 18|16|OBJ 19|4|PUNCT
+@G:	20
+*CHI:	y luego le dice al perro que silencio para mirar en un tronco a ver si está la rana .
+%mor:	cconj|y adv|luego pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S3 det|al-Masc-Def-Art noun|perro-Masc sconj|que noun|silencio-Masc adp|para verb|mirar-Inf-S adp|en det|uno-Masc-Ind-Art noun|tronco-Masc adp|a verb|ver-Inf-S sconj|si verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBL-ARG 4|19|ROOT 5|6|DET 6|4|OBL-ARG 7|8|MARK 8|4|OBJ 9|10|MARK 10|8|ACL 11|13|CASE 12|13|DET 13|10|OBL 14|15|MARK 15|10|ADVCL 16|17|MARK 17|15|CCOMP 18|19|DET 19|17|NSUBJ 20|4|PUNCT
+@G:	21
+*CHI:	luego miran por un agujero que hay pequeñito y el perro se sube al tronco .
+%mor:	adv|luego verb|mirar-Fin-Ind-Pres-P3 adp|por det|uno-Masc-Ind-Art noun|agujero-Masc pron|que-Rel-S1 verb|haber-Fin-Ind-Pres-S3 adj|pequeñito-Pos-S1 cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Pres-S3 det|al-Masc-Def-Art noun|tronco-Masc .
+%gra:	1|2|ADVMOD 2|15|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|OBJ 7|5|ACL 8|7|OBJ 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|EXPL-PV 13|2|CONJ 14|15|CASE 15|13|OBL 16|2|PUNCT
+@G:	22
+*CHI:	y luego encuentran a la rana y a otra rana , encuentran a las dos .
+%mor:	cconj|y adv|luego verb|encontrar-Fin-Ind-Pres-P3 adp|a det|el-Fem-Def-Art noun|rana-Fem cconj|y adp|a det|otro-Fem-Def-Ind noun|rana-Fem cm|cm verb|encontrar-Fin-Ind-Pres-P3 adp|a det|el-Fem-Def-Art num|dos .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|15|ROOT 4|6|CASE 5|6|DET 6|3|OBJ 7|10|CC 8|10|CASE 9|10|DET 10|6|CONJ 11|3|PUNCT 12|3|ADVCL 13|15|CASE 14|15|DET 15|12|OBJ 16|3|PUNCT
+*CHI:	y se esconden para que no les vean .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|esconder-Fin-Ind-Pres-P3 adp|para sconj|que adv|no pron|él-Prs-Dat-P3 verb|ver-Fin-Sub-Pres-P3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|8|ROOT 4|8|MARK 5|8|MARK 6|8|ADVMOD 7|8|OBJ 8|3|ADVCL 9|3|PUNCT
+@G:	23
+*CHI:	y luego bajan y ven un grupo de ranitas pequeñitas .
+%mor:	cconj|y adv|luego verb|bajar-Fin-Ind-Pres-P3 cconj|y verb|ver-Fin-Ind-Pres-P3 det|uno-Masc-Ind-Art noun|grupo-Masc adp|de noun|ranita-Fem-Plur adj|pequeñito-Pos-P1 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|10|ROOT 4|5|CC 5|3|CONJ 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|9|AMOD 11|3|PUNCT
+@G:	24
+*CHI:	y les regalan uno , una , para que la tengan .
+%mor:	cconj|y pron|él-Prs-Dat-P3 verb|regalar-Fin-Ind-Pres-P3 pron|uno-Ind-S1 cm|cm pron|uno-Ind-S1 cm|cm adp|para sconj|que pron|él-Prs-Acc-S3 verb|tener-Fin-Sub-Pres-P3 .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|11|ROOT 4|3|OBJ 5|6|PUNCT 6|4|APPOS 7|6|PUNCT 8|11|MARK 9|11|MARK 10|11|OBJ 11|3|ADVCL 12|3|PUNCT
+*CHI:	y están las ranas en el tronco y hay una que no se puede subir .
+%mor:	cconj|y verb|estar-Fin-Ind-Pres-P3 det|el-Fem-Def-Art noun|rana-Fem-Plur adp|en det|el-Masc-Def-Art noun|tronco-Masc cconj|y verb|haber-Fin-Ind-Pres-S3 pron|uno-Ind-S1 pron|que-Rel-S1 adv|no pron|él-Prs-Acc-S3 aux|poder-Fin-Ind-Pres-S3 verb|subir-Inf-S .
+%gra:	1|2|ADVMOD 2|15|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|2|OBL 8|9|CC 9|2|CONJ 10|9|OBJ 11|15|NSUBJ 12|15|ADVMOD 13|15|EXPL-PASS 14|15|AUX 15|10|ACL 16|2|PUNCT
+*CHI:	y colorín colorado este cuento se ha acabado .
+%mor:	cconj|y noun|colorín-Masc adj|colorado-Pos-S1 det|este-Masc-Def-Dem noun|cuento-Masc pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|acabar-Part-Past-S .
+%gra:	1|8|ADVMOD 2|8|NSUBJ 3|2|AMOD 4|5|DET 5|8|NSUBJ 6|8|EXPL-PV 7|8|AUX 8|8|ROOT 9|8|PUNCT
+@End

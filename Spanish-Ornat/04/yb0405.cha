@@ -1,0 +1,129 @@
+@UTF8
+@PID:	11312/a-00073426-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-Ornat|CHI|4;||||Target_Child|||
+@Types:	cross, narrative, TD
+*CHI:	un niño y un perro y cazaron (.) y cogieron una rana .
+%mor:	det|uno-Masc-Ind-Art noun|niño-Masc cconj|y det|uno-Masc-Ind-Art noun|perro-Masc cconj|y verb|cazar-Fin-Ind-Past-P3 cconj|y verb|coger-Fin-Ind-Past-P3 det|uno-Fem-Ind-Art noun|rana-Fem .
+%gra:	1|2|DET 2|11|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|7|CC 7|2|CONJ 8|9|CC 9|7|CONJ 10|11|DET 11|9|OBJ 12|2|PUNCT
+@G:	02
+*CHI:	estaban durmiendo y se escapó la rana .
+%mor:	aux|estar-Fin-Ind-Imp-P3 verb|dormir-Ger-S cconj|y pron|él-Prs-Acc-S3 verb|escapar-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|2|AUX 2|7|ROOT 3|5|CC 4|5|EXPL-PV 5|2|CONJ 6|7|DET 7|5|NSUBJ 8|2|PUNCT
+@G:	03
+*CHI:	luego se despertaron .
+%mor:	adv|luego pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Past-P3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+@G:	04
+*CHI:	estaba durmiendo y el , y el niño niño , Qué estaba haciendo ?
+%mor:	aux|estar-Fin-Ind-Imp-S3 verb|dormir-Ger-S cconj|y det|el-Masc-Def-Art cm|cm cconj|y det|el-Masc-Def-Art noun|niño-Masc noun|niño-Masc cm|cm pron|qué-Int-S1 aux|estar-Fin-Ind-Imp-S3 verb|hacer-Ger-S ?
+%gra:	1|2|AUX 2|13|ROOT 3|13|CC 4|2|CONJ 5|8|PUNCT 6|8|CC 7|8|DET 8|4|NSUBJ 9|8|APPOS 10|8|PUNCT 11|13|OBJ 12|13|AUX 13|2|CONJ 14|2|PUNCT
+*CHI:	estaba poniéndose el gorro .
+%mor:	aux|estar-Fin-Ind-Imp-S3 verb|poneéndosar-Ger-S det|el-Masc-Def-Art noun|gorro-Masc .
+%gra:	1|2|AUX 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	el perro tenía (.) eh: (.) adonde había metido el (.) el bote .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc verb|tener-Fin-Ind-Imp-S3 intj|eh sconj|adonde aux|haber-Fin-Ind-Imp-S3 verb|meter-Part-Past-S det|el-Masc-Def-Art det|el-Masc-Def-Art noun|bote-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|7|MARK 6|7|AUX 7|3|ADVCL 8|10|DET 9|10|DET 10|7|OBJ 11|3|PUNCT
+@G:	05
+*CHI:	el niño está gritando , gritando por la ventana .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|gritar-Ger-S cm|cm verb|gritar-Ger-S adp|por det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|PUNCT 6|4|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+@G:	06
+*CHI:	y luego se cayó (.) el perro por la ventana .
+%mor:	cconj|y adv|luego pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|perro-Masc adp|por det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|9|ROOT 5|6|DET 6|4|NSUBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+@G:	07
+*CHI:	luego lo cogió , y luego lo cogió el niño .
+%mor:	adv|luego pron|él-Prs-Acc-S3 verb|coger-Fin-Ind-Past-S3 cm|cm cconj|y adv|luego pron|él-Prs-Acc-S3 verb|coger-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|10|ROOT 4|8|PUNCT 5|8|CC 6|8|ADVMOD 7|8|OBJ 8|3|CONJ 9|10|DET 10|8|NSUBJ 11|3|PUNCT
+@G:	08
+*CHI:	luego estaba mirando el perro a la hormiga y el niño tenía sueño .
+%mor:	adv|luego aux|estar-Fin-Ind-Imp-S3 verb|mirar-Ger-S det|el-Masc-Def-Art noun|perro-Masc adp|a det|el-Fem-Def-Art noun|hormiga-Fem cconj|y det|el-Masc-Def-Art noun|niño-Masc verb|tener-Fin-Ind-Imp-S3 noun|sueño-Masc .
+%gra:	1|3|ADVMOD 2|3|AUX 3|13|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL-ARG 9|12|CC 10|11|DET 11|12|NSUBJ 12|3|CONJ 13|12|OBJ 14|3|PUNCT
+@G:	09
+*CHI:	el perro estaba saltando para coger a (.) a eso de (.) a la casa de la abeja .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Imp-S3 verb|saltar-Ger-S adp|para verb|coger-Inf-S adp|a adp|a pron|ese-Dem-S1 adp|de adp|a det|el-Fem-Def-Art noun|casa-Fem adp|de det|el-Fem-Def-Art noun|abeja-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|16|ROOT 5|6|MARK 6|4|ADVCL 7|9|CASE 8|9|CASE 9|6|OBJ 10|13|CASE 11|13|CASE 12|13|DET 13|6|OBL 14|16|CASE 15|16|DET 16|13|NMOD 17|4|PUNCT
+@G:	10
+*CHI:	el niño estaba mirando por un agujero .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|mirar-Ger-S adp|por det|uno-Masc-Ind-Art noun|agujero-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	aquí se quería subir el perro al árbol .
+%mor:	adv|aquí pron|él-Prs-Acc-S3 verb|querer-Fin-Ind-Imp-S3 verb|subir-Inf-S det|el-Masc-Def-Art noun|perro-Masc det|al-Masc-Def-Art noun|árbol-Masc .
+%gra:	1|3|ADVMOD 2|3|EXPL-PASS 3|8|ROOT 4|3|CSUBJ 5|6|DET 6|4|OBJ 7|8|DET 8|4|OBL 9|3|PUNCT
+*CHI:	y el niño estaba , y salió una &~ra (.) ratita .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc verb|estar-Fin-Ind-Imp-S3 cm|cm cconj|y verb|salir-Fin-Ind-Past-S3 det|uno-Fem-Ind-Art noun|ratita-Fem .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|9|ROOT 5|7|PUNCT 6|7|CC 7|4|CONJ 8|9|DET 9|7|NSUBJ 10|4|PUNCT
+@G:	11
+*CHI:	el perro (.) se cayó lo de la abeja se caía el perro .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 pron|él-Prs-Acc-S3 adp|de det|el-Fem-Def-Art noun|abeja-Fem pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Imp-S3 det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|12|ROOT 5|4|DET 6|5|CASE 7|8|DET 8|5|NSUBJ 9|10|EXPL-PV 10|4|ADVCL 11|12|DET 12|10|NSUBJ 13|4|PUNCT
+*CHI:	y luego se subió el niño a un árbol .
+%mor:	cconj|y adv|luego pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|niño-Masc adp|a det|uno-Masc-Ind-Art noun|árbol-Masc .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|9|ROOT 5|6|DET 6|4|NSUBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+@G:	12
+*CHI:	luego se cayó del árbol .
+%mor:	adv|luego pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 det|del-Masc-Def-Art noun|árbol-Masc .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|DET 5|3|OBL 6|3|PUNCT
+*CHI:	y luego el perro echó a correr .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|perro-Masc verb|echar-Fin-Ind-Past-S3 adp|a verb|correr-Inf-S .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|7|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+@G:	13
+*CHI:	y luego el (.) el (.) estaba con (.) con (.) una cabeza ya en una piedra .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art pron|el-Prs-Acc-S3 verb|estar-Fin-Ind-Imp-S3 adp|con adp|con det|uno-Fem-Ind-Art noun|cabeza-Fem adv|ya adp|en det|uno-Fem-Ind-Art noun|piedra-Fem .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|OBJ 5|13|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|5|ADVMOD 11|13|CASE 12|13|DET 13|5|OBL 14|5|PUNCT
+@G:	14
+*CHI:	estaba ya subido y el perro allí , el perro está agachado .
+%mor:	aux|estar-Fin-Ind-Imp-S3 adv|ya adj|subido-Pos-S1 cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|allí cm|cm det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 adj|agachado-Pos-S1 .
+%gra:	1|3|COP 2|3|ADVMOD 3|12|ROOT 4|12|CC 5|6|DET 6|12|NSUBJ 7|6|ADVMOD 8|6|PUNCT 9|10|DET 10|12|NSUBJ 11|12|COP 12|3|CONJ 13|3|PUNCT
+@G:	15
+*CHI:	un ciervo se subió encima de él .
+%mor:	det|uno-Masc-Ind-Art noun|ciervo-Masc pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-S3 adv|encima adp|de pron|él-Prs-AccNom-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|7|ROOT 5|4|ADVMOD 6|7|CASE 7|5|OBL 8|4|PUNCT
+@G:	16
+*CHI:	0 .
+@G:	17
+*CHI:	lo tiró el ciervo .
+%mor:	pron|él-Prs-Acc-S3 verb|tirar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|ciervo-Masc .
+%gra:	1|2|OBJ 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+@G:	18
+*CHI:	luego se cayó al agua .
+%mor:	adv|luego pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 det|al-Masc-Def-Art noun|agua-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|DET 5|3|OBL 6|3|PUNCT
+*CHI:	y luego .
+%mor:	cconj|y adv|luego .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+@G:	19
+*CHI:	0 .
+@G:	20
+*CHI:	y se punieron [: pusieron] [*] en el tronco .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Past-P3 adp|en det|el-Masc-Def-Art noun|tronco-Masc .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+@G:	21
+*CHI:	fueron , fueron , fueron por allí , y se subieron en un tronco .
+%mor:	aux|ser-Fin-Ind-Past-P3 cm|cm aux|ser-Fin-Ind-Past-P3 cm|cm aux|ser-Fin-Ind-Past-P3 adp|por adv|allí cm|cm cconj|y pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-P3 adp|en det|uno-Masc-Ind-Art noun|tronco-Masc .
+%gra:	1|14|ROOT 2|3|PUNCT 3|1|ADVCL 4|3|PUNCT 5|3|ADVCL 6|7|CASE 7|3|ADVMOD 8|11|PUNCT 9|11|CC 10|11|EXPL-PV 11|1|CONJ 12|14|CASE 13|14|DET 14|11|OBL 15|1|PUNCT
+*CHI:	luego el perro se va a tirar de nuevo .
+%mor:	adv|luego det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|tirar-Inf-S adp|de adj|nuevo-Pos-S1 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|7|EXPL-PV 5|9|ROOT 6|7|MARK 7|5|XCOMP 8|5|ADVMOD 9|8|FIXED 10|5|PUNCT
+@G:	22
+*CHI:	estaban subidos ya y entonces llegaron a la tierra , luego vieron a dos ranitas .
+%mor:	aux|estar-Fin-Ind-Imp-P3 adj|subido-Pos-P1 adv|ya cconj|y adv|entonces verb|llegar-Fin-Ind-Past-P3 adp|a det|el-Fem-Def-Art noun|tierra-Fem cm|cm adv|luego verb|ver-Fin-Ind-Past-P3 adp|a num|dos noun|ranita-Fem-Plur .
+%gra:	1|2|COP 2|15|ROOT 3|2|ADVMOD 4|6|CC 5|6|ADVMOD 6|2|CONJ 7|9|CASE 8|9|DET 9|6|OBL 10|2|PUNCT 11|12|ADVMOD 12|2|ADVCL 13|15|CASE 14|15|NUMMOD 15|12|OBJ 16|2|PUNCT
+@G:	23
+*CHI:	y luego a muchas ranitas .
+%mor:	cconj|y adv|luego adp|a det|mucho-Fem-Def-Ind noun|ranita-Fem-Plur .
+%gra:	1|2|CC 2|5|ROOT 3|2|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+@G:	24
+*CHI:	se metieron de nuevo en el agua .
+%mor:	pron|él-Prs-Acc-S3 verb|meter-Fin-Ind-Past-P3 adp|de adj|nuevo-Pos-S1 adp|en det|el-Masc-Def-Art noun|agua-Fem .
+%gra:	1|2|EXPL-PV 2|7|ROOT 3|2|ADVMOD 4|3|FIXED 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*CHI:	luego salieron toda la familia de las ranas .
+%mor:	adv|luego verb|salir-Fin-Ind-Past-P3 det|todo-Fem-Def-Tot det|el-Fem-Def-Art noun|familia-Fem adp|de det|el-Fem-Def-Art noun|rana-Fem-Plur .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|4|DET 4|5|DET 5|2|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*CHI:	se acabó .
+%mor:	pron|él-Prs-Acc-S3 verb|acabar-Fin-Ind-Past-S3 .
+%gra:	1|2|EXPL-PV 2|2|ROOT 3|2|PUNCT
+@End

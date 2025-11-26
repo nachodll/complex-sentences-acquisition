@@ -1,0 +1,256 @@
+@UTF8
+@PID:	11312/a-00073435-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-Ornat|CHI|5;||||Target_Child|||
+@Types:	cross, narrative, TD
+*CHI:	están en el agua y un perro subiéndose .
+%mor:	verb|estar-Fin-Ind-Pres-P3 adp|en det|el-Masc-Def-Art noun|agua-Fem cconj|y det|uno-Masc-Ind-Art noun|perro-Masc verb|subendosar-Ger-S .
+%gra:	1|8|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|7|CC 6|7|DET 7|1|CONJ 8|7|ACL 9|1|PUNCT
+*CHI:	y el niño al la(d)o de la cama .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc adp|al noun|lado adp|de det|el-Fem-Def-Art noun|cama-Fem .
+%gra:	1|3|CC 2|3|DET 3|8|ROOT 4|8|CASE 5|4|FIXED 6|4|FIXED 7|8|DET 8|3|NMOD 9|3|PUNCT
+@G:	02
+*CHI:	está el niño durmiendo .
+%mor:	verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|niño-Masc verb|dormir-Ger-S .
+%gra:	1|4|ROOT 2|3|DET 3|1|NSUBJ 4|1|CCOMP 5|1|PUNCT
+*CHI:	la rana ha saca(d)o una pata .
+%mor:	det|el-Fem-Def-Art noun|rana-Fem aux|haber-Fin-Ind-Pres-S3 verb|sacar-Part-Past-S det|uno-Fem-Ind-Art noun|pata-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	tiene las zapatillas y una banqueta , y tiene su cabeza .
+%mor:	verb|tener-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|zapatilla-Fem-Plur cconj|y det|uno-Fem-Ind-Art noun|banqueta-Fem cm|cm cconj|y verb|tener-Fin-Ind-Pres-S3 det|su-Def-Prs noun|cabeza-Fem .
+%gra:	1|11|ROOT 2|3|DET 3|1|OBJ 4|6|CC 5|6|DET 6|3|CONJ 7|9|PUNCT 8|9|CC 9|1|CONJ 10|11|DET 11|9|OBJ 12|1|PUNCT
+*CHI:	está durmiendo .
+%mor:	aux|estar-Fin-Ind-Pres-S3 verb|dormir-Ger-S .
+%gra:	1|2|AUX 2|2|ROOT 3|2|PUNCT
+@G:	03
+*CHI:	se ha escapa(d)o la rana .
+%mor:	pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|escapar-Part-Past-S det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|3|EXPL-PV 2|3|AUX 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*CHI:	hay unas zapatillas .
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|zapatilla-Fem-Plur .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	están las botas , está la camisa , está la banqueta .
+%mor:	verb|estar-Fin-Ind-Pres-P3 det|el-Fem-Def-Art noun|bota-Fem-Plur cm|cm verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|camisa-Fem cm|cm verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|banqueta-Fem .
+%gra:	1|11|ROOT 2|3|DET 3|1|NSUBJ 4|5|PUNCT 5|1|ADVCL 6|7|DET 7|5|NSUBJ 8|1|PUNCT 9|1|ADVCL 10|11|DET 11|9|NSUBJ 12|1|PUNCT
+*CHI:	está el perro asomándose y el niño .
+%mor:	verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|perro-Masc verb|asomándosar-Ger-S cconj|y det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|7|ROOT 2|3|DET 3|1|NSUBJ 4|1|ADVCL 5|7|CC 6|7|DET 7|4|CONJ 8|1|PUNCT
+@G:	04
+*CHI:	está el niño mirando si está metida en la bota .
+%mor:	verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|niño-Masc verb|mirar-Ger-S sconj|si aux|estar-Fin-Ind-Pres-S3 adj|metido-Pos-S1 adp|en det|el-Fem-Def-Art noun|bota-Fem .
+%gra:	1|10|ROOT 2|3|DET 3|1|NSUBJ 4|1|ADVCL 5|7|MARK 6|7|COP 7|4|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|1|PUNCT
+*CHI:	y la otra bota está (.) en el suelo .
+%mor:	cconj|y det|el-Fem-Def-Art det|otro-Fem-Def-Ind noun|bota-Fem verb|estar-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art noun|suelo-Masc .
+%gra:	1|5|ADVMOD 2|4|DET 3|2|DET 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*CHI:	y hay un (.) está el frasco al la(d)o de la cama .
+%mor:	cconj|y verb|haber-Fin-Ind-Pres-S3 pron|uno-Ind-S1 verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|frasco-Masc det|al-Masc-Def-Art noun|lado adp|de det|el-Fem-Def-Art noun|cama-Fem .
+%gra:	1|2|ADVMOD 2|11|ROOT 3|2|OBJ 4|2|CCOMP 5|6|DET 6|2|NSUBJ 7|11|CASE 8|7|FIXED 9|7|FIXED 10|11|DET 11|2|OBL 12|2|PUNCT
+*CHI:	está la banqueta tumbada .
+%mor:	verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|banqueta-Fem adj|tumbado-Pos-S1 .
+%gra:	1|3|COP 2|3|DET 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+*CHI:	y está una camisa de la cama y unos pantalones también .
+%mor:	cconj|y verb|estar-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|camisa-Fem adp|de det|el-Fem-Def-Art noun|cama-Fem cconj|y det|uno-Masc-Ind-Art noun|pantalón-Masc-Plur adv|también .
+%gra:	1|2|ADVMOD 2|11|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|CC 9|10|DET 10|4|CONJ 11|10|ADVMOD 12|2|PUNCT
+@G:	05
+*CHI:	está el niño asomándose y el perro está con el frasco metido en la cabeza .
+%mor:	verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|niño-Masc verb|asomándosar-Ger-S cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|estar-Fin-Ind-Pres-S3 adp|con det|el-Masc-Def-Art noun|frasco-Masc adj|meter-Pos-S1 adp|en det|el-Fem-Def-Art noun|cabeza-Fem .
+%gra:	1|15|ROOT 2|3|DET 3|1|NSUBJ 4|1|ADVCL 5|8|CC 6|7|DET 7|8|NSUBJ 8|1|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|11|AMOD 13|15|CASE 14|15|DET 15|12|OBL 16|1|PUNCT
+@G:	06
+*CHI:	el niño se está asomando por la ventana .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|asomar-Ger-S adp|por det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|EXPL-PV 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*CHI:	y el perro se ha caído con el frasco .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|caer-Part-Past-S adp|con det|el-Masc-Def-Art noun|frasco-Masc .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|EXPL-PV 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*CHI:	hay unas plantas .
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|planta-Fem-Plur .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+@G:	07
+*CHI:	y ahora el niño , (.) eh: (.) le ha saca(d)o (.) eh está (.) está chupándole al niño el perro .
+%mor:	cconj|y adv|ahora det|el-Masc-Def-Art noun|niño-Masc cm|cm intj|eh pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Pres-S3 verb|sacar-Part-Past-S intj|eh verb|estar-Fin-Ind-Pres-S3 aux|estar-Fin-Ind-Pres-S3 verb|chupándolar-Ger-S det|al-Masc-Def-Art noun|niño-Masc det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|13|ADVMOD 2|13|ADVMOD 3|4|DET 4|13|NSUBJ 5|9|PUNCT 6|9|ADVMOD 7|9|OBJ 8|9|AUX 9|13|ADVCL 10|9|OBJ 11|13|AUX 12|13|AUX 13|17|ROOT 14|15|DET 15|13|OBJ 16|17|DET 17|13|OBJ 18|13|PUNCT
+@G:	08
+*CHI:	hay unas avispas .
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|avispa-Fem-Plur .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	el perro está levantada la cabeza .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 adj|levantado-Pos-S1 det|el-Fem-Def-Art noun|cabeza-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	el niño está soplando .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|soplar-Ger-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*CHI:	hay muchos árboles .
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|mucho-Masc-Def-Ind noun|árbol-Masc-Plur .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	ahí hacen miel .
+%mor:	adv|ahí verb|hacer-Fin-Ind-Pres-P3 noun|miel-Fem .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+@G:	09
+*CHI:	el niño se ha encontra(d)o un agujero , y el perro levantando (.) levantándose .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|encontrar-Part-Past-S det|uno-Masc-Ind-Art noun|agujero-Masc cm|cm cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|levantar-Ger-S verb|levantándosar-Ger-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|EXPL-PV 4|5|AUX 5|13|ROOT 6|7|DET 7|5|OBJ 8|11|PUNCT 9|11|CC 10|11|DET 11|5|CONJ 12|11|ACL 13|12|XCOMP 14|5|PUNCT
+@G:	10
+*CHI:	y ha salido un ratón y el niño está soplando otra vez .
+%mor:	cconj|y aux|haber-Fin-Ind-Pres-S3 verb|salir-Part-Past-S det|uno-Masc-Ind-Art noun|ratón-Masc cconj|y det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|soplar-Ger-S det|otro-Fem-Def-Ind noun|vez-Fem .
+%gra:	1|3|ADVMOD 2|3|AUX 3|12|ROOT 4|5|DET 5|3|NSUBJ 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|AUX 10|3|CONJ 11|12|DET 12|10|OBL 13|3|PUNCT
+@G:	11
+*CHI:	el perro es (.) está arañando el árbol y las avispas saliendo .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc aux|ser-Fin-Ind-Pres-S3 aux|estar-Fin-Ind-Pres-S3 verb|arañar-Ger-S det|el-Masc-Def-Art noun|árbol-Masc cconj|y det|el-Fem-Def-Art noun|avispa-Fem-Plur verb|salir-Ger-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|11|ROOT 6|7|DET 7|5|OBJ 8|10|CC 9|10|DET 10|7|CONJ 11|5|ADVCL 12|5|PUNCT
+*CHI:	hay muchas avispas .
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|mucho-Fem-Def-Ind noun|avispa-Fem-Plur .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	se ha caído donde hacen miel .
+%mor:	pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|caer-Part-Past-S adv|donde verb|hacer-Fin-Ind-Pres-P3 noun|miel-Fem .
+%gra:	1|3|EXPL-PV 2|3|AUX 3|6|ROOT 4|5|ADVMOD 5|3|ADVCL 6|5|OBJ 7|3|PUNCT
+*CHI:	y está el ratón .
+%mor:	cconj|y verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|ratón-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	y hay árboles .
+%mor:	cconj|y verb|haber-Fin-Ind-Pres-S3 noun|árbol-Masc-Plur .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+@G:	12
+*CHI:	está el niño subiéndose en el árbol .
+%mor:	verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|niño-Masc verb|subendosar-Ger-S adp|en det|el-Masc-Def-Art noun|árbol-Masc .
+%gra:	1|7|ROOT 2|3|DET 3|1|NSUBJ 4|1|ADVCL 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+*CHI:	se ha caído y hay un búho .
+%mor:	pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|caer-Part-Past-S cconj|y verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|búho-Masc .
+%gra:	1|3|EXPL-PV 2|3|AUX 3|7|ROOT 4|5|CC 5|3|CONJ 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	y el búho está en (.) en el árbol .
+%mor:	cconj|y det|el-Masc-Def-Art noun|búho-Masc verb|estar-Fin-Ind-Pres-S3 adp|en adp|en det|el-Masc-Def-Art noun|árbol-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	y el perro está corriendo .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 verb|correr-Ger-S .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	y (.) y (.) y hay un árbol .
+%mor:	cconj|y cconj|y cconj|y verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|árbol-Masc .
+%gra:	1|4|ADVMOD 2|4|CC 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	y las avispas la está cogiendo .
+%mor:	cconj|y det|el-Fem-Def-Art noun|avispa-Fem-Plur pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|coger-Ger-S .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|OBJ 5|6|AUX 6|6|ROOT 7|6|PUNCT
+@G:	13
+*CHI:	hay una roca al la(d)o del niño con el búho .
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|roca-Fem det|al-Masc-Def-Art noun|lado-Masc adp|del noun|niño-Masc adp|con det|el-Masc-Def-Art noun|búho-Masc .
+%gra:	1|10|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|7|CASE 7|5|NMOD 8|10|CASE 9|10|DET 10|1|OBL 11|1|PUNCT
+*CHI:	hay plantas al la(d)o de la roca .
+%mor:	verb|haber-Fin-Ind-Pres-S3 noun|planta-Fem-Plur adp|al noun|lado adp|de det|el-Fem-Def-Art noun|roca-Fem .
+%gra:	1|7|ROOT 2|1|OBJ 3|7|CASE 4|3|FIXED 5|3|FIXED 6|7|DET 7|1|OBL 8|1|PUNCT
+@G:	14
+*CHI:	se ha subido el niño en la roca .
+%mor:	pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|subir-Part-Past-S det|el-Masc-Def-Art noun|niño-Masc adp|en det|el-Fem-Def-Art noun|roca-Fem .
+%gra:	1|3|EXPL-PASS 2|3|AUX 3|8|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*CHI:	y se (.) en las plantas .
+%mor:	cconj|y pron|él-Prs-Acc-S3 adp|en det|el-Fem-Def-Art noun|planta-Fem-Plur .
+%gra:	1|5|CC 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*CHI:	y hay un búho escondido .
+%mor:	cconj|y verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|búho-Masc adj|escondido-Pos-S1 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|DET 4|2|OBJ 5|4|AMOD 6|2|PUNCT
+@G:	15
+*CHI:	y hay un animal cogiendo al niño .
+%mor:	cconj|y verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|animal-Masc verb|coger-Ger-S det|al-Masc-Def-Art noun|niño-Masc .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|DET 4|2|OBJ 5|2|ADVCL 6|7|DET 7|5|OBJ 8|2|PUNCT
+*CHI:	el búho está ahí , las avispas están ahí .
+%mor:	det|el-Masc-Def-Art noun|búho-Masc verb|estar-Fin-Ind-Pres-S3 adv|ahí cm|cm det|el-Fem-Def-Art noun|avispa-Fem-Plur aux|estar-Fin-Ind-Pres-P3 adv|ahí .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|3|ADVMOD 5|3|PUNCT 6|7|DET 7|8|NSUBJ 8|3|ADVCL 9|8|ADVMOD 10|3|PUNCT
+*CHI:	y el perro , el perro está al la(d)o de las rocas .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc cm|cm det|el-Masc-Def-Art noun|perro-Masc verb|estar-Fin-Ind-Pres-S3 adp|al noun|lado adp|de det|el-Fem-Def-Art noun|roca-Fem-Plur .
+%gra:	1|12|ADVMOD 2|3|DET 3|12|NSUBJ 4|3|PUNCT 5|6|DET 6|12|NSUBJ 7|12|COP 8|12|CASE 9|8|FIXED 10|8|FIXED 11|12|DET 12|12|ROOT 13|12|PUNCT
+@G:	16
+*CHI:	y le ha agarra(d)o el animal .
+%mor:	cconj|y pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Pres-S3 verb|agarrar-Part-Past-S det|el-Masc-Def-Art noun|animal-Masc .
+%gra:	1|4|ADVMOD 2|4|OBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	y el primero va el , el perro .
+%mor:	cconj|y det|el-Masc-Def-Art adj|primero-Pos-S1 verb|ir-Fin-Ind-Pres-S3 det|el-Masc-Def-Art cm|cm det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|DET 6|8|PUNCT 7|8|DET 8|4|OBJ 9|4|PUNCT
+@G:	17
+*CHI:	se ha caído con el perro el niño .
+%mor:	pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|caer-Part-Past-S adp|con det|el-Masc-Def-Art noun|perro-Masc det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|3|EXPL-PV 2|3|AUX 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|DET 8|3|NSUBJ 9|3|PUNCT
+*CHI:	y hay árboles con avispas .
+%mor:	cconj|y verb|haber-Fin-Ind-Pres-S3 noun|árbol-Masc-Plur adp|con noun|avispa-Fem-Plur .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|2|PUNCT
+@G:	18
+*CHI:	y el niño se ha caído al agua , y el (.) y el perro también .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|caer-Part-Past-S det|al-Masc-Def-Art noun|agua-Fem cm|cm cconj|y det|el-Masc-Def-Art cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|también .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|EXPL-PV 5|6|AUX 6|15|ROOT 7|8|CASE 8|6|OBL 9|14|PUNCT 10|14|CC 11|6|CONJ 12|13|CC 13|14|DET 14|11|CONJ 15|14|ADVMOD 16|6|PUNCT
+*CHI:	hay césped .
+%mor:	verb|haber-Fin-Ind-Pres-S3 noun|césped-Masc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	y el animal está subido .
+%mor:	cconj|y det|el-Masc-Def-Art noun|animal-Masc aux|estar-Fin-Ind-Pres-S3 adj|subido-Pos-S1 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*CHI:	hay plantas y hay donde se suben las ranas .
+%mor:	verb|haber-Fin-Ind-Pres-S3 noun|planta-Fem-Plur cconj|y verb|haber-Fin-Ind-Pres-S3 adv|donde pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Pres-P3 det|el-Fem-Def-Art noun|rana-Fem-Plur .
+%gra:	1|9|ROOT 2|1|OBJ 3|4|CC 4|1|CONJ 5|7|ADVMOD 6|7|EXPL-PASS 7|4|CCOMP 8|9|DET 9|7|NSUBJ 10|1|PUNCT
+@G:	19
+*CHI:	Esta el perro subiéndose en el niño .
+%mor:	pron|este-Dem-S1 det|el-Masc-Def-Art noun|perro-Masc verb|subendosar-Ger-S adp|en det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|4|NSUBJ 2|3|DET 3|1|APPOS 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	y el niño está en el agua .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc verb|estar-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art noun|agua-Fem .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	hay un agujero con un tronco , hay plantas .
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|agujero-Masc adp|con det|uno-Masc-Ind-Art noun|tronco-Masc cm|cm verb|haber-Fin-Ind-Pres-S3 noun|planta-Fem-Plur .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT 8|1|ADVCL 9|8|OBJ 10|1|PUNCT
+*CHI:	está donde hacen las ranas .
+%mor:	verb|estar-Fin-Ind-Pres-S3 adv|donde verb|hacer-Fin-Ind-Pres-P3 det|el-Fem-Def-Art noun|rana-Fem-Plur .
+%gra:	1|5|ROOT 2|3|ADVMOD 3|1|CCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+@G:	20
+*CHI:	el niño está , está tocando el tronco y el perro está nadando .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|estar-Fin-Ind-Pres-S3 cm|cm aux|estar-Fin-Ind-Pres-S3 verb|tocar-Ger-S det|el-Masc-Def-Art noun|tronco-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 verb|nadar-Ger-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|13|ROOT 4|6|PUNCT 5|6|AUX 6|3|ADVCL 7|8|DET 8|6|OBJ 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|AUX 13|3|CONJ 14|3|PUNCT
+*CHI:	y (.) hay plantas .
+%mor:	cconj|y verb|haber-Fin-Ind-Pres-S3 noun|planta-Fem-Plur .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	se ve césped .
+%mor:	pron|él-Prs-Acc-S3 verb|ver-Fin-Ind-Pres-S3 noun|césped-Masc .
+%gra:	1|2|EXPL-PV 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+@G:	21
+*CHI:	y después el niño se ha subido al tronco .
+%mor:	cconj|y adv|después det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|subir-Part-Past-S det|al-Masc-Def-Art noun|tronco-Masc .
+%gra:	1|7|ADVMOD 2|7|ADVMOD 3|4|DET 4|7|NSUBJ 5|7|EXPL-PV 6|7|AUX 7|9|ROOT 8|9|DET 9|7|OBL 10|7|PUNCT
+*CHI:	y el perro también , y está al la(d)o una planta .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|también cm|cm cconj|y verb|estar-Fin-Ind-Pres-S3 adp|al noun|lado det|uno-Fem-Ind-Art noun|planta-Fem .
+%gra:	1|3|CC 2|3|DET 3|11|ROOT 4|3|ADVMOD 5|7|PUNCT 6|7|CC 7|3|CONJ 8|7|ADVMOD 9|8|FIXED 10|11|DET 11|7|NSUBJ 12|3|PUNCT
+*CHI:	el agua está al la(d)o también y el césped .
+%mor:	det|el-Masc-Def-Art noun|agua-Fem verb|estar-Fin-Ind-Pres-S3 det|al-Masc-Def-Art noun|lado-Masc adv|también cconj|y det|el-Masc-Def-Art noun|césped-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBL 6|5|ADVMOD 7|9|CC 8|9|DET 9|5|CONJ 10|3|PUNCT
+@G:	22
+*CHI:	hay dos ranas que las ha visto el perro .
+%mor:	verb|haber-Fin-Ind-Pres-S3 num|dos noun|rana-Fem-Plur pron|que-Rel-S1 pron|él-Prs-Acc-P3 aux|haber-Fin-Ind-Pres-S3 verb|ver-Part-Past-S det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|9|ROOT 2|3|NUMMOD 3|1|OBJ 4|7|NSUBJ 5|7|OBJ 6|7|AUX 7|3|ACL 8|9|DET 9|7|NSUBJ 10|1|PUNCT
+*CHI:	después el niño .
+%mor:	adv|después det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	y aún están en el tronco con plantas .
+%mor:	cconj|y adv|aún verb|estar-Fin-Ind-Pres-P3 adp|en det|el-Masc-Def-Art noun|tronco-Masc adp|con noun|planta-Fem-Plur .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+*CHI:	y está la montaña esa donde está el animal .
+%mor:	cconj|y verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|montaña-Fem pron|ese-Dem-S1 adv|donde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|animal-Masc .
+%gra:	1|2|ADVMOD 2|9|ROOT 3|4|DET 4|2|NSUBJ 5|4|APPOS 6|7|ADVMOD 7|4|ACL 8|9|DET 9|7|NSUBJ 10|2|PUNCT
+@G:	23
+*CHI:	hay más ranas y el niño las está viendo y el perro también .
+%mor:	verb|haber-Fin-Ind-Pres-S3 adv|más noun|rana-Fem-Plur cconj|y det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-P3 aux|estar-Fin-Ind-Pres-S3 verb|ver-Ger-S cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|también .
+%gra:	1|13|ROOT 2|3|ADVMOD 3|1|OBJ 4|9|CC 5|6|DET 6|9|NSUBJ 7|9|OBJ 8|9|AUX 9|1|CONJ 10|12|CC 11|12|DET 12|9|CONJ 13|12|ADVMOD 14|1|PUNCT
+*CHI:	están en el tronco y están viendo las plantas .
+%mor:	verb|estar-Fin-Ind-Pres-P3 adp|en det|el-Masc-Def-Art noun|tronco-Masc cconj|y aux|estar-Fin-Ind-Pres-P3 verb|ver-Ger-S det|el-Fem-Def-Art noun|planta-Fem-Plur .
+%gra:	1|9|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|7|CC 6|7|AUX 7|1|CONJ 8|9|DET 9|7|OBJ 10|1|PUNCT
+@G:	24
+*CHI:	se han tira(d)o al agua con una rana y el perro está nadando .
+%mor:	pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-P3 verb|tirar-Part-Past-S det|al-Masc-Def-Art noun|agua-Fem adp|con det|uno-Fem-Ind-Art noun|rana-Fem cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 verb|nadar-Ger-S .
+%gra:	1|3|EXPL-PV 2|3|AUX 3|13|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|AUX 13|3|CONJ 14|3|PUNCT
+*CHI:	y las demás ranas están ahí en el tronco .
+%mor:	cconj|y det|el-Fem-Def-Art det|demás-Def-Ind noun|rana-Fem-Plur aux|estar-Fin-Ind-Pres-P3 adv|ahí adp|en det|el-Masc-Def-Art noun|tronco-Masc .
+%gra:	1|5|ADVMOD 2|4|DET 3|2|DET 4|5|NSUBJ 5|9|ROOT 6|5|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*CHI:	y están donde saltan las ranas .
+%mor:	cconj|y aux|estar-Fin-Ind-Pres-P3 adv|donde verb|saltar-Fin-Ind-Pres-P3 det|el-Fem-Def-Art noun|rana-Fem-Plur .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|4|ADVMOD 4|2|CCOMP 5|6|DET 6|4|NSUBJ 7|2|PUNCT
+*CHI:	y están plantas , el césped .
+%mor:	cconj|y verb|estar-Fin-Ind-Pres-P3 noun|planta-Fem-Plur cm|cm det|el-Masc-Def-Art noun|césped-Masc .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|NSUBJ 4|6|PUNCT 5|6|DET 6|3|APPOS 7|2|PUNCT
+*CHI:	termina .
+%mor:	verb|terminar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End
