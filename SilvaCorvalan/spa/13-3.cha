@@ -1,0 +1,1213 @@
+@UTF8
+@PID:	11312/c-00040419-1
+@Begin
+@Languages:	spa, eng
+@Participants:	MAR Investigator, CHI Target_Child
+@ID:	spa, eng|SilvaCorvalan|MAR|||||Investigator|||
+@ID:	spa, eng|SilvaCorvalan|CHI|6;00.|female|||Target_Child|||
+@Types:	cross, narrative, biling
+*MAR:	ah [!] qué bien !
+%mor:	intj|ah det|qué-Def-Int adv|bien !
+%gra:	1|3|DEP 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MAR:	(.) sabe qué señor ?
+%mor:	verb|saber-Fin-Ind-Pres-S3 det|qué-Def-Int noun|señor-Masc-Acc ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	qué ?
+%mor:	pron|qué-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	(.) hay un edificio que se está cayendo porque el terremoto usted entiende ?
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|edificio-Masc-Acc pron|que-Rel-S1 pron|él-Prs-Acc-reflx-S3 aux|estar-Fin-Ind-Pres-S3 verb|caer-Ger-S sconj|porque det|el-Masc-Def-Art-Sing noun|terremoto-Masc pron|tú-Prs-AccNom-S2 verb|entender-Fin-Ind-Pres-S3 ?
+%gra:	1|12|ROOT 2|3|DET 3|1|OBJ 4|7|MARK 5|7|EXPL-PV 6|7|AUX 7|3|ACL-RELCL 8|12|MARK 9|10|DET 10|12|NSUBJ 11|12|NSUBJ 12|7|ADVCL 13|1|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	y (.) tenemos que ir a componerlo me podría ayudar ahora ?
+%mor:	cconj|y verb|tener-Fin-Ind-Pres-P1 sconj|que verb|ir-Inf-S adp|a verb|componerlo-Inf-S pron|yo-Prs-Dat-S1 aux|poder-Fin-Cnd-S3 verb|ayudar-Inf-S adv|ahora ?
+%gra:	1|2|CC 2|10|ROOT 3|9|CC 4|9|XCOMP 5|6|MARK 6|4|XCOMP 7|9|EXPL-PV 8|9|AUX 9|2|XCOMP 10|9|ADVMOD 11|2|PUNCT
+*CHI:	<sí> [/] sí cómo que no .
+%mor:	intj|sí pron|cómo-Ind-S1 sconj|que adv|no .
+%gra:	1|2|ADVCL 2|4|ROOT 3|4|MARK 4|2|ADVMOD 5|2|PUNCT
+*MAR:	<y> [/] y usted tiene <un un> [/] un coche donde podamos ir allá <y y> [/] y ir a construirlo ?
+%mor:	cconj|y pron|tú-Prs-AccNom-S2 verb|tener-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|coche-Masc-Acc adv|donde aux|poder-Fin-Sub-Pres-P1 verb|ir-Inf-S adv|allá cconj|y verb|ir-Inf-S adp|a verb|construir-Inf-S ?
+%gra:	1|3|CC 2|3|NSUBJ 3|13|ROOT 4|5|DET 5|3|OBJ 6|8|ADVMOD 7|8|AUX 8|5|ACL-RELCL 9|8|ADVMOD 10|11|CC 11|8|CONJ 12|13|MARK 13|11|XCOMP 14|3|PUNCT
+*CHI:	ah [!] no (.) yo no creo .
+%mor:	intj|ah adv|no pron|yo-Prs-Nom-S1 adv|no verb|creer-Fin-Ind-Pres-S1 .
+%gra:	1|5|DEP 2|1|ADVMOD 3|5|NSUBJ 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*MAR:	qué ?
+%mor:	pron|qué-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yo no creo porque (.) ya no sirve .
+%mor:	pron|yo-Prs-Nom-S1 adv|no verb|creer-Fin-Ind-Pres-S1 sconj|porque adv|ya adv|no verb|servir-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|7|ROOT 4|7|MARK 5|7|ADVMOD 6|7|ADVMOD 7|3|ADVCL 8|3|PUNCT
+*MAR:	ya no sirve y lo podríamos componer ?
+%mor:	adv|ya adv|no verb|servir-Fin-Ind-Pres-S3 cconj|y pron|él-Prs-Acc-S3 aux|poder-Fin-Cnd-P1 verb|componer-Inf-S ?
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|7|ROOT 4|7|CC 5|7|OBJ 6|7|AUX 7|3|CONJ 8|3|PUNCT
+*MAR:	porque es muy urgente de que vayamos allá al edificio .
+%mor:	sconj|porque aux|ser-Fin-Ind-Pres-S3 adv|mucho adj|urgente-S1 adp|de sconj|que verb|vayar-Fin-Sub-Pres-P1 adv|allá adp|al noun|edificio-Masc .
+%gra:	1|4|MARK 2|4|COP 3|4|ADVMOD 4|10|ROOT 5|7|MARK 6|7|MARK 7|4|ACL 8|7|ADVMOD 9|10|CASE 10|7|OBL 11|4|PUNCT
+*CHI:	oh [!] yo creo .
+%mor:	intj|oh pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 .
+%gra:	1|3|DEP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MAR:	ah [!] entonces (.) <qué> [/] qué debo hacer ?
+%mor:	intj|ah adv|entonces pron|qué-Int-S1 aux|deber-Fin-Ind-Pres-S1 verb|hacer-Inf-S ?
+%gra:	1|5|DEP 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*MAR:	dígame cómo le ayudo ?
+%mor:	verb|dígamir-Fin-Ind-Pres-S3 pron|cómo-Ind-S1 pron|él-Prs-Dat-S3 verb|ayudo-Fin-Ind-Pres-S1 ?
+%gra:	1|4|ROOT 2|4|OBL 3|4|OBL-ARG 4|1|CCOMP 5|1|PUNCT
+*MAR:	porque yo le quiero ayudar a componer ese (.) coche .
+%mor:	sconj|porque pron|yo-Prs-Nom-S1 pron|él-Prs-Dat-S3 verb|querer-Fin-Ind-Pres-S1 verb|ayudar-Inf-S adp|a verb|componer-Inf-S det|ese-Masc-Def-Dem-Sing noun|coche-Masc-Acc .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|OBL-ARG 4|9|ROOT 5|4|XCOMP 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|4|PUNCT
+*CHI:	bueno yo creo que me puede ayudar porque necesito .
+%mor:	adj|buen-S1 pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que pron|yo-Prs-Dat-S1 aux|poder-Fin-Ind-Pres-S3 verb|ayudar-Inf-S sconj|porque verb|necesitar-Fin-Ind-Pres-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|9|ROOT 4|7|MARK 5|7|OBL-ARG 6|7|AUX 7|3|CCOMP 8|9|MARK 9|7|ADVCL 10|3|PUNCT
+*MAR:	ah [!] bueno entonces yo le ayudo (.) usted dígame cómo okay ?
+%mor:	adv|ah adj|buen-S1 adv|entonces pron|yo-Prs-Nom-S1 pron|él-Prs-Dat-S3 verb|ayudo-Fin-Ind-Pres-S1 pron|tú-Prs-AccNom-S2 verb|dígamir-Fin-Ind-Pres-S3 pron|cómo-Ind-S1 noun|okay ?
+%gra:	1|2|ADVMOD 2|6|ADVCL 3|6|ADVMOD 4|6|NSUBJ 5|6|OBL-ARG 6|10|ROOT 7|6|NSUBJ 8|6|CCOMP 9|10|ADVMOD 10|8|OBL 11|6|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	usted (.) pero se va a ensuciar su ropita .
+%mor:	pron|tú-Prs-AccNom-S2 cconj|pero pron|él-Prs-Acc-reflx-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|ensuciar-Inf-S det|su-Def-Prs-Sing noun|ropita-Fem-Acc .
+%gra:	1|4|NSUBJ 2|4|CC 3|4|EXPL-PV 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*MAR:	a qué ?
+%mor:	adp|a pron|qué-Int-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	se que se va a ensuciar su ropa .
+%mor:	pron|él-Prs-Acc-reflx-S3 sconj|que pron|él-Prs-Acc-reflx-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|ensuciar-Inf-S det|su-Def-Prs-Sing noun|ropa-Fem-Acc .
+%gra:	1|4|EXPL-PV 2|4|MARK 3|4|EXPL-PV 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*MAR:	no importa que me ensucie (.) ya me limpiaré .
+%mor:	adv|no verb|importar-Fin-Ind-Pres-S3 sconj|que pron|yo-Prs-Dat-S1 verb|ensucir-Fin-Sub-Pres-S3 adv|ya pron|yo-Prs-Dat-S1 verb|limpiar-Fin-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|5|MARK 4|5|OBL-ARG 5|2|CSUBJ 6|8|ADVMOD 7|8|OBJ 8|2|CCOMP 9|2|PUNCT
+*CHI:	bueno (.) pero no hay baños .
+%mor:	adj|buen-S1 cconj|pero adv|no verb|haber-Fin-Ind-Pres-S3 noun|baño-Masc-Plur-Acc .
+%gra:	1|5|ROOT 2|4|CC 3|4|ADVMOD 4|1|CONJ 5|4|OBJ 6|1|PUNCT
+*MAR:	no hay baños ?
+%mor:	adv|no verb|haber-Fin-Ind-Pres-S3 noun|baño-Masc-Plur-Acc ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	entonces cómo me voy a limpiar .
+%mor:	adv|entonces pron|cómo-Ind-S1 pron|yo-Prs-Dat-S1 verb|ir-Fin-Ind-Pres-S1 adp|a verb|limpiar-Inf-S .
+%gra:	1|4|ADVMOD 2|4|OBL 3|6|OBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CHI:	no me ayude pues .
+%mor:	adv|no pron|yo-Prs-Dat-S1 verb|ayudar-Fin-Sub-Pres-S3 sconj|pues .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+*MAR:	bueno (.) entonces le mando un trabajador mío (.) está bien ?
+%mor:	adj|buen-S1 adv|entonces pron|él-Prs-Dat-S3 verb|mandar-Fin-Ind-Pres-S1 det|uno-Masc-Ind-Art-Sing noun|trabajador-Masc-Acc adj|mío-S1 aux|estar-Fin-Ind-Pres-S3 adv|bien ?
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBL-ARG 4|9|ROOT 5|6|DET 6|4|OBJ 7|6|AMOD 8|9|COP 9|4|ADVMOD 10|4|PUNCT
+*CHI:	éste va a ser .
+%mor:	pron|este-Dem-S1 verb|ir-Fin-Ind-Pres-S3 adp|a aux|ser-Inf-S .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*MAR:	bueno bueno .
+%mor:	adj|buen-S1 adj|buen-S1 .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MAR:	usted se va a llamar Maira okay ?
+%mor:	pron|tú-Prs-AccNom-S2 pron|él-Prs-Acc-reflx-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|llamar-Inf-S propn|maira-Acc propn|okay ?
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|6|FLAT 8|3|PUNCT
+*MAR:	y él cómo se llama ?
+%mor:	cconj|y pron|él-Prs-AccNom-S3 pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 ?
+%gra:	1|5|CC 2|5|NSUBJ 3|5|OBL 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*MAR:	(.) Ramón .
+%mor:	propn|ramón .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	buenos días señor Ramón (.) la señora (.) Maira me envió aquí me dice de que (.) hay <un edificio> [/] un edificio que está (.) que fue derrumbado por el terremoto (.) yo le podría ayudar a componer el carro .
+%mor:	adj|buen-P1 noun|día-Masc-Plur noun|señor-Masc propn|ramón det|el-Fem-Def-Art-Sing noun|señora-Fem propn|maira pron|yo-Prs-Dat-S1 verb|enviar-Fin-Ind-Past-S3 adv|aquí pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 adp|de sconj|que verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|edificio-Masc-Acc pron|que-Rel-S1 aux|estar-Fin-Ind-Pres-S3 pron|que-Rel-S1 aux|ser-Fin-Ind-Past-S3 verb|derrumbar-Part-Past-S adp|por det|el-Masc-Def-Art-Sing noun|terremoto-Masc pron|yo-Prs-Nom-S1 pron|él-Prs-Dat-S3 aux|poder-Fin-Cnd-S3 verb|ayudar-Inf-S adp|a verb|componer-Inf-S det|el-Masc-Def-Art-Sing noun|carro-Masc-Acc .
+%gra:	1|2|AMOD 2|9|OBL 3|9|NSUBJ 4|3|APPOS 5|6|DET 6|9|NSUBJ 7|6|APPOS 8|9|EXPL-PV 9|33|ROOT 10|9|ADVMOD 11|12|EXPL-PV 12|9|CONJ 13|15|MARK 14|15|MARK 15|12|CCOMP 16|17|DET 17|15|OBJ 18|19|MARK 19|17|ACL-RELCL 20|22|NSUBJ-PASS 21|22|AUX-PASS 22|17|ACL-RELCL 23|25|CASE 24|25|DET 25|22|OBL-AGENT 26|29|NSUBJ 27|29|OBL-ARG 28|29|AUX 29|15|ADVCL 30|31|MARK 31|29|XCOMP 32|33|DET 33|31|OBJ 34|9|PUNCT
+*CHI:	xxx .
+*MAR:	podríamos ir ?
+%mor:	aux|poder-Fin-Cnd-P1 verb|ir-Inf-S ?
+%gra:	1|2|AUX 2|2|ROOT 3|2|PUNCT
+*MAR:	(.) a qué quiere que le ayude ?
+%mor:	adp|a pron|qué-Int-S1 verb|querer-Fin-Ind-Pres-S3 sconj|que pron|él-Prs-Dat-S3 verb|ayudar-Fin-Sub-Pres-S3 ?
+%gra:	1|2|CASE 2|3|OBL-ARG 3|6|ROOT 4|6|MARK 5|6|OBL-ARG 6|3|CCOMP 7|3|PUNCT
+*CHI:	(.) a arreglarme mi carro .
+%mor:	adp|a verb|arreglar-Inf-S det|mi-Def-Prs-Sing-S noun|carro-Masc-Acc .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MAR:	está bien .
+%mor:	aux|estar-Fin-Ind-Pres-S3 adv|bien .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MAR:	usted dígame dónde y cómo y (.) para allá vamos .
+%mor:	pron|tú-Prs-AccNom-S2 verb|dígamir-Fin-Ind-Pres-S3 adv|dónde cconj|y pron|cómo-Ind-S1 cconj|y adp|para adv|allá verb|ir-Fin-Ind-Pres-P1 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|ADVMOD 4|9|CC 5|9|OBL 6|9|CC 7|8|CASE 8|9|ADVMOD 9|2|CONJ 10|2|PUNCT
+*CHI:	bueno (.) no yo creo que me puede ayudar a (.) bueno (.) a lo que quiera .
+%mor:	adj|buen-S1 adv|no pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que pron|yo-Prs-Dat-S1 aux|poder-Fin-Ind-Pres-S3 verb|ayudar-Inf-S adp|a adj|buen-S1 adp|a pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|querer-Fin-Sub-Pres-S3 .
+%gra:	1|4|AMOD 2|1|ADVMOD 3|4|NSUBJ 4|14|ROOT 5|8|MARK 6|8|OBL-ARG 7|8|AUX 8|4|CCOMP 9|10|CASE 10|8|OBJ 11|14|MARK 12|14|DET 13|14|MARK 14|8|ADVCL 15|4|PUNCT
+*MAR:	bueno está bien que éste era el carro .
+%mor:	adj|buen-S1 aux|estar-Fin-Ind-Pres-S3 adv|bien sconj|que pron|este-Dem-S1 aux|ser-Fin-Ind-Imp-S3 det|el-Masc-Def-Art-Sing noun|carro-Masc .
+%gra:	1|2|AMOD 2|3|COP 3|8|ROOT 4|8|MARK 5|8|NSUBJ 6|8|COP 7|8|DET 8|3|CSUBJ 9|3|PUNCT
+*MAR:	hay que componer este carro .
+%mor:	verb|haber-Fin-Ind-Pres-S3 sconj|que verb|componer-Inf-S det|este-Masc-Def-Dem-Sing noun|carro-Masc-Acc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	ah [!] .
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	ay [!] se golpeó ?
+%mor:	propn|ay pron|él-Prs-Acc-reflx-S3 verb|golpear-Fin-Ind-Past-S3 ?
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*MAR:	se golpeó ?
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|golpear-Fin-Ind-Past-S3 ?
+%gra:	1|2|EXPL-PV 2|2|ROOT 3|2|PUNCT
+*MAR:	qué le pasa ?
+%mor:	pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|pasar-Fin-Ind-Pres-S3 ?
+%gra:	1|3|NSUBJ 2|3|OBL-ARG 3|3|ROOT 4|3|PUNCT
+*MAR:	se quebró un pie una pierna ?
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|quebrar-Fin-Ind-Past-S3 det|uno-Masc-Ind-Art-Sing noun|pie-Masc-Acc det|uno-Fem-Ind-Art-Sing noun|pierna-Fem ?
+%gra:	1|2|EXPL-PV 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|DET 6|2|NSUBJ 7|2|PUNCT
+*CHI:	ah [!] me cansé .
+%mor:	intj|ah pron|yo-Prs-Dat-S1 verb|cansé-Fin-Ind-Past-S1 .
+%gra:	1|3|DEP 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*MAR:	ah .
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	yo pensé que se había quebrado una pierna .
+%mor:	pron|yo-Prs-Nom-S1 verb|pensar-Fin-Ind-Past-S1 sconj|que pron|él-Prs-Acc-reflx-S3 aux|haber-Fin-Ind-Imp-S3 verb|quebrado-Part-Past-S det|uno-Fem-Ind-Art-Sing noun|pierna-Fem .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|6|MARK 4|6|EXPL-PV 5|6|AUX 6|2|CCOMP 7|8|DET 8|6|NSUBJ 9|2|PUNCT
+*MAR:	bueno bueno hay que continuar ay [!!] .
+%mor:	adj|buen-S1 adj|buen-S1 verb|haber-Fin-Ind-Pres-S3 sconj|que verb|continuar-Inf-S x|ay .
+%gra:	1|2|AMOD 2|3|XCOMP 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	se golpeó ?
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|golpear-Fin-Ind-Past-S3 ?
+%gra:	1|2|EXPL-PV 2|2|ROOT 3|2|PUNCT
+*MAR:	sí necesito un doctor (.) por favor +/.
+%mor:	intj|sí verb|necesitar-Fin-Ind-Pres-S1 det|uno-Masc-Ind-Art-Sing noun|doctor-Masc-Acc adp|por noun|favor-Masc +/.
+%gra:	1|2|ADVCL 2|6|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|5|FIXED 7|2|PUNCT
+*CHI:	señorita .
+%mor:	noun|señorita-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	+, llame al doctor ahí está el teléfono .
+%mor:	verb|llame-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|doctor-Masc-Acc adv|ahí verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|teléfono-Masc .
+%gra:	1|5|ADVCL 2|3|DET 3|1|OBJ 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|NSUBJ 8|5|PUNCT
+*MAR:	llame al doctor yo quiero que le llame (.) ah [!] al doctor la enfermera llámele al doctor <ahí está el teléfono> [///] allí está el teléfono .
+%mor:	verb|llame-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|doctor-Masc-Acc pron|yo-Prs-Nom-S1 verb|querer-Fin-Ind-Pres-S1 sconj|que pron|él-Prs-Dat-S3 verb|llame-Fin-Sub-Pres-S3 intj|ah det|el-Masc-Def-Art-Sing noun|doctor-Masc det|el-Fem-Def-Art-Sing noun|enfermera-Fem verb|llámelar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|doctor-Masc adv|allí verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|teléfono-Masc .
+%gra:	1|5|ADVCL 2|3|DET 3|1|OBJ 4|5|NSUBJ 5|20|ROOT 6|8|MARK 7|8|OBL-ARG 8|5|CCOMP 9|8|OBJ 10|11|DET 11|8|NSUBJ 12|13|DET 13|8|NSUBJ 14|5|CCOMP 15|16|DET 16|14|NSUBJ 17|18|ADVMOD 18|5|CCOMP 19|20|DET 20|18|NSUBJ 21|5|PUNCT
+*CHI:	<aló aló aló> [/] aló xxx .
+%mor:	noun|aló-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	sí ?
+%mor:	intj|sí ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	le podría ayudar señora ?
+%mor:	pron|él-Prs-Dat-S3 aux|poder-Fin-Cnd-S3 verb|ayudar-Inf-S noun|señora-Fem-Acc ?
+%gra:	1|3|OBL-ARG 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	ah [!] sí porque este señor +...
+%mor:	intj|ah intj|sí sconj|porque det|este-Masc-Def-Dem-Sing noun|señor-Masc +...
+%gra:	1|5|ROOT 2|1|FIXED 3|5|MARK 4|5|DET 5|1|NSUBJ 6|1|PUNCT
+*MAR:	sh [!] xxx tú hablas por teléfono sí ?
+%mor:	x|sh pron|tú-Prs-Nom-S2 verb|hablar-Fin-Ind-Pres-S1 adp|por noun|teléfono-Masc intj|sí ?
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|6|ROOT 4|5|CASE 5|3|OBL 6|3|ADVCL 7|3|PUNCT
+*CHI:	sí porque (.) <un> [/] un (.) pues que una señor que le iba a ayudar a una (.) a un señor porque estaba mal <su> [/] su (.) +/.
+%mor:	intj|sí sconj|porque det|uno-Masc-Ind-Art-Sing sconj|pues pron|que-Rel-S1 det|uno-Fem-Ind-Art-Sing noun|señor-Masc pron|que-Rel-S1 pron|él-Prs-Dat-S3 verb|ir-Fin-Ind-Imp-S3 adp|a verb|ayudar-Inf-S adp|a pron|uno-Ind-S1 adp|a det|uno-Masc-Ind-Art-Sing noun|señor-Masc-Acc sconj|porque aux|estar-Fin-Ind-Imp-S3 adv|mal det|su-Def-Prs-Sing +/.
+%gra:	1|21|ROOT 2|1|MARK 3|7|DET 4|3|MARK 5|7|MARK 6|7|DET 7|1|NSUBJ 8|10|MARK 9|10|OBL-ARG 10|7|ACL 11|12|MARK 12|10|XCOMP 13|14|CASE 14|12|OBJ 15|17|CASE 16|17|DET 17|12|OBJ 18|20|MARK 19|12|ADVCL 20|19|ADVMOD 21|20|DET 22|1|PUNCT
+*MAR:	su pierna su pierna dice ?
+%mor:	det|su-Def-Prs-Sing noun|pierna-Fem det|su-Def-Prs-Sing noun|pierna-Fem verb|decir-Fin-Ind-Pres-S3 ?
+%gra:	1|2|DET 2|5|NSUBJ 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	+, su carro y también xxx <el el el> [/] el señor .
+%mor:	det|su-Def-Prs-Sing noun|carro-Masc cconj|y adv|también det|el-Masc-Def-Art-Sing noun|señor-Masc .
+%gra:	1|2|DET 2|6|ROOT 3|6|CC 4|6|ADVMOD 5|6|DET 6|2|CONJ 7|2|PUNCT
+*MAR:	ah [!] bueno (.) quiere que vaya allá ?
+%mor:	adv|ah adj|buen-S1 verb|querer-Fin-Ind-Pres-S3 sconj|que verb|ir-Fin-Sub-Pres-S3 adv|allá ?
+%gra:	1|2|ADVMOD 2|3|ADVMOD 3|6|ROOT 4|5|MARK 5|3|CCOMP 6|5|ADVMOD 7|3|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	bueno inmediatamente .
+%mor:	adj|buen-S1 adv|inmediatamente .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MAR:	adiós .
+%mor:	noun|adiós-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	adiós .
+%mor:	noun|adiós-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	que ahí va la ambulancia eh ?
+%mor:	sconj|que adv|ahí verb|ir-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|ambulancia-Fem x|eh ?
+%gra:	1|3|MARK 2|3|ADVMOD 3|6|ROOT 4|5|DET 5|3|NSUBJ 6|5|APPOS 7|3|PUNCT
+*MAR:	sí ?
+%mor:	intj|sí ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ahí esta ahí xxx .
+%mor:	adv|ahí verb|estar-Fin-S adv|ahí .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MAR:	<que que> [/] que está qué ?
+%mor:	pron|que-Rel-S1 aux|estar-Fin-Ind-Pres-S3 pron|qué-Int-S1 ?
+%gra:	1|2|MARK 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MAR:	qué ocurre ?
+%mor:	pron|qué-Int-S1 verb|ocurrir-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	ahí está el señor que +...
+%mor:	adv|ahí verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|señor-Masc pron|que-Rel-S1 +...
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT 6|2|PUNCT
+*MAR:	qué (.) <qué le pasó> [/] qué le pasó a este hombre ?
+%mor:	pron|qué-Int-S1 pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|pasar-Fin-Ind-Past-S3 adp|a det|este-Masc-Def-Dem-Sing noun|hombre-Masc-Acc ?
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|EXPL 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBJ 8|4|PUNCT
+*CHI:	ay [!] yo no sé .
+%mor:	intj|ay pron|yo-Prs-Nom-S1 adv|no verb|saber-Fin-Ind-Pres-S1 .
+%gra:	1|4|DEP 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	estaba ayudando a este señor que está acá .
+%mor:	aux|estar-Fin-Ind-Imp-S3 verb|ayudar-Ger-S adp|a det|este-Masc-Def-Dem-Sing noun|señor-Masc-Acc pron|que-Rel-S1 aux|estar-Fin-Ind-Pres-S3 adv|acá .
+%gra:	1|2|AUX 2|8|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|7|MARK 7|5|ACL-RELCL 8|7|ADVMOD 9|2|PUNCT
+*MAR:	a cuál ?
+%mor:	adp|a pron|cuál-Int-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MAR:	a él ?
+%mor:	adp|a pron|él-Prs-AccNom-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	señor qué ocurrió ?
+%mor:	noun|señor-Masc pron|qué-Int-S1 verb|ocurrir-Fin-Ind-Past-S3 ?
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MAR:	qué ocurrió ?
+%mor:	pron|qué-Int-S1 verb|ocurrir-Fin-Ind-Past-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MAR:	dígame .
+%mor:	verb|dígamir-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	es que estábamos arreglándo mi carro porque no servía y después se golpeó .
+%mor:	aux|ser-Fin-Ind-Pres-S3 sconj|que aux|estar-Fin-Ind-Imp-P1 verb|arreglar-Ger-S det|mi-Def-Prs-Sing-S noun|carro-Masc-Acc sconj|porque adv|no verb|servir-Fin-Ind-Imp-S3 cconj|y adv|después pron|él-Prs-Acc-reflx-S3 verb|golpear-Fin-Ind-Past-S3 .
+%gra:	1|13|ROOT 2|4|MARK 3|4|AUX 4|1|CCOMP 5|6|DET 6|4|OBJ 7|9|MARK 8|9|ADVMOD 9|4|ADVCL 10|13|CC 11|13|ADVMOD 12|13|EXPL-PV 13|4|CONJ 14|1|PUNCT
+*MAR:	ah [!] porque lo estaba componiendo ?
+%mor:	intj|ah sconj|porque pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Imp-S3 verb|componer-Ger-S ?
+%gra:	1|5|DEP 2|5|MARK 3|5|OBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	y qué se quebró ?
+%mor:	cconj|y pron|qué-Int-S1 pron|él-Prs-Acc-reflx-S3 verb|quebrar-Fin-Ind-Past-S3 ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+*CHI:	ah [!] yo creo que la cabeza o (.) las piernas .
+%mor:	intj|ah pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que det|el-Fem-Def-Art-Sing noun|cabeza-Fem-Acc cconj|o det|el-Fem-Def-Art-Plur noun|pierna-Fem-Plur .
+%gra:	1|3|DEP 2|3|NSUBJ 3|9|ROOT 4|6|MARK 5|6|DET 6|3|OBJ 7|9|CC 8|9|DET 9|6|CONJ 10|3|PUNCT
+*MAR:	ah [!] Dios mío !
+%mor:	intj|ah propn|Dios det|mío-Masc-Def-Prs-Sing-S !
+%gra:	1|2|DEP 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+*MAR:	enfermera eso se quebró ?
+%mor:	noun|enfermera-Fem pron|ese-Dem-S1 pron|él-Prs-Acc-reflx-S3 verb|quebrar-Fin-Ind-Past-S3 ?
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+*MAR:	la cabeza ?
+%mor:	det|el-Fem-Def-Art-Sing noun|cabeza-Fem ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	no sé .
+%mor:	adv|no verb|saber-Fin-Ind-Pres-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MAR:	bueno tenemos hay que operarlo vamos .
+%mor:	adj|buen-S1 verb|tener-Fin-Ind-Pres-P1 verb|haber-Fin-Ind-Pres-S3 sconj|que verb|operar-Inf-S verb|ir-Fin-Ind-Pres-P1 .
+%gra:	1|2|ADVMOD 2|3|ADVCL 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|XCOMP 7|3|PUNCT
+*MAR:	éste era la oficina (.) el sitio de operación vale ?
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Imp-S3 det|el-Fem-Def-Art-Sing noun|oficina-Fem det|el-Masc-Def-Art-Sing noun|sitio-Masc adp|de noun|operación-Fem verb|valer-Fin-Ind-Pres-S3 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|9|ROOT 5|6|DET 6|9|NSUBJ 7|8|CASE 8|6|NMOD 9|4|PARATAXIS 10|4|PUNCT
+*MAR:	aquí hay que ponerlo aquí .
+%mor:	adv|aquí verb|haber-Fin-Ind-Pres-S3 sconj|que verb|poner-Inf-S adv|aquí .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|ADVMOD 6|2|PUNCT
+*MAR:	bueno <vamos a ver> [/] vamos a ver le tendríamos que abrir esa (.) cabeza .
+%mor:	adj|buen-S1 verb|ir-Fin-Ind-Pres-P1 adp|a verb|ver-Inf-S pron|él-Prs-Dat-S3 verb|tener-Fin-Ind-P1 sconj|que verb|abrir-Inf-S det|ese-Fem-Def-Dem-Sing noun|cabeza-Fem-Acc .
+%gra:	1|2|ADVMOD 2|10|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBL-ARG 6|2|CCOMP 7|8|CC 8|6|CONJ 9|10|DET 10|8|OBJ 11|2|PUNCT
+*CHI:	ah [!] porque había ver .
+%mor:	intj|ah sconj|porque aux|haber-Fin-Ind-Imp-S3 verb|ver-Inf-S .
+%gra:	1|4|DEP 2|4|MARK 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*MAR:	ay [!] Dios mío !
+%mor:	propn|ay propn|Dios propn|mío !
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+*MAR:	bueno usted se queda allí señor constructor .
+%mor:	adj|buen-S1 pron|tú-Prs-AccNom-S2 pron|él-Prs-Acc-reflx-S3 verb|quedar-Fin-Ind-Pres-S3 adv|allí noun|señor-Masc-Acc adj|constructor-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|EXPL-PV 4|7|ROOT 5|4|ADVMOD 6|4|OBJ 7|6|AMOD 8|4|PUNCT
+*MAR:	enfermera [!] .
+%mor:	noun|enfermera-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	qué ?
+%mor:	pron|qué-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	enfermera por favor ayúdeme .
+%mor:	noun|enfermera-Fem adp|por noun|favor-Masc noun|ayúdeme .
+%gra:	1|4|ROOT 2|3|CASE 3|1|NMOD 4|3|COMPOUND 5|1|PUNCT
+*CHI:	qué ?
+%mor:	pron|qué-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	por qué ?
+%mor:	adp|por pron|qué-Int-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MAR:	deme aquella medicina que está allá .
+%mor:	verb|demar-Fin-Ind-Pres-S1 det|aquel-Fem-Def-Dem-Sing noun|medicina-Fem-Acc pron|que-Rel-S1 aux|estar-Fin-Ind-Pres-S3 adv|allá .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|5|MARK 5|3|ACL-RELCL 6|5|ADVMOD 7|1|PUNCT
+*MAR:	muy bien .
+%mor:	adv|mucho adv|bien .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MAR:	le abrimos aquí toda la cabeza le tenemos que inyectar esto aquí esto acá +...
+%mor:	pron|él-Prs-Dat-S3 verb|abrir-Fin-Ind-Pres-P1 adv|aquí det|todo-Fem-Def-Tot-Sing det|el-Fem-Def-Art-Sing noun|cabeza-Fem-Acc pron|él-Prs-Dat-S3 verb|tener-Fin-Ind-Pres-P1 sconj|que verb|inyectar-Inf-S pron|este-Dem-S1 adv|aquí pron|este-Dem-S1 adv|acá +...
+%gra:	1|2|OBL-ARG 2|14|ROOT 3|2|ADVMOD 4|5|DET 5|6|DET 6|2|OBJ 7|10|EXPL 8|2|CCOMP 9|10|CC 10|8|CONJ 11|10|OBJ 12|10|ADVMOD 13|10|OBJ 14|10|ADVMOD 15|2|PUNCT
+*MAR:	enfermera tráigame aquella medicina la que está allá .
+%mor:	noun|enfermera-Fem adj|tráigame-S1 det|aquel-Fem-Def-Dem-Sing noun|medicina-Fem det|el-Fem-Def-Art-Sing pron|que-Rel-S1 aux|estar-Fin-Ind-Pres-S3 adv|allá .
+%gra:	1|8|ROOT 2|1|AMOD 3|4|DET 4|1|NSUBJ 5|7|DET 6|7|NSUBJ 7|1|ACL-RELCL 8|7|ADVMOD 9|1|PUNCT
+*MAR:	muy bien .
+%mor:	adv|mucho adv|bien .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MAR:	gracias .
+%mor:	noun|gracia-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	pobre enfermo eh ?
+%mor:	adj|pobre-S1 noun|enfermo-Masc x|eh ?
+%gra:	1|2|AMOD 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+*MAR:	bueno muy bien (.) quiero que lo lleve a la camilla <y lo> [/] y lo ponga en la cama .
+%mor:	adj|buen-S1 adv|mucho adv|bien verb|querer-Fin-Ind-Pres-S1 sconj|que pron|él-Prs-Acc-S3 verb|llevar-Fin-Sub-Pres-S3 adp|a det|el-Fem-Def-Art-Sing noun|camilla-Fem cconj|y pron|él-Prs-Acc-S3 verb|poner-Fin-Sub-Pres-S3 adp|en det|el-Fem-Def-Art-Sing noun|cama-Fem .
+%gra:	1|4|AMOD 2|3|ADVMOD 3|1|ADVMOD 4|16|ROOT 5|7|MARK 6|7|OBJ 7|4|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|13|CC 12|13|OBJ 13|7|CONJ 14|16|CASE 15|16|DET 16|13|OBL 17|4|PUNCT
+*CHI:	qué pasó ?
+%mor:	pron|qué-Int-S1 verb|pasar-Fin-Ind-Past-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MAR:	sí [!] ya pasó .
+%mor:	intj|sí adv|ya verb|pasar-Fin-Ind-Past-S3 .
+%gra:	1|3|ADVCL 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	qué [!] (.) ya lo llevaron .
+%mor:	pron|qué-Int-S1 adv|ya pron|él-Prs-Acc-S3 verb|llevar-Fin-Ind-Past-P3 .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+*MAR:	qué cobarde es usted eh ?
+%mor:	det|qué-Def-Int noun|cobarde aux|ser-Fin-Ind-Pres-S3 pron|tú-Prs-AccNom-S2 x|eh ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	okay gracias .
+%mor:	propn|okay noun|gracia-Fem-Plur .
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+*MAR:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	hasta luego .
+%mor:	adp|hasta adv|luego .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MAR:	muy bien enfermera por favor aquí qué piensa usted ?
+%mor:	adv|mucho adv|bien adj|enfermera-S1 adp|por noun|favor adv|aquí pron|qué-Int-S1 verb|pensar-Fin-Ind-Pres-S3 pron|tú-Prs-AccNom-S2 ?
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|9|ROOT 4|3|ADVMOD 5|4|FIXED 6|3|ADVMOD 7|8|OBJ 8|3|CSUBJ 9|8|NSUBJ 10|3|PUNCT
+*CHI:	ah [!] yo no sé .
+%mor:	intj|ah pron|yo-Prs-Nom-S1 adv|no verb|saber-Fin-Ind-Pres-S1 .
+%gra:	1|4|DEP 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	yo creo que ese señor se golpeó en el carro .
+%mor:	pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que det|ese-Masc-Def-Dem-Sing noun|señor-Masc pron|él-Prs-Acc-reflx-S3 verb|golpear-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art-Sing noun|carro-Masc .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|7|MARK 4|5|DET 5|7|NSUBJ 6|7|EXPL-PV 7|2|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+*MAR:	usted cree que ese señor se golpeó en el carro .
+%mor:	pron|tú-Prs-AccNom-S2 verb|creer-Fin-Ind-Pres-S3 sconj|que det|ese-Masc-Def-Dem-Sing noun|señor-Masc pron|él-Prs-Acc-reflx-S3 verb|golpear-Fin-Ind-Past-S3 adp|en det|el-Masc-Def-Art-Sing noun|carro-Masc .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|7|MARK 4|5|DET 5|7|NSUBJ 6|7|EXPL-PV 7|2|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	pero en cuanto a la medicina ?
+%mor:	cconj|pero adp|en noun|cuanto adp|a det|el-Fem-Def-Art-Sing noun|medicina-Fem ?
+%gra:	1|6|CC 2|6|CASE 3|2|FIXED 4|2|FIXED 5|6|DET 6|6|ROOT 7|6|PUNCT
+*MAR:	le daremos la (.) tetraciclina ?
+%mor:	pron|él-Prs-Dat-S3 verb|dar-Fin-Ind-Fut-P1 det|el-Fem-Def-Art-Sing noun|tetraciclina-Fem-Acc ?
+%gra:	1|2|OBL-ARG 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	por qué no le ponemos una inyección ?
+%mor:	adp|por pron|qué-Int-S1 adv|no pron|él-Prs-Dat-S3 verb|poner-Fin-Ind-Pres-P1 det|uno-Fem-Ind-Art-Sing noun|inyección-Fem-Acc ?
+%gra:	1|2|CASE 2|5|OBL 3|5|ADVMOD 4|5|OBL-ARG 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*MAR:	muy bien enfermera quiero que le ponga la inyección .
+%mor:	adv|mucho adv|bien adj|enfermera-S1 verb|querer-Fin-Ind-Pres-S1 sconj|que pron|él-Prs-Dat-S3 verb|poner-Fin-Sub-Pres-S3 det|el-Fem-Def-Art-Sing noun|inyección-Fem-Acc .
+%gra:	1|2|ADVMOD 2|3|ADVMOD 3|4|XCOMP 4|9|ROOT 5|7|MARK 6|7|OBL-ARG 7|4|CCOMP 8|9|DET 9|7|OBJ 10|4|PUNCT
+*CHI:	ya .
+%mor:	adv|ya .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	cómo reaccionó ?
+%mor:	pron|cómo-Ind-S1 verb|reaccionar-Fin-Ind-Past-S3 ?
+%gra:	1|2|OBL 2|2|ROOT 3|2|PUNCT
+*CHI:	yo no sé .
+%mor:	pron|yo-Prs-Nom-S1 adv|no verb|saber-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	a cuántos ?
+%mor:	adp|a pron|cuánto-Ind-P1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	yo creo que yo quiero (.) yo creo a cientos .
+%mor:	pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que pron|yo-Prs-Nom-S1 verb|querer-Fin-Ind-Pres-S1 pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 adp|a num|ciento .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|MARK 4|5|NSUBJ 5|2|CCOMP 6|5|NSUBJ 7|2|CCOMP 8|9|CASE 9|7|OBJ 10|2|PUNCT
+*MAR:	a cientos ?
+%mor:	adp|a num|ciento ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah [!] .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	ah [!] de temperatura .
+%mor:	x|ah adp|de noun|temperatura-Fem .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	yeah [!] .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	ah [!] <muy bien> [/] muy bien .
+%mor:	intj|ah adv|mucho adv|bien .
+%gra:	1|3|DEP 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*MAR:	enfermera quiero que vaya y lo cuide se quede allí algunas horas con él .
+%mor:	noun|enfermera-Fem verb|querer-Fin-Ind-Pres-S1 sconj|que verb|ir-Fin-Sub-Pres-S3 cconj|y pron|él-Prs-Acc-S3 verb|cuidar-Fin-Sub-Pres-S3 pron|él-Prs-Acc-reflx-S3 verb|quedar-Fin-Sub-Pres-S3 adv|allí det|alguno-Fem-Def-Ind-Plur noun|hora-Fem-Plur adp|con pron|él-Prs-AccNom-S3 .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|4|MARK 4|2|CCOMP 5|7|CC 6|7|OBJ 7|4|CONJ 8|9|EXPL-PV 9|2|CONJ 10|9|ADVMOD 11|12|DET 12|9|OBL 13|14|CASE 14|9|OBL 15|2|PUNCT
+*CHI:	okay [!] .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	quiero que observe cómo reacciona (.) con esa medicina .
+%mor:	verb|querer-Fin-Ind-Pres-S1 sconj|que verb|observar-Fin-Sub-Pres-S3 pron|cómo-Ind-S1 verb|reaccionar-Fin-Ind-Pres-S3 adp|con det|ese-Fem-Def-Dem-Sing noun|medicina-Fem .
+%gra:	1|8|ROOT 2|3|MARK 3|1|CCOMP 4|5|OBL 5|3|CCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+*CHI:	okay [!] .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	porque es una (.) droga nueva .
+%mor:	sconj|porque aux|ser-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art-Sing noun|droga-Fem adj|nuevo-S1 .
+%gra:	1|4|MARK 2|4|COP 3|4|DET 4|5|ROOT 5|4|AMOD 6|4|PUNCT
+*MAR:	está bien (.) señor constructor usted el señor me dijo que antes de la operación que quería que por favor (.) fuera a supervisar aquel sitio que (.) donde ocurrió aquel terremoto .
+%mor:	aux|estar-Fin-Ind-Pres-S3 adv|bien noun|señor-Masc adj|constructor-S1 pron|tú-Prs-AccNom-S2 det|el-Masc-Def-Art-Sing noun|señor-Masc pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Past-S3 sconj|que adv|antes adp|de det|el-Fem-Def-Art-Sing noun|operación-Fem pron|que-Rel-S1 verb|querer-Fin-Ind-Imp-S3 sconj|que adp|por noun|favor aux|ser-Fin-Sub-Imp-S3 adp|a verb|supervisar-Inf-S det|aquel-Masc-Def-Dem-Sing noun|sitio-Masc-Acc pron|que-Rel-S1 adv|donde verb|ocurrir-Fin-Ind-Past-S3 det|aquel-Masc-Def-Dem-Sing noun|terremoto-Masc .
+%gra:	1|9|CCOMP 2|3|ADVMOD 3|1|NSUBJ 4|3|AMOD 5|9|NSUBJ 6|7|DET 7|9|NSUBJ 8|9|OBL-ARG 9|29|ROOT 10|20|MARK 11|9|ADVMOD 12|14|CASE 13|14|DET 14|11|OBL 15|16|NSUBJ 16|14|ACL 17|20|MARK 18|20|ADVMOD 19|18|FIXED 20|16|CCOMP 21|22|MARK 22|20|CCOMP 23|24|DET 24|22|OBJ 25|27|MARK 26|27|ADVMOD 27|24|ACL 28|29|DET 29|27|NSUBJ 30|9|PUNCT
+*CHI:	ah [!] ya .
+%mor:	intj|ah adv|ya .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	yo creo que +...
+%mor:	pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que +...
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+*MAR:	necesita ayuda ?
+%mor:	verb|necesitar-Fin-Ind-Pres-S3 noun|ayuda-Fem-Acc ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	yeah [!] yo creo que pasó en Chicago (.) o algo .
+%mor:	propn|yeah pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que verb|pasar-Fin-Ind-Past-S3 adp|en propn|chicago cconj|o pron|algo-Ind-S1 .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|9|ROOT 4|5|MARK 5|3|CCOMP 6|7|CASE 7|5|OBL 8|9|CC 9|7|CONJ 10|3|PUNCT
+*MAR:	en Chicago ?
+%mor:	adp|en propn|chicago ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	bueno llame a Chicago y que le manden unos hombres .
+%mor:	adj|buen-S1 verb|llame-Fin-Ind-Pres-S3 adp|a propn|chicago-Acc cconj|y pron|que-Rel-S1 pron|él-Prs-Dat-S3 verb|mandar-Fin-Sub-Pres-P3 det|uno-Masc-Ind-Art-Plur noun|hombre-Masc-Plur-Acc .
+%gra:	1|2|AMOD 2|10|ROOT 3|4|CASE 4|2|OBJ 5|8|CC 6|8|MARK 7|8|OBL-ARG 8|2|CONJ 9|10|DET 10|8|OBJ 11|2|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	enfermera usted se queda allí .
+%mor:	noun|enfermera-Fem pron|tú-Prs-AccNom-S2 pron|él-Prs-Acc-reflx-S3 verb|quedar-Fin-Ind-Pres-S3 adv|allí .
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|EXPL-PV 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	aló ?
+%mor:	noun|aló-Masc ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	sí ?
+%mor:	intj|sí ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	sí ?
+%mor:	intj|sí ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(.) pueden venir acá ?
+%mor:	aux|poder-Fin-Ind-Pres-P3 verb|venir-Inf-S adv|acá ?
+%gra:	1|2|AUX 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MAR:	venir dónde ?
+%mor:	verb|venir-Inf-S adv|dónde ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	(.) a América pues que ahí nos cambiamos .
+%mor:	adp|a propn|américa sconj|pues sconj|que adv|ahí pron|yo-Prs-Dat-P1 verb|cambiar-Fin-Ind-Pres-P1 .
+%gra:	1|2|CASE 2|7|OBL 3|7|MARK 4|7|MARK 5|7|ADVMOD 6|7|OBJ 7|7|ROOT 8|7|PUNCT
+*MAR:	a dónde ?
+%mor:	adp|a adv|dónde ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	a América .
+%mor:	adp|a propn|américa .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MAR:	sí qué ocurre en América ?
+%mor:	intj|sí pron|qué-Int-S1 verb|ocurrir-Fin-Ind-Pres-S3 adp|en propn|américa ?
+%gra:	1|3|ADVCL 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	(.) estábamos un día (.) había un amigo mío que se llamaba cómo ?
+%mor:	verb|estar-Fin-Ind-Imp-P1 det|uno-Masc-Ind-Art-Sing noun|día-Masc verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art-Sing noun|amigo-Masc-Acc adj|mío-S1 pron|que-Rel-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Imp-S3 pron|cómo-Ind-S1 ?
+%gra:	1|4|ADVCL 2|3|DET 3|1|OBL 4|11|ROOT 5|6|DET 6|4|OBJ 7|6|AMOD 8|10|MARK 9|10|EXPL-PV 10|6|ACL-RELCL 11|10|ADVMOD 12|4|PUNCT
+*CHI:	a ver recuerdo cómo (.) +/.
+%mor:	adp|a verb|ver-Inf-S verb|recordar-Fin-Ind-Pres-S1 pron|cómo-Ind-S1 +/.
+%gra:	1|2|MARK 2|3|ADVCL 3|4|ROOT 4|3|OBL 5|3|PUNCT
+*MAR:	Miguel .
+%mor:	propn|Miguel .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Miguel sí Miguel (.) entonces (.) me estaban arreglando mi carro porque (.) una señora me dijo <que que> [/] que si me ayuda a arreglar su carro .
+%mor:	propn|Miguel intj|sí propn|Miguel adv|entonces pron|yo-Prs-Dat-S1 aux|estar-Fin-Ind-Imp-P3 verb|arreglar-Ger-S det|mi-Def-Prs-Sing-S noun|carro-Masc-Acc sconj|porque det|uno-Fem-Ind-Art-Sing noun|señora-Fem pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Past-S3 sconj|que sconj|si pron|yo-Prs-Dat-S1 verb|ayudar-Fin-Ind-Pres-S3 adp|a verb|arreglar-Inf-S det|su-Def-Prs-Sing noun|carro-Masc-Acc .
+%gra:	1|7|NSUBJ 2|7|ADVCL 3|7|NSUBJ 4|7|ADVMOD 5|7|OBL-ARG 6|7|AUX 7|22|ROOT 8|9|DET 9|7|OBJ 10|14|MARK 11|12|DET 12|14|NSUBJ 13|14|OBL-ARG 14|7|ADVCL 15|18|MARK 16|18|MARK 17|18|EXPL-PV 18|14|CCOMP 19|20|MARK 20|18|XCOMP 21|22|DET 22|20|OBJ 23|7|PUNCT
+*CHI:	le dije <que> [/] que se va a ensuciar <la> [/] la ropa y también (.) le dije que no hay baños para que se bañe .
+%mor:	pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S1 sconj|que pron|él-Prs-Acc-reflx-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|ensuciar-Inf-S det|el-Fem-Def-Art-Sing noun|ropa-Fem-Acc cconj|y adv|también pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S1 sconj|que adv|no verb|haber-Fin-Ind-Pres-S3 noun|baño-Masc-Plur-Acc adp|para sconj|que pron|él-Prs-Acc-reflx-S3 verb|bañar-Fin-Sub-Pres-S3 .
+%gra:	1|2|OBL-ARG 2|21|ROOT 3|5|MARK 4|5|EXPL-PV 5|2|CCOMP 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|13|CC 11|13|ADVMOD 12|13|OBL-ARG 13|2|CONJ 14|16|MARK 15|16|ADVMOD 16|13|CCOMP 17|16|OBJ 18|21|MARK 19|21|MARK 20|21|EXPL-PV 21|16|ADVCL 22|2|PUNCT
+*CHI:	entonces estábamos arreglando así (.) después se golpeó en la cabeza .
+%mor:	adv|entonces aux|estar-Fin-Ind-Imp-P1 verb|arreglar-Ger-S adv|así adv|después pron|él-Prs-Acc-reflx-S3 verb|golpear-Fin-Ind-Past-S3 adp|en det|el-Fem-Def-Art-Sing noun|cabeza-Fem .
+%gra:	1|3|ADVMOD 2|3|AUX 3|10|ROOT 4|3|ADVMOD 5|3|ADVMOD 6|7|EXPL-PV 7|3|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|3|PUNCT
+*MAR:	cuéntame qué más pasó .
+%mor:	verb|cuéntamar-Fin-Ind-Pres-S1 pron|qué-Int-S1 adv|más verb|pasar-Fin-Ind-Past-S3 .
+%gra:	1|4|ROOT 2|4|OBJ 3|4|ADVMOD 4|1|CCOMP 5|1|PUNCT
+*CHI:	nada más eso pasó puede venir ?
+%mor:	pron|nada-Neg-S1 adv|más pron|ese-Dem-S1 verb|pasar-Fin-Ind-Past-S3 aux|poder-Fin-Ind-Pres-S3 verb|venir-Inf-S ?
+%gra:	1|4|NSUBJ 2|3|ADVMOD 3|4|NSUBJ 4|6|ADVCL 5|6|AUX 6|6|ROOT 7|6|PUNCT
+*MAR:	y qué le pasó en la cabeza ?
+%mor:	cconj|y pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|pasar-Fin-Ind-Past-S3 adp|en det|el-Fem-Def-Art-Sing noun|cabeza-Fem ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|EXPL 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*MAR:	o qué <le> [/] le pusieron la medicina o qué ?
+%mor:	cconj|o pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|poner-Fin-Ind-Past-P3 det|el-Fem-Def-Art-Sing noun|medicina-Fem cconj|o pron|qué-Int-S1 ?
+%gra:	1|4|CC 2|4|OBL-ARG 3|4|EXPL 4|8|ROOT 5|6|DET 6|4|NSUBJ 7|8|CC 8|6|CONJ 9|4|PUNCT
+*MAR:	o (.) o (.) .
+%mor:	cconj|o cconj|o .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	<la medicina> [/] la medicina .
+%mor:	det|el-Fem-Def-Art-Sing noun|medicina-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MAR:	y le hablaron a sus parientes ?
+%mor:	cconj|y pron|él-Prs-Dat-S3 verb|hablar-Fin-Ind-Past-P3 adp|a det|su-Def-Prs-Plur noun|pariente-Plur-Acc ?
+%gra:	1|3|CC 2|3|EXPL 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	ah [!] yo no creo (.) porque .
+%mor:	intj|ah pron|yo-Prs-Nom-S1 adv|no verb|creer-Fin-Ind-Pres-S1 sconj|porque .
+%gra:	1|4|DEP 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|MARK 6|4|PUNCT
+*MAR:	pero eso es muy importante señora señor me tiene que llamar <a los a los> [/] a los (.) parientes .
+%mor:	cconj|pero pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 adv|mucho adj|importante-S1 noun|señora-Fem noun|señor-Masc pron|yo-Prs-Dat-S1 verb|tener-Fin-Ind-Pres-S3 sconj|que verb|llamar-Inf-S adp|a det|el-Masc-Def-Art-Plur noun|pariente-Plur-Acc .
+%gra:	1|5|ADVMOD 2|6|NSUBJ 3|5|COP 4|5|ADVMOD 5|14|ROOT 6|9|XCOMP 7|9|NSUBJ 8|11|OBJ 9|5|PARATAXIS 10|11|CC 11|9|CONJ 12|14|CASE 13|14|DET 14|11|OBJ 15|5|PUNCT
+*CHI:	ah [!] pero es que (.) yo no sé dónde viven .
+%mor:	intj|ah cconj|pero aux|ser-Fin-Ind-Pres-S3 sconj|que pron|yo-Prs-Nom-S1 adv|no verb|saber-Fin-Ind-Pres-S1 adv|dónde verb|vivir-Fin-Ind-Pres-P3 .
+%gra:	1|3|DEP 2|3|CC 3|9|ROOT 4|7|MARK 5|7|NSUBJ 6|7|ADVMOD 7|3|CCOMP 8|9|ADVMOD 9|7|CCOMP 10|3|PUNCT
+*MAR:	pero allí tienen un directorio allí en el hospital por favor (.) llámele a los parientes .
+%mor:	cconj|pero adv|allí verb|tener-Fin-Ind-Pres-P3 det|uno-Masc-Ind-Art-Sing noun|directorio-Masc-Acc adv|allí adp|en det|el-Masc-Def-Art-Sing noun|hospital-Masc adp|por noun|favor-Masc noun|llámele adp|a det|el-Masc-Def-Art-Plur noun|pariente-Plur .
+%gra:	1|3|CC 2|3|ADVMOD 3|15|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|3|ADVMOD 11|10|FIXED 12|10|FIXED 13|15|CASE 14|15|DET 15|3|OBL-ARG 16|3|PUNCT
+*CHI:	yo creo que quiere tener un baby por eso se hizo así .
+%mor:	pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que verb|querer-Fin-Ind-Pres-S3 verb|tener-Inf-S det|uno-Masc-Ind-Art-Sing noun|baby-Masc-Acc adp|por pron|ese-Dem-S1 pron|él-Prs-Acc-reflx-S3 verb|hacer-Fin-Ind-Past-S3 adv|así .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|MARK 4|2|CCOMP 5|4|XCOMP 6|7|DET 7|5|OBJ 8|9|CASE 9|11|OBL 10|11|EXPL-PV 11|4|ADVCL 12|11|ADVMOD 13|2|PUNCT
+*MAR:	el hombre ?
+%mor:	det|el-Masc-Def-Art-Sing noun|hombre-Masc ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MAR:	o la esposa del hombre ?
+%mor:	cconj|o det|el-Fem-Def-Art-Sing noun|esposa-Fem adp|del noun|hombre-Masc ?
+%gra:	1|3|CC 2|3|DET 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+*CHI:	el esposo .
+%mor:	det|el-Masc-Def-Art-Sing noun|esposo-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MAR:	el esposo va a tener un baby ?
+%mor:	det|el-Masc-Def-Art-Sing noun|esposo-Masc verb|ir-Fin-Ind-Pres-S3 adp|a verb|tener-Inf-S det|uno-Masc-Ind-Art-Sing noun|baby-Masc-Acc ?
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	sí yo creo porque <él> [/] él dijo que quiere tener uno cuando estaba (.) arreglando el carro .
+%mor:	intj|sí pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|porque pron|él-Prs-AccNom-S3 verb|decir-Fin-Ind-Past-S3 sconj|que verb|querer-Fin-Ind-Pres-S3 verb|tener-Inf-S pron|uno-Ind-S1 sconj|cuando aux|estar-Fin-Ind-Imp-S3 verb|arreglar-Ger-S det|el-Masc-Def-Art-Sing noun|carro-Masc-Acc .
+%gra:	1|3|ADVCL 2|3|NSUBJ 3|15|ROOT 4|6|MARK 5|6|NSUBJ 6|3|ADVCL 7|8|MARK 8|6|CCOMP 9|8|XCOMP 10|9|OBJ 11|13|MARK 12|13|AUX 13|9|ADVCL 14|15|DET 15|13|OBJ 16|3|PUNCT
+*MAR:	ah [!] así es que él está en espera .
+%mor:	intj|ah adv|así aux|ser-Fin-Ind-Pres-S3 sconj|que pron|él-Prs-AccNom-S3 aux|estar-Fin-Ind-Pres-S3 adp|en noun|espera-Fem .
+%gra:	1|3|DEP 2|3|ADVMOD 3|8|ROOT 4|6|MARK 5|6|NSUBJ 6|3|CCOMP 7|8|CASE 8|6|OBL 9|3|PUNCT
+*CHI:	eh ?
+%mor:	x|eh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	y a qué hora lo tiene ?
+%mor:	cconj|y adp|a det|qué-Def-Int noun|hora-Fem pron|él-Prs-Acc-S3 verb|tener-Fin-Ind-Pres-S3 ?
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|OBJ 6|6|ROOT 7|6|PUNCT
+*MAR:	a qué horas tiene el bebé ?
+%mor:	adp|a det|qué-Def-Int noun|hora-Fem-Plur verb|tener-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|bebé-Masc ?
+%gra:	1|3|CASE 2|3|DET 3|4|OBL 4|6|ROOT 5|6|DET 6|4|NSUBJ 7|4|PUNCT
+*CHI:	a las once .
+%mor:	adp|a det|el-Fem-Def-Art-Plur num|once .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MAR:	a qué ?
+%mor:	adp|a pron|qué-Int-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	a las once .
+%mor:	adp|a det|el-Fem-Def-Art-Plur num|once .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MAR:	a las once .
+%mor:	adp|a det|el-Fem-Def-Art-Plur num|once .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MAR:	bueno a operarlo (.) de inmediato por favor a operarlo ya me llama más tarde para ir a construir el edificio vale ?
+%mor:	adj|buen-S1 adp|a verb|operar-Inf-S adp|de noun|inmediato adp|por noun|favor adp|a verb|operar-Inf-S adv|ya pron|yo-Prs-Dat-S1 verb|llamar-Fin-Ind-Pres-S3 adv|más adv|tarde adp|para verb|ir-Inf-S adp|a verb|construir-Inf-S det|el-Masc-Def-Art-Sing noun|edificio-Masc-Acc verb|valer-Fin-Ind-Pres-S3 ?
+%gra:	1|21|ROOT 2|3|MARK 3|1|ADVCL 4|3|ADVMOD 5|4|FIXED 6|4|FIXED 7|6|FIXED 8|9|MARK 9|3|ADVCL 10|12|ADVMOD 11|12|EXPL-PV 12|1|PARATAXIS 13|14|ADVMOD 14|12|ADVMOD 15|16|MARK 16|12|ADVCL 17|18|MARK 18|16|XCOMP 19|20|DET 20|18|OBJ 21|1|PARATAXIS 22|1|PUNCT
+*CHI:	okay [!] <pero me> [/] pero [/] pero me [/] me puede decir adónde [/] adónde vive ?
+%mor:	propn|okay cconj|pero pron|yo-Prs-Dat-S1 aux|poder-Fin-Ind-Pres-S3 verb|decir-Inf-S adv|adónde verb|vivir-Fin-Ind-Pres-S3 ?
+%gra:	1|5|DEP 2|5|CC 3|5|OBL-ARG 4|5|AUX 5|7|ROOT 6|7|ADVMOD 7|5|CCOMP 8|5|PUNCT
+*MAR:	yo ?
+%mor:	intj|yo ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	bueno muy bien le digo dónde vivo .
+%mor:	adj|buen-S1 adv|mucho adv|bien pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S1 adv|dónde adj|vivo-S1 .
+%gra:	1|5|AMOD 2|3|ADVMOD 3|1|ADVMOD 4|5|OBL-ARG 5|7|ROOT 6|7|ADVMOD 7|5|XCOMP 8|5|PUNCT
+*MAR:	yo vivo en América también así es que me llama .
+%mor:	pron|yo-Prs-Nom-S1 verb|vivir-Fin-Ind-Pres-S1 adp|en propn|américa adv|también adv|así aux|ser-Fin-Ind-Pres-S3 sconj|que pron|yo-Prs-Dat-S1 verb|llamar-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|CASE 4|2|OBL 5|6|ADVMOD 6|2|ADVMOD 7|2|ADVCL 8|10|MARK 9|10|OBJ 10|7|CCOMP 11|2|PUNCT
+*CHI:	ah [!] en [?] América .
+%mor:	x|ah adp|en propn|américa .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*MAR:	sí me llama <y yo le digo> [/] y yo lo digo <que si> [/] que si es que tengo tiempo iré vale ?
+%mor:	intj|sí pron|yo-Prs-Dat-S1 verb|llamar-Fin-Ind-Pres-S3 cconj|y pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|decir-Fin-Ind-Pres-S1 sconj|que sconj|si aux|ser-Fin-Ind-Pres-S3 sconj|que verb|tener-Fin-Ind-Pres-S1 noun|tiempo-Masc-Acc verb|ir-Fin-Ind-Fut-S1 verb|valer-Fin-Ind-Pres-S3 ?
+%gra:	1|3|ADVCL 2|3|EXPL-PV 3|15|ROOT 4|7|CC 5|7|NSUBJ 6|7|OBJ 7|3|CONJ 8|14|MARK 9|10|MARK 10|14|ADVCL 11|12|MARK 12|10|CCOMP 13|12|OBJ 14|7|CCOMP 15|14|XCOMP 16|3|PUNCT
+*CHI:	okay [!] .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	okay [!] nos vemos entonces .
+%mor:	propn|okay pron|yo-Prs-Dat-P1 verb|ver-Fin-Ind-Pres-P1 adv|entonces .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*MAR:	(.) sí (.) qué más ?
+%mor:	intj|sí pron|qué-Int-S1 adv|más ?
+%gra:	1|2|ADVCL 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MAR:	bueno de inmediato voy a operar a aquel hombre porque va a estar muy enfermo está bien ?
+%mor:	adj|buen-S1 adp|de noun|inmediato verb|ir-Fin-Ind-Pres-S1 adp|a verb|operar-Inf-S adp|a det|aquel-Masc-Def-Dem-Sing noun|hombre-Masc-Acc sconj|porque verb|ir-Fin-Ind-Pres-S3 adp|a aux|estar-Inf-S adv|mucho adj|enfermo-S1 aux|estar-Fin-Ind-Pres-S3 adv|bien ?
+%gra:	1|4|AMOD 2|1|ADVMOD 3|2|FIXED 4|17|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBJ 10|11|MARK 11|4|ADVCL 12|15|CASE 13|15|COP 14|15|ADVMOD 15|11|XCOMP 16|17|COP 17|4|ADVMOD 18|4|PUNCT
+*CHI:	okay [!] .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	porque espera un niño .
+%mor:	sconj|porque verb|esperar-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|niño-Masc-Acc .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	okay [!] .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	vale [!] nos vemos .
+%mor:	verb|valer-Fin-Ind-Pres-S3 pron|yo-Prs-Dat-P1 verb|ver-Fin-Ind-Pres-P1 .
+%gra:	1|3|ROOT 2|3|EXPL-PV 3|1|CCOMP 4|1|PUNCT
+*CHI:	ay [!] este niño qué enfermo !
+%mor:	intj|ay det|este-Masc-Def-Dem-Sing noun|niño-Masc det|qué-Def-Int noun|enfermo-Masc !
+%gra:	1|3|DEP 2|3|DET 3|5|ROOT 4|5|DET 5|3|APPOS 6|3|PUNCT
+*MAR:	sí sí <muy enfermo> [/] muy enfermo .
+%mor:	intj|sí intj|sí adv|mucho adj|enfermo-S1 .
+%gra:	1|4|ADVCL 2|4|ADVCL 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*MAR:	yo estoy aquí para supervisar y (.) quería saber si todo va bien .
+%mor:	pron|yo-Prs-Nom-S1 aux|estar-Fin-Ind-Pres-S1 adv|aquí adp|para verb|supervisar-Inf-S cconj|y verb|querer-Fin-Ind-Imp-S3 verb|saber-Inf-S sconj|si pron|todo-Tot-S1 verb|ir-Fin-Ind-Pres-S3 adv|bien .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|2|ADVMOD 4|5|MARK 5|2|ADVCL 6|7|CC 7|2|CONJ 8|7|XCOMP 9|11|MARK 10|11|NSUBJ 11|8|CCOMP 12|11|ADVMOD 13|2|PUNCT
+*CHI:	<los doctores está como él otra vez> [?] .
+%mor:	det|el-Masc-Def-Art-Plur noun|doctor-Masc-Plur aux|estar-Fin-Ind-Pres-S3 sconj|como pron|él-Prs-AccNom-S3 det|otro-Fem-Def-Ind-Sing noun|vez-Fem .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|7|OBL 6|7|DET 7|3|OBL 8|3|PUNCT
+*MAR:	está qué ?
+%mor:	aux|estar-Fin-Ind-Pres-S3 pron|qué-Int-S1 ?
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+*CHI:	está como él .
+%mor:	aux|estar-Fin-Ind-Pres-S3 sconj|como pron|él-Prs-AccNom-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*MAR:	como él ?
+%mor:	sconj|como pron|él-Prs-AccNom-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	como él .
+%mor:	sconj|como pron|él-Prs-AccNom-S3 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	yo creo que se desmayó abajo de la aquí ay [!!] .
+%mor:	pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que pron|él-Prs-Acc-reflx-S3 verb|desmayar-Fin-Ind-Past-S3 adv|abajo adp|de det|el-Fem-Def-Art-Sing adv|aquí x|ay .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|5|MARK 4|5|EXPL-PV 5|2|CCOMP 6|5|ADVMOD 7|10|CASE 8|10|DET 9|10|ADVMOD 10|5|OBL 11|2|PUNCT
+*MAR:	ah [!] Dios mío !
+%mor:	intj|ah propn|Dios det|mío-Masc-Def-Prs-Sing-S !
+%gra:	1|2|DEP 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+*MAR:	necesitamos un doctor me llamaban ?
+%mor:	verb|necesitar-Fin-Ind-Pres-P1 det|uno-Masc-Ind-Art-Sing noun|doctor-Masc-Acc pron|yo-Prs-Dat-S1 verb|llamar-Fin-Ind-Imp-P3 ?
+%gra:	1|5|ADVCL 2|3|DET 3|1|OBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*MAR:	<sí sí sí sí> [/] sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	acá estaba de día porque de noche +...
+%mor:	adv|acá verb|estar-Fin-Ind-Imp-S3 adp|de noun|día-Masc sconj|porque adp|de noun|noche-Fem +...
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|CASE 4|2|OBL 5|6|MARK 6|2|ADVMOD 7|6|FIXED 8|2|PUNCT
+*CHI:	cómo se mete esto ?
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|meter-Fin-Ind-Pres-S3 pron|este-Dem-S1 ?
+%gra:	1|3|OBL 2|3|EXPL-PV 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+*MAR:	sí me llamaban ?
+%mor:	intj|sí pron|yo-Prs-Dat-S1 verb|llamar-Fin-Ind-Imp-P3 ?
+%gra:	1|3|ADVCL 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*MAR:	ah [!] qué bebé más lindo tiene allí .
+%mor:	intj|ah det|qué-Def-Int noun|bebé-Masc adv|más adj|lindo-S1 verb|tener-Fin-Ind-Pres-S3 adv|allí .
+%gra:	1|6|DEP 2|3|DET 3|6|NSUBJ 4|5|ADVMOD 5|3|AMOD 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+*CHI:	<es que> [/] es que éste es es el bebé de él ?
+%mor:	aux|ser-Fin-Ind-Pres-S3 sconj|que pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|bebé-Masc adp|de pron|él-Prs-AccNom-S3 ?
+%gra:	1|9|ROOT 2|7|MARK 3|7|NSUBJ 4|7|COP 5|7|COP 6|7|DET 7|1|CCOMP 8|9|CASE 9|7|NMOD 10|1|PUNCT
+*MAR:	ah [!] que ya lo tuvo ?
+%mor:	intj|ah pron|que-Rel-S1 adv|ya pron|él-Prs-Acc-S3 verb|tener-Fin-Ind-Past-S3 ?
+%gra:	1|5|DEP 2|5|NSUBJ 3|5|ADVMOD 4|5|OBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	pero necesita todavía asistencia médica no ?
+%mor:	cconj|pero verb|necesitar-Fin-Ind-Pres-S3 adv|todavía noun|asistencia-Fem-Acc adj|médico-S1 adv|no ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|ADVMOD 4|2|OBJ 5|4|AMOD 6|2|ADVMOD 7|2|PUNCT
+*CHI:	sí pero +...
+%mor:	intj|sí cconj|pero +...
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MAR:	bueno hay que asistirle .
+%mor:	adj|buen-S1 verb|haber-Fin-Ind-Pres-S3 sconj|que verb|asistir-Inf-S .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*CHI:	<ya> [/] ya (.) que ya no estaba enfermo ah [!] mi baby .
+%mor:	adv|ya sconj|que adv|ya adv|no aux|estar-Fin-Ind-Imp-S3 adj|enfermo-S1 x|ah det|mi-Def-Prs-Sing-S propn|baby .
+%gra:	1|6|MARK 2|1|FIXED 3|6|ADVMOD 4|6|ADVMOD 5|6|COP 6|9|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|6|PUNCT
+*MAR:	ah [!] qué hermoso ese bebé señor (.) se parece a usted .
+%mor:	intj|ah det|qué-Def-Int adj|hermoso-S1 det|ese-Masc-Def-Dem-Sing noun|bebé-Masc noun|señor-Masc pron|él-Prs-Acc-reflx-S3 verb|parecer-Fin-Ind-Pres-S3 adp|a pron|tú-Prs-AccNom-S2 .
+%gra:	1|8|DEP 2|3|DET 3|8|ADVCL 4|5|DET 5|8|NSUBJ 6|5|APPOS 7|8|EXPL-PV 8|10|ROOT 9|10|CASE 10|8|OBL-ARG 11|8|PUNCT
+*CHI:	ay [!] ay [!] ay [!] ay [!] .
+%mor:	propn|ay propn|ay propn|ay propn|ay .
+%gra:	1|4|ROOT 2|1|FLAT 3|1|FLAT 4|1|FLAT 5|1|PUNCT
+*MAR:	qué guapo es .
+%mor:	det|qué-Def-Int adj|guapo-S1 aux|ser-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|3|ROOT 3|2|COP 4|2|PUNCT
+*MAR:	qué le pasó ?
+%mor:	pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|pasar-Fin-Ind-Past-S3 ?
+%gra:	1|3|NSUBJ 2|3|OBL-ARG 3|3|ROOT 4|3|PUNCT
+*MAR:	se quebró la cabeza el bebé .
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|quebrar-Fin-Ind-Past-S3 det|el-Fem-Def-Art-Sing noun|cabeza-Fem det|el-Masc-Def-Art-Sing noun|bebé-Masc .
+%gra:	1|2|EXPL-PV 2|6|ROOT 3|4|DET 4|2|NSUBJ 5|6|DET 6|2|NSUBJ 7|2|PUNCT
+*CHI:	no (.) es que se cayó .
+%mor:	adv|no aux|ser-Fin-Ind-Pres-S3 sconj|que pron|él-Prs-Acc-reflx-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|MARK 4|5|EXPL-PV 5|2|CCOMP 6|2|PUNCT
+*MAR:	un momento <deje deje> [/] deje inspeccionarle aquí .
+%mor:	det|uno-Masc-Ind-Art-Sing noun|momento-Masc verb|dejar-Fin-Sub-Pres-S3 verb|inspeccionar-Inf-S adv|aquí .
+%gra:	1|2|DET 2|3|OBL 3|5|ROOT 4|3|XCOMP 5|4|ADVMOD 6|3|PUNCT
+*MAR:	el bebé se quebró la cabeza señora .
+%mor:	det|el-Masc-Def-Art-Sing noun|bebé-Masc pron|él-Prs-Acc-reflx-S3 verb|quebrar-Fin-Ind-Past-S3 det|el-Fem-Def-Art-Sing noun|cabeza-Fem-Acc adj|señora-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|7|ROOT 5|6|DET 6|4|OBJ 7|6|AMOD 8|4|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no (.) no no .
+%mor:	adv|no adv|no adv|no .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*MAR:	se le quebró ve eso oscuro allí ?
+%mor:	pron|él-Prs-Acc-reflx-S3 pron|él-Prs-Dat-S3 verb|quebrar-Fin-Ind-Past-S3 verb|ver-Fin-Ind-Pres-S3 pron|ese-Dem-S1 adj|oscuro-S1 adv|allí ?
+%gra:	1|3|EXPL-PV 2|3|OBL-ARG 3|7|ROOT 4|3|CSUBJ 5|4|OBJ 6|5|AMOD 7|4|ADVMOD 8|3|PUNCT
+*CHI:	no yo creo que (.) que se golpeó ?
+%mor:	adv|no pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que sconj|que pron|él-Prs-Acc-reflx-S3 verb|golpear-Fin-Ind-Past-S3 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ROOT 4|7|MARK 5|7|MARK 6|7|EXPL-PV 7|3|CCOMP 8|3|PUNCT
+*MAR:	sí se golpeó pero tiene la cabeza quebrada ve ?
+%mor:	intj|sí pron|él-Prs-Acc-reflx-S3 verb|golpear-Fin-Ind-Past-S3 cconj|pero verb|tener-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|cabeza-Fem-Acc adj|quebrado-S1 verb|ver-Fin-Ind-Pres-S3 ?
+%gra:	1|3|ADVCL 2|3|EXPL-PV 3|9|ROOT 4|5|CC 5|3|CONJ 6|7|DET 7|5|OBJ 8|7|AMOD 9|3|CONJ 10|3|PUNCT
+*CHI:	ah [!] pobrecito no llore mi bebito .
+%mor:	x|ah noun|pobrecito-Masc adv|no verb|llorar-Fin-Sub-Pres-S3 det|mi-Def-Prs-Sing-S noun|bebito-Masc .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|NSUBJ 7|4|PUNCT
+*MAR:	allí allí .
+%mor:	adv|allí adv|allí .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MAR:	no se ve pero hay que operarle también .
+%mor:	adv|no pron|él-Prs-Acc-reflx-S3 verb|ver-Fin-Ind-Pres-S3 cconj|pero verb|haber-Fin-Ind-Pres-S3 sconj|que verb|operar-Inf-S adv|también .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|8|ROOT 4|5|CC 5|3|CONJ 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|3|PUNCT
+*CHI:	que y que <ya vino la mamá> [/] ya vino la mamá .
+%mor:	sconj|que cconj|y pron|que-Rel-S1 adv|ya verb|venir-Fin-Ind-Past-S3 det|el-Fem-Def-Art-Sing noun|mamá-Fem .
+%gra:	1|5|MARK 2|5|CC 3|5|MARK 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|NSUBJ 8|5|PUNCT
+*MAR:	llama la mamá .
+%mor:	verb|llamar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|mamá-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MAR:	hola [!] qué ocurre aquí ?
+%mor:	verb|holar-Fin-Ind-Pres-S pron|qué-Int-S1 verb|ocurrir-Fin-Ind-Pres-S3 adv|aquí ?
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|ADVMOD 5|1|PUNCT
+*CHI:	aquí está tu bebé .
+%mor:	adv|aquí verb|estar-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|bebé-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*MAR:	pero ingrato qué has hecho con este hijo mío ?
+%mor:	cconj|pero adj|ingrato-S1 pron|qué-Int-S1 aux|haber-Fin-Ind-Pres-S2 verb|hacer-Part-Past-S adp|con det|este-Masc-Def-Dem-Sing noun|hijo-Masc adj|mío-S1 ?
+%gra:	1|5|ADVMOD 2|5|AMOD 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|8|AMOD 10|5|PUNCT
+*MAR:	qué has hecho ?
+%mor:	pron|qué-Int-S1 aux|haber-Fin-Ind-Pres-S2 verb|hacer-Part-Past-S ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*MAR:	dónde lo tenías ?
+%mor:	adv|dónde pron|él-Prs-Acc-S3 verb|tener-Fin-Ind-Pres-S1 ?
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	<es que es que> [/] es que nació otro hijo .
+%mor:	aux|ser-Fin-Ind-Pres-S3 sconj|que verb|nacer-Fin-Ind-Past-S3 det|otro-Masc-Def-Ind-Sing noun|hijo-Masc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|CCOMP 4|5|DET 5|3|NSUBJ 6|1|PUNCT
+*MAR:	Dios mío <de dónde> [/] de dónde nació el otro hijo (.) de otra mujer no ?
+%mor:	intj|dios adj|mío-S1 adp|de adv|dónde verb|nacer-Fin-Ind-Past-S3 det|el-Masc-Def-Art-Sing det|otro-Masc-Def-Ind-Sing noun|hijo-Masc adp|de det|otro-Fem-Def-Ind-Sing noun|mujer-Fem adv|no ?
+%gra:	1|12|ROOT 2|1|AMOD 3|4|CASE 4|5|ADVMOD 5|1|ACL 6|8|DET 7|6|DET 8|5|NSUBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|5|ADVMOD 13|1|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	traicionero [!] .
+%mor:	adj|traicionero-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ay [!] .
+%mor:	x|ay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	qué traicionero !
+%mor:	det|qué-Def-Int adj|traicionero-S1 !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MAR:	no te quiero <nada nada> [/] nada .
+%mor:	adv|no pron|tú-Prs-Dat-S2 verb|querer-Fin-Ind-Pres-S1 pron|nada-Neg-S1 .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MAR:	ya no .
+%mor:	adv|ya adv|no .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	es que +...
+%mor:	aux|ser-Fin-Ind-Pres-S3 sconj|que +...
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*MAR:	dame a ese hijo mío ah [!] ése no es mío ése es tuyo .
+%mor:	verb|dame-Fin-Ind-Pres-S adp|a det|ese-Masc-Def-Dem-Sing noun|hijo-Masc-Acc pron|mío-Prs-S1 propn|ah pron|ese-Dem-S1 adv|no aux|ser-Fin-Ind-Pres-S3 det|mío-Masc-Def-Prs-Sing-S pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 pron|tuyo-Prs-S1 .
+%gra:	1|13|ROOT 2|4|CASE 3|4|DET 4|1|OBJ 5|4|AMOD 6|7|CASE 7|10|NSUBJ 8|10|ADVMOD 9|13|COP 10|13|NSUBJ 11|13|NSUBJ 12|13|COP 13|1|PARATAXIS 14|1|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	dónde dejastes a mi hijo ?
+%mor:	adv|dónde verb|dejastar-Fin-Ind-Pres-S1 adp|a det|mi-Def-Prs-Sing-S noun|hijo-Masc-Acc ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|2|PUNCT
+*MAR:	dónde tienes a mi hijo escondido ?
+%mor:	adv|dónde verb|tener-Fin-Ind-Pres-S1 adp|a det|mi-Def-Prs-Sing-S noun|hijo-Masc-Acc adj|escondido-S1 ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|5|AMOD 7|2|PUNCT
+*CHI:	<es que> [/] es que yo no sabía que estaban todos ustedes ahí con esa señora .
+%mor:	aux|ser-Fin-Ind-Pres-S3 sconj|que pron|yo-Prs-Nom-S1 adv|no verb|saber-Fin-Ind-Imp-S3 sconj|que aux|estar-Fin-Ind-Imp-P3 pron|todo-Tot-P1 pron|tú-Prs-AccNom-P2 adv|ahí adp|con det|ese-Fem-Def-Dem-Sing noun|señora-Fem .
+%gra:	1|13|ROOT 2|5|MARK 3|5|NSUBJ 4|5|ADVMOD 5|1|CCOMP 6|7|MARK 7|5|CCOMP 8|10|NSUBJ 9|10|NSUBJ 10|7|ADVMOD 11|13|CASE 12|13|DET 13|10|OBL 14|1|PUNCT
+*MAR:	cómo ?
+%mor:	pron|cómo-Ind-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	que (.) <es que> [/] es que yo no sabía <que que> [/] que la xxx .
+%mor:	sconj|que aux|ser-Fin-Ind-Pres-S3 sconj|que pron|yo-Prs-Nom-S1 adv|no verb|saber-Fin-Ind-Imp-S3 sconj|que det|el-Fem-Def-Art-Sing .
+%gra:	1|2|MARK 2|8|ROOT 3|6|MARK 4|6|NSUBJ 5|6|ADVMOD 6|2|CCOMP 7|8|MARK 8|6|DET 9|2|PUNCT
+*MAR:	qué qué ?
+%mor:	pron|qué-Int-S1 pron|qué-Int-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MAR:	me voy y nunca te quiero volver a ver .
+%mor:	pron|yo-Prs-Dat-S1 verb|ir-Fin-Ind-Pres-S1 cconj|y adv|nunca pron|tú-Prs-Dat-S2 verb|querer-Fin-Ind-Pres-S1 verb|volver-Inf-S adp|a verb|ver-Inf-S .
+%gra:	1|2|EXPL-PV 2|9|ROOT 3|6|CC 4|6|ADVMOD 5|6|EXPL-PV 6|2|CONJ 7|6|XCOMP 8|9|MARK 9|7|XCOMP 10|2|PUNCT
+*CHI:	mamá mamá mamá .
+%mor:	noun|mamá-Fem adj|mamá-S1 noun|mamá-Fem .
+%gra:	1|3|ROOT 2|1|AMOD 3|1|APPOS 4|1|PUNCT
+*MAR:	tú no eres mi hijo .
+%mor:	pron|tú-Prs-Nom-S2 adv|no aux|ser-Fin-Ind-Pres-S1 det|mi-Def-Prs-Sing-S noun|hijo-Masc .
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+*MAR:	adiós .
+%mor:	noun|adiós-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	señora ?
+%mor:	noun|señora-Fem ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	señor ?
+%mor:	noun|señor-Masc ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	señora ?
+%mor:	noun|señora-Fem ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	sí qué vamos a hacer ahora ?
+%mor:	intj|sí pron|qué-Int-S1 verb|ir-Fin-Ind-Pres-P1 adp|a verb|hacer-Inf-S adv|ahora ?
+%gra:	1|3|ADVCL 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|3|ADVMOD 7|3|PUNCT
+*MAR:	(.) yo quiero divorciarme de ese hombre allá .
+%mor:	pron|yo-Prs-Nom-S1 verb|querer-Fin-Ind-Pres-S1 verb|divorciar-Inf-S adp|de det|ese-Masc-Def-Dem-Sing noun|hombre-Masc adv|allá .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|3|OBL 7|3|ADVMOD 8|2|PUNCT
+*CHI:	encuentre otro hombre pues .
+%mor:	verb|encontrar-Fin-Sub-Pres-S3 det|otro-Masc-Def-Ind-Sing noun|hombre-Masc-Acc sconj|pues .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT 5|1|PUNCT
+*MAR:	otro hombre ?
+%mor:	det|otro-Masc-Def-Ind-Sing noun|hombre-Masc ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	muy bien .
+%mor:	adv|mucho adv|bien .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MAR:	me encontraré otro hombre quieres ser mi marido ?
+%mor:	pron|yo-Prs-Dat-S1 verb|encontrar-Fin-Ind-Fut-S1 det|otro-Masc-Def-Ind-Sing noun|hombre-Masc-Acc aux|querer-Fin-Ind-Pres-S2 aux|ser-Inf-S det|mi-Def-Prs-Sing-S noun|marido-Masc ?
+%gra:	1|2|OBL-ARG 2|8|ROOT 3|4|DET 4|2|OBJ 5|2|ADVCL 6|8|COP 7|8|DET 8|5|XCOMP 9|2|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	pero por qué ?
+%mor:	cconj|pero adp|por pron|qué-Int-S1 ?
+%gra:	1|3|CC 2|3|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	porque no .
+%mor:	sconj|porque adv|no .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+*MAR:	bueno espero que (.) podamos seguir grabando .
+%mor:	adj|buen-S1 verb|esperar-Fin-Ind-Pres-S1 sconj|que aux|poder-Fin-Sub-Pres-P1 verb|seguir-Inf-S verb|grabar-Ger-S .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|5|MARK 4|5|AUX 5|2|CCOMP 6|5|XCOMP 7|2|PUNCT
+*CHI:	no no (.) encuentre otro .
+%mor:	adv|no adv|no verb|encontrar-Fin-Sub-Pres-S3 pron|otro-Ind-S1 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MAR:	cómo ?
+%mor:	pron|cómo-Ind-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	que encuentre otro usted .
+%mor:	pron|que-Rel-S1 verb|encontrar-Fin-Sub-Pres-S3 pron|otro-Ind-S1 pron|tú-Prs-AccNom-S2 .
+%gra:	1|2|MARK 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*MAR:	no yo le quiero a usted como mi marido .
+%mor:	adv|no pron|yo-Prs-Nom-S1 pron|él-Prs-Dat-S3 verb|querer-Fin-Ind-Pres-S1 adp|a pron|tú-Prs-AccNom-S2 sconj|como det|mi-Def-Prs-Sing-S noun|marido-Masc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|OBL-ARG 4|9|ROOT 5|6|CASE 6|4|OBJ 7|9|MARK 8|9|DET 9|4|OBL 10|4|PUNCT
+*CHI:	no no no .
+%mor:	adv|no adv|no adv|no .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*MAR:	pero por qué ?
+%mor:	cconj|pero adp|por pron|qué-Int-S1 ?
+%gra:	1|3|CC 2|3|CASE 3|3|ROOT 4|3|PUNCT
+*MAR:	está casado ?
+%mor:	aux|estar-Fin-Ind-Pres-S3 adj|casado-S1 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	no porque yo soy un trabajador .
+%mor:	adv|no sconj|porque pron|yo-Prs-Nom-S1 aux|ser-Fin-Ind-Pres-S1 det|uno-Masc-Ind-Art-Sing noun|trabajador-Masc .
+%gra:	1|6|ADVMOD 2|6|MARK 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+*MAR:	pues yo le ayudaré a trabajar con los carros .
+%mor:	sconj|pues pron|yo-Prs-Nom-S1 pron|él-Prs-Dat-S3 verb|ayudar-Fin-Ind-Fut-S1 adp|a verb|trabajar-Inf-S adp|con det|el-Masc-Def-Art-Plur noun|carro-Masc-Plur .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|OBL-ARG 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+*CHI:	ah [!] no porque yo estoy bien sucio por eso no quiero ser .
+%mor:	intj|ah adv|no sconj|porque pron|yo-Prs-Nom-S1 aux|estar-Fin-Ind-Pres-S1 adv|bien adj|sucio-S1 adp|por pron|ese-Dem-S1 adv|no verb|querer-Fin-Ind-Pres-S1 aux|ser-Inf-S .
+%gra:	1|7|DEP 2|1|ADVMOD 3|7|MARK 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|12|ROOT 8|9|CASE 9|11|OBL 10|11|ADVMOD 11|7|ADVCL 12|11|XCOMP 13|7|PUNCT
+*MAR:	<no me importa> [/] no me importa pero tenemos que continuar .
+%mor:	adv|no pron|yo-Prs-Dat-S1 verb|importar-Fin-Ind-Pres-S3 cconj|pero verb|tener-Fin-Ind-Pres-P1 sconj|que verb|continuar-Inf-S .
+%gra:	1|3|ADVMOD 2|3|OBL-ARG 3|7|ROOT 4|5|CC 5|3|CONJ 6|7|CC 7|5|XCOMP 8|3|PUNCT
+*CHI:	ay [!] tú [!] ya me voy .
+%mor:	intj|ay pron|tú-Prs-Nom-S2 adv|ya pron|yo-Prs-Dat-S1 verb|ir-Fin-Ind-Pres-S1 .
+%gra:	1|5|DEP 2|5|NSUBJ 3|5|ADVMOD 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*MAR:	bueno si se va +...
+%mor:	adj|buen-S1 sconj|si pron|él-Prs-Acc-reflx-S3 verb|ir-Fin-Ind-Pres-S3 +...
+%gra:	1|4|ROOT 2|4|MARK 3|4|EXPL-PV 4|1|CSUBJ 5|1|PUNCT
+*CHI:	xxx si no te vas entonces yo voy a llamar a la policía .
+%mor:	sconj|si adv|no pron|tú-Prs-Dat-S2 verb|ir-Fin-Ind-Pres-S1 adv|entonces pron|yo-Prs-Nom-S1 verb|ir-Fin-Ind-Pres-S1 adp|a verb|llamar-Inf-S adp|a det|el-Fem-Def-Art-Sing noun|policía-Acc .
+%gra:	1|4|MARK 2|4|ADVMOD 3|4|EXPL-PV 4|7|ADVCL 5|4|ADVMOD 6|7|NSUBJ 7|12|ROOT 8|9|MARK 9|7|XCOMP 10|12|CASE 11|12|DET 12|9|OBJ 13|7|PUNCT
+*MAR:	<no no no no> [/] no no me voy .
+%mor:	adv|no adv|no pron|yo-Prs-Dat-S1 verb|ir-Fin-Ind-Pres-S1 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+*MAR:	no me voy a ir (.) usted llame a la policía yo (.) aquí me quedo .
+%mor:	adv|no pron|yo-Prs-Dat-S1 verb|ir-Fin-Ind-Pres-S1 adp|a verb|ir-Inf-S pron|tú-Prs-AccNom-S2 verb|llame-Fin-Sub-Pres-S3 adp|a det|el-Fem-Def-Art-Sing noun|policía-Acc pron|yo-Prs-Nom-S1 adv|aquí pron|yo-Prs-Dat-S1 verb|quedo-Fin-Ind-Pres-S1 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|14|ROOT 4|5|MARK 5|3|XCOMP 6|7|NSUBJ 7|3|ADVCL 8|10|CASE 9|10|DET 10|7|OBJ 11|14|NSUBJ 12|14|ADVMOD 13|14|OBJ 14|7|ADVCL 15|3|PUNCT
+*CHI:	entonces la va a llevar a la cárcel la policía si no te vas .
+%mor:	adv|entonces pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|llevar-Inf-S adp|a det|el-Fem-Def-Art-Sing noun|cárcel-Fem det|el-Fem-Def-Art-Sing noun|policía-Acc sconj|si adv|no pron|tú-Prs-Dat-S2 verb|ir-Fin-Ind-Pres-S1 .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|14|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|DET 10|5|OBJ 11|14|MARK 12|14|ADVMOD 13|14|OBJ 14|5|ADVCL 15|3|PUNCT
+*MAR:	y que me lleve a la cárcel o donde quiera el policía .
+%mor:	cconj|y pron|que-Rel-S1 pron|yo-Prs-Dat-S1 verb|llevar-Fin-Sub-Pres-S3 adp|a det|el-Fem-Def-Art-Sing noun|cárcel-Fem cconj|o adv|donde verb|querer-Fin-Sub-Pres-S3 det|el-Masc-Def-Art-Sing noun|policía .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|EXPL-PV 4|12|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CC 9|10|ADVMOD 10|4|CONJ 11|12|DET 12|10|NSUBJ 13|4|PUNCT
+*CHI:	ah [!] bueno .
+%mor:	adv|ah adj|buen-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MAR:	pero (.) yo creo que aquí me quedo .
+%mor:	cconj|pero pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que adv|aquí pron|yo-Prs-Dat-S1 verb|quedo-Fin-Ind-Pres-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ROOT 4|7|MARK 5|7|ADVMOD 6|7|EXPL-PV 7|3|CCOMP 8|3|PUNCT
+*CHI:	entonces por qué <si si> [/] si quieres ser <mi mi mi mi mi> [/] mi mujer entonces por qué no quieres su baby ?
+%mor:	adv|entonces adp|por pron|qué-Int-S1 sconj|si aux|querer-Fin-Ind-Pres-S2 aux|ser-Inf-S det|mi-Def-Prs-Sing-S noun|mujer-Fem adv|entonces adp|por pron|qué-Int-S1 adv|no verb|querer-Fin-Ind-Pres-S1 det|su-Def-Prs-Sing noun|baby-Masc-Acc ?
+%gra:	1|13|ADVMOD 2|3|CASE 3|13|OBL 4|5|MARK 5|13|ADVCL 6|8|COP 7|8|DET 8|5|XCOMP 9|13|ADVMOD 10|11|CASE 11|13|OBL 12|13|ADVMOD 13|15|ROOT 14|15|DET 15|13|OBJ 16|13|PUNCT
+*MAR:	por qué ?
+%mor:	adp|por pron|qué-Int-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MAR:	ése no es mi bebé .
+%mor:	pron|ese-Dem-S1 adv|no aux|ser-Fin-Ind-Pres-S3 det|mi-Def-Prs-Sing-S noun|bebé-Masc .
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+*MAR:	yo quiero ser su mujer .
+%mor:	pron|yo-Prs-Nom-S1 verb|querer-Fin-Ind-Pres-S1 aux|ser-Inf-S det|su-Def-Prs-Sing noun|mujer-Fem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|COP 4|5|DET 5|2|XCOMP 6|2|PUNCT
+*CHI:	no se acuerda de él ?
+%mor:	adv|no pron|él-Prs-Acc-reflx-S3 verb|acordar-Fin-Ind-Pres-S3 adp|de pron|él-Prs-AccNom-S3 ?
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	no se acuerda de él ?
+%mor:	adv|no pron|él-Prs-Acc-reflx-S3 verb|acordar-Fin-Ind-Pres-S3 adp|de pron|él-Prs-AccNom-S3 ?
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*MAR:	no (.) ése no es mío .
+%mor:	adv|no pron|ese-Dem-S1 adv|no aux|ser-Fin-Ind-Pres-S3 pron|mío-Prs-S1 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|ADVMOD 4|5|COP 5|5|ROOT 6|5|PUNCT
+*CHI:	no se acuerda ?
+%mor:	adv|no pron|él-Prs-Acc-reflx-S3 verb|acordar-Fin-Ind-Pres-S3 ?
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*MAR:	no no no .
+%mor:	adv|no adv|no adv|no .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	entonces se lo guardo a la otra mamá .
+%mor:	adv|entonces pron|él-Prs-Acc-reflx-S3 pron|él-Prs-Acc-S3 verb|guardar-Fin-Ind-Pres-S1 adp|a det|el-Fem-Def-Art-Sing det|otro-Fem-Def-Ind-Sing noun|mamá-Fem .
+%gra:	1|4|ADVMOD 2|4|EXPL-PV 3|4|OBJ 4|8|ROOT 5|8|CASE 6|8|DET 7|6|DET 8|4|OBL-ARG 9|4|PUNCT
+*CHI:	a usted no .
+%mor:	det|a-Ind-Art noun|usted intj|no .
+%gra:	1|2|DET 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*MAR:	será mi bebé ?
+%mor:	aux|ser-Fin-Ind-Fut-S3 det|mi-Def-Prs-Sing-S noun|bebé-Masc ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	ah [!] si es mi bebé tráigalo acá por favor .
+%mor:	intj|ah sconj|si aux|ser-Fin-Ind-Pres-S3 det|mi-Def-Prs-Sing-S noun|bebé-Masc adj|tráigalo-S1 adv|acá adp|por noun|favor .
+%gra:	1|5|DEP 2|5|MARK 3|5|COP 4|5|DET 5|9|ROOT 6|5|AMOD 7|6|ADVMOD 8|6|ADVMOD 9|8|FIXED 10|5|PUNCT
+*CHI:	xxx éste es su marido .
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|su-Def-Prs-Sing noun|marido-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MAR:	no ése no es mi marido ése es <un traidor un traidor> [/] un traidor .
+%mor:	adv|no pron|ese-Dem-S1 adv|no aux|ser-Fin-Ind-Pres-S3 det|mi-Def-Prs-Sing-S noun|marido-Masc pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|traidor-Masc .
+%gra:	1|2|ADVMOD 2|6|NSUBJ 3|6|ADVMOD 4|6|COP 5|6|DET 6|10|NSUBJ 7|10|NSUBJ 8|10|COP 9|10|DET 10|10|ROOT 11|10|PUNCT
+*CHI:	ay [!] el doctor pero pero señora !
+%mor:	verb|ay-Fin-Ind-Pres-S det|el-Masc-Def-Art-Sing noun|doctor-Masc-Acc cconj|pero cconj|pero noun|señora-Fem !
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CC 5|6|CC 6|3|CONJ 7|1|PUNCT
+*MAR:	<qué> [/] qué ocurre ?
+%mor:	pron|qué-Int-S1 verb|ocurrir-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MAR:	sí señorita le puedo ayudar ?
+%mor:	intj|sí noun|señorita-Fem pron|él-Prs-Dat-S3 aux|poder-Fin-Ind-Pres-S1 verb|ayudar-Inf-S ?
+%gra:	1|5|ADVCL 2|5|NSUBJ 3|5|EXPL 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	<no> [/] no haga <a su> [/] a su marido así .
+%mor:	adv|no verb|hacer-Fin-Sub-Pres-S3 adp|a det|su-Def-Prs-Sing noun|marido-Masc-Acc adv|así .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|2|ADVMOD 7|2|PUNCT
+*MAR:	señora pero él me traicionó .
+%mor:	noun|señora-Fem cconj|pero pron|él-Prs-AccNom-S3 pron|yo-Prs-Dat-S1 verb|traicionar-Fin-Ind-Past-S3 .
+%gra:	1|5|ROOT 2|5|CC 3|5|NSUBJ 4|5|EXPL-PV 5|1|CONJ 6|1|PUNCT
+*MAR:	ah [!] lo reconozco .
+%mor:	intj|ah pron|él-Prs-Acc-S3 verb|reconocer-Fin-Ind-Pres-S1 .
+%gra:	1|3|DEP 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+*MAR:	la reconozco (.) usted señorita .
+%mor:	pron|él-Prs-Acc-S3 verb|reconocer-Fin-Ind-Pres-S1 det|tú-Def-Prs-Sing-S noun|señorita-Fem .
+%gra:	1|2|OBJ 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*MAR:	usted anduvo con mi marido .
+%mor:	pron|tú-Prs-AccNom-S2 verb|andar-Fin-Ind-Past-S1 adp|con det|mi-Def-Prs-Sing-S noun|marido-Masc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	no (.) si yo (.) yo lo +...
+%mor:	adv|no sconj|si pron|yo-Prs-Nom-S1 pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 +...
+%gra:	1|5|ADVMOD 2|5|MARK 3|5|NSUBJ 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	lo ayudé .
+%mor:	pron|él-Prs-Acc-S3 verb|ayudar-Fin-Ind-Past-S1 .
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+*MAR:	sí lo ayudo a qué ?
+%mor:	intj|sí pron|él-Prs-Acc-S3 verb|ayudo-Fin-Ind-Pres-S1 adp|a pron|qué-Int-S1 ?
+%gra:	1|3|ADVCL 2|3|OBJ 3|5|ROOT 4|5|CASE 5|3|OBL-ARG 6|3|PUNCT
+*MAR:	a que me dejara verdad ?
+%mor:	adp|a sconj|que pron|yo-Prs-Dat-S1 verb|dejar-Fin-Sub-Imp-S3 noun|verdad-Fem-Acc ?
+%gra:	1|4|MARK 2|4|MARK 3|4|OBL-ARG 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	sí sí .
+%mor:	intj|sí intj|sí .
+%gra:	1|2|ROOT 2|1|ADVCL 3|1|PUNCT
+*CHI:	<es que> [/] es que .
+%mor:	aux|ser-Fin-Ind-Pres-S3 sconj|que .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*MAR:	y me dejó con un bebé .
+%mor:	cconj|y pron|yo-Prs-Dat-S1 verb|dejar-Fin-Ind-Past-S3 adp|con det|uno-Masc-Ind-Art-Sing noun|bebé-Masc .
+%gra:	1|3|CC 2|3|EXPL-PV 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	pero espérese .
+%mor:	cconj|pero verb|espéresar-Fin-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	pero es que sabe qué ?
+%mor:	cconj|pero aux|ser-Fin-Ind-Pres-S3 sconj|que verb|saber-Fin-Ind-Pres-S3 pron|qué-Int-S1 ?
+%gra:	1|2|CC 2|5|ROOT 3|4|MARK 4|2|CCOMP 5|4|OBJ 6|2|PUNCT
+*MAR:	qué ?
+%mor:	pron|qué-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<es que> [/] es que ese señor estaba trabajando con él y se golpeó .
+%mor:	aux|ser-Fin-Ind-Pres-S3 sconj|que det|ese-Masc-Def-Dem-Sing noun|señor-Masc aux|estar-Fin-Ind-Imp-S3 verb|trabajar-Ger-S adp|con pron|él-Prs-AccNom-S3 cconj|y pron|él-Prs-Acc-reflx-S3 verb|golpear-Fin-Ind-Past-S3 .
+%gra:	1|11|ROOT 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|AUX 6|1|CCOMP 7|8|CASE 8|6|OBL 9|11|CC 10|11|EXPL-PV 11|6|CONJ 12|1|PUNCT
+*MAR:	sí sí (.) pero usted fue la culpable de que él me dejara .
+%mor:	intj|sí intj|sí cconj|pero pron|tú-Prs-AccNom-S2 aux|ser-Fin-Ind-Past-S3 det|el-Fem-Def-Art-Sing noun|culpable adp|de sconj|que pron|él-Prs-AccNom-S3 pron|yo-Prs-Dat-S1 verb|dejar-Fin-Sub-Imp-S3 .
+%gra:	1|7|ADVCL 2|7|ADVCL 3|7|CC 4|7|NSUBJ 5|7|COP 6|7|DET 7|12|ROOT 8|12|MARK 9|12|MARK 10|12|NSUBJ 11|12|OBL-ARG 12|7|ACL 13|7|PUNCT
+*CHI:	no yo no dejo que la deje .
+%mor:	adv|no pron|yo-Prs-Nom-S1 adv|no verb|dejar-Fin-Ind-Pres-S1 sconj|que pron|él-Prs-Acc-S3 verb|dejar-Fin-Sub-Pres-S3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|7|MARK 6|7|OBJ 7|4|CCOMP 8|4|PUNCT
+*MAR:	sí porque usted lo cuidó se estuvo allí en la oficina mientras se recuperaba .
+%mor:	intj|sí sconj|porque pron|tú-Prs-AccNom-S2 pron|él-Prs-Acc-S3 verb|cuidar-Fin-Ind-Past-S3 pron|él-Prs-Acc-reflx-S3 verb|estar-Fin-Ind-Past-S3 adv|allí adp|en det|el-Fem-Def-Art-Sing noun|oficina-Fem sconj|mientras pron|él-Prs-Acc-reflx-S3 verb|recuperar-Fin-Ind-Imp-S3 .
+%gra:	1|7|ADVCL 2|5|MARK 3|5|NSUBJ 4|5|OBJ 5|7|ADVCL 6|7|EXPL-PV 7|14|ROOT 8|7|ADVMOD 9|11|CASE 10|11|DET 11|7|OBL 12|14|MARK 13|14|EXPL-PV 14|7|ADVCL 15|7|PUNCT
+*CHI:	le dije que se cuide .
+%mor:	pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S1 sconj|que pron|él-Prs-Acc-reflx-S3 verb|cuidar-Fin-Sub-Pres-S3 .
+%gra:	1|2|OBL-ARG 2|5|ROOT 3|5|MARK 4|5|EXPL-PV 5|2|CCOMP 6|2|PUNCT
+*MAR:	sí le dijo que se cuidara y le dijo muchísimas cosas más .
+%mor:	intj|sí pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S3 sconj|que pron|él-Prs-Acc-reflx-S3 verb|cuidar-Fin-Sub-Imp-S3 cconj|y pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S3 det|muchísimo-Fem-Def-Ind-Plur noun|cosa-Fem-Plur-Acc adv|más .
+%gra:	1|3|ADVCL 2|3|OBL-ARG 3|12|ROOT 4|6|MARK 5|6|EXPL-PV 6|3|CCOMP 7|9|CC 8|9|OBL-ARG 9|6|CONJ 10|11|DET 11|9|OBJ 12|11|ADVMOD 13|3|PUNCT
+*CHI:	llame <al> [/] al doctor <para que lo> [///] para que no se enferme mucho señora .
+%mor:	verb|llame-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|doctor-Masc-Acc adp|para sconj|que adv|no pron|él-Prs-Acc-reflx-S3 verb|enfer-Fin-Sub-Pres-S3 det|mucho-Def-Ind-Sing noun|señora-Fem .
+%gra:	1|10|ROOT 2|3|DET 3|1|OBJ 4|8|MARK 5|8|MARK 6|8|ADVMOD 7|8|EXPL-PV 8|1|ADVCL 9|10|DET 10|8|NSUBJ 11|1|PUNCT
+*MAR:	no señorita <usted no nada más le cuidó> [/] usted no nada más le cuidó .
+%mor:	adv|no adj|señorita-S1 pron|tú-Prs-AccNom-S2 adv|no pron|nada-Neg-S1 adv|más pron|él-Prs-Dat-S3 verb|cuidar-Fin-Ind-Past-S3 .
+%gra:	1|2|ADVMOD 2|8|ADVCL 3|8|NSUBJ 4|2|ADVMOD 5|8|NSUBJ 6|5|ADVMOD 7|8|OBL-ARG 8|8|ROOT 9|8|PUNCT
+*CHI:	entonces .
+%mor:	adv|entonces .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	se pasó de cuidarle se pasó señorita .
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|pasar-Fin-Ind-Past-S3 adp|de verb|cuidar-Inf-S pron|él-Prs-Acc-reflx-S3 verb|pasar-Fin-Ind-Past-S3 noun|señorita-Fem .
+%gra:	1|2|EXPL-PV 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|6|EXPL-PV 6|2|ADVCL 7|6|NSUBJ 8|2|PUNCT
+*CHI:	okay [!] ya no voy a hacer eso okay ?
+%mor:	propn|okay adv|ya adv|no verb|ir-Fin-Ind-Pres-S1 adp|a verb|hacer-Inf-S pron|ese-Dem-S1 noun|okay ?
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|ADVMOD 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|7|APPOS 9|4|PUNCT
+*MAR:	<qué> [/] qué pretende ah ?
+%mor:	pron|qué-Int-S1 verb|pretender-Fin-Ind-Pres-S3 x|ah ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MAR:	qué pretende ?
+%mor:	pron|qué-Int-S1 verb|pretender-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	le voy a traer a su esposo venga a verlo .
+%mor:	pron|él-Prs-Dat-S3 verb|ir-Fin-Ind-Pres-S1 adp|a verb|traer-Inf-S adp|a det|su-Def-Prs-Sing noun|esposo-Masc-Acc verb|venir-Fin-Sub-Pres-S3 adp|a verb|ver-Inf-S .
+%gra:	1|2|OBL-ARG 2|10|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBJ 8|2|ADVCL 9|10|MARK 10|8|XCOMP 11|2|PUNCT
+*MAR:	no lo quiero ver dígale que si él quiere que venga (.) a pedirme perdón .
+%mor:	adv|no pron|él-Prs-Acc-S3 verb|querer-Fin-Ind-Pres-S1 verb|ver-Inf-S verb|dígalar-Fin-Sub-Pres-S3 sconj|que sconj|si pron|él-Prs-AccNom-S3 verb|querer-Fin-Ind-Pres-S3 sconj|que verb|venir-Fin-Sub-Pres-S3 adp|a verb|pedir-Inf-S noun|perdón-Masc-Acc .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|14|ROOT 4|3|XCOMP 5|3|CSUBJ 6|9|MARK 7|9|MARK 8|9|NSUBJ 9|5|ADVCL 10|11|MARK 11|9|CCOMP 12|13|MARK 13|11|XCOMP 14|13|OBJ 15|3|PUNCT
+*CHI:	perdóneme perdóneme .
+%mor:	adj|perdóneme-S1 adj|perdóneme-S1 .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MAR:	imbécil [!] imbécil [!] .
+%mor:	adj|imbécil-S1 adj|imbécil-S1 .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MAR:	pero tú quién te crees que eres ah ?
+%mor:	cconj|pero pron|tú-Prs-Nom-S2 pron|quién-Int-S1 pron|tú-Prs-Dat-S2 verb|creer-Fin-Ind-Pres-S1 sconj|que aux|ser-Fin-Ind-Pres-S2 x|ah ?
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|NSUBJ 4|5|OBL-ARG 5|8|ROOT 6|8|MARK 7|8|COP 8|5|CCOMP 9|5|PUNCT
+*MAR:	quién te crees ?
+%mor:	pron|quién-Int-S1 pron|tú-Prs-Dat-S2 verb|creer-Fin-Ind-Pres-S1 ?
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx sabes ?
+%mor:	verb|saber-Fin-Ind-Pres-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	ya no te quiero .
+%mor:	adv|ya adv|no pron|tú-Prs-Dat-S2 verb|querer-Fin-Ind-Pres-S1 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+*MAR:	quiero divorciarme .
+%mor:	verb|querer-Fin-Ind-Pres-S1 verb|divorciar-Inf-S .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+*MAR:	me quiero casar (.) con ese señor .
+%mor:	pron|yo-Prs-Dat-S1 verb|querer-Fin-Ind-Pres-S1 verb|casar-Inf-S adp|con det|ese-Masc-Def-Dem-Sing noun|señor-Masc .
+%gra:	1|2|EXPL-PV 2|6|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+*CHI:	es que yo estaba tratando de hacer eso .
+%mor:	aux|ser-Fin-Ind-Pres-S3 sconj|que pron|yo-Prs-Nom-S1 aux|estar-Fin-Ind-Imp-S3 verb|tratar-Ger-S adp|de verb|hacer-Inf-S pron|ese-Dem-S1 .
+%gra:	1|8|ROOT 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|1|PUNCT
+*MAR:	bueno yo voy a considerar muy bien antes de hacer (.) antes de aceptar (.) retornar contigo .
+%mor:	adj|buen-S1 pron|yo-Prs-Nom-S1 verb|ir-Fin-Ind-Pres-S1 adp|a verb|considerar-Inf-S adv|mucho adv|bien adv|antes adp|de verb|hacer-Inf-S adv|antes adp|de verb|aceptar-Inf-S verb|retornar-Inf-S pron|tú-Prs-S2 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|15|ROOT 4|5|MARK 5|3|XCOMP 6|7|ADVMOD 7|5|ADVMOD 8|3|ADVMOD 9|10|MARK 10|8|ADVCL 11|10|ADVMOD 12|13|MARK 13|10|ADVCL 14|13|XCOMP 15|14|OBJ 16|3|PUNCT
+*CHI:	qué bueno señora !
+%mor:	det|qué-Def-Int adj|buen-S1 noun|señora-Fem !
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	señora qué bueno !
+%mor:	noun|señora-Fem det|qué-Def-Int adj|buen-S1 !
+%gra:	1|3|ROOT 2|3|DET 3|1|AMOD 4|1|PUNCT
+*MAR:	bueno sí sí señor constructor usted me ha caido muy bien pero creo que quiero pensar las cosas un poco más no ?
+%mor:	adj|buen-S1 intj|sí intj|sí noun|señor-Masc noun|constructor-Masc pron|tú-Prs-AccNom-S2 pron|yo-Prs-Dat-S1 aux|haber-Fin-Ind-Pres-S3 verb|caer-Part-Past-S adv|mucho adv|bien cconj|pero verb|creer-Fin-Ind-Pres-S1 sconj|que verb|querer-Fin-Ind-Pres-S1 verb|pensar-Inf-S det|el-Fem-Def-Art-Plur noun|cosa-Fem-Plur-Acc det|uno-Masc-Ind-Art-Sing pron|poco-Ind-S1 adv|más adv|no ?
+%gra:	1|9|AMOD 2|9|ADVCL 3|9|ADVCL 4|9|NSUBJ 5|4|AMOD 6|9|NSUBJ 7|9|EXPL-PV 8|9|AUX 9|22|ROOT 10|11|ADVMOD 11|9|ADVMOD 12|13|CC 13|9|CONJ 14|15|MARK 15|13|CCOMP 16|15|XCOMP 17|18|DET 18|16|OBJ 19|21|ADVMOD 20|19|FIXED 21|22|ADVMOD 22|16|ADVMOD 23|9|PUNCT
+*MAR:	antes de hacer (.) cualquier cosa .
+%mor:	adv|antes adp|de verb|hacer-Inf-S det|cualquiera-Def-Ind-Sing noun|cosa-Fem-Acc .
+%gra:	1|3|MARK 2|1|FIXED 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	tenga su bebé .
+%mor:	verb|tener-Fin-Sub-Pres-S3 det|su-Def-Prs-Sing noun|bebé-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MAR:	muchas gracias le puedo dar un beso ?
+%mor:	det|mucho-Fem-Def-Ind-Plur noun|gracia-Fem-Plur pron|él-Prs-Dat-S3 aux|poder-Fin-Ind-Pres-S1 verb|dar-Inf-S det|uno-Masc-Ind-Art-Sing noun|beso-Masc-Acc ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|EXPL 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	gracias [!] .
+%mor:	noun|gracia-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	a usted señor .
+%mor:	adp|a det|tú-Def-Prs-Sing-S noun|señor-Masc .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MAR:	un beso por favor (.) al bebé no (.) a mí .
+%mor:	det|uno-Masc-Ind-Art-Sing noun|beso-Masc adp|por noun|favor adp|al noun|bebé-Masc adv|no adp|a pron|yo-Prs-Acc-S1 .
+%gra:	1|2|DET 2|9|ROOT 3|2|ADVMOD 4|3|FIXED 5|6|CASE 6|2|NMOD 7|2|ADVMOD 8|9|CASE 9|7|NMOD 10|2|PUNCT
+*MAR:	bueno <me voy me voy> [/] me voy con mi marido vale ?
+%mor:	adj|buen-S1 pron|yo-Prs-Dat-S1 verb|ir-Fin-Ind-Pres-S1 adp|con det|mi-Def-Prs-Sing-S noun|marido-Masc verb|valer-Fin-Ind-Pres-S3 ?
+%gra:	1|3|AMOD 2|3|EXPL-PV 3|7|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|ADVCL 8|3|PUNCT
+*MAR:	ya ?
+%mor:	adv|ya ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	bueno estamos en un momento de reconciliación .
+%mor:	adj|buen-S1 aux|estar-Fin-Ind-Pres-P1 adp|en det|uno-Masc-Ind-Art-Sing noun|momento-Masc adp|de noun|reconciliación-Fem .
+%gra:	1|2|AMOD 2|7|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CASE 7|5|NMOD 8|2|PUNCT
+*MAR:	adiós .
+%mor:	noun|adiós-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tenga su baby .
+%mor:	verb|tener-Fin-Sub-Pres-S3 det|su-Def-Prs-Sing noun|baby-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MAR:	bueno el bebé hay que guardarlo vale ?
+%mor:	adj|buen-S1 det|el-Masc-Def-Art-Sing noun|bebé-Masc verb|haber-Fin-Ind-Pres-S3 sconj|que verb|guardarlo-Inf-S verb|valer-Fin-Ind-Pres-S3 ?
+%gra:	1|4|AMOD 2|3|DET 3|6|NSUBJ 4|7|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+*MAR:	y hay que guardar todo también que mañana quizás retornaremos <muy bien> [/] muy bien todo aquí y usted cómo se siente señorita ?
+%mor:	cconj|y verb|haber-Fin-Ind-Pres-S3 sconj|que verb|guardar-Inf-S pron|todo-Tot-S1 adv|también sconj|que adv|mañana adv|quizás verb|retornar-Fin-Ind-Pres-P1 adv|mucho adv|bien pron|todo-Tot-S1 adv|aquí cconj|y pron|tú-Prs-AccNom-S2 pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|sentir-Fin-Ind-Pres-S3 adj|señorita-S1 ?
+%gra:	1|2|CC 2|20|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|ADVMOD 7|10|MARK 8|10|ADVMOD 9|10|ADVMOD 10|4|CCOMP 11|12|ADVMOD 12|10|ADVMOD 13|10|OBJ 14|10|ADVMOD 15|19|CC 16|19|NSUBJ 17|19|OBL 18|19|EXPL-PV 19|10|CONJ 20|19|XCOMP 21|2|PUNCT
+*CHI:	bien ?
+%mor:	adv|bien ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	sí ?
+%mor:	intj|sí ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	cómo se llama ?
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 ?
+%gra:	1|3|OBL 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*CHI:	Johanna .
+%mor:	propn|Johanna .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	cómo ?
+%mor:	pron|cómo-Ind-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Johanna .
+%mor:	propn|Johanna .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	cómo ?
+%mor:	pron|cómo-Ind-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Johanna .
+%mor:	propn|Johanna .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	Melina ?
+%mor:	propn|Melina ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	Vania ?
+%mor:	propn|vania ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Johanna .
+%mor:	propn|Johanna .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	ah [!] Johanna .
+%mor:	x|ah propn|Johanna .
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+@End
