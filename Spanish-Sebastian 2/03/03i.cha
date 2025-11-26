@@ -1,0 +1,135 @@
+@UTF8
+@PID:	11312/a-00073526-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-Sebastian|CHI|3;10.||||Target_Child|||
+@G:	01
+@Types:	cross, narrative, TD
+*CHI:	aquí aquí que están viendo la rana [^ hm: sí] .
+%mor:	adv|aquí adv|aquí sconj|que aux|estar-Fin-Ind-Pres-P3 verb|ver-Ger-S det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|MARK 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+@G:	02a
+*CHI:	(..) aquí que está durmiendo .
+%mor:	adv|aquí sconj|que aux|estar-Fin-Ind-Pres-S3 verb|dormir-Ger-S .
+%gra:	1|4|ADVMOD 2|4|MARK 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*CHI:	y la rana está saliendo [^ claro] .
+%mor:	cconj|y det|el-Fem-Def-Art noun|rana-Fem aux|estar-Fin-Ind-Pres-S3 verb|salir-Ger-S .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+@G:	03a
+*CHI:	aquí que (..) [^ aquí que aquí ta ] se está poniendo (..) .
+%mor:	adv|aquí sconj|que pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|poner-Ger-S .
+%gra:	1|5|ADVMOD 2|5|MARK 3|5|EXPL-PASS 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	y aquí el perro se está metiendo aquí .
+%mor:	cconj|y adv|aquí det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|meter-Ger-S adv|aquí .
+%gra:	1|7|ADVMOD 2|7|ADVMOD 3|4|DET 4|7|NSUBJ 5|7|EXPL-PV 6|7|AUX 7|8|ROOT 8|7|ADVMOD 9|7|PUNCT
+*CHI:	a mirar .
+%mor:	adp|a verb|mirar-Inf-S .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+*CHI:	si está la rana [^ cla , ro] (..) .
+%mor:	sconj|si verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+@G:	03b
+*CHI:	[^ aquí está-] aquí ha abierto los ojos .
+%mor:	adv|aquí aux|haber-Fin-Ind-Pres-S3 verb|abrir-Part-Past-S det|el-Masc-Def-Art noun|ojo-Masc-Plur .
+%gra:	1|3|ADVMOD 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	y no está [^ no está] .
+%mor:	cconj|y adv|no verb|estar-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+@G:	04a
+*CHI:	aquí se está cayendo [^ claro] .
+%mor:	adv|aquí pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|caer-Ger-S .
+%gra:	1|4|ADVMOD 2|4|EXPL-PASS 3|4|AUX 4|4|ROOT 5|4|PUNCT
+@G:	04b
+*CHI:	aquí [^ se ha roto ] se ha roto el xxx de la rana [^ hm:] .
+%mor:	adv|aquí pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|romper-Part-Past-S det|el-Masc-Def-Art adp|de det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|4|ADVMOD 2|4|EXPL-PV 3|4|AUX 4|8|ROOT 5|4|DET 6|5|CASE 7|8|DET 8|5|NSUBJ 9|4|PUNCT
+*CHI:	aquí están llamando [^ hm:] (..) [^ ? qué pasa Miguel ?] (..) [^ algo más ?] (..) [^ pasamos ?] [^ pasamos] [^ pasamos] .
+%mor:	adv|aquí aux|estar-Fin-Ind-Pres-P3 verb|llamar-Ger-S .
+%gra:	1|3|ADVMOD 2|3|AUX 3|3|ROOT 4|3|PUNCT
+@G:	06a
+*CHI:	(..) aquí que quiere alcanzar el la pelota [^ hm:] .
+%mor:	adv|aquí sconj|que verb|querer-Fin-Ind-Pres-S3 verb|alcanzar-Inf-S det|el-Masc-Def-Art det|el-Fem-Def-Art noun|pelota-Fem .
+%gra:	1|3|ADVMOD 2|3|MARK 3|7|ROOT 4|3|XCOMP 5|7|DET 6|7|DET 7|4|OBJ 8|3|PUNCT
+@G:	06b
+*CHI:	(..) aquí: que (..) aquí que ha salido un una un (..) no sé [^ es un bicho] un bicho .
+%mor:	adv|aquí sconj|que adv|aquí sconj|que aux|haber-Fin-Ind-Pres-S3 verb|salir-Part-Past-S det|uno-Masc-Ind-Art det|uno-Fem-Ind-Art det|uno-Masc-Ind-Art adv|no verb|saber-Fin-Ind-Pres-S1 det|uno-Masc-Ind-Art noun|bicho-Masc .
+%gra:	1|11|ADVMOD 2|11|MARK 3|11|ADVMOD 4|6|MARK 5|6|AUX 6|1|ADVCL 7|8|DET 8|6|NSUBJ 9|8|DET 10|11|ADVMOD 11|13|ROOT 12|13|DET 13|11|OBJ 14|11|PUNCT
+@G:	07
+*CHI:	(..) aquí [^ que que que salen que salen ] que salen muchas abejas [^ claro] .
+%mor:	adv|aquí sconj|que verb|salir-Fin-Ind-Pres-P3 det|mucho-Fem-Def-Ind noun|abejas-Fem-Plur .
+%gra:	1|3|ADVMOD 2|3|MARK 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*CHI:	(..) aquí [^ que se ha subido a un] (.) que se ha subido a un árbol [^ hm:] .
+%mor:	adv|aquí sconj|que pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|subir-Part-Past-S adp|a det|uno-Masc-Ind-Art noun|árbol-Masc .
+%gra:	1|5|ADVMOD 2|5|MARK 3|5|EXPL-IMPERS 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+@G:	08
+*CHI:	(..) aquí [^ que se ha caído ] que se ha caído del árbol [^ claro] .
+%mor:	adv|aquí sconj|que pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|caer-Part-Past-S det|del-Masc-Def-Art noun|árbol-Masc .
+%gra:	1|5|ADVMOD 2|1|FIXED 3|5|EXPL-PV 4|5|AUX 5|7|ROOT 6|7|DET 7|5|NSUBJ 8|5|PUNCT
+*CHI:	y aquí que está corriendo el perro .
+%mor:	cconj|y adv|aquí sconj|que aux|estar-Fin-Ind-Pres-S3 verb|correr-Ger-S det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|MARK 4|5|AUX 5|7|ROOT 6|7|DET 7|5|NSUBJ 8|5|PUNCT
+*CHI:	para que no le cojan las las abejas [^ claro] .
+%mor:	adp|para sconj|que adv|no pron|él-Prs-Dat-S3 verb|cojar-Fin-Sub-Pres-P3 det|el-Fem-Def-Art det|el-Fem-Def-Art noun|abejas-Fem-Plur .
+%gra:	1|5|MARK 2|5|MARK 3|5|ADVMOD 4|5|OBJ 5|8|ROOT 6|7|DET 7|8|DET 8|5|NSUBJ 9|5|PUNCT
+@G:	09a
+*CHI:	aquí aquí que ha tropezado (..) .
+%mor:	adv|aquí adv|aquí sconj|que aux|haber-Fin-Ind-Pres-S3 verb|tropezar-Part-Past-S .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|MARK 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	que se está subiendo a una montaña [^ hm:] .
+%mor:	sconj|que pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|subir-Ger-S adp|a det|uno-Fem-Ind-Art noun|montaña-Fem .
+%gra:	1|4|MARK 2|4|EXPL-PASS 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+@G:	09b
+*CHI:	aquí que ya se ha subido [^ hm:] .
+%mor:	adv|aquí sconj|que adv|ya pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|subir-Part-Past-S .
+%gra:	1|6|ADVMOD 2|6|MARK 3|6|ADVMOD 4|6|EXPL-PASS 5|6|AUX 6|6|ROOT 7|6|PUNCT
+@G:	10a
+*CHI:	aquí [^ que se aquí que se ha ] que se ha subido aquí [^ hm:] .
+%mor:	adv|aquí sconj|que pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|subir-Part-Past-S adv|aquí .
+%gra:	1|5|ADVMOD 2|1|FIXED 3|5|EXPL-PASS 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+@G:	10b
+*CHI:	y aquí que está corriendo el perro y y y el antílope detrás con con el niño [^ hm:] .
+%mor:	cconj|y adv|aquí sconj|que aux|estar-Fin-Ind-Pres-S3 verb|correr-Ger-S det|el-Masc-Def-Art noun|perro-Masc cconj|y cconj|y cconj|y det|el-Masc-Def-Art noun|antílope-Masc adv|detrás adp|con adp|con det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|2|FIXED 4|5|AUX 5|17|ROOT 6|7|DET 7|5|NSUBJ 8|12|CC 9|12|CC 10|12|CC 11|12|DET 12|7|CONJ 13|17|CASE 14|13|FIXED 15|17|CASE 16|17|DET 17|12|NMOD 18|5|PUNCT
+*CHI:	y el antílope detrás con el niño .
+%mor:	cconj|y det|el-Masc-Def-Art noun|antílope-Masc adv|detrás adp|con det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|3|CC 2|3|DET 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+@G:	11
+*CHI:	aquí [^ que se caen] que se caen los dos al agua [^ hm:] aquí (..) [^ ? algo más ?] no .
+%mor:	adv|aquí sconj|que pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-P3 det|el-Masc-Def-Art num|dos det|al-Masc-Def-Art noun|agua-Fem adv|aquí adv|no .
+%gra:	1|4|ADVMOD 2|4|MARK 3|4|EXPL-PV 4|10|ROOT 5|6|DET 6|4|NSUBJ 7|8|DET 8|4|OBL 9|4|ADVMOD 10|4|ADVMOD 11|4|PUNCT
+@G:	12a
+*CHI:	aquí que ya se han caído [^ sí:] .
+%mor:	adv|aquí sconj|que adv|ya pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-P3 verb|caer-Part-Past-S .
+%gra:	1|6|ADVMOD 2|6|MARK 3|6|ADVMOD 4|6|EXPL-PASS 5|6|AUX 6|6|ROOT 7|6|PUNCT
+@G:	12b
+*CHI:	aquí que están en el agua [^ hm:] .
+%mor:	adv|aquí sconj|que verb|estar-Fin-Ind-Pres-P3 adp|en det|el-Masc-Def-Art noun|agua-Fem .
+%gra:	1|3|MARK 2|1|FIXED 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+@G:	13a
+*CHI:	aquí que le dice .
+%mor:	adv|aquí sconj|que pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S3 .
+%gra:	1|4|ADVMOD 2|4|MARK 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	que calle [^ hm:] .
+%mor:	sconj|que noun|calle-Fem .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+@G:	13b
+*CHI:	aquí se ha subido a un tronco [^ hm:] .
+%mor:	adv|aquí pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|subir-Part-Past-S adp|a det|uno-Masc-Ind-Art noun|tronco-Masc .
+%gra:	1|4|ADVMOD 2|4|EXPL-IMPERS 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+@G:	14a
+*CHI:	aquí que encuentran dos ranas [^ encuentran dos ranas hm:] .
+%mor:	adv|aquí sconj|que verb|encontrar-Fin-Ind-Pres-P3 num|dos noun|rana-Fem-Plur .
+%gra:	1|3|ADVMOD 2|3|MARK 3|5|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|PUNCT
+@G:	14b
+*CHI:	(..) y aquí que salen muchos pequeñines [^ uhh sí] .
+%mor:	cconj|y adv|aquí sconj|que verb|salir-Fin-Ind-Pres-P3 det|mucho-Masc-Def-Ind noun|pequeñin-Masc-Plur .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|MARK 4|6|ROOT 5|6|DET 6|4|NSUBJ 7|4|PUNCT
+@G:	15
+*CHI:	(..) a aquí aquí que parece un mono pequeñín (..) [^ ? y qué más ?] .
+%mor:	adp|a adv|aquí adv|aquí sconj|que verb|parecer-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|mono-Masc adj|pequeñín-Pos-S1 .
+%gra:	1|2|CASE 2|5|ADVMOD 3|5|ADVMOD 4|5|MARK 5|8|ROOT 6|7|DET 7|5|XCOMP 8|7|AMOD 9|5|PUNCT
+*CHI:	(..) y que tiene una rana [^ ? quién ?] el niño [^ hm:] [^ ? y aquí ?] [^ aquí ya se ha terminado] .
+%mor:	cconj|y pron|que-Rel-S1 verb|tener-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|rana-Fem det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|DET 7|3|NSUBJ 8|3|PUNCT
+@End

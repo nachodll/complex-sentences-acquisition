@@ -1,0 +1,199 @@
+@UTF8
+@PID:	11312/a-00073514-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-Sebastian|CHI|20;||||Target_Child|||
+@G:	01
+@Types:	cross, narrative, TD
+*CHI:	ésta es (..) hm: (..) un (..) un niño y un perro .
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 adj|hm-Pos-S1 det|uno-Masc-Ind-Art det|uno-Masc-Ind-Art noun|niño-Masc cconj|y det|uno-Masc-Ind-Art noun|perro-Masc .
+%gra:	1|3|NSUBJ 2|3|COP 3|9|ROOT 4|6|DET 5|6|DET 6|3|NSUBJ 7|9|CC 8|9|DET 9|6|CONJ 10|3|PUNCT
+*CHI:	que estaban muy contentos .
+%mor:	sconj|que aux|estar-Fin-Ind-Imp-P3 adv|mucho adj|contento-Pos-P1 .
+%gra:	1|4|MARK 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	porque tienen una ranita (..) .
+%mor:	sconj|porque verb|tener-Fin-Ind-Pres-P3 det|uno-Fem-Ind-Art noun|ranita-Fem .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	tienen una ranita en una jarra de cristal .
+%mor:	verb|tener-Fin-Ind-Pres-P3 det|uno-Fem-Ind-Art noun|ranita-Fem adp|en det|uno-Fem-Ind-Art noun|jarra-Fem adp|de noun|cristal-Masc .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CASE 8|6|NMOD 9|1|PUNCT
+@G:	02a
+*CHI:	eh (..) se ponen a dormir .
+%mor:	intj|eh pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Pres-P3 adp|a verb|dormir-Inf-S .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*CHI:	y: la rana [^ aprovechando que están dormidos] sale de su jarro .
+%mor:	cconj|y det|el-Fem-Def-Art noun|rana-Fem verb|salir-Fin-Ind-Pres-S3 adp|de det|su-Def-Prs noun|jarro-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	[^ aprovechando que están dormidos] y: se escapa .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|escapar-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+@G:	02b
+*CHI:	a la mañana siguiente (..) [^ xxx] el niño y el perro se despiertan .
+%mor:	adp|a det|el-Fem-Def-Art noun|mañana-Fem adj|siguiente-Pos-S1 det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|despertar-Fin-Ind-Pres-P3 .
+%gra:	1|3|CASE 2|3|DET 3|11|OBL 4|3|AMOD 5|6|DET 6|11|NSUBJ 7|9|CC 8|9|DET 9|6|CONJ 10|11|EXPL-PV 11|11|ROOT 12|11|PUNCT
+*CHI:	y se dan cuenta .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|dar-Fin-Ind-Pres-P3 noun|cuenta-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+*CHI:	de que la rana ha escapado .
+%mor:	adp|de sconj|que det|el-Fem-Def-Art noun|rana-Fem aux|haber-Fin-Ind-Pres-S3 verb|escapar-Part-Past-S .
+%gra:	1|6|MARK 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|AUX 6|6|ROOT 7|6|PUNCT
+@G:	03a
+*CHI:	se ponen a busca:r por todos los lugares de la habitación .
+%mor:	pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Pres-P3 adp|a verb|buscar-Inf-S adp|por det|todo-Masc-Def-Tot det|el-Masc-Def-Art noun|lugar-Masc-Plur adp|de det|el-Fem-Def-Art noun|habitación-Fem .
+%gra:	1|2|EXPL-PV 2|11|ROOT 3|4|MARK 4|2|XCOMP 5|8|CASE 6|7|DET 7|8|DET 8|2|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|2|PUNCT
+*CHI:	y y piensan .
+%mor:	cconj|y cconj|y verb|pensar-Fin-Ind-Pres-P3 .
+%gra:	1|3|ADVMOD 2|3|CC 3|3|ROOT 4|3|PUNCT
+*CHI:	que ha salido fuera de ella .
+%mor:	sconj|que aux|haber-Fin-Ind-Pres-S3 verb|salir-Part-Past-S adv|fuera adp|de pron|él-Prs-AccNom-S3 .
+%gra:	1|3|MARK 2|3|AUX 3|6|ROOT 4|3|ADVMOD 5|6|CASE 6|4|OBL 7|3|PUNCT
+@G:	03b
+*CHI:	eh comienzan [^ a llamarle] a llamar a la rana desde la ventana .
+%mor:	intj|eh verb|comenzar-Fin-Ind-Pres-P3 adp|a verb|llamar-Inf-S adp|a det|el-Fem-Def-Art noun|rana-Fem adp|desde det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|2|OBJ 8|10|CASE 9|10|DET 10|2|OBL 11|2|PUNCT
+*CHI:	y el perro eh se ha (..) se ha quedado con el jarrón donde estaba la rana dentro de la cabeza [^ donde estaba la rana] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc intj|eh pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|quedar-Part-Past-S adp|con det|el-Masc-Def-Art noun|jarrón-Masc adv|donde verb|estar-Fin-Ind-Imp-S3 det|el-Fem-Def-Art noun|rana-Fem adv|dentro adp|de det|el-Fem-Def-Art noun|cabeza-Fem .
+%gra:	1|9|ADVMOD 2|3|DET 3|9|NSUBJ 4|3|AMOD 5|9|EXPL-PV 6|9|AUX 7|9|EXPL-PV 8|9|AUX 9|20|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|14|ADVMOD 14|12|ACL 15|16|DET 16|14|NSUBJ 17|14|ADVMOD 18|20|CASE 19|20|DET 20|17|OBL 21|9|PUNCT
+@G:	04a
+*CHI:	eh (..) el perro cae de la ventana (..) .
+%mor:	intj|eh det|el-Masc-Def-Art noun|perro-Masc verb|caer-Fin-Ind-Pres-S3 adp|de det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|4|DEP 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	y el niño se queda alarmado .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|quedar-Fin-Ind-Pres-S3 adj|alarmado-Pos-S1 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+@G:	04b
+*CHI:	por lo que le puede pasar al perro eh (..) .
+%mor:	adp|por pron|él-Prs-Acc-S3 pron|que-Rel-S1 pron|él-Prs-Dat-S3 aux|poder-Fin-Ind-Pres-S3 verb|pasar-Inf-S det|al-Masc-Def-Art noun|perro-Masc intj|eh .
+%gra:	1|6|MARK 2|6|DET 3|6|NSUBJ 4|6|OBJ 5|6|AUX 6|9|ROOT 7|8|DET 8|6|NSUBJ 9|6|ADVMOD 10|6|PUNCT
+*CHI:	medio enfadado ve .
+%mor:	num|medio adj|enfadado-Pos-S1 verb|ver-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|1|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	que no le ha pasado nada al perro .
+%mor:	sconj|que adv|no pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Pres-S3 verb|pasar-Part-Past-S pron|nada-Neg-S1 det|al-Masc-Def-Art noun|perro-Masc .
+%gra:	1|5|MARK 2|5|ADVMOD 3|5|OBJ 4|5|AUX 5|8|ROOT 6|5|NSUBJ 7|8|DET 8|5|NSUBJ 9|5|PUNCT
+*CHI:	pero que el jarrón de la rana se ha roto .
+%mor:	cconj|pero sconj|que det|el-Masc-Def-Art noun|jarrón-Masc adp|de det|el-Fem-Def-Art noun|rana-Fem pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|romper-Part-Past-S .
+%gra:	1|10|ADVMOD 2|10|MARK 3|4|DET 4|10|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|EXPL-PV 9|10|AUX 10|10|ROOT 11|10|PUNCT
+@G:	05
+*CHI:	siguen buscándole por el campo .
+%mor:	verb|seguir-Fin-Ind-Pres-P3 verb|buscándoler-Ger-S adp|por det|el-Masc-Def-Art noun|campo-Masc .
+%gra:	1|5|ROOT 2|1|XCOMP 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	y hay un avispero .
+%mor:	cconj|y verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|avispero-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	con el que el perro juega .
+%mor:	adp|con det|el-Masc-Def-Art pron|que-Rel-S1 det|el-Masc-Def-Art noun|perro-Masc verb|jugar-Fin-Ind-Pres-S3 .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|5|DET 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+@G:	06a
+*CHI:	el niño sigue buscando la rana por agujeros del campo .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|seguir-Fin-Ind-Pres-S3 verb|buscar-Ger-S det|el-Fem-Def-Art noun|rana-Fem adp|por noun|agujero-Masc-Plur adp|del noun|campo-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|8|CASE 8|3|OBL 9|10|CASE 10|8|NMOD 11|3|PUNCT
+*CHI:	y el perro sigue jugando con el avispero (..) .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|seguir-Fin-Ind-Pres-S3 verb|jugar-Ger-S adp|con det|el-Masc-Def-Art noun|avispero-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|XCOMP 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+@G:	06b
+*CHI:	el niño tiene un encontronazo con un topo .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|tener-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|encontronazo-Masc adp|con det|uno-Masc-Ind-Art noun|topo-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+*CHI:	y parece ser .
+%mor:	cconj|y verb|parecer-Fin-Ind-Pres-S3 aux|ser-Inf-S .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*CHI:	que le ha picado la nariz .
+%mor:	sconj|que pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Pres-S3 verb|picado-Part-Past-S det|el-Fem-Def-Art noun|nariz-Fem .
+%gra:	1|4|MARK 2|4|OBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@G:	07
+*CHI:	el niño sigue buscando por las ramas de los árboles y troncos .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|seguir-Fin-Ind-Pres-S3 verb|buscar-Ger-S adp|por det|el-Fem-Def-Art noun|rama-Fem-Plur adp|de det|el-Masc-Def-Art noun|árbol-Masc-Plur cconj|y noun|tronco-Masc-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|12|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|3|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|12|CC 12|10|CONJ 13|3|PUNCT
+*CHI:	y el perro se empieza a dar cuenta .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|empezar-Fin-Ind-Pres-S3 adp|a verb|dar-Inf-S noun|cuenta-Fem .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|5|COMPOUND 9|5|PUNCT
+*CHI:	que jugar con el avispero .
+%mor:	sconj|que verb|jugar-Inf-S adp|con det|el-Masc-Def-Art noun|avispero-Masc .
+%gra:	1|2|MARK 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	no es tan (..) agradable como parece .
+%mor:	adv|no aux|ser-Fin-Ind-Pres-S3 adv|tanto adj|agradable-Pos-S1 sconj|como verb|parecer-Fin-Ind-Pres-S3 .
+%gra:	1|4|ADVMOD 2|4|COP 3|4|ADVMOD 4|6|ROOT 5|6|MARK 6|4|ADVCL 7|4|PUNCT
+@G:	08
+*CHI:	efectivamente las avispas o abejas salen detrás de él .
+%mor:	adv|efectivamente det|el-Fem-Def-Art noun|avispa-Fem-Plur cconj|o noun|abejas-Fem-Plur verb|salir-Fin-Ind-Pres-P3 adv|detrás adp|de pron|él-Prs-AccNom-S3 .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|5|CC 5|3|CONJ 6|9|ROOT 7|9|CASE 8|7|FIXED 9|6|OBL 10|6|PUNCT
+*CHI:	el perro huye .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc verb|huir-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	y el niño se cae de la rama de un árbol .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 adp|de det|el-Fem-Def-Art noun|rama-Fem adp|de det|uno-Masc-Ind-Art noun|árbol-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|5|PUNCT
+@G:	09a
+*CHI:	eh (..) el niño encuentra una piedra .
+%mor:	intj|eh det|el-Masc-Def-Art noun|niño-Masc verb|encontrar-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|piedra-Fem .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@G:	09b
+*CHI:	y sube a ella eh (..) .
+%mor:	cconj|y verb|subir-Fin-Ind-Pres-S3 adp|a pron|él-Prs-AccNom-S3 intj|eh .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|CASE 4|2|OBJ 5|2|OBJ 6|2|PUNCT
+*CHI:	siguiendo llamando [^ a la rama] a la rana .
+%mor:	verb|seguir-Ger-S verb|llamar-Ger-S adp|a det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|5|ROOT 2|1|XCOMP 3|5|CASE 4|5|DET 5|2|OBJ 6|1|PUNCT
+*CHI:	y se apoya en unas ramas de los árboles .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|apoyar-Fin-Ind-Pres-S3 adp|en det|uno-Fem-Ind-Art noun|rama-Fem-Plur adp|de det|el-Masc-Def-Art noun|árbol-Masc-Plur .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|9|ROOT 4|6|CASE 5|6|DET 6|3|OBL-ARG 7|9|CASE 8|9|DET 9|6|NMOD 10|3|PUNCT
+@G:	10a
+*CHI:	que luego resultan que es un venado (..) .
+%mor:	pron|que-Rel-S1 adv|luego verb|resultar-Fin-Ind-Pres-P3 sconj|que aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|venado-Masc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|7|ROOT 4|7|MARK 5|7|COP 6|7|DET 7|3|CSUBJ 8|3|PUNCT
+@G:	10b
+*CHI:	el venado recoge al niño [^ entre sus] entre su cornamenta .
+%mor:	det|el-Masc-Def-Art noun|venado-Masc verb|recoger-Fin-Ind-Pres-S3 det|al-Masc-Def-Art noun|niño-Masc adp|entre det|su-Def-Prs noun|cornamenta-Fem .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*CHI:	y: (..) lo lleva hacia un barranco .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|llevar-Fin-Ind-Pres-S3 adp|hacia det|uno-Masc-Ind-Art noun|barranco-Masc .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+@G:	11
+*CHI:	eh (..) el venado tira al niño .
+%mor:	intj|eh det|el-Masc-Def-Art noun|venado-Masc verb|tirar-Fin-Ind-Pres-S3 det|al-Masc-Def-Art noun|niño-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	y el perro se cae .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+*CHI:	y caen a un estanque .
+%mor:	cconj|y verb|caer-Fin-Ind-Pres-P3 adp|a det|uno-Masc-Ind-Art noun|estanque-Masc .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+@G:	12b
+*CHI:	y en ese estanque empiezan a escuchar el oído el el croar de unas ranas .
+%mor:	cconj|y adp|en det|ese-Masc-Def-Dem noun|estanque-Masc verb|empezar-Fin-Ind-Pres-P3 adp|a verb|escuchar-Inf-S det|el-Masc-Def-Art noun|oído-Masc det|el-Masc-Def-Art det|el-Masc-Def-Art noun|croar-Masc adp|de det|uno-Fem-Ind-Art noun|rana-Fem-Plur .
+%gra:	1|5|ADVMOD 2|4|CASE 3|4|DET 4|5|OBL 5|15|ROOT 6|7|MARK 7|5|XCOMP 8|9|DET 9|5|NSUBJ 10|12|DET 11|12|DET 12|5|NSUBJ 13|15|CASE 14|15|DET 15|12|NMOD 16|5|PUNCT
+@G:	13a
+*CHI:	el niño dice al perro .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|decir-Fin-Ind-Pres-S3 det|al-Masc-Def-Art noun|perro-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	que se calle .
+%mor:	sconj|que pron|él-Prs-Acc-S3 verb|calle-Fin-Ind-Pres-S3 .
+%gra:	1|3|MARK 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+@G:	13b
+*CHI:	y se acerca a un tronco de un árbol .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|acercar-Fin-Ind-Pres-S3 adp|a det|uno-Masc-Ind-Art noun|tronco-Masc adp|de det|uno-Masc-Ind-Art noun|árbol-Masc .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|9|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|3|PUNCT
+*CHI:	que está a la orilla del estanque .
+%mor:	pron|que-Rel-S1 verb|estar-Fin-Ind-Pres-S3 adp|a det|el-Fem-Def-Art noun|orilla-Fem adp|del noun|estanque-Masc .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|7|ROOT 6|7|CASE 7|5|NMOD 8|5|PUNCT
+*CHI:	y descubre algo .
+%mor:	cconj|y verb|descubrir-Fin-Ind-Pres-S3 pron|algo-Ind-S1 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+@G:	14
+*CHI:	descubre [^ risas] a papá rana y mamá rana con sus niños .
+%mor:	verb|descubrir-Fin-Ind-Pres-S3 adp|a noun|papá-Masc noun|rana-Fem cconj|y noun|mamá-Fem noun|rana-Fem adp|con det|su-Def-Prs noun|niño-Masc-Plur .
+%gra:	1|10|ROOT 2|3|CASE 3|1|OBJ 4|1|OBJ 5|6|CC 6|4|CONJ 7|4|APPOS 8|10|CASE 9|10|DET 10|1|OBL 11|1|PUNCT
+@G:	14b
+*CHI:	y ellos se ponen muy contentos .
+%mor:	cconj|y pron|él-Prs-AccNom-P3 pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Pres-P3 adv|mucho adj|contento-Pos-P1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|EXPL-PV 4|6|ROOT 5|6|ADVMOD 6|4|OBJ 7|4|PUNCT
+@G:	15
+*CHI:	eh recuperan a su ranita .
+%mor:	intj|eh verb|recuperar-Fin-Ind-Pres-P3 adp|a det|su-Def-Prs noun|ranita-Fem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	y: y [^ vuelven ] vuelven hacia su casa .
+%mor:	cconj|y cconj|y verb|volver-Fin-Ind-Pres-P3 adp|hacia det|su-Def-Prs noun|casa-Fem .
+%gra:	1|3|ADVMOD 2|3|CC 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+@End

@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/a-00073481-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-Sebastian|CHI|4;08.||||Target_Child|||
+@G:	01
+@Types:	cross, narrative, TD
+*CHI:	aquí que había visto una rana [^ hm:] .
+%mor:	adv|aquí sconj|que aux|haber-Fin-Ind-Imp-S3 verb|ver-Part-Past-S det|uno-Fem-Ind-Art noun|rana-Fem .
+%gra:	1|4|ADVMOD 2|4|MARK 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	y que xxx un perro [^ ? y qué ?] miraba [^ que miraba muy bien a ver] .
+%mor:	cconj|y sconj|que det|uno-Masc-Ind-Art noun|perro-Masc verb|mirar-Fin-Ind-Imp-S3 .
+%gra:	1|5|ADVMOD 2|5|MARK 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+@G:	02
+*CHI:	y aquí en estas dos páginas que se que iba a salir la rana [^ hm:] .
+%mor:	cconj|y adv|aquí adp|en det|este-Fem-Def-Dem num|dos noun|página-Fem-Plur sconj|que pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|ir-Fin-Ind-Imp-S3 adp|a verb|salir-Inf-S det|el-Fem-Def-Art noun|rana-Fem .
+%gra:	1|10|ADVMOD 2|10|ADVMOD 3|6|CASE 4|6|DET 5|4|NUMMOD 6|2|OBL 7|10|MARK 8|10|EXPL-PV 9|12|OBJ 10|14|ROOT 11|12|MARK 12|10|XCOMP 13|14|DET 14|10|NSUBJ 15|10|PUNCT
+@G:	03a
+*CHI:	y (..) luego que el niño [^ se iba] (..) estaba mirando en la bota [^ muy bien] .
+%mor:	cconj|y adv|luego sconj|que det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 verb|mirar-Ger-S adp|en det|el-Fem-Def-Art noun|bota-Fem .
+%gra:	1|7|ADVMOD 2|1|FIXED 3|7|MARK 4|5|DET 5|7|NSUBJ 6|7|AUX 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+@G:	04b
+*CHI:	y aquí que que chupó el perro al niño [^ hm: muy bien] .
+%mor:	cconj|y adv|aquí sconj|que sconj|que verb|chupar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|perro-Masc det|al-Masc-Def-Art noun|niño-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|MARK 4|5|MARK 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|DET 9|5|OBJ 10|5|PUNCT
+@G:	05
+*CHI:	y aquí (..) que está que está (..) que estaba el perro mirando a los pajaritos [^ muy bien] .
+%mor:	cconj|y adv|aquí sconj|que verb|estar-Fin-Ind-Pres-S3 sconj|que verb|estar-Fin-Ind-Pres-S3 sconj|que verb|estar-Fin-Ind-Imp-S3 det|el-Masc-Def-Art noun|perro-Masc verb|mirar-Ger-S adp|a det|el-Masc-Def-Art noun|pajarito-Masc-Plur .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|MARK 4|14|ROOT 5|6|MARK 6|4|CCOMP 7|8|MARK 8|6|CCOMP 9|10|DET 10|8|NSUBJ 11|8|ADVCL 12|14|CASE 13|14|DET 14|11|OBJ 15|4|PUNCT
+@G:	06
+*CHI:	y aquí [^ estaba que quería coger (..) eh (..) ese animal] que se quería subir al árbol [^ muy bien] .
+%mor:	cconj|y adv|aquí sconj|que pron|él-Prs-Acc-S3 verb|querer-Fin-Ind-Imp-S3 verb|subir-Inf-S det|al-Masc-Def-Art noun|árbol-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|MARK 4|5|EXPL-PASS 5|8|ROOT 6|5|CSUBJ 7|8|DET 8|6|OBJ 9|5|PUNCT
+@G:	07
+*CHI:	y aquí el que el niño estaba subido en el árbol [^ hm:] .
+%mor:	cconj|y adv|aquí det|el-Masc-Def-Art pron|que-Rel-S1 det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Imp-S3 adj|subido-Pos-S1 adp|en det|el-Masc-Def-Art noun|árbol-Masc .
+%gra:	1|8|ADVMOD 2|8|ADVMOD 3|8|DET 4|8|OBJ 5|6|DET 6|8|NSUBJ 7|8|COP 8|11|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|8|PUNCT
+@G:	08
+*CHI:	y aquí (..) que el niño se cayó del árbol [^ hm: muy bien que más] .
+%mor:	cconj|y adv|aquí sconj|que det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 det|del-Masc-Def-Art noun|árbol-Masc .
+%gra:	1|7|ADVMOD 2|7|ADVMOD 3|7|MARK 4|5|DET 5|7|NSUBJ 6|7|EXPL-PV 7|9|ROOT 8|9|CASE 9|7|OBL 10|7|PUNCT
+@G:	09b
+*CHI:	y aquí (..) [^ a ver que pasa cuéntame lo que pasa] que el niño estaba en una roca subido [^ si] .
+%mor:	cconj|y adv|aquí sconj|que det|el-Masc-Def-Art noun|niño-Masc verb|estar-Fin-Ind-Imp-S3 adp|en det|uno-Fem-Ind-Art noun|roca-Fem adj|subido-Pos-S1 .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|6|MARK 4|5|DET 5|6|NSUBJ 6|10|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|9|AMOD 11|6|PUNCT
+@G:	10
+*CHI:	y aquí que le cogió un un (..) un (..) [^ no sé lo que es] [^ ? no sabes lo que es ? un ciervo ? vale ?] .
+%mor:	cconj|y adv|aquí sconj|que pron|él-Prs-Dat-S3 verb|coger-Fin-Ind-Past-S3 det|uno-Masc-Ind-Art det|uno-Masc-Ind-Art det|uno-Masc-Ind-Art .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|2|FIXED 4|5|OBJ 5|8|ROOT 6|8|DET 7|8|DET 8|5|OBJ 9|5|PUNCT
+@G:	11
+*CHI:	y aquí que se que había muchos árboles (..) [^ a ver y qué pasa] y aquí (..) [^ y qué pasa] .
+%mor:	cconj|y adv|aquí sconj|que pron|él-Prs-Acc-S3 sconj|que verb|haber-Fin-Ind-Imp-S3 det|mucho-Masc-Def-Ind noun|árbol-Masc-Plur cconj|y adv|aquí .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|6|MARK 4|6|EXPL-PASS 5|6|MARK 6|10|ROOT 7|8|DET 8|6|OBJ 9|10|CC 10|8|CONJ 11|6|PUNCT
+@G:	12a
+*CHI:	y aquí que se cayó el niño al agua [^ si ? y qué más ?] (..) [^ algo más ?] (..) .
+%mor:	cconj|y adv|aquí sconj|que pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|niño-Masc adp|al noun|agua-Fem .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|2|FIXED 4|5|EXPL-PV 5|9|ROOT 6|7|DET 7|5|NSUBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+@G:	12b
+*CHI:	que luego levantó la cabeza .
+%mor:	pron|que-Rel-S1 adv|luego verb|levantar-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|cabeza-Fem .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	y estaba el perro encima [^ ah muy bien] .
+%mor:	cconj|y verb|estar-Fin-Ind-Imp-S3 det|el-Masc-Def-Art noun|perro-Masc adv|encima .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|DET 4|2|NSUBJ 5|2|ADVMOD 6|2|PUNCT
+@G:	13a
+*CHI:	y aquí (..) que estaba que estaba un un árbol roto aquí [^ ? y qué pasa ?] .
+%mor:	cconj|y adv|aquí sconj|que verb|estar-Fin-Ind-Imp-S3 sconj|que verb|estar-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art det|uno-Masc-Ind-Art noun|árbol-Masc adj|roto-Pos-S1 adv|aquí .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|MARK 4|11|ROOT 5|6|MARK 6|4|CCOMP 7|9|DET 8|7|DET 9|6|NSUBJ 10|9|AMOD 11|10|ADVMOD 12|4|PUNCT
+@G:	13b
+*CHI:	que se que se subieron por aquí .
+%mor:	sconj|que pron|él-Prs-Acc-S3 pron|que-Rel-S1 pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-P3 adp|por adv|aquí .
+%gra:	1|5|MARK 2|5|EXPL-PASS 3|5|NSUBJ 4|5|EXPL-PV 5|7|ROOT 6|7|CASE 7|5|ADVMOD 8|5|PUNCT
+*CHI:	y se cayeron [^ muy bien a(élgo más ?] (..) [^ no ? bueno] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-P3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+@G:	14a
+*CHI:	que que que se encontraron a dos a dos ranas .
+%mor:	sconj|que sconj|que sconj|que pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-P3 adp|a num|dos adp|a num|dos noun|rana-Fem-Plur .
+%gra:	1|5|MARK 2|5|MARK 3|5|MARK 4|5|EXPL-PV 5|10|ROOT 6|7|CASE 7|5|OBL-ARG 8|10|CASE 9|10|NUMMOD 10|5|OBJ 11|5|PUNCT
+*CHI:	durmiendo [^ si a(élgo más ?] .
+%mor:	verb|dormir-Ger-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	15
+*CHI:	y aquí que se levantaron las ranitas chiquititas y las ranas grandes .
+%mor:	cconj|y adv|aquí sconj|que pron|él-Prs-Acc-S3 verb|levantar-Fin-Ind-Past-P3 det|el-Fem-Def-Art noun|ranita-Fem-Plur adj|chiquitito-Pos-P1 cconj|y det|el-Fem-Def-Art noun|rana-Fem-Plur adj|grande-Pos-P1 .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|2|FIXED 4|5|EXPL-PV 5|12|ROOT 6|7|DET 7|5|NSUBJ 8|7|AMOD 9|11|CC 10|11|DET 11|7|CONJ 12|11|AMOD 13|5|PUNCT
+*CHI:	que eran las papás [^ que eran las papás muy bien] .
+%mor:	pron|que-Rel-S1 aux|ser-Fin-Ind-Imp-P3 det|el-Fem-Def-Art noun|papás-Masc-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+@End

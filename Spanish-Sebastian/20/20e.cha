@@ -1,0 +1,107 @@
+@UTF8
+@PID:	11312/a-00073510-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-Sebastian|CHI|20;||||Target_Child|||
+@G:	01
+@Types:	cross, narrative, TD
+*CHI:	érase una vez un niño .
+%mor:	verb|érasar-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|vez-Fem det|uno-Masc-Ind-Art noun|niño-Masc .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBL 4|5|DET 5|1|OBJ 6|1|PUNCT
+*CHI:	que tenía en un frasco una ranita (..) .
+%mor:	sconj|que verb|tener-Fin-Ind-Imp-S3 adp|en det|uno-Masc-Ind-Art noun|frasco-Masc det|uno-Fem-Ind-Art noun|ranita-Fem .
+%gra:	1|2|MARK 2|7|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|DET 7|2|OBJ 8|2|PUNCT
+*CHI:	junto al niño había un perro .
+%mor:	adj|junto-Pos-S1 det|al-Masc-Def-Art noun|niño-Masc verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art noun|perro-Masc .
+%gra:	1|3|CASE 2|3|DET 3|4|OBL 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	que observaba atentamente esta ranita .
+%mor:	pron|que-Rel-S1 verb|observar-Fin-Ind-Imp-S3 adv|atentamente det|este-Fem-Def-Dem noun|ranita-Fem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|ADVMOD 4|5|DET 5|2|OBJ 6|2|PUNCT
+@G:	02a
+*CHI:	pero por la noche la ranita aprovechando que estaban ambos dormidos se escapa del frasco (..) [^ aprovechando] [^ que estaban dormidos] .
+%mor:	cconj|pero adp|por det|el-Fem-Def-Art noun|noche-Fem det|el-Fem-Def-Art noun|ranita-Fem verb|aprovechar-Ger-S sconj|que aux|estar-Fin-Ind-Imp-P3 num|ambos adj|dormido-Pos-P1 pron|él-Prs-Acc-S3 verb|escapar-Fin-Ind-Pres-S3 det|del-Masc-Def-Art noun|frasco-Masc .
+%gra:	1|13|ADVMOD 2|4|CASE 3|4|DET 4|13|OBL 5|6|DET 6|13|NSUBJ 7|6|ACL 8|9|MARK 9|7|CCOMP 10|7|CCOMP 11|10|AMOD 12|13|EXPL-PV 13|15|ROOT 14|15|CASE 15|13|OBL 16|13|PUNCT
+@G:	02b
+*CHI:	y a la mañana siguiente (..) se dan cuenta el perro y el niño .
+%mor:	cconj|y adp|a det|el-Fem-Def-Art noun|mañana-Fem adj|siguiente-Pos-S1 pron|él-Prs-Acc-S3 verb|dar-Fin-Ind-Pres-P3 noun|cuenta-Fem det|el-Masc-Def-Art noun|perro-Masc cconj|y det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|7|ADVMOD 2|4|CASE 3|4|DET 4|7|OBL 5|4|AMOD 6|7|EXPL-PV 7|13|ROOT 8|7|COMPOUND 9|10|DET 10|7|NSUBJ 11|13|CC 12|13|DET 13|10|CONJ 14|7|PUNCT
+*CHI:	que la ranita ha huído por la ventana .
+%mor:	sconj|que det|el-Fem-Def-Art noun|ranita-Fem aux|haber-Fin-Ind-Pres-S3 verb|haber-Part-Past-S adp|por det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|5|MARK 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+@G:	03a
+*CHI:	se visten rápidamente .
+%mor:	pron|él-Prs-Acc-S3 verb|ver-Fin-Ind-Pres-P3 adv|rápidamente .
+%gra:	1|2|EXPL-PV 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	se preparan .
+%mor:	pron|él-Prs-Acc-S3 verb|preparar-Fin-Ind-Pres-P3 .
+%gra:	1|2|EXPL-PV 2|2|ROOT 3|2|PUNCT
+@G:	04
+*CHI:	e inician la búsqueda .
+%mor:	cconj|e verb|iniciar-Fin-Ind-Pres-P3 det|el-Fem-Def-Art noun|búsqueda-Fem .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+@G:	05
+*CHI:	la búsqueda comienza en un bosque .
+%mor:	det|el-Fem-Def-Art noun|búsqueda-Fem verb|comenzar-Fin-Ind-Pres-S3 adp|en det|uno-Masc-Ind-Art noun|bosque-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	y en el bosque se van a (.) más abejas .
+%mor:	cconj|y adp|en det|el-Masc-Def-Art noun|bosque-Masc pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-P3 adp|a adv|más noun|abejas-Fem-Plur .
+%gra:	1|6|ADVMOD 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL-PV 6|9|ROOT 7|9|CASE 8|9|ADVMOD 9|6|OBL 10|6|PUNCT
+@G:	08
+*CHI:	incluso llegan a tener una aventura .
+%mor:	adv|incluso verb|llegar-Fin-Ind-Pres-P3 adp|a verb|tener-Inf-S det|uno-Fem-Ind-Art noun|aventura-Fem .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|2|NSUBJ 7|2|PUNCT
+*CHI:	que podía haber acabado muy mal .
+%mor:	sconj|que aux|poder-Fin-Ind-Imp-S3 aux|haber-Inf-S verb|acabar-Part-Past-S adv|mucho adv|mal .
+%gra:	1|4|MARK 2|4|AUX 3|4|AUX 4|6|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|4|PUNCT
+*CHI:	porque las abejas persiguen al perro .
+%mor:	sconj|porque det|el-Fem-Def-Art noun|abejas-Fem-Plur verb|perseguir-Fin-Ind-Pres-P3 det|al-Masc-Def-Art noun|perro-Masc .
+%gra:	1|4|MARK 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@G:	09a
+*CHI:	aparece un búho (..) .
+%mor:	verb|aparecer-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|búho-Masc .
+%gra:	1|3|ROOT 2|3|DET 3|1|NSUBJ 4|1|PUNCT
+@G:	10
+*CHI:	más animalitos .
+%mor:	adv|más noun|animalito-Masc-Plur .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	que pueden ser desconocidos para el niño .
+%mor:	pron|que-Rel-S1 aux|poder-Fin-Ind-Pres-P3 aux|ser-Inf-S verb|desconocido-Part-Past-P adp|para det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	incluso llegan a tener percances .
+%mor:	adv|incluso verb|llegar-Fin-Ind-Pres-P3 adp|a verb|tener-Inf-S noun|percance-Masc-Plur .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*CHI:	que pueden resultar desastrosos .
+%mor:	pron|que-Rel-S1 aux|poder-Fin-Ind-Pres-P3 verb|resultar-Inf-S adj|desastroso-Pos-P1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+@G:	11
+*CHI:	porque el niño y el perro caen en un arroyo .
+%mor:	sconj|porque det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|caer-Fin-Ind-Pres-P3 adp|en det|uno-Masc-Ind-Art noun|arroyo-Masc .
+%gra:	1|7|MARK 2|3|DET 3|7|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+@G:	12b
+*CHI:	(..) tranquilamente salen del arroyo con muchísimo sigilo .
+%mor:	adv|tranquilamente verb|salir-Fin-Ind-Pres-P3 det|del-Masc-Def-Art noun|arroyo-Masc adp|con det|muchísimo-Masc-Def-Ind noun|sigilo-Masc .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+@G:	13b
+*CHI:	y se dan cuenta curiosamente que detrás de un tronco .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|dar-Fin-Ind-Pres-P3 noun|cuenta-Fem adv|curiosamente sconj|que adv|detrás adp|de det|uno-Masc-Ind-Art noun|tronco-Masc .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|10|ROOT 4|3|COMPOUND 5|3|ADVMOD 6|10|MARK 7|10|CASE 8|7|FIXED 9|10|DET 10|3|OBL 11|3|PUNCT
+@G:	14a
+*CHI:	la ranita ha encontrado a su amor (..) .
+%mor:	det|el-Fem-Def-Art noun|ranita-Fem aux|haber-Fin-Ind-Pres-S3 verb|encontrar-Part-Past-S adp|a det|su-Def-Prs noun|amor-Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBJ 8|4|PUNCT
+@G:	14b
+*CHI:	pero no sólo eso .
+%mor:	cconj|pero part|no adv|sólo pron|ese-Dem-S1 .
+%gra:	1|4|CC 2|4|CC 3|2|FIXED 4|4|ROOT 5|4|PUNCT
+*CHI:	sino que con su amor ha tenido muchas ranitas pequeñitas .
+%mor:	cconj|sino sconj|que adp|con det|su-Def-Prs noun|amor-Masc aux|haber-Fin-Ind-Pres-S3 verb|tener-Part-Past-S det|mucho-Fem-Def-Ind noun|ranita-Fem-Plur adj|pequeñito-Pos-P1 .
+%gra:	1|7|ADVMOD 2|1|FIXED 3|5|CASE 4|5|DET 5|7|OBL 6|7|AUX 7|10|ROOT 8|9|DET 9|7|OBJ 10|9|AMOD 11|7|PUNCT
+@G:	15
+*CHI:	el niño y el perro se quedan con uno de sus hijitos .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|quedar-Fin-Ind-Pres-P3 adp|con pron|uno-Ind-S1 adp|de det|su-Def-Prs noun|hijito-Masc-Plur .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|EXPL-PV 7|12|ROOT 8|9|CASE 9|7|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|7|PUNCT
+*CHI:	y tranquilamente marchan con su ranita .
+%mor:	cconj|y adv|tranquilamente verb|marchar-Fin-Ind-Pres-P3 adp|con det|su-Def-Prs noun|ranita-Fem .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+@End

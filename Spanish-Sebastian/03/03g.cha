@@ -1,0 +1,153 @@
+@UTF8
+@PID:	11312/a-00073524-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child
+@ID:	spa|Spanish-Sebastian|CHI|3;08.||||Target_Child|||
+@G:	01
+@Types:	cross, narrative, TD
+*CHI:	un perro [^ hm:] una rana [^ hm:] y un niño (..) .
+%mor:	det|uno-Masc-Ind-Art noun|perro-Masc det|uno-Fem-Ind-Art noun|rana-Fem cconj|y det|uno-Masc-Ind-Art noun|niño-Masc .
+%gra:	1|2|DET 2|7|ROOT 3|4|DET 4|2|APPOS 5|7|CC 6|7|DET 7|4|CONJ 8|2|PUNCT
+*CHI:	esto es una cama [^ claro] .
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art noun|cama-Fem .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	porque tiene aquí la almohada [^ muy bien] .
+%mor:	sconj|porque verb|tener-Fin-Ind-Pres-S3 adv|aquí det|el-Fem-Def-Art noun|almohada-Fem .
+%gra:	1|2|MARK 2|5|ROOT 3|2|ADVMOD 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	pues aquí hay otra cosa [^ claro (..) ] .
+%mor:	sconj|pues adv|aquí verb|haber-Fin-Ind-Pres-S3 det|otro-Fem-Def-Ind noun|cosa-Fem .
+%gra:	1|3|MARK 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@G:	02a
+*CHI:	[^ a ver qué pasa] que se sale la rana del del del bote de [^ muy bien] de cristal [^ hm:] y .
+%mor:	sconj|que pron|él-Prs-Acc-S3 verb|salir-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|rana-Fem adp|del det|del-Masc-Def-Art det|del-Masc-Def-Art noun|bote-Masc adp|de adp|de noun|cristal-Masc cconj|y .
+%gra:	1|3|MARK 2|3|EXPL-PASS 3|13|ROOT 4|5|DET 5|3|NSUBJ 6|9|CASE 7|9|DET 8|9|DET 9|5|NMOD 10|12|CASE 11|12|CASE 12|9|NMOD 13|3|PUNCT 14|3|PUNCT
+*CHI:	el niño durmiendo [^ claro] .
+%mor:	det|el-Masc-Def-Art noun|niño-Masc verb|dormir-Ger-S .
+%gra:	1|2|DET 2|3|ROOT 3|2|ACL 4|2|PUNCT
+*CHI:	y el perro y el perro en la la cama .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc cconj|y det|el-Masc-Def-Art noun|perro-Masc adp|en det|el-Fem-Def-Art det|el-Fem-Def-Art noun|cama-Fem .
+%gra:	1|3|CC 2|3|DET 3|10|ROOT 4|6|CC 5|6|DET 6|3|CONJ 7|10|CASE 8|10|DET 9|10|DET 10|3|NMOD 11|3|PUNCT
+*CHI:	y el niño también en la cama [^ muy bien] .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc adv|también adp|en det|el-Fem-Def-Art noun|cama-Fem .
+%gra:	1|3|CC 2|3|DET 3|7|ROOT 4|3|ADVMOD 5|4|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+@G:	03b
+*CHI:	[^ ? y aquí Santiago ?] el perro mirando por la ventana [^ hm:] (..) .
+%mor:	det|el-Masc-Def-Art noun|perro-Masc verb|mirar-Ger-S adp|por det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|2|DET 2|6|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+*CHI:	y el niño mirando por la ventana [^ diciendo] (..) .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc verb|mirar-Ger-S adp|por det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|3|CC 2|3|DET 3|7|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*CHI:	gritando .
+%mor:	verb|gritar-Ger-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	03a
+*CHI:	y aquí y aquí ha cogido esto una bota (..) [^ muy bien] (..) .
+%mor:	cconj|y adv|aquí cconj|y adv|aquí aux|haber-Fin-Ind-Pres-S3 verb|coger-Part-Past-S pron|este-Dem-S1 det|uno-Fem-Ind-Art noun|bota-Fem .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|CC 4|2|CONJ 5|6|AUX 6|9|ROOT 7|6|OBJ 8|9|DET 9|6|OBJ 10|6|PUNCT
+@G:	04b
+*CHI:	y aquí le ha cogido al perro .
+%mor:	cconj|y adv|aquí pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Pres-S3 verb|coger-Part-Past-S det|al-Masc-Def-Art noun|perro-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|OBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+@G:	04
+*CHI:	se ha caído el perro de por la ventana (..) [^ muy bien] .
+%mor:	pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|caer-Part-Past-S det|el-Masc-Def-Art noun|perro-Masc adp|de adp|por det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|3|EXPL-PV 2|3|AUX 3|9|ROOT 4|5|DET 5|3|NSUBJ 6|9|CASE 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+@G:	05
+*CHI:	y aquí está gritando el perro el el niño [^ claro (..) muy bien] .
+%mor:	cconj|y adv|aquí aux|estar-Fin-Ind-Pres-S3 verb|gritar-Ger-S det|el-Masc-Def-Art noun|perro-Masc det|el-Masc-Def-Art det|el-Masc-Def-Art noun|niño-Masc .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|AUX 4|9|ROOT 5|6|DET 6|4|NSUBJ 7|9|DET 8|9|DET 9|4|NSUBJ 10|4|PUNCT
+@G:	06
+*CHI:	y aquí está y aquí está guau guau [!] .
+%mor:	cconj|y adv|aquí verb|estar-Fin-Ind-Pres-S3 cconj|y adv|aquí verb|estar-Fin-Ind-Pres-S3 noun|guau noun|guau .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|8|ROOT 4|6|CC 5|6|ADVMOD 6|3|CONJ 7|6|NSUBJ 8|7|COMPOUND 9|3|PUNCT
+*CHI:	a quitar esto [^ ? a quitar esto ? muy bien] (..) xxx .
+%mor:	adp|a verb|quitar-Inf-S pron|este-Dem-S1 .
+%gra:	1|2|MARK 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+@G:	07
+*CHI:	y aquí el niño subido en un árbol .
+%mor:	cconj|y adv|aquí det|el-Masc-Def-Art noun|niño-Masc adj|subido-Pos-S1 adp|en det|uno-Masc-Ind-Art noun|árbol-Masc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|8|ROOT 5|4|AMOD 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+*CHI:	y viendo por este agujero .
+%mor:	cconj|y verb|ver-Ger-S adp|por det|este-Masc-Def-Dem noun|agujero-Masc .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+@G:	08
+*CHI:	aquí el búho le ha tirado de del árbol al niño [^ muy bien Santiago] .
+%mor:	adv|aquí det|el-Masc-Def-Art noun|búho-Masc pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Pres-S3 verb|tirar-Part-Past-S adp|de det|del-Masc-Def-Art noun|árbol-Masc det|al-Masc-Def-Art noun|niño-Masc .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|OBJ 5|6|AUX 6|11|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|11|DET 11|6|OBJ 12|6|PUNCT
+*CHI:	aquí el perro se ha ido corriendo [^ muy bien] .
+%mor:	adv|aquí det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|ir-Part-Past-S verb|correr-Ger-S .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|EXPL-PV 5|6|AUX 6|7|ROOT 7|6|XCOMP 8|6|PUNCT
+@G:	09a
+*CHI:	[^ a ver] y aquí aquí está corriendo .
+%mor:	cconj|y adv|aquí adv|aquí aux|estar-Fin-Ind-Pres-S3 verb|correr-Ger-S .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|ADVMOD 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	para que no le atrape e el el pájaro [^ muy bien] (..) .
+%mor:	adp|para sconj|que adv|no pron|él-Prs-Dat-S3 verb|atrapar-Fin-Sub-Pres-S3 cconj|e det|el-Masc-Def-Art det|el-Masc-Def-Art noun|pájaro-Masc .
+%gra:	1|5|MARK 2|5|MARK 3|5|ADVMOD 4|5|OBJ 5|9|ROOT 6|9|CC 7|9|DET 8|9|DET 9|5|CONJ 10|5|PUNCT
+@G:	09b
+*CHI:	y aquí está gritando e el niño [^ ? está qué ?] gritando [^ ah muy bien] !
+%mor:	cconj|y adv|aquí aux|estar-Fin-Ind-Pres-S3 verb|gritar-Ger-S cconj|e det|el-Masc-Def-Art noun|niño-Masc verb|gritar-Ger-S !
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|AUX 4|8|ROOT 5|7|CC 6|7|DET 7|4|CONJ 8|4|ADVCL 9|4|PUNCT
+*CHI:	(..) [^ ? y aquí ?] aquí eh aquí está aquí montado .
+%mor:	adv|aquí intj|eh adv|aquí aux|estar-Fin-Ind-Pres-S3 adv|aquí adj|montar-Pos-S1 .
+%gra:	1|6|ADVMOD 2|1|FIXED 3|6|ADVMOD 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+@G:	10a
+*CHI:	[^ y se] y se va a caer [^ ahh] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|caer-Inf-S .
+%gra:	1|3|ADVMOD 2|5|EXPL-PASS 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+@G:	10b
+*CHI:	aquí le ha cogido el el el ciervo .
+%mor:	adv|aquí pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Pres-S3 verb|coger-Part-Past-S det|el-Masc-Def-Art det|el-Masc-Def-Art det|el-Masc-Def-Art noun|ciervo-Masc .
+%gra:	1|4|ADVMOD 2|4|OBJ 3|4|AUX 4|8|ROOT 5|8|DET 6|8|DET 7|8|DET 8|4|NSUBJ 9|4|PUNCT
+*CHI:	y le va a tirar a aquí al agua [^ muy bien] .
+%mor:	cconj|y pron|él-Prs-Dat-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|tirar-Inf-S adp|a adv|aquí det|al-Masc-Def-Art noun|agua-Fem .
+%gra:	1|3|ADVMOD 2|5|OBJ 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|3|ADVMOD 8|9|DET 9|5|OBJ 10|3|PUNCT
+@G:	11
+*CHI:	y aquí y aquí ya le ha xxx tirado al agua plum@o [!] [^ hm:] .
+%mor:	cconj|y adv|aquí cconj|y adv|aquí adv|ya pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Pres-S3 verb|tirar-Part-Past-S det|al-Masc-Def-Art noun|agua-Fem noun|plum-Masc .
+%gra:	1|8|ADVMOD 2|8|ADVMOD 3|4|CC 4|8|ADVMOD 5|8|ADVMOD 6|8|OBJ 7|8|AUX 8|11|ROOT 9|10|DET 10|8|OBJ 11|10|NMOD 12|8|PUNCT
+@G:	12a
+*CHI:	y aquí se ha caído al agua [^ hm:] .
+%mor:	cconj|y adv|aquí pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|caer-Part-Past-S det|al-Masc-Def-Art noun|agua-Fem .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|EXPL-PASS 4|5|AUX 5|7|ROOT 6|7|DET 7|5|NSUBJ 8|5|PUNCT
+@G:	12b
+*CHI:	y aquí está en el agua [^ hm: y qué más] (..) con el perro en la cabeza [^ muy bien] .
+%mor:	cconj|y adv|aquí verb|estar-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art noun|agua-Fem adp|con det|el-Masc-Def-Art noun|perro-Masc adp|en det|el-Fem-Def-Art noun|cabeza-Fem .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|12|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|DET 9|3|OBL 10|12|CASE 11|12|DET 12|3|OBL 13|3|PUNCT
+@G:	13a
+*CHI:	y aquí está (..) de rodillas .
+%mor:	cconj|y adv|aquí verb|estar-Fin-Ind-Pres-S3 adp|de noun|rodilla-Fem-Plur .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|COP 4|5|CASE 5|5|ROOT 6|5|PUNCT
+*CHI:	y atrás un tronco de un árbol [^ hm:] y tan (..) .
+%mor:	cconj|y adv|atrás det|uno-Masc-Ind-Art noun|tronco-Masc adp|de det|uno-Masc-Ind-Art noun|árbol-Masc cconj|y adv|tanto .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|9|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|9|CC 9|4|CONJ 10|4|PUNCT
+@G:	13b
+*CHI:	y aquí mirando por detrás del tronco [^ muy bien] .
+%mor:	cconj|y adv|aquí verb|mirar-Ger-S adp|por adv|detrás det|del-Masc-Def-Art noun|tronco-Masc .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|7|ROOT 4|5|CASE 5|3|ADVMOD 6|7|CASE 7|3|OBL 8|3|PUNCT
+@G:	14a
+*CHI:	y aquí montados en el tronco aquí [^ hm:] (..) [^ si es lo mismo ésto y ésto !] [^ es lo mismo ésto y ésto ?] (..) [^ a ver] .
+%mor:	cconj|y adv|aquí adj|montado-Pos-P1 adp|en det|el-Masc-Def-Art noun|tronco-Masc adv|aquí .
+%gra:	1|3|CC 2|3|ADVMOD 3|7|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|ADVMOD 8|3|PUNCT
+@G:	14b
+*CHI:	aquí aquí están las ranas así .
+%mor:	adv|aquí adv|aquí verb|estar-Fin-Ind-Pres-P3 det|el-Fem-Def-Art noun|rana-Fem-Plur adv|así .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|6|ROOT 4|5|DET 5|3|NSUBJ 6|3|ADVMOD 7|3|PUNCT
+*CHI:	y el perro .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	y aquí el niño esta así (..) .
+%mor:	cconj|y adv|aquí det|el-Masc-Def-Art noun|niño-Masc pron|este-Dem-S1 adv|así .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|6|ROOT 5|4|APPOS 6|4|ADVMOD 7|4|PUNCT
+@G:	15
+*CHI:	y aquí está el perro su subiendo la mano .
+%mor:	cconj|y adv|aquí verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|perro-Masc det|su-Def-Prs verb|subir-Ger-S det|el-Fem-Def-Art noun|mano-Fem .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|9|ROOT 4|5|DET 5|3|NSUBJ 6|7|DET 7|3|ADVCL 8|9|DET 9|7|OBJ 10|3|PUNCT
+*CHI:	para que llegue al al a aquí [^ hm:] .
+%mor:	adp|para sconj|que verb|llegar-Fin-Sub-Pres-S3 det|al-Masc-Def-Art det|al-Masc-Def-Art adp|a adv|aquí .
+%gra:	1|3|MARK 2|3|MARK 3|7|ROOT 4|7|CASE 5|7|DET 6|7|CASE 7|3|ADVMOD 8|3|PUNCT
+*CHI:	[^ ? y aquí ?] no nada [^ bueno pues muy bien Santiago] .
+%mor:	adv|no pron|nada-Neg-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+@End
